@@ -10,13 +10,13 @@
 
   <!-- IUD Surgery -->
 
-  <RJW_InstallIUD.label>安装节育环</RJW_InstallIUD.label>
-  <RJW_InstallIUD.description>大大降低了99%的怀孕几率，可随时移除。</RJW_InstallIUD.description>
-  <RJW_InstallIUD.jobString>安装节育环。</RJW_InstallIUD.jobString>
+  <RJW_InstallIUD.label>install IUD</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>大大降低了怀孕机率，可随时移除。</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>installing IUD.</RJW_InstallIUD.jobString>
 
-  <RJW_RemovelIUD.label>移除节育环</RJW_RemovelIUD.label>
-  <RJW_RemovelIUD.description>移除节育环后可恢复生育。</RJW_RemovelIUD.description>
-  <RJW_RemovelIUD.jobString>移除节育环。</RJW_RemovelIUD.jobString>
+  <RJW_RemovelIUD.label>remove IUD</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>移除节育环，恢复生育。</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>removing IUD.</RJW_RemovelIUD.jobString>
 
   <InstallPegArm.label>安装钉臂</InstallPegArm.label>
   <InstallPegArm.description>安装钉臂。</InstallPegArm.description>

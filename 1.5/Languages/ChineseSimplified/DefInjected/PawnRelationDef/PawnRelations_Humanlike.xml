@@ -3,59 +3,60 @@
 
   <!-- close family -->
 
-  <Parent.label>father</Parent.label>
-  <Parent.labelFemale>mother</Parent.labelFemale>
+  <Parent.label>父亲</Parent.label>
+  <Parent.labelFemale>母亲</Parent.labelFemale>
 
-  <Child.label>son</Child.label>
-  <Child.labelFemale>daughter</Child.labelFemale>
+  <Child.label>儿子</Child.label>
+  <Child.labelFemale>女儿</Child.labelFemale>
 
-  <Sibling.label>brother</Sibling.label>
-  <Sibling.labelFemale>sister</Sibling.labelFemale>
+  <Sibling.label>兄弟</Sibling.label>
+  <Sibling.labelFemale>姐妹</Sibling.labelFemale>
 
-  <HalfSibling.label>brother</HalfSibling.label>
-  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+  <HalfSibling.label>同父异母/同母异父的兄弟</HalfSibling.label>
+  <HalfSibling.labelFemale>同父异母/同母异父的姐妹</HalfSibling.labelFemale>
 
-  <Grandparent.label>grandfather</Grandparent.label>
-  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+  <Grandparent.label>祖父</Grandparent.label>
+  <Grandparent.labelFemale>祖母</Grandparent.labelFemale>
 
-  <Grandchild.label>grandson</Grandchild.label>
-  <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
+  <Grandchild.label>孙子</Grandchild.label>
+  <Grandchild.labelFemale>孙女</Grandchild.labelFemale>
 
-  <NephewOrNiece.label>nephew</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+  <NephewOrNiece.label>侄子</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>侄女</NephewOrNiece.labelFemale>
 
-  <UncleOrAunt.label>uncle</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+  <UncleOrAunt.label>叔叔/舅舅</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>姑姑/阿姨</UncleOrAunt.labelFemale>
 
-  <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
+  <Cousin.label>表兄弟/堂兄弟</Cousin.label>
+  <Cousin.labelFemale>表姐妹/堂姐妹</Cousin.labelFemale>
+
 
 
   <!-- distant family -->
 
-  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
+  <GreatGrandparent.label>曾祖父</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>曾祖母</GreatGrandparent.labelFemale>
 
-  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
+  <GreatGrandchild.label>曾孙</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>曾孙女</GreatGrandchild.labelFemale>
 
-  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.label>叔祖/舅祖</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>姑祖/姨祖</GranduncleOrGrandaunt.labelFemale>
 
-  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.label>侄孙</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>侄孙女</GrandnephewOrGrandniece.labelFemale>
 
-  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.label>远房表亲</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>远房表亲</CousinOnceRemoved.labelFemale>
 
-  <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
+  <SecondCousin.label>再从堂亲/表亲</SecondCousin.label>
+  <SecondCousin.labelFemale>再从堂亲/表亲</SecondCousin.labelFemale>
 
 
   <!-- kin -->
 
-  <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>kin</Kin.labelFemale>
+  <Kin.label>亲属</Kin.label>
+  <Kin.labelFemale>亲属</Kin.labelFemale>
 
 
 </LanguageData>

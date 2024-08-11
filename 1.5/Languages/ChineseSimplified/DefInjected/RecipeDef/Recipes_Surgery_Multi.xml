@@ -23,9 +23,9 @@
   <AddMultiDragonVagina.description>增加额外的阴道。</AddMultiDragonVagina.description>
   <AddMultiDragonVagina.jobString>添加龙阴道。</AddMultiDragonVagina.jobString>
 
-  <AddMultiOvipositorF.label>add female ovipositor</AddMultiOvipositorF.label>
-  <AddMultiOvipositorF.description>Adds additional female ovipositor.</AddMultiOvipositorF.description>
-  <AddMultiOvipositorF.jobString>Adding female ovipositor.</AddMultiOvipositorF.jobString>
+  <AddMultiOvipositorF.label>添加雌性产卵器</AddMultiOvipositorF.label>
+  <AddMultiOvipositorF.description>增加额外的产卵器。</AddMultiOvipositorF.description>
+  <AddMultiOvipositorF.jobString>添加雌性产卵器。</AddMultiOvipositorF.jobString>
 
 
   <!-- natural penises -->
@@ -62,9 +62,9 @@
   <AddMultiCrocodilianPenis.description>增加额外的阴茎。</AddMultiCrocodilianPenis.description>
   <AddMultiCrocodilianPenis.jobString>添加鳄鱼阴茎。</AddMultiCrocodilianPenis.jobString>
 
-  <AddMultiOvipositorM.label>add male ovipositor</AddMultiOvipositorM.label>
-  <AddMultiOvipositorM.description>Adds additional male ovipositor.</AddMultiOvipositorM.description>
-  <AddMultiOvipositorM.jobString>Adding male ovipositor.</AddMultiOvipositorM.jobString>
+  <AddMultiOvipositorM.label>添加雄性产卵器</AddMultiOvipositorM.label>
+  <AddMultiOvipositorM.description>添加额外的雄性产卵器。</AddMultiOvipositorM.description>
+  <AddMultiOvipositorM.jobString>添加雄性产卵器。</AddMultiOvipositorM.jobString>
 
 
   <!-- Breasts -->
@@ -73,19 +73,17 @@
   <AddMultiBreasts.description>添加额外一行乳房。</AddMultiBreasts.description>
   <AddMultiBreasts.jobString>添加人类乳房。</AddMultiBreasts.jobString>
 
-  <AddMultiUdder.label>add udder</AddMultiUdder.label>
-  <AddMultiUdder.description>Adds additional udder.</AddMultiUdder.description>
-  <AddMultiUdder.jobString>Adding udder.</AddMultiUdder.jobString>
+  <AddMultiUdder.label>添加奶乳</AddMultiUdder.label>
+  <AddMultiUdder.description>添加额外的奶乳。</AddMultiUdder.description>
+  <AddMultiUdder.jobString>添加奶乳。</AddMultiUdder.jobString>
 
   <AddMultiAnus.label>添加人类肛门</AddMultiAnus.label>
-  <AddMultiAnus.description>增加额外肛门。</AddMultiAnus.description>
-  <AddMultiAnus.jobString>添加人类肛门。</AddMultiAnus.jobString>
+  <AddMultiAnus.description>添加额外的肛门。</AddMultiAnus.description>
+  <AddMultiAnus.jobString>添加肛门。</AddMultiAnus.jobString>
 
-  <AddMultiInsectAnus.label>add insect anus</AddMultiInsectAnus.label>
-  <AddMultiInsectAnus.description>Adds additional anus.</AddMultiInsectAnus.description>
-  <AddMultiInsectAnus.jobString>Adding anus.</AddMultiInsectAnus.jobString>
+  <AddMultiInsectAnus.label>添加昆虫肛门</AddMultiInsectAnus.label>
+  <AddMultiInsectAnus.description>添加额外的肛门。</AddMultiInsectAnus.description>
+  <AddMultiInsectAnus.jobString>添加肛门。</AddMultiInsectAnus.jobString>
 
-
-  <!--natural penises-->
 
 </LanguageData>

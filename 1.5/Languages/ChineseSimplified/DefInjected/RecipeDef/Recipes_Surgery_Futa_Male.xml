@@ -4,61 +4,61 @@
   <!-- natural vaginaes -->
 
   <AddVagina.label>添加人类阴道</AddVagina.label>
-  <AddVagina.description>为男性添加人类阴道，使他们成为双性人。</AddVagina.description>
-  <AddVagina.jobString>添加人类阴道。</AddVagina.jobString>
+  <AddVagina.description>为雄性添加阴道，使其成为扶她。</AddVagina.description>
+  <AddVagina.jobString>正在安装阴道。</AddVagina.jobString>
 
   <addHorseVagina.label>添加马阴道</addHorseVagina.label>
-  <addHorseVagina.description>为男性添加马阴道，使他们成为双性人。</addHorseVagina.description>
-  <addHorseVagina.jobString>添加马阴道。</addHorseVagina.jobString>
+  <addHorseVagina.description>为雄性添加阴道，使其成为扶她。</addHorseVagina.description>
+  <addHorseVagina.jobString>正在安装阴道。</addHorseVagina.jobString>
 
   <addCatVagina.label>添加猫阴道</addCatVagina.label>
-  <addCatVagina.description>为男性添加猫阴道，使他们成为双性人。</addCatVagina.description>
-  <addCatVagina.jobString>添加猫阴道。</addCatVagina.jobString>
+  <addCatVagina.description>为雄性添加阴道，使其成为扶她。</addCatVagina.description>
+  <addCatVagina.jobString>正在安装阴道。</addCatVagina.jobString>
 
-  <addDogVagina.label>添加狗阴道</addDogVagina.label>
-  <addDogVagina.description>为男性添加狗阴道，使他们成为双性人。</addDogVagina.description>
-  <addDogVagina.jobString>添加狗阴道。</addDogVagina.jobString>
+  <addDogVagina.label>添加犬阴道</addDogVagina.label>
+  <addDogVagina.description>为雄性添加阴道，使其成为扶她。</addDogVagina.description>
+  <addDogVagina.jobString>正在安装阴道。</addDogVagina.jobString>
 
   <addDragonVagina.label>添加龙阴道</addDragonVagina.label>
-  <addDragonVagina.description>为男性添加龙阴道，使他们成为双性人。</addDragonVagina.description>
-  <addDragonVagina.jobString>添加龙阴道。</addDragonVagina.jobString>
+  <addDragonVagina.description>为雄性添加阴道，使其成为扶她。</addDragonVagina.description>
+  <addDragonVagina.jobString>正在安装阴道。</addDragonVagina.jobString>
 
-  <AddNarrowVagina.label>添加窄阴道</AddNarrowVagina.label>
-  <AddNarrowVagina.description>给雄性增加一个窄阴道，使他们成为雌雄同体。</AddNarrowVagina.description>
-  <AddNarrowVagina.jobString>添加窄阴道。</AddNarrowVagina.jobString>
+  <AddNarrowVagina.label>添加狭窄阴道</AddNarrowVagina.label>
+  <AddNarrowVagina.description>为雄性添加阴道，使其成为扶她。</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>正在安装阴道。</AddNarrowVagina.jobString>
 
   <AddCloacalVagina.label>添加泄殖腔阴道</AddCloacalVagina.label>
-  <AddCloacalVagina.description>给雄性增加一个泄殖腔阴道，使他们成为雌雄同体。</AddCloacalVagina.description>
-  <AddCloacalVagina.jobString>安装泄殖腔阴道。</AddCloacalVagina.jobString>
+  <AddCloacalVagina.description>为雄性添加阴道，使其成为扶她。</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>正在安装阴道。</AddCloacalVagina.jobString>
 
   <AddRodentVagina.label>添加啮齿动物阴道</AddRodentVagina.label>
-  <AddRodentVagina.description>给雄性增加一个啮齿动物阴道，使他们成为雌雄同体。</AddRodentVagina.description>
-  <AddRodentVagina.jobString>添加啮齿动物阴道。</AddRodentVagina.jobString>
+  <AddRodentVagina.description>为雄性添加阴道，使其成为扶她。</AddRodentVagina.description>
+  <AddRodentVagina.jobString>正在安装阴道。</AddRodentVagina.jobString>
 
-  <addOvipositorF.label>添加产卵器</addOvipositorF.label>
-  <addOvipositorF.description>为男性添加产卵器，使他们成为双性人。</addOvipositorF.description>
-  <addOvipositorF.jobString>添加产卵器。</addOvipositorF.jobString>
+  <addOvipositorF.label>添加雌性产卵器</addOvipositorF.label>
+  <addOvipositorF.description>为雄性添加阴道，使其成为扶她。</addOvipositorF.description>
+  <addOvipositorF.jobString>正在添加产卵器。</addOvipositorF.jobString>
 
 
   <!-- hydraulic vagina -->
 
   <addHydraulicVagina.label>添加液压阴道</addHydraulicVagina.label>
-  <addHydraulicVagina.description>为男性添加液压阴道，使他们成为双性人。</addHydraulicVagina.description>
-  <addHydraulicVagina.jobString>添加液压阴道。</addHydraulicVagina.jobString>
+  <addHydraulicVagina.description>为雄性添加阴道，使其成为扶她。</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>正在添加液压阴道。</addHydraulicVagina.jobString>
 
 
   <!-- bionic vagina -->
 
   <addBionicVagina.label>添加仿生阴道</addBionicVagina.label>
-  <addBionicVagina.description>为男性添加仿生阴道，使他们成为双性人。</addBionicVagina.description>
-  <addBionicVagina.jobString>添加仿生阴道。</addBionicVagina.jobString>
+  <addBionicVagina.description>为雄性添加阴道，使其成为扶她。</addBionicVagina.description>
+  <addBionicVagina.jobString>正在添加仿生阴道。</addBionicVagina.jobString>
 
 
   <!-- archotech vagina -->
 
-  <addArchotechVagina.label>添加远古阴道</addArchotechVagina.label>
-  <addArchotechVagina.description>为男性添加远古阴道，使他们成为双性人。</addArchotechVagina.description>
-  <addArchotechVagina.jobString>添加远古阴道。</addArchotechVagina.jobString>
+  <addArchotechVagina.label>添加超凡阴道</addArchotechVagina.label>
+  <addArchotechVagina.description>为雄性添加阴道，使其成为扶她。</addArchotechVagina.description>
+  <addArchotechVagina.jobString>正在添加超凡阴道。</addArchotechVagina.jobString>
 
 
 </LanguageData>

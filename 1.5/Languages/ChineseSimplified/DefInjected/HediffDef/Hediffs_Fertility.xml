@@ -10,10 +10,10 @@
   <DecreasedFertility.label>低生育能力</DecreasedFertility.label>
   <DecreasedFertility.description>低生育能力。</DecreasedFertility.description>
 
-  <ImpregnationBlocker.label>远古绝育器</ImpregnationBlocker.label>
+  <ImpregnationBlocker.label>超凡绝育器</ImpregnationBlocker.label>
   <ImpregnationBlocker.description>阻止卵巢产卵的复杂装置。</ImpregnationBlocker.description>
 
-  <FertilityEnhancer.label>远古生育增强器</FertilityEnhancer.label>
+  <FertilityEnhancer.label>超凡生育增强器</FertilityEnhancer.label>
   <FertilityEnhancer.description>增加怀孕几率的复杂装置。</FertilityEnhancer.description>
 
 

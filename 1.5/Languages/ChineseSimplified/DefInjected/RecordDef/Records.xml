@@ -76,10 +76,4 @@
   <CountOfCondomsUsed.description>我用过的避孕套的数量。</CountOfCondomsUsed.description>
 
 
-  <!-- Counts whoring stuff -->
-  <!--<CountOfWhore.label>卖身次数</CountOfWhore.label>-->
-  <!--<CountOfWhore.description>我卖身的次数。</CountOfWhore.description>-->
-  <!--<EarnedMoneyByWhore.label>卖身白银收入</EarnedMoneyByWhore.label>-->
-  <!--<EarnedMoneyByWhore.description>作为一名娼妓赚取的白银。</EarnedMoneyByWhore.description>-->
-
 </LanguageData>

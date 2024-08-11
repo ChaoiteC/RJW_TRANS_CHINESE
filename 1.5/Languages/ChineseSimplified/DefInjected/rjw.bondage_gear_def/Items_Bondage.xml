@@ -133,7 +133,7 @@
 	</ThingDef> -->
 
   <PrisonerChains.label>链条</PrisonerChains.label>
-  <PrisonerChains.description>带袖口的链条，用于限制某人的行动能力和操作能力。*限制格斗能力。*建议配合口球使用。</PrisonerChains.description>
+  <PrisonerChains.description>带袖口的链条，用于限制某人的行动能力和操作能力。</PrisonerChains.description>
   <PrisonerChains.comps.2.useLabel>装备</PrisonerChains.comps.2.useLabel>
 
 

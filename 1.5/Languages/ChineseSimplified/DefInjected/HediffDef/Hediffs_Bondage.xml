@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Chains.label>链条</Chains.label>
-  <Chains.description>带袖口的链条，用于限制小人的行动能力和操作能力，防止格斗*建议配合口球使用。</Chains.description>
+  <Chains.description>限制佩戴者行动的一系列链条。</Chains.description>
   <Chains.labelNoun>链条</Chains.labelNoun>
 
   <BoundHands.label>绑手</BoundHands.label>

@@ -9,6 +9,7 @@
 		<li>1.2</li>
 		<li>1.3</li>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<packageId>rim.job.world</packageId>
 	<modDependencies>
@@ -30,15 +31,21 @@
 		<li>brrainz.harmony</li>
 	</loadAfter>
 	<incompatibleWith>
-		<li>gregorycurrie.AnimalGenetics</li> <!-- Breaks CompHatcher.Hatch preventing eggs hatching -->
-		<li>EdB.PrepareCarefully</li> <!-- Hijacks generated/edited pawns at world start, breaks C# hediffs of edited pawns and who knows what else -->
-		<li>EdB.PrepareCarefully.UnofficialPatch</li> <!-- Hijacks generated/edited pawns at world start, breaks C# hediffs of edited pawns and who knows what else -->
-		<li>Dalrae.GaramRaceAddon</li> <!-- Hijacks pawn generator fucking up pawn genders and who knows what else -->
-		<li>IGNI.LostForest</li> <!-- Intentionally breaks rjw jobs, hijacks storyteller to call raids and causes other issues when rjw detected -->
+		<li>gregorycurrie.AnimalGenetics</li><!-- Breaks CompHatcher.Hatch preventing eggs hatching -->
+		<li>EdB.PrepareCarefully</li><!-- Hijacks generated/edited pawns at world start, breaks C# hediffs of edited pawns and who knows what else -->
+		<li>EdB.PrepareCarefully.UnofficialPatch</li><!-- Hijacks generated/edited pawns at world start, breaks C# hediffs of edited pawns and who knows what else -->
+		<li>EdB.PrepareCarefully.alonske.fork</li><!-- Hijacks generated/edited pawns at world start, breaks C# hediffs of edited pawns and who knows what else -->
+		<li>Dalrae.GaramRaceAddon</li><!-- Hijacks pawn generator fucking up pawn genders and who knows what else -->
+		<li>IGNI.LostForest</li><!-- Intentionally breaks rjw jobs, hijacks storyteller to call raids and causes other issues when rjw detected -->
+		<li>Sierra.RT.MedievalTalents</li><!-- Breaks pawn generator/pregnancies, causes pregnancies to instafail -->
+		<li>com.yayo.raceQuestPawn</li><!-- Breaks pawn generator/pregnancies, wrong children outcome-->
+		<li>Xenofell.HermaphroditeGene</li><!-- Transpiles same function(s) as RJW -->
 	</incompatibleWith>
 	<description>
-MOD版本：4.9.4.3
+MOD版本：5.4.1
 汉化\校对：80斤的大耗子（小敏）、站在巨人们肩膀上的星尘ZERO
+KarubonWaito在上面的基础上对更新的文本进行了汉化。
+
 M for Mature
 将MOD排在MOD列表底部：
 	Harmony
@@ -47,8 +54,16 @@ M for Mature
 	其他MOD
 	RimJobWorld
 	RJW扩展MOD
-赞助Ed86：https://subscribestar.adult/Ed86
-论坛：https://www.loverslab.com/files/file/7257-rimjobworld/
-群聊：https://discord.gg/CXwHhv8。
+
+赞助开发者: 
+https://subscribestar.adult/Ed86
+https://ko-fi.com/caffeinated_ed
+如果是虚拟货币爱好者:
+USDT(TRC20):TAS9QbvuF6AquJ98TqG653bPDugC2a6mnk
+USDT(ERC20):0x6c61085700f4ad941df80234fbfb8a861b14b0de
+论坛: 
+https://www.loverslab.com/files/file/7257-rimjobworld/
+Discord: 
+https://discord.gg/CXwHhv8
 	</description>
 </ModMetaData>

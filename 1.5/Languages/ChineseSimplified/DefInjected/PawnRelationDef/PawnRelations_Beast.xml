@@ -37,23 +37,23 @@
 
   <!-- distant family -->
 
-  <GreatGrandparent_Beast.label>great grandfather</GreatGrandparent_Beast.label>
-  <GreatGrandparent_Beast.labelFemale>great grandmother</GreatGrandparent_Beast.labelFemale>
-
-  <GreatGrandchild_Beast.label>great grandson</GreatGrandchild_Beast.label>
-  <GreatGrandchild_Beast.labelFemale>great granddaughter</GreatGrandchild_Beast.labelFemale>
-
-  <GranduncleOrGrandaunt_Beast.label>granduncle</GranduncleOrGrandaunt_Beast.label>
-  <GranduncleOrGrandaunt_Beast.labelFemale>grandaunt</GranduncleOrGrandaunt_Beast.labelFemale>
-
-  <GrandnephewOrGrandniece_Beast.label>grandnephew</GrandnephewOrGrandniece_Beast.label>
-  <GrandnephewOrGrandniece_Beast.labelFemale>grandniece</GrandnephewOrGrandniece_Beast.labelFemale>
-
-  <CousinOnceRemoved_Beast.label>cousin once removed</CousinOnceRemoved_Beast.label>
-  <CousinOnceRemoved_Beast.labelFemale>cousin once removed</CousinOnceRemoved_Beast.labelFemale>
-
-  <SecondCousin_Beast.label>second cousin</SecondCousin_Beast.label>
-  <SecondCousin_Beast.labelFemale>second cousin</SecondCousin_Beast.labelFemale>
+  <GreatGrandparent_Beast.label>曾祖父</GreatGrandparent_Beast.label>
+  <GreatGrandparent_Beast.labelFemale>曾祖母</GreatGrandparent_Beast.labelFemale>
+  
+  <GreatGrandchild_Beast.label>曾孙</GreatGrandchild_Beast.label>
+  <GreatGrandchild_Beast.labelFemale>曾孙女</GreatGrandchild_Beast.labelFemale>
+  
+  <GranduncleOrGrandaunt_Beast.label>祖叔</GranduncleOrGrandaunt_Beast.label>
+  <GranduncleOrGrandaunt_Beast.labelFemale>祖姑</GranduncleOrGrandaunt_Beast.labelFemale>
+  
+  <GrandnephewOrGrandniece_Beast.label>侄孙</GrandnephewOrGrandniece_Beast.label>
+  <GrandnephewOrGrandniece_Beast.labelFemale>侄女</GrandnephewOrGrandniece_Beast.labelFemale>
+  
+  <CousinOnceRemoved_Beast.label>堂表亲</CousinOnceRemoved_Beast.label>
+  <CousinOnceRemoved_Beast.labelFemale>堂表亲</CousinOnceRemoved_Beast.labelFemale>
+  
+  <SecondCousin_Beast.label>表亲</SecondCousin_Beast.label>
+  <SecondCousin_Beast.labelFemale>表亲</SecondCousin_Beast.labelFemale>
 
 
 </LanguageData>

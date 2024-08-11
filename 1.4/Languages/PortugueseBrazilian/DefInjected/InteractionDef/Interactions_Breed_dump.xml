@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForcedFellatioBreeding.label>bukkake</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->gozou na cara de [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->levou uma gozada na cara.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>tribadismo</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expos a vagina para [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->expos a vagina para [INITIATOR_nameDef].</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

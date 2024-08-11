@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ViralDamage.label>Вірусна шкода</ViralDamage.label>
+<ViralDamage.deathMessage>{0} гине від вірусу.</ViralDamage.deathMessage>
+</LanguageData>

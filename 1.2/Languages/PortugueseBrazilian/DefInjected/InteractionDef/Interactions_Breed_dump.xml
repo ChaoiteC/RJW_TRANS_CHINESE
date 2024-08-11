@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForcedFellatioBreeding.label>Service oraly</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Face fucked [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was face fucked.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>vaginal breeding</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Presented to [INITIATOR_nameDef].</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

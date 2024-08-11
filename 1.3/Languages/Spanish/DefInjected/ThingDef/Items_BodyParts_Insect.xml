@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates parts -->
+
+  <OvipositorM.label>ovipositor (Masculino)</OvipositorM.label>
+  <OvipositorM.description>Una estructura segmentada similar a un pene capaz de fertilizar los óvulos dentro de un huésped.</OvipositorM.description>
+
+  <OvipositorF.label>ovipositor (Feminino)</OvipositorF.label>
+  <OvipositorF.description>Una estructura segmentada similar a un pene capaz de poner huevos dentro de un huésped.</OvipositorF.description>
+
+  <InsectAnus.label>ano de insecto</InsectAnus.label>
+  <InsectAnus.description>El ano de un insecto. Segmentado por fuera y pegajoso por dentro.</InsectAnus.description>
+
+
+</LanguageData>

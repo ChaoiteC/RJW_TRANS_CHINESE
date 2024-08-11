@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <PawnColumnWorker_RJWGender_IsHerm>雌雄同體(Herm)</PawnColumnWorker_RJWGender_IsHerm>
+    <PawnColumnWorker_IsSlave>此人身為奴隸？</PawnColumnWorker_IsSlave>
+    <PawnColumnWorker_IsPrisoner>此人身為囚徒？</PawnColumnWorker_IsPrisoner>
+    <PawnColumnWorker_IsComfort>此人為洩慾對象？</PawnColumnWorker_IsComfort>
+    <PawnColumnWorker_IsBreeder>此人為動物繁育者？</PawnColumnWorker_IsBreeder>
+    <MainTabWindow_Designators>身分</MainTabWindow_Designators>
+</LanguageData>

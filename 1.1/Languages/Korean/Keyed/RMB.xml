@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RJW_RMB>RJW</RJW_RMB>
+	<RJW_RMB_Social>사교</RJW_RMB_Social>
+	<RJW_RMB_Masturbate>자위</RJW_RMB_Masturbate>
+	<RJW_RMB_Sex>섹스 : </RJW_RMB_Sex>
+	<RJW_RMB_Rape>강간 : </RJW_RMB_Rape>
+	
+	<!--Social-->
+	<RJW_RMB_Insult>모욕</RJW_RMB_Insult>
+	<RJW_RMB_SocialFight>결투</RJW_RMB_SocialFight>
+	<RJW_RMB_Chat>잡담</RJW_RMB_Chat>
+	<RJW_RMB_DeepTalk>진지한 대화</RJW_RMB_DeepTalk>
+	<RJW_RMB_RomanceAttempt>연애 시도</RJW_RMB_RomanceAttempt>
+	<RJW_RMB_MarriageProposal>결혼 제안</RJW_RMB_MarriageProposal>
+	
+	<!--Masturbate-->
+	<RJW_RMB_Masturbate_Bed>의자 및 침대에서</RJW_RMB_Masturbate_Bed>
+	<RJW_RMB_Masturbate_At>위치를 바꿔서</RJW_RMB_Masturbate_At>
+	<RJW_RMB_Masturbate_Here>여기서</RJW_RMB_Masturbate_Here>
+	<RJW_RMB_Masturbate_With>도구 사용</RJW_RMB_Masturbate_With>
+	
+	<!--Flavor text until this would actually be implemented some day if ever-->
+	<RJW_RMB_Masturbate_Fap>자지를 애무</RJW_RMB_Masturbate_Fap>
+	<RJW_RMB_Masturbate_Schlic>보지를 애무</RJW_RMB_Masturbate_Schlic>
+	<RJW_RMB_Masturbate_Breasts>가슴을 애무</RJW_RMB_Masturbate_Breasts>
+	<RJW_RMB_Masturbate_Anal>항문을 자위</RJW_RMB_Masturbate_Anal>
+	<RJW_RMB_Masturbate_AF>알아서</RJW_RMB_Masturbate_AF>
+	<RJW_RMB_Masturbate_BJ>파이즈리</RJW_RMB_Masturbate_BJ>
+	<RJW_RMB_Masturbate_TJV>꼬리로 보지 애무</RJW_RMB_Masturbate_TJV>
+	<RJW_RMB_Masturbate_TJA>꼬리로 항문 애무</RJW_RMB_Masturbate_TJA>
+	
+	<!--Have sex-->
+	
+	<!--Rape-->
+	<RJW_RMB_RapeCP>성노예 강간 : </RJW_RMB_RapeCP>
+	<RJW_RMB_RapeEnemy>강간 : </RJW_RMB_RapeEnemy>
+	<RJW_RMB_RapeCorpse>시간 : </RJW_RMB_RapeCorpse>
+	<RJW_RMB_RapeAnimal>강간 : </RJW_RMB_RapeAnimal>
+	
+	<!--Poses/parts?-->
+	
+</LanguageData>

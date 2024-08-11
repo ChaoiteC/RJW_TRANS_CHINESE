@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Reverse_Handjob.label>핸드잡</Sex_Reverse_Handjob.label>
+	<Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->손으로 [RECIPIENT_nameDef]의 자지를 애무함.</Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 손놀림에 몸을 맡김.</Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Handjob.modExtensions.0.RMBLabel>손으로 애무함.</Sex_Reverse_Handjob.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Footjob.label>풋잡</Sex_Reverse_Footjob.label>
+	<Sex_Reverse_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->발로 [RECIPIENT_nameDef]의 성감대를 애무함.</Sex_Reverse_Footjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 발놀림에 몸을 맡김.</Sex_Reverse_Footjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Footjob.modExtensions.0.RMBLabel>발로 애무함.</Sex_Reverse_Footjob.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Fingering.label>핑거링</Sex_Reverse_Fingering.label>
+	<Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->손가락으로 [RECIPIENT_nameDef]의 성감대를 애무함.</Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 섬세한 손놀림에 몸을 맡김.</Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Fingering.modExtensions.0.RMBLabel>손가락으로 애무함.</Sex_Reverse_Fingering.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Fisting.label>피스팅</Sex_Reverse_Fisting.label>
+	<Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->주먹을 [RECIPIENT_nameDef]의 항문에 천천히 박아넣음.</Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->아랫배 깊숙히 박힌 [INITIATOR_nameDef]의 거친 손놀림에 몸을 맡김.</Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Fisting.modExtensions.0.RMBLabel>주먹을 집어넣음.</Sex_Reverse_Fisting.modExtensions.0.RMBLabel>
+
+</LanguageData>

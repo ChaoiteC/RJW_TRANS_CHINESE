@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef Name="RJW_InteractionDefBaseSex" Abstract="True">
+		<workerClass>rjw.InteractionWorker_OtherSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<recipientThought>MadeSomeLovin</recipientThought>
+	</InteractionDef>
+	
+	<InteractionDef Name="RJW_InteractionDefBaseRape" Abstract="True">
+		<workerClass>rjw.InteractionWorker_OtherSexAttempt</workerClass>
+		<symbol>UI/Icons/noheart</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<recipientThought>StoleSomeLovin</recipientThought>
+		<initiatorXpGainSkill>Melee</initiatorXpGainSkill>
+		<initiatorXpGainAmount>30</initiatorXpGainAmount>
+	</InteractionDef>
+	
+	<InteractionDef Name="RJW_InteractionDefBaseBestiaity" Abstract="True">
+		<workerClass>rjw.InteractionWorker_OtherSexAttempt</workerClass>
+		<symbol>UI/Commands/Breeding_Animal_off</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+	</InteractionDef>
+</Defs>

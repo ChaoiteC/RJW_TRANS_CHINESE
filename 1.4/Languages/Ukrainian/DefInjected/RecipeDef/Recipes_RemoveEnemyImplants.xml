@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- this needs custom class for x10, fuck it -->
+<RemoveUnknownEgg.label>Видалити яйце</RemoveUnknownEgg.label>
+<RemoveUnknownEgg.description>Видаляє яйця з тіла.</RemoveUnknownEgg.description>
+<RemoveUnknownEgg.jobString>Видаляє яйця.</RemoveUnknownEgg.jobString>
+<RemoveInsectHiveEgg.label>Видалити яйце</RemoveInsectHiveEgg.label>
+<RemoveInsectHiveEgg.description>Видаляє яйця з тіла.</RemoveInsectHiveEgg.description>
+<RemoveInsectHiveEgg.jobString>Видаляє яйця.</RemoveInsectHiveEgg.jobString>
+<RemoveMicroComputer.label>Видалити мікрокомп'ютер</RemoveMicroComputer.label>
+<RemoveMicroComputer.description>Видаляє мікрокромпьютер з тіла.</RemoveMicroComputer.description>
+<RemoveMicroComputer.jobString>Видаляє мікрокомп'ютор.</RemoveMicroComputer.jobString>
+<RJW_RemoveRestraints.label>Зняти обмежувачі</RJW_RemoveRestraints.label>
+<RJW_RemoveRestraints.description>Видаляє обмежувачі з тіла.</RJW_RemoveRestraints.description>
+<RJW_RemoveRestraints.jobString>Видаляє обмежувачі.</RJW_RemoveRestraints.jobString>
+<RJW_RemoveCocoon.label>Зняти кокон</RJW_RemoveCocoon.label>
+<RJW_RemoveCocoon.description>Видаляє кокон з тіла.</RJW_RemoveCocoon.description>
+<RJW_RemoveCocoon.jobString>Видаляє кокон.</RJW_RemoveCocoon.jobString>
+</LanguageData>

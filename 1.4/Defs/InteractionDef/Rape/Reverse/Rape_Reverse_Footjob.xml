@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Reverse_Footjob</defName>
+		<label>footjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully gave a footjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly given a footjob by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Do a footjob</RMBLabel>
+				<rjwSextype>Footjob</rjwSextype>
+				<rulepack_defs>
+					<li>FootjobReverseRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<foot>true</foot>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

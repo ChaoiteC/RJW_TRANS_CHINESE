@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_childC.baseDescription>[PAWN_nameDef] wurde in einer zivilisierten Siedlung geboren.</rjw_childC.baseDescription>
+  <rjw_childC.title>Kind</rjw_childC.title>
+  <rjw_childC.titleShort>Kind</rjw_childC.titleShort>
+
+  <rjw_childT.baseDescription>[PAWN_nameDef] wurde in einem Stamm geboren.</rjw_childT.baseDescription>
+  <rjw_childT.title>Kind</rjw_childT.title>
+  <rjw_childT.titleShort>Kind</rjw_childT.titleShort>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PegDick.label>목재 자지</PegDick.label>
+	<PegDick.description>나무를 깎아 만든 자지입니다. 사용하면서 가시가 떨어져 나오지 않도록 조심하세요.</PegDick.description>
+
+	<HydraulicPenis.label>유압 자지</HydraulicPenis.label>
+	<HydraulicPenis.description>보철물 자지입니다. 강철을 가공해 만든 차가운 자지 속에는 유체전달체계가 내장되어 있습니다.</HydraulicPenis.description>
+	<HydraulicVagina.label>유압 보지</HydraulicVagina.label>
+	<HydraulicVagina.description>보철물 보지입니다. 차가운 금속의 질감은 불편하지만, 흡입력이 뛰어납니다.</HydraulicVagina.description>
+	<HydraulicBreasts.label>유압 가슴</HydraulicBreasts.label>
+	<HydraulicBreasts.description>보철물 가슴입니다. 원추형으로 만든 금속입니다.</HydraulicBreasts.description>
+	<HydraulicAnus.label>유압 항문</HydraulicAnus.label>
+	<HydraulicAnus.description>보철물 항문입니다. 차가운 금속의 질감은 불편하지만, 흡입력이 뛰어납니다.</HydraulicAnus.description>
+
+	<BionicPenis.label>생체공학 자지</BionicPenis.label>
+	<BionicPenis.description>점단 기술로 만든 인공 자지입니다. 다음과 같은 기능들을 내장하였습니다. : \n- 모든 보지에 맞춰 크기를 조정 가능\n- 과학적으로 알려진 가장 자극적인 10가지 진동 모드를 포함하여, 50여가지 진동 모드를 내장\n- 최첨단 교감신경 연결장치가 상상도 못한 자극을 선사합니다.</BionicPenis.description>
+	<BionicVagina.label>생체공학 보지</BionicVagina.label>
+	<BionicVagina.description>점단 기술로 만든 인공 보지입니다. 다음과 같은 기능들을 내장하였습니다. : \n- 1억 5천만개의 초정밀 성감센서로 설계된 질내벽\n- 모든 종류의 자지에 조절되는 크기\n- 질화붕소질의 유체합성물은 부드럽지만, 끈적거리지않게 윤활작용을 유지합니다(내장된 버튼으로 점성 조절 가능)</BionicVagina.description>
+	<BionicBreasts.label>생체공학 가슴</BionicBreasts.label>
+	<BionicBreasts.description>첨단 기술로 만든 인공 가슴입니다. 다음과 같은 기능들을 내장하였습니다. :\n- 원하는 크기로 크기 조절 가능</BionicBreasts.description>
+	<BionicAnus.label>생체공학 항문</BionicAnus.label>
+	<BionicAnus.description>첨단 기술로 만든 인공 항문입니다. 다음과 같은 기능들을 내장하였습니다. : \n- 원하는 크기로 조정 가능\n- 질화붕소질의 유체화합물은 부드럽지만, 끈적거리지않게 윤활작용을 유지합니다.(내장된 버튼으로 점성 조절 가능)</BionicAnus.description>
+
+	<ArchotechPenis.label>초월공학 자지</ArchotechPenis.label>
+	<ArchotechPenis.description>초월적인 기술로 제작된 인공 자지입니다. 모든 종류의 성적인 접촉에서 느끼게될 신경교감은 타 제품의 추종을 불허합니다. 모든 종류의 성적교감에 대한 완벽한 자극을 제공하기 위해 색상, 질감, 길이 및 모양을 능동적으로 변형할 수 있을뿐만 아니라 내구성은 플라스틸보다 더욱 견고하며 자체 수리 메커니즘을 통해 어떠한 험한 상황에서도 대부분 견딜 수 있습니다. 신체에 원활하게 이식할 수 있으며, 센서가 신경계에 직접 연결되어 소유자의 체력과 정력을 향상시켜서 오랫동안 즐거움을 유지할 수 있도록 도와줍니다. 맞춤형 페로몬과 결합된 특수진동은 모든 성욕을 잊을수없는 경험으로 만들어줍니다. 이 보조기구는 모든 인간의 마음을 신비로운 공간으로 이끌어 줄 것입니다.</ArchotechPenis.description>
+	<ArchotechVagina.label>초월공학 보지</ArchotechVagina.label>
+	<ArchotechVagina.description>초월적인 기술로 제작된 인공 보지입니다. 외형은 평범한 인간과 동일하게 생겼으나 유연한 재질, 자체 수리 메커니즘을 통해 모든 종류의 삽입물을 쉽게 견딜 수 있으며 어떤 종류의 후손도 합병증 없이 출생할 수 있습니다. 이식 또한 합병증 없이 쉽게 수술이 가능하며 가장 잘 알려진 성병에 직접 대응하는 항균 기능을 지속적으로 유지합니다. 탁월한 민감도, 따스한 온기 및 은은한 페로몬은 모든 종류의 파트너를 만족시킬 것입니다. 이 보조기구는 모든 인간의 마음을 신비로운 공간으로 이끌어 줄 것입니다.</ArchotechVagina.description>
+	<ArchotechBreasts.label>초월공학 가슴</ArchotechBreasts.label>
+	<ArchotechBreasts.description>초월적인 기술로 제작된 인공 가슴입니다. 언제든지 원하는 모양으로 변경할 수 있으며 착용자의 생체 활동을 방해하지 않습니다. 표면은 인간의 자연스러운 피부보다 더 부드럽고, 플라스틸보다 견고하며 자체 수리 메커니즘을 통해 험한 상황도 대부분 견딜 수 있습니다. 이 보조기구는 모든 인간의 마음을 신비로운 공간으로 이끌어 줄 것입니다.</ArchotechBreasts.description>
+	<ArchotechAnus.label>초월공학 항문</ArchotechAnus.label>
+	<ArchotechAnus.description>초월적인 기술로 제작된 인공 항문입니다. 너무나도 자연스러운 외형과 플라스틸보다 견고한 내구성 및 자체 수리 메커니즘은 어떠한 험한 상황에서도 대부분 견딜 수 있습니다. 이 보조기구는 모든 인간의 마음을 신비로운 공간으로 이끌어 줄 것입니다.</ArchotechAnus.description>
+
+</LanguageData>

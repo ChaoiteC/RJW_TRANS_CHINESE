@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Використовується для відстеження клієнтів, щоб повія не зверталася до одного й того ж гостя повторно -->.
+<RJWFailedSolicitation.stages.0.label> мене намагаються спокусити</RJWFailedSolicitation.stages.0.label>
+<!-- Те саме, що й вище, але для колоністів -->
+<RJWTurnedDownWhore.stages.0.label>докучає мене</RJWTurnedDownWhore.stages.0.label>
+</LanguageData>

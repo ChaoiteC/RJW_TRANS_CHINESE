@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_Contraceptive.label>피임약</RJW_Contraceptive.label>
+	<RJW_Contraceptive.description>피임약은 한 분기동안 임신 확률을 크게 낮춰줍니다.</RJW_Contraceptive.description>
+	<RJW_Contraceptive.stages.0.label>피임됨</RJW_Contraceptive.stages.0.label>
+
+</LanguageData>

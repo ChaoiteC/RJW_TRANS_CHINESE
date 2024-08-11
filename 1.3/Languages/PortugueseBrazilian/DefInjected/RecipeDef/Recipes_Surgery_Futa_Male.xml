@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddVagina.label>implantar vagina</AddVagina.label>
+  <AddVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</AddVagina.description>
+  <AddVagina.jobString>Implantando vagina.</AddVagina.jobString>
+
+  <addHorseVagina.label>implantar vagina equina</addHorseVagina.label>
+  <addHorseVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addHorseVagina.description>
+  <addHorseVagina.jobString>Implantando vagina.</addHorseVagina.jobString>
+
+  <addCatVagina.label>implantar vagina felina</addCatVagina.label>
+  <addCatVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addCatVagina.description>
+  <addCatVagina.jobString>Implantando vagina.</addCatVagina.jobString>
+
+  <addDogVagina.label>implantar vagina canina</addDogVagina.label>
+  <addDogVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addDogVagina.description>
+  <addDogVagina.jobString>Implantando vagina.</addDogVagina.jobString>
+
+  <addDragonVagina.label>implantar vagina dracônica</addDragonVagina.label>
+  <addDragonVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addDragonVagina.description>
+  <addDragonVagina.jobString>Implantando vagina.</addDragonVagina.jobString>
+
+  <AddNarrowVagina.label>implantar vagina estreita</AddNarrowVagina.label>
+  <AddNarrowVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>Implantando vagina.</AddNarrowVagina.jobString>
+
+  <AddCloacalVagina.label>implantar vagina cloacal</AddCloacalVagina.label>
+  <AddCloacalVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>Implantando vagina.</AddCloacalVagina.jobString>
+
+  <AddRodentVagina.label>implantar vagina de roedor</AddRodentVagina.label>
+  <AddRodentVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</AddRodentVagina.description>
+  <AddRodentVagina.jobString>Implantando vagina.</AddRodentVagina.jobString>
+
+  <addOvipositorF.label>implantar ovipositor</addOvipositorF.label>
+  <addOvipositorF.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addOvipositorF.description>
+  <addOvipositorF.jobString>Implantando Ovipositor.</addOvipositorF.jobString>
+
+
+  <!-- hydraulic vagina -->
+
+  <addHydraulicVagina.label>implantar vagina hidráulica</addHydraulicVagina.label>
+  <addHydraulicVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>Implantando vagina hidráulica.</addHydraulicVagina.jobString>
+
+
+  <!-- bionic vagina -->
+
+  <addBionicVagina.label>implantar vagina bionica</addBionicVagina.label>
+  <addBionicVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addBionicVagina.description>
+  <addBionicVagina.jobString>Implantando vagina bionica.</addBionicVagina.jobString>
+
+
+  <!-- archotech vagina -->
+
+  <addArchotechVagina.label>implantar vagina arquotécnológica</addArchotechVagina.label>
+  <addArchotechVagina.description>Implante uma vagina a um homem, fazendo deles hermafroditas.</addArchotechVagina.description>
+  <addArchotechVagina.jobString>Implantando vagina arquotécnológica.</addArchotechVagina.jobString>
+
+
+</LanguageData>

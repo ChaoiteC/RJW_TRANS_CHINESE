@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rimming.label>리밍</Rimming.label>
+	<Rimming.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 항문을 핥음.</Rimming.logRulesInitiator.rulesStrings.0>
+	<Rimming.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 리밍에 몸을 맡김.</Rimming.logRulesRecipient.rulesStrings.0>
+	<Cunnilingus.label>커닐링구스</Cunnilingus.label>
+	<Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 보지를 애무함.</Cunnilingus.logRulesInitiator.rulesStrings.0>
+	<Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 커닐링구스에 몸을 맡김.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+	<Fellatio.label>펠라치오</Fellatio.label>
+	<Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 자지를 핥음.</Fellatio.logRulesInitiator.rulesStrings.0>
+	<Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 펠라치오에 몸을 맡김.</Fellatio.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

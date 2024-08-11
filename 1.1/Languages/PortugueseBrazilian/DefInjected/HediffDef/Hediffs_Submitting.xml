@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_Submitting.label>Prostrando-se</Hediff_Submitting.label>
+  <Hediff_Submitting.description>Rendido.</Hediff_Submitting.description>
+
+
+  <!-- prevents 10 job stacks error -->
+
+  <Hediff_RapeEnemyCD.label>cooldown de estupro inimigo</Hediff_RapeEnemyCD.label>
+  <Hediff_RapeEnemyCD.description>"Quem é o próximo?"</Hediff_RapeEnemyCD.description>
+
+
+</LanguageData>

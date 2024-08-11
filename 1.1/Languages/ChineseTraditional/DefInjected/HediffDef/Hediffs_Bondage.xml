@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Chains.label>鏈條</Chains.label>
+  <Chains.description>帶袖口的鏈條，用於限制小人的行動能力和操作能力，防止格鬥*建議配合口球使用。</Chains.description>
+  <Chains.labelNoun>鏈條</Chains.labelNoun>
+
+	<BoundHands.label>綁手</BoundHands.label>
+  <BoundHands.description>綁手。</BoundHands.description>
+  <BoundHands.labelNoun>綁手</BoundHands.labelNoun>
+
+	<BoundLegs.label>綁腿</BoundLegs.label>
+  <BoundLegs.description>綁腿。</BoundLegs.description>
+  <BoundLegs.labelNoun>綁腿</BoundLegs.labelNoun>
+
+	<RJW_Restraints.label>束縛</RJW_Restraints.label>
+  <RJW_Restraints.description>束縛。</RJW_Restraints.description>
+  <RJW_Restraints.labelNoun>束縛。</RJW_Restraints.labelNoun>
+
+	<!-- insect restraints -->
+
+	<RJW_Cocoon.label>結繭</RJW_Cocoon.label>
+  <RJW_Cocoon.description>蟲在準備繁殖時束縛寄主的繭。</RJW_Cocoon.description>
+  <RJW_Cocoon.labelNoun>結繭</RJW_Cocoon.labelNoun>
+</LanguageData>

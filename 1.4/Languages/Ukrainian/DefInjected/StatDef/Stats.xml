@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<SexAbility.label>Можливості в сексі</SexAbility.label>
+<SexAbility.description>Показує, чи може пішак займатися сексом і наскільки в цьому досягає успіху</SexAbility.description>
+<Vulnerability.label>Вразливість</Vulnerability.label>
+<Vulnerability.description>Щем вище, тим більший шанс пасивної ролі в сексі</Vulnerability.description>
+<SexFrequency.label>Інтерес до сексу</SexFrequency.label>
+<SexFrequency.description>Показує наскільки сексуально активна дана пішак.</SexFrequency.description>
+</LanguageData>

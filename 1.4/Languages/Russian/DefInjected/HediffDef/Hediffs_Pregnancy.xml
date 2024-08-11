@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_pregnancy.label>Беременность</RJW_pregnancy.label>
+  <RJW_pregnancy.description>Ребёнок скоро появится на свет.</RJW_pregnancy.description>
+  <RJW_pregnancy.stages.0.label>Ранняя стадия</RJW_pregnancy.stages.0.label>
+  <RJW_pregnancy.stages.1.label>Средняя стадия</RJW_pregnancy.stages.1.label>
+  <RJW_pregnancy.stages.2.label>Поздняя стадия</RJW_pregnancy.stages.2.label>
+  <RJW_pregnancy.stages.3.label>Схватки</RJW_pregnancy.stages.3.label>
+
+  <RJW_pregnancy_beast.label>Беременность</RJW_pregnancy_beast.label>
+  <RJW_pregnancy_beast.description>Детёныш скоро появится на свет.</RJW_pregnancy_beast.description>
+  <RJW_pregnancy_beast.stages.0.label>Ранняя стадия</RJW_pregnancy_beast.stages.0.label>
+  <RJW_pregnancy_beast.stages.1.label>Средняя стадия</RJW_pregnancy_beast.stages.1.label>
+  <RJW_pregnancy_beast.stages.2.label>Поздняя стадия</RJW_pregnancy_beast.stages.2.label>
+  <RJW_pregnancy_beast.stages.3.label>Схватки</RJW_pregnancy_beast.stages.3.label>
+
+  <RJW_pregnancy_mech.label>Беременность</RJW_pregnancy_mech.label>
+  <RJW_pregnancy_mech.description>Ребёнок скоро появится на свет.</RJW_pregnancy_mech.description>
+  <RJW_pregnancy_mech.stages.0.label>Ранняя стадия</RJW_pregnancy_mech.stages.0.label>
+  <RJW_pregnancy_mech.stages.1.label>Средняя стадия</RJW_pregnancy_mech.stages.1.label>
+  <RJW_pregnancy_mech.stages.2.label>Поздняя стадия</RJW_pregnancy_mech.stages.2.label>
+  <RJW_pregnancy_mech.stages.3.label>Схватки</RJW_pregnancy_mech.stages.3.label>
+
+
+</LanguageData>

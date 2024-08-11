@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- this needs custom class for x10, fuck it -->
+
+  <RemoveUnknownEgg.label>Entferne Ei</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>Entfernt Ei.</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>Entfernt Ei.</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>Entferne Ei</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>Entfernt Ei.</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>Entfernt Ei.</RemoveInsectHiveEgg.jobString>
+
+  <RemoveMicroComputer.label>Entferne Mikrocomputer</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Entferne Mikrocomputer.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Entfernt Mikrocomputer.</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>Entferne Fesseln</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Entferne Fesseln.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Entfernt Fesseln.</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>Entferne Kokon</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Entferne Kokon.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Entfernt Kokon.</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

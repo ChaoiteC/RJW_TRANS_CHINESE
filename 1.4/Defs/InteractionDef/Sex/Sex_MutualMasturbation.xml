@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_MutualMasturbation</defName>
+		<label>mutual masturbation</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Engaged in mutual masturbation with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Engaged in mutual masturbation with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Do mutual masturbation</RMBLabel>
+				<rjwSextype>MutualMasturbation</rjwSextype>
+				<rulepack_defs>
+					<li>MutualMasturbationRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+						<li>CanBePenetrated</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+						<li>CanBePenetrated</li>
+					</tags>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

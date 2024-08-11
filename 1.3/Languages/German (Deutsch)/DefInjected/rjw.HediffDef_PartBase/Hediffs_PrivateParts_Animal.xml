@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HorsePenis.label>Pferdepenis</HorsePenis.label>
+  <HorsePenis.labelNoun>ein Pferdepenis</HorsePenis.labelNoun>
+  <HorsePenis.description>Der große Penis eines Hengstes. Spreizt sich aus beim Sex.</HorsePenis.description>
+  <HorsePenis.stages.0.label>Mikro</HorsePenis.stages.0.label>
+  <HorsePenis.stages.1.label>Klein</HorsePenis.stages.1.label>
+  <HorsePenis.stages.2.label>Mittelgroß</HorsePenis.stages.2.label>
+  <HorsePenis.stages.3.label>Groß</HorsePenis.stages.3.label>
+  <HorsePenis.stages.4.label>Riesig</HorsePenis.stages.4.label>
+  <HorsePenis.stages.5.label>Enorm</HorsePenis.stages.5.label>
+
+  <HorseVagina.label>Pferdevagina</HorseVagina.label>
+  <HorseVagina.labelNoun>eine Pferdevagina</HorseVagina.labelNoun>
+  <HorseVagina.description>Die Vagine einer Stute.</HorseVagina.description>
+  <HorseVagina.stages.0.label>Mikro</HorseVagina.stages.0.label>
+  <HorseVagina.stages.1.label>Eng</HorseVagina.stages.1.label>
+  <HorseVagina.stages.2.label>Mittelgroß</HorseVagina.stages.2.label>
+  <HorseVagina.stages.3.label>Weit</HorseVagina.stages.3.label>
+  <HorseVagina.stages.4.label>Schlaff</HorseVagina.stages.4.label>
+  <HorseVagina.stages.5.label>Enorm</HorseVagina.stages.5.label>
+
+  <CatPenis.label>Katzenpenis</CatPenis.label>
+  <CatPenis.labelNoun>ein Katzenpenis</CatPenis.labelNoun>
+  <CatPenis.description>Der Penis eines Katers, hat kleine Stacheln.</CatPenis.description>
+  <CatPenis.stages.0.label>Mikro</CatPenis.stages.0.label>
+  <CatPenis.stages.1.label>Klein</CatPenis.stages.1.label>
+  <CatPenis.stages.2.label>Mittelgroß</CatPenis.stages.2.label>
+  <CatPenis.stages.3.label>Groß</CatPenis.stages.3.label>
+  <CatPenis.stages.4.label>Riesig</CatPenis.stages.4.label>
+  <CatPenis.stages.5.label>Enorm</CatPenis.stages.5.label>
+
+  <CatVagina.label>Katzenvagina</CatVagina.label>
+  <CatVagina.labelNoun>eine Katzenvagina</CatVagina.labelNoun>
+  <CatVagina.description>Die Vagina einer Katze.</CatVagina.description>
+  <CatVagina.stages.0.label>Mikro</CatVagina.stages.0.label>
+  <CatVagina.stages.1.label>Eng</CatVagina.stages.1.label>
+  <CatVagina.stages.2.label>Mittelgroß</CatVagina.stages.2.label>
+  <CatVagina.stages.3.label>Weit</CatVagina.stages.3.label>
+  <CatVagina.stages.4.label>Schlaff</CatVagina.stages.4.label>
+  <CatVagina.stages.5.label>Enorm</CatVagina.stages.5.label>
+
+  <DogPenis.label>Hundepenis</DogPenis.label>
+  <DogPenis.labelNoun>ein Hundepenis</DogPenis.labelNoun>
+  <DogPenis.description>Der rote Penis eines Rüden. Der Knuppel am Schaft vergrößert sich während dem Akt, was den Partner und Liebhaber für eine lange Zeit zusammenhält.</DogPenis.description>
+  <DogPenis.stages.0.label>Mikro</DogPenis.stages.0.label>
+  <DogPenis.stages.1.label>Klein</DogPenis.stages.1.label>
+  <DogPenis.stages.2.label>Mittelgroß</DogPenis.stages.2.label>
+  <DogPenis.stages.3.label>Groß</DogPenis.stages.3.label>
+  <DogPenis.stages.4.label>Riesig</DogPenis.stages.4.label>
+  <DogPenis.stages.5.label>Enorm</DogPenis.stages.5.label>
+
+  <DogVagina.label>Hundevagina</DogVagina.label>
+  <DogVagina.labelNoun>eine Hundevagina</DogVagina.labelNoun>
+  <DogVagina.description>Die Vagina eines Hundes.</DogVagina.description>
+  <DogVagina.stages.0.label>Mikro</DogVagina.stages.0.label>
+  <DogVagina.stages.1.label>Eng</DogVagina.stages.1.label>
+  <DogVagina.stages.2.label>Mittelgroß</DogVagina.stages.2.label>
+  <DogVagina.stages.3.label>Weit</DogVagina.stages.3.label>
+  <DogVagina.stages.4.label>Schlaff</DogVagina.stages.4.label>
+  <DogVagina.stages.5.label>Enorm</DogVagina.stages.5.label>
+
+  <DragonPenis.label>Drachenpenis</DragonPenis.label>
+  <DragonPenis.labelNoun>ein Drachenpenis</DragonPenis.labelNoun>
+  <DragonPenis.description>Der Penis eines Drachen. Hat einen Knuppel ähnlich dem eines Hundes, dazu ist der Schaft geriffelt.</DragonPenis.description>
+  <DragonPenis.stages.0.label>Mikro</DragonPenis.stages.0.label>
+  <DragonPenis.stages.1.label>Klein</DragonPenis.stages.1.label>
+  <DragonPenis.stages.2.label>Mittelgroß</DragonPenis.stages.2.label>
+  <DragonPenis.stages.3.label>Groß</DragonPenis.stages.3.label>
+  <DragonPenis.stages.4.label>Riesig</DragonPenis.stages.4.label>
+  <DragonPenis.stages.5.label>Enorm</DragonPenis.stages.5.label>
+
+  <DragonVagina.label>Drachenvagina</DragonVagina.label>
+  <DragonVagina.labelNoun>eine Drachenvagina</DragonVagina.labelNoun>
+  <DragonVagina.description>Die Vagina eines Drachen.</DragonVagina.description>
+  <DragonVagina.stages.0.label>Mikro</DragonVagina.stages.0.label>
+  <DragonVagina.stages.1.label>Eng</DragonVagina.stages.1.label>
+  <DragonVagina.stages.2.label>Mittelgroß</DragonVagina.stages.2.label>
+  <DragonVagina.stages.3.label>Weit</DragonVagina.stages.3.label>
+  <DragonVagina.stages.4.label>Schlaff</DragonVagina.stages.4.label>
+  <DragonVagina.stages.5.label>Enorm</DragonVagina.stages.5.label>
+
+  <RaccoonPenis.label>Waschbärpenis</RaccoonPenis.label>
+  <RaccoonPenis.labelNoun>ein Waschbärpenis</RaccoonPenis.labelNoun>
+  <RaccoonPenis.description>Der Penis eines Waschbären.</RaccoonPenis.description>
+  <RaccoonPenis.stages.0.label>Mikro</RaccoonPenis.stages.0.label>
+  <RaccoonPenis.stages.1.label>Klein</RaccoonPenis.stages.1.label>
+  <RaccoonPenis.stages.2.label>Mittelgroß</RaccoonPenis.stages.2.label>
+  <RaccoonPenis.stages.3.label>Groß</RaccoonPenis.stages.3.label>
+  <RaccoonPenis.stages.4.label>Riesig</RaccoonPenis.stages.4.label>
+  <RaccoonPenis.stages.5.label>Enorm</RaccoonPenis.stages.5.label>
+
+  <HemiPenis.label>Hemipenis</HemiPenis.label>
+  <HemiPenis.labelNoun>ein Hemipenis</HemiPenis.labelNoun>
+  <HemiPenis.description>Der Penis mancher Kriechtiere. Hat zwei Stacheln für doppelten Spaß.</HemiPenis.description>
+  <HemiPenis.stages.0.label>Mikro</HemiPenis.stages.0.label>
+  <HemiPenis.stages.1.label>Klein</HemiPenis.stages.1.label>
+  <HemiPenis.stages.2.label>Mittelgroß</HemiPenis.stages.2.label>
+  <HemiPenis.stages.3.label>Groß</HemiPenis.stages.3.label>
+  <HemiPenis.stages.4.label>Riesig</HemiPenis.stages.4.label>
+  <HemiPenis.stages.5.label>Enorm</HemiPenis.stages.5.label>
+
+  <CrocodilianPenis.label>Krokodilpenis</CrocodilianPenis.label>
+  <CrocodilianPenis.labelNoun>ein Krokodilpenis</CrocodilianPenis.labelNoun>
+  <CrocodilianPenis.description>Der Penis eines Krokodils. Groß und dauerhaft eregiert.</CrocodilianPenis.description>
+  <CrocodilianPenis.stages.0.label>Mikro</CrocodilianPenis.stages.0.label>
+  <CrocodilianPenis.stages.1.label>Klein</CrocodilianPenis.stages.1.label>
+  <CrocodilianPenis.stages.2.label>Mittelgroß</CrocodilianPenis.stages.2.label>
+  <CrocodilianPenis.stages.3.label>Groß</CrocodilianPenis.stages.3.label>
+  <CrocodilianPenis.stages.4.label>Riesig</CrocodilianPenis.stages.4.label>
+  <CrocodilianPenis.stages.5.label>Enorm</CrocodilianPenis.stages.5.label>
+
+  <UdderBreasts.label>Euter</UdderBreasts.label>
+  <UdderBreasts.labelNoun>ein Euter</UdderBreasts.labelNoun>
+  <UdderBreasts.description>Eine Brust eines Huftiers, hat 4 Zitzen.</UdderBreasts.description>
+  <UdderBreasts.stages.0.label>Flach</UdderBreasts.stages.0.label>
+  <UdderBreasts.stages.1.label>Klein</UdderBreasts.stages.1.label>
+  <UdderBreasts.stages.2.label>Mittelgroß</UdderBreasts.stages.2.label>
+  <UdderBreasts.stages.3.label>Groß</UdderBreasts.stages.3.label>
+  <UdderBreasts.stages.4.label>Riesig</UdderBreasts.stages.4.label>
+  <UdderBreasts.stages.5.label>Enorm</UdderBreasts.stages.5.label>
+  <UdderBreasts.stages.6.label>Übergroß</UdderBreasts.stages.6.label>
+  <UdderBreasts.stages.7.label>Massiv</UdderBreasts.stages.7.label>
+  <UdderBreasts.stages.8.label>Gigantisch</UdderBreasts.stages.8.label>
+  <UdderBreasts.stages.9.label>Kolossal</UdderBreasts.stages.9.label>
+
+  <NarrowVagina.label>Schmale vagina</NarrowVagina.label>
+  <NarrowVagina.labelNoun>eine schmale vagina</NarrowVagina.labelNoun>
+  <NarrowVagina.description>Eine enge, schmale Vagina.</NarrowVagina.description>
+  <NarrowVagina.stages.0.label>Mikro</NarrowVagina.stages.0.label>
+  <NarrowVagina.stages.1.label>Eng</NarrowVagina.stages.1.label>
+  <NarrowVagina.stages.2.label>Mittelgroß</NarrowVagina.stages.2.label>
+  <NarrowVagina.stages.3.label>Weit</NarrowVagina.stages.3.label>
+  <NarrowVagina.stages.4.label>Schlaff</NarrowVagina.stages.4.label>
+  <NarrowVagina.stages.5.label>Enorm</NarrowVagina.stages.5.label>
+
+  <NeedlePenis.label>Nadelpenis</NeedlePenis.label>
+  <NeedlePenis.labelNoun>ein Nadelpenis</NeedlePenis.labelNoun>
+  <NeedlePenis.description>Ein schmaler und dünner Penis.</NeedlePenis.description>
+  <NeedlePenis.stages.0.label>Mikro</NeedlePenis.stages.0.label>
+  <NeedlePenis.stages.1.label>Klein</NeedlePenis.stages.1.label>
+  <NeedlePenis.stages.2.label>Mittelgroß</NeedlePenis.stages.2.label>
+  <NeedlePenis.stages.3.label>Groß</NeedlePenis.stages.3.label>
+  <NeedlePenis.stages.4.label>Riesig</NeedlePenis.stages.4.label>
+  <NeedlePenis.stages.5.label>Enorm</NeedlePenis.stages.5.label>
+
+  <RodentVagina.label>Nagetiervagina</RodentVagina.label>
+  <RodentVagina.labelNoun>eine Nagetiervagina</RodentVagina.labelNoun>
+  <RodentVagina.description>Die Vagina eines Nagetiers.</RodentVagina.description>
+  <RodentVagina.stages.0.label>Mikro</RodentVagina.stages.0.label>
+  <RodentVagina.stages.1.label>Eng</RodentVagina.stages.1.label>
+  <RodentVagina.stages.2.label>Mittelgroß</RodentVagina.stages.2.label>
+  <RodentVagina.stages.3.label>Weit</RodentVagina.stages.3.label>
+  <RodentVagina.stages.4.label>Schlaff</RodentVagina.stages.4.label>
+  <RodentVagina.stages.5.label>Enorm</RodentVagina.stages.5.label>
+
+  <RodentPenis.label>Nagetierpenis</RodentPenis.label>
+  <RodentPenis.labelNoun>ein Nagetierpenis</RodentPenis.labelNoun>
+  <RodentPenis.description>Der Penis eines Nagetiers.</RodentPenis.description>
+  <RodentPenis.stages.0.label>Mikro</RodentPenis.stages.0.label>
+  <RodentPenis.stages.1.label>Klein</RodentPenis.stages.1.label>
+  <RodentPenis.stages.2.label>Mittelgroß</RodentPenis.stages.2.label>
+  <RodentPenis.stages.3.label>Groß</RodentPenis.stages.3.label>
+  <RodentPenis.stages.4.label>Riesig</RodentPenis.stages.4.label>
+  <RodentPenis.stages.5.label>Enorm</RodentPenis.stages.5.label>
+
+  <CloacalPenis.label>Kloakenpenis</CloacalPenis.label>
+  <CloacalPenis.labelNoun>ein Kloakenpenis</CloacalPenis.labelNoun>
+  <CloacalPenis.description>Ein Kloakenpenis.</CloacalPenis.description>
+  <CloacalPenis.stages.0.label>Mikro</CloacalPenis.stages.0.label>
+  <CloacalPenis.stages.1.label>Klein</CloacalPenis.stages.1.label>
+  <CloacalPenis.stages.2.label>Mittelgroß</CloacalPenis.stages.2.label>
+  <CloacalPenis.stages.3.label>Groß</CloacalPenis.stages.3.label>
+  <CloacalPenis.stages.4.label>Riesig</CloacalPenis.stages.4.label>
+  <CloacalPenis.stages.5.label>Enorm</CloacalPenis.stages.5.label>
+
+  <CloacalVagina.label>Kloakenvagina</CloacalVagina.label>
+  <CloacalVagina.labelNoun>eine Kloakenvagina</CloacalVagina.labelNoun>
+  <CloacalVagina.description>Eine Kloakenvagina.</CloacalVagina.description>
+  <CloacalVagina.stages.0.label>Mikro</CloacalVagina.stages.0.label>
+  <CloacalVagina.stages.1.label>Eng</CloacalVagina.stages.1.label>
+  <CloacalVagina.stages.2.label>Mittelgroß</CloacalVagina.stages.2.label>
+  <CloacalVagina.stages.3.label>Weit</CloacalVagina.stages.3.label>
+  <CloacalVagina.stages.4.label>Schlaff</CloacalVagina.stages.4.label>
+  <CloacalVagina.stages.5.label>Enorm</CloacalVagina.stages.5.label>
+
+  <CloacalAnus.label>Kloakenanus</CloacalAnus.label>
+  <CloacalAnus.labelNoun>ein Kloakenanus</CloacalAnus.labelNoun>
+  <CloacalAnus.description>Ein Kloakenanus.</CloacalAnus.description>
+  <CloacalAnus.stages.0.label>Mikro</CloacalAnus.stages.0.label>
+  <CloacalAnus.stages.1.label>Eng</CloacalAnus.stages.1.label>
+  <CloacalAnus.stages.2.label>Mittelgroß</CloacalAnus.stages.2.label>
+  <CloacalAnus.stages.3.label>Weit</CloacalAnus.stages.3.label>
+  <CloacalAnus.stages.4.label>Schlaff</CloacalAnus.stages.4.label>
+  <CloacalAnus.stages.5.label>Enorm</CloacalAnus.stages.5.label>
+
+
+</LanguageData>

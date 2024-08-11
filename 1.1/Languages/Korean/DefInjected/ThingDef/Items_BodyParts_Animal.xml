@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HorsePenis.label>자지 (말)</HorsePenis.label>
+	<HorsePenis.description>말의 자지입니다. 인간에겐 다소 거대합니다.</HorsePenis.description>
+	<HorseVagina.label>보지 (말)</HorseVagina.label>
+	<HorseVagina.description>말의 보지입니다. 벌려진 보지가 박아달라는 듯 합니다.</HorseVagina.description>
+
+	<CatPenis.label>자지 (고양이)</CatPenis.label>
+	<CatPenis.description>고양이의 자지입니다. 가늘고 길며 낚시바늘같이 생겼습니다.</CatPenis.description>
+	<CatVagina.label>보지 (고양이)</CatVagina.label>
+	<CatVagina.description>고양이의 보지입니다. 가늘고 긴데, 고양이 자지에 맞춰서 성감대가 질 내벽에 위치합니다.</CatVagina.description>
+
+	<DogPenis.label>자지 (개)</DogPenis.label>
+	<DogPenis.description>개의 자지입니다. 두껍고 울퉁불퉁하게 생겼습니다.</DogPenis.description>
+	<DogVagina.label>보지 (개)</DogVagina.label>
+	<DogVagina.description>개의 보지입니다. 성관계나 짝짓기를 맺을때 적어도 20분은 견딜 수 있습니다.</DogVagina.description>
+
+	<DragonPenis.label>자지 (용)</DragonPenis.label>
+	<DragonPenis.description>용의 자지입니다. 두껍고 단단합니다.</DragonPenis.description>
+	<DragonVagina.label>보지 (용)</DragonVagina.label>
+	<DragonVagina.description>용의 보지입니다. 알을 낳기에 최적화되어 있습니다.</DragonVagina.description>
+
+	<RaccoonPenis.label>자지 (너구리)</RaccoonPenis.label>
+	<RaccoonPenis.description>너구리과의 자지입니다. 흥미로울 정도로 길이가 길지만 정말 가늘고 잘 휘어지지 않습니다.</RaccoonPenis.description>
+
+	<HemiPenis.label>자지 (뱀)</HemiPenis.label>
+	<HemiPenis.description>뱀의 자지입니다. 유연하,며 좌우로 뻗어나온 특이한 구조입니다.</HemiPenis.description>
+
+	<CrocodilianPenis.label>자지 (악어)</CrocodilianPenis.label>
+	<CrocodilianPenis.description>악어의 자지입니다. 신기하게도 인간의 것과 다소 비슷한 형태입니다.</CrocodilianPenis.description>
+
+	<NarrowVagina.label>보지 (좁음)</NarrowVagina.label>
+	<NarrowVagina.description>좁은 보지입니다. 깊지만, 과하게 좁은 보지입니다.</NarrowVagina.description>
+	<NeedlePenis.label>자지 (바늘)</NeedlePenis.label>
+	<NeedlePenis.description>바늘같은 자지입니다. 길지만, 심하게 얇은 자지입니다.</NeedlePenis.description>
+
+	<RodentVagina.label>보지 (설치류)</RodentVagina.label>
+	<RodentVagina.description>설치류의 보지입니다. 겨우 인간의 손가락 수준의 크기입니다.</RodentVagina.description>
+	<RodentPenis.label>자지 (설치류)</RodentPenis.label>
+	<RodentPenis.description>설치류의 자지입니다. 정말 최소한의 기능만 할 수 있는 작은 자지입니다.</RodentPenis.description>
+
+	<CloacalPenis.label>자지 (총배설강)</CloacalPenis.label>
+	<CloacalPenis.description>총배설강 자지입니다. 자지가 안쪽에 숨겨져 있습니다.</CloacalPenis.description>
+	<CloacalVagina.label>보지 (총배설강)</CloacalVagina.label>
+	<CloacalVagina.description>총배설강 보지입니다. 알을 낳을 수 있습니다.</CloacalVagina.description>
+	<CloacalAnus.label>항문 (총배설강)</CloacalAnus.label>
+	<CloacalAnus.description>총배설강 항문입니다. 총배설강 형태의 생식 기관과 공용으로 활용되는 항문입니다.</CloacalAnus.description>
+
+	<UdderBreasts.label>가슴 (젖통)</UdderBreasts.label>
+	<UdderBreasts.description>머팔로나 비슷한 종들의 거대한 젖통입니다. 사람이 달면 젖소 부인처럼 보이겠군요</UdderBreasts.description>
+
+</LanguageData>

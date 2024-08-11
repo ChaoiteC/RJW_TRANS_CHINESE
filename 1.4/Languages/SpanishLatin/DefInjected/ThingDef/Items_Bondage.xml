@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hololock.label>Holotraba</Hololock.label>
+  <Hololock.description>Un mecanismo de bloqueo de alta tecnología. Las características incluyen:
+- Construido con estructura de plástico, muy resistente
+- Llave y candado emparejados usando un UID encriptado holográficamente incrustado en un sustrato de jade, la extracción es imposible sin la llave original
+- Un sistema de autodestrucción cuando se intenta modificar la cerradura, lo que hace que el objeto sea destruido en lugar de ser capturado y utilizado por los enemigos.
+
+Originalmente hechos para uso militar, las holotraba se han vuelto populares en las comunidades BDSM, donde las llaves y los candados se graban habitualmente con el mismo nombre para que sean más fáciles de identificar.</Hololock.description>
+
+  <Holokey.label>Holollave</Holokey.label>
+  <Holokey.description>Una llave de alta tecnología. Capaz de desbloquear un elemento que tiene la misma máscara criptográfica.</Holokey.description>
+  <Holokey.comps.2.useLabel>Desbloquear</Holokey.comps.2.useLabel>
+
+
+</LanguageData>

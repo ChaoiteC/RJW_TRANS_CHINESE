@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawns with ovi's plant egg. -->
+
+  <RJW_InsectEgg.label>Яйцо</RJW_InsectEgg.label>
+  <RJW_InsectEgg.description>Яйцо(а)-паразит(ы), которые питаются при помощи хозяина вплоть до вылупления. 
+Просто скажите спасибо, что они не будут прогрызать вам грудь.</RJW_InsectEgg.description>
+
+
+  <!-- Placeholder egg/unsupported/any races -->
+
+  <RJW_UnknownEgg.label>Яйцо</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>Яйцо(а)-паразит(ы), которые питаются при помощи хозяина вплоть до вылупления. 
+Просто скажите спасибо, что они не будут прогрызать вам грудь.</RJW_UnknownEgg.description>
+
+
+  <!-- vanilla insects, can fertilize each other -->
+
+  <RJW_InsectHiveEgg.label>Яйцо</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>Яйцо(а)-паразит(ы), которые питаются при помощи хозяина вплоть до вылупления. 
+Просто скажите спасибо, что они не будут прогрызать вам грудь.</RJW_InsectHiveEgg.description>
+
+
+</LanguageData>

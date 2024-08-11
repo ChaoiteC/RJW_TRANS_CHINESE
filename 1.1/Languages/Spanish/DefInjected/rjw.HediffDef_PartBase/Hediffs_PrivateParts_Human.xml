@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular privates -->
+
+  <Penis.label>pene</Penis.label>
+  <Penis.labelNoun>un pene</Penis.labelNoun>
+  <Penis.description>Un pene humanoide. Una extremidad está completamente cubierta de piel, a excepción del glande, que es sensible y suele estar expuesto durante las relaciones sexuales.</Penis.description>
+  <Penis.stages.0.label>Micro</Penis.stages.0.label>
+  <Penis.stages.1.label>Pequeno</Penis.stages.1.label>
+  <Penis.stages.2.label>Médio</Penis.stages.2.label>
+  <Penis.stages.3.label>Grande</Penis.stages.3.label>
+  <Penis.stages.4.label>Gigante</Penis.stages.4.label>
+  <Penis.stages.5.label>Grandioso</Penis.stages.5.label>
+
+  <Vagina.label>vagina</Vagina.label>
+  <Vagina.labelNoun>una vagina</Vagina.labelNoun>
+  <Vagina.description>Una vagina humanoide. Los labios exteriores grandes ocultan los labios rosados ​​más pequeños del interior. ¿Dónde está el clítoris?</Vagina.description>
+  <Vagina.stages.0.label>Micro</Vagina.stages.0.label>
+  <Vagina.stages.1.label>Apretada</Vagina.stages.1.label>
+  <Vagina.stages.2.label>Média</Vagina.stages.2.label>
+  <Vagina.stages.3.label>Confortable</Vagina.stages.3.label>
+  <Vagina.stages.4.label>Suelta</Vagina.stages.4.label>
+  <Vagina.stages.5.label>Cavernosa</Vagina.stages.5.label>
+
+
+  <!-- Natural anuses -->
+
+  <Anus.label>ano</Anus.label>
+  <Anus.labelNoun>un ano</Anus.labelNoun>
+  <Anus.description>Un ano.</Anus.description>
+  <Anus.stages.0.label>Micro</Anus.stages.0.label>
+  <Anus.stages.1.label>Apretado</Anus.stages.1.label>
+  <Anus.stages.2.label>Médio</Anus.stages.2.label>
+  <Anus.stages.3.label>Confortable</Anus.stages.3.label>
+  <Anus.stages.4.label>Suelto</Anus.stages.4.label>
+  <Anus.stages.5.label>Cavernoso</Anus.stages.5.label>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>pechos</Breasts.label>
+  <Breasts.labelNoun>un par de pechos humanoides</Breasts.labelNoun>
+  <Breasts.description>Un par de pechos humanoides. Son más voluminosos que otros mamíferos.</Breasts.description>
+  <Breasts.stages.0.label>Mamilos</Breasts.stages.0.label>
+  <Breasts.stages.1.label>Minúculos</Breasts.stages.1.label>
+  <Breasts.stages.2.label>Pequenos</Breasts.stages.2.label>
+  <Breasts.stages.3.label>Médios</Breasts.stages.3.label>
+  <Breasts.stages.4.label>Grandes</Breasts.stages.4.label>
+  <Breasts.stages.5.label>Gigantes</Breasts.stages.5.label>
+  <Breasts.stages.6.label>Gigantescos</Breasts.stages.6.label>
+  <Breasts.stages.7.label>Inmensos</Breasts.stages.7.label>
+  <Breasts.stages.8.label>Descomunais</Breasts.stages.8.label>
+  <Breasts.stages.9.label>Colossais</Breasts.stages.9.label>
+
+
+  <!-- Natural Breasts or rather lack of -->
+
+  <FeaturelessChest.label>pechos descaracterizados</FeaturelessChest.label>
+  <FeaturelessChest.labelNoun>pechos descaracterizados</FeaturelessChest.labelNoun>
+  <FeaturelessChest.description>Un pecho recto sin pezones donde deberían estar.</FeaturelessChest.description>
+
+
+</LanguageData>

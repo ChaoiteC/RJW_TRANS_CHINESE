@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- THese are all the same, the flavor text is different -->
+<hediff_male2trap.label>Перетворення на трапа</hediff_male2trap.label>
+<hediff_male2trap.description>Суперечливі відчуття.</hediff_male2trap.description>
+<hediff_male2trap.stages.0.label>Ігнорування</hediff_male2trap.stages.0.label>
+<hediff_male2trap.stages.1.label>Прийняття</hediff_male2trap.stages.1.label>
+<hediff_male2trap.stages.2.label>Печаль</hediff_male2trap.stages.2.label>
+<hediff_male2trap.stages.3.label>Злість</hediff_male2trap.stages.3.label>
+<hediff_male2trap.stages.4.label>Відмова</hediff_male2trap.stages.4.label>
+<hediff_male2female.label>Зміна статі</hediff_male2female.label>
+<hediff_male2female.description>Суперечливі відчуття.</hediff_male2female.description>
+<hediff_male2female.stages.0.label>Ігнорування</hediff_male2female.stages.0.label>
+<hediff_male2female.stages.1.label>Прийняття</hediff_male2female.stages.1.label>
+<hediff_male2female.stages.2.label>Печаль</hediff_male2female.stages.2.label>
+<hediff_male2female.stages.3.label>Злість</hediff_male2female.stages.3.label>
+<hediff_male2female.stages.4.label>Відмова</hediff_male2female.stages.4.label>
+<hediff_male2futa.label>Перетворення у футу</hediff_male2futa.label>
+<hediff_male2futa.description>Суперечливі відчуття.</hediff_male2futa.description>
+<hediff_male2futa.stages.0.label>Ігнорування</hediff_male2futa.stages.0.label>
+<hediff_male2futa.stages.1.label>Прийняття</hediff_male2futa.stages.1.label>
+<hediff_male2futa.stages.2.label>Спечаль</hediff_male2futa.stages.2.label>
+<hediff_male2futa.stages.3.label>Злість</hediff_male2futa.stages.3.label>
+<hediff_male2futa.stages.4.label>Відмова</hediff_male2futa.stages.4.label>
+<hediff_female2trap.label>Перетворення на трапа</hediff_female2trap.label>
+<hediff_female2trap.description>Суперечливі відчуття.</hediff_female2trap.description>
+<hediff_female2trap.stages.0.label>Ігнорування</hediff_female2trap.stages.0.label>
+<hediff_female2trap.stages.1.label>Прийняття</hediff_female2trap.stages.1.label>
+<hediff_female2trap.stages.2.label>Печаль</hediff_female2trap.stages.2.label>
+<hediff_female2trap.stages.3.label>Злість</hediff_female2trap.stages.3.label>
+<hediff_female2trap.stages.4.label>Відмова</hediff_female2trap.stages.4.label>
+<hediff_female2male.label>Зміна статі</hediff_female2male.label>
+<hediff_female2male.description>Суперечливі відчуття.</hediff_female2male.description>
+<hediff_female2male.stages.0.label>Ігнорування</hediff_female2male.stages.0.label>
+<hediff_female2male.stages.1.label>Прийняття</hediff_female2male.stages.1.label>
+<hediff_female2male.stages.2.label>Печаль</hediff_female2male.stages.2.label>
+<hediff_female2male.stages.3.label>Злість</hediff_female2male.stages.3.label>
+<hediff_female2male.stages.4.label>Відмова</hediff_female2male.stages.4.label>
+<hediff_female2futa.label>Перетворення на футу</hediff_female2futa.label>
+<hediff_female2futa.description>Суперечливі відчуття.</hediff_female2futa.description>
+<hediff_female2futa.stages.0.label>Ігнорування</hediff_female2futa.stages.0.label>
+<hediff_female2futa.stages.1.label>Прийняття</hediff_female2futa.stages.1.label>
+<hediff_female2futa.stages.2.label>Печаль</hediff_female2futa.stages.2.label>
+<hediff_female2futa.stages.3.label>Злість</hediff_female2futa.stages.3.label>
+<hediff_female2futa.stages.4.label>Відмова</hediff_female2futa.stages.4.label>
+<hediff_futa2trap.label>Перетворення в трапа</hediff_futa2trap.label>
+<hediff_futa2trap.description>Суперечливі відчуття.</hediff_futa2trap.description>
+<hediff_futa2trap.stages.0.label>Ігнорування</hediff_futa2trap.stages.0.label>
+<hediff_futa2trap.stages.1.label>Прийняття</hediff_futa2trap.stages.1.label>
+<hediff_futa2trap.stages.2.label>Спечаль</hediff_futa2trap.stages.2.label>
+<hediff_futa2trap.stages.3.label>Злість</hediff_futa2trap.stages.3.label>
+<hediff_futa2trap.stages.4.label>Відмова</hediff_futa2trap.stages.4.label>
+<hediff_futa2male.label>Перетворення на чоловіка</hediff_futa2male.label>
+<hediff_futa2male.description>Суперечливі відчуття.</hediff_futa2male.description>
+<hediff_futa2male.stages.0.label>Ігнорування</hediff_futa2male.stages.0.label>
+<hediff_futa2male.stages.1.label>Прийняття</hediff_futa2male.stages.1.label>
+<hediff_futa2male.stages.2.label>Спечаль</hediff_futa2male.stages.2.label>
+<hediff_futa2male.stages.3.label>Злість</hediff_futa2male.stages.3.label>
+<hediff_futa2male.stages.4.label>Відмова</hediff_futa2male.stages.4.label>
+<hediff_futa2female.label>Перетворення на жінку</hediff_futa2female.label>
+<hediff_futa2female.description>Суперечливі відчуття.</hediff_futa2female.description>
+<hediff_futa2female.stages.0.label>Ігнорування</hediff_futa2female.stages.0.label>
+<hediff_futa2female.stages.1.label>Прийняття</hediff_futa2female.stages.1.label>
+<hediff_futa2female.stages.2.label>Печаль</hediff_futa2female.stages.2.label>
+<hediff_futa2female.stages.3.label>Злість</hediff_futa2female.stages.3.label>
+<hediff_futa2female.stages.4.label>Відмова</hediff_futa2female.stages.4.label>
+<hediff_trap2futa.label>Перетворення у футу</hediff_trap2futa.label>
+<hediff_trap2futa.description>Суперечливі відчуття.</hediff_trap2futa.description>
+<hediff_trap2futa.stages.0.label>Ігнорування</hediff_trap2futa.stages.0.label>
+<hediff_trap2futa.stages.1.label>Прийняття</hediff_trap2futa.stages.1.label>
+<hediff_trap2futa.stages.2.label>Спечаль</hediff_trap2futa.stages.2.label>
+<hediff_trap2futa.stages.3.label>Злість</hediff_trap2futa.stages.3.label>
+<hediff_trap2futa.stages.4.label>Відмова</hediff_trap2futa.stages.4.label>
+<hediff_trap2male.label>Перетворення на чоловіка</hediff_trap2male.label>
+<hediff_trap2male.description>Суперечливі відчуття.</hediff_trap2male.description>
+<hediff_trap2male.stages.0.label>Ігнорування</hediff_trap2male.stages.0.label>
+<hediff_trap2male.stages.1.label>Прийняття</hediff_trap2male.stages.1.label>
+<hediff_trap2male.stages.2.label>Печаль</hediff_trap2male.stages.2.label>
+<hediff_trap2male.stages.3.label>Злість</hediff_trap2male.stages.3.label>
+<hediff_trap2male.stages.4.label>Відмова</hediff_trap2male.stages.4.label>
+<hediff_trap2female.label>Перетворення на жінку</hediff_trap2female.label>
+<hediff_trap2female.description>Суперечливі відчуття.</hediff_trap2female.description>
+<hediff_trap2female.stages.0.label>Ігнорування</hediff_trap2female.stages.0.label>
+<hediff_trap2female.stages.1.label>Прийняття</hediff_trap2female.stages.1.label>
+<hediff_trap2female.stages.2.label>Печаль</hediff_trap2female.stages.2.label>
+<hediff_trap2female.stages.3.label>Злість</hediff_trap2female.stages.3.label>
+<hediff_trap2female.stages.4.label>Відмова</hediff_trap2female.stages.4.label>
+<!-- hidden hediffs to track original sex -->
+<hediff_was_boy.label>Зміна статі</hediff_was_boy.label>
+<hediff_was_boy.description>Колись тут бовталася сарделька</hediff_was_boy.description>
+<hediff_was_girl.label>Зміна статі</hediff_was_girl.label>
+<hediff_was_girl.description>Двох кругляшок більше немає</hediff_was_girl.description>
+<!-- whatever this may mean: -->
+<hediff_was_futa.label>Раніше за фут</hediff_was_futa.label>
+<hediff_was_futa.description>Зміна статі. Що б це не означало...</hediff_was_futa.description>
+<hediff_was_trap.label>Раніше трап</hediff_was_trap.label>
+<hediff_was_trap.description>Зміна статі. Що б це не означало...</hediff_was_trap.description>
+</LanguageData>

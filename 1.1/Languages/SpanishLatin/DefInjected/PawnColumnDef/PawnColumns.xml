@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IsWhore.headerTip>colono es una puta</IsWhore.headerTip>
+  <IsPrisoner.headerTip>colono es prisionero(a) o esclavo(a)</IsPrisoner.headerTip>
+
+  <WhoreExperience.label>Experiencia</WhoreExperience.label>
+  <WhoreExperience.headerTip>experiencia en prostitución</WhoreExperience.headerTip>
+
+  <RoomAdjustmentOfWhore.label>Cuarto</RoomAdjustmentOfWhore.label>
+  <RoomAdjustmentOfWhore.headerTip>Apariencia de la sala de prostitución -&gt; modificador de precio</RoomAdjustmentOfWhore.headerTip>
+
+  <PriceRangeOfWhore.label>Precio</PriceRangeOfWhore.label>
+  <PriceRangeOfWhore.headerTip>rango de precios de puta</PriceRangeOfWhore.headerTip>
+
+  <EarnedMoneyByWhore.label>Ganancia</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.headerTip>Dinero ganado(total)</EarnedMoneyByWhore.headerTip>
+
+  <CountOfWhore.label>Clientes</CountOfWhore.label>
+  <CountOfWhore.headerTip>clientes servidos</CountOfWhore.headerTip>
+
+  <AverageMoneyByWhore.label>Média</AverageMoneyByWhore.label>
+  <AverageMoneyByWhore.headerTip>Dinero ganado(média)</AverageMoneyByWhore.headerTip>
+
+  <Mood.label>Humor</Mood.label>
+  <Mood.headerTip>humor del colono</Mood.headerTip>
+
+
+</LanguageData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_Anal</defName>
+		<label>anal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Had anal sex with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Had anal sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Have anal sex</RMBLabel>
+				<rjwSextype>Anal</rjwSextype>
+				<rulepack_defs>
+					<li>AnalSexRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>EggLaying</li>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Anus</li>
+					</families>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

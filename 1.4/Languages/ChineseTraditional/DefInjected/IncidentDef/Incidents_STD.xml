@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Boobitis.label>乳房機械感染</Disease_Boobitis.label>
+  <Disease_Boobitis.letterText>您的{1}中有{0}人因{2}而生病。\n\n確保你有一張病床和一名醫生。確保他們得到適當的治療，並儘可能多地臥床休息。\n\n下列{1}人生病了：\n\n{3}</Disease_Boobitis.letterText>
+  <Disease_Boobitis.letterLabel>疾病（乳房機械感染）</Disease_Boobitis.letterLabel>
+
+
+</LanguageData>

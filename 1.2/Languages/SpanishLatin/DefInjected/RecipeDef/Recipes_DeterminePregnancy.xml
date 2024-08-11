@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePregnancy.label>comprobar el embarazo</DeterminePregnancy.label>
+  <DeterminePregnancy.description>Determina si un colono está o no embarazada y si hay alguna anomalía con el embarazo.</DeterminePregnancy.description>
+  <DeterminePregnancy.jobString>Comprobación de embarazo.</DeterminePregnancy.jobString>
+
+
+</LanguageData>

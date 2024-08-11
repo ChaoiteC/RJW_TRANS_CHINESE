@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Bestiality_Anal.label>항문 교미</Bestiality_Anal.label>
+	<Bestiality_Anal.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 항문이 꿰뚫림.</Bestiality_Anal.logRulesInitiator.rulesStrings.0>
+	<Bestiality_Anal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 항문을 꿰뚫음.</Bestiality_Anal.logRulesRecipient.rulesStrings.0>
+	<Bestiality_Anal.modExtensions.0.RMBLabel>항문 교미를 함.</Bestiality_Anal.modExtensions.0.RMBLabel>
+
+	<Bestiality_Vaginal.label>성기 교미</Bestiality_Vaginal.label>
+	<Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지가 꿰뚫림.</Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>
+	<Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지를 꿰뚫음.</Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>
+	<Bestiality_Vaginal.modExtensions.0.RMBLabel>교미를 함.</Bestiality_Vaginal.modExtensions.0.RMBLabel>
+
+	<Bestiality_Oral.label>구강 교미</Bestiality_Oral.label>
+	<Bestiality_Oral.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef](을)를 핥아 댐.</Bestiality_Oral.logRulesInitiator.rulesStrings.0>
+	<Bestiality_Oral.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 핥아짐.</Bestiality_Oral.logRulesRecipient.rulesStrings.0>
+	<Bestiality_Oral.modExtensions.0.RMBLabel>구강 교미를 함.</Bestiality_Oral.modExtensions.0.RMBLabel>
+
+</LanguageData>

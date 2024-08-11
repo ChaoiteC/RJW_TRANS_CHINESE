@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePaternity.label>Тест на отцовство</DeterminePaternity.label>
+  <DeterminePaternity.description>Определяет беременный ли колонист и кто является отцом.</DeterminePaternity.description>
+  <DeterminePaternity.jobString>Проводит тест.</DeterminePaternity.jobString>
+
+
+</LanguageData>

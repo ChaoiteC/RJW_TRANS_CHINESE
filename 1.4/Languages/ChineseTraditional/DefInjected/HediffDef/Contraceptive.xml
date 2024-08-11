@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>避孕藥物</RJW_Contraceptive.label>
+  <RJW_Contraceptive.stages.0.label>避孕</RJW_Contraceptive.stages.0.label>
+  <RJW_Contraceptive.description>避孕藥將生育能力嚴重降低至原來的四分之一。</RJW_Contraceptive.description>
+
+
+</LanguageData>

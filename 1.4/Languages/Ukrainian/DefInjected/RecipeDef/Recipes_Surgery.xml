@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Attach natural privates -->
+<AttachPenis.label>Імплантувати пеніс</AttachPenis.label>
+<AttachPenis.description>Імплантує пеніс, замінює іншу частину тіла якщо вона є.</AttachPenis.description>
+<AttachPenis.jobString>Імплантує пеніс.</AttachPenis.jobString>
+<InstallVagina.label>Імплантувати вагіну</InstallVagina.label>
+<InstallVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона є.</InstallVagina.description>
+<InstallVagina.jobString>Імплантує вагіну.</InstallVagina.jobString>
+<InstallCatVagina.label>Імплантувати котячу вагіну</InstallCatVagina.label>
+<InstallCatVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона є.</InstallCatVagina.description>
+<InstallCatVagina.jobString>Імплантує вагіну.</InstallCatVagina.jobString>
+<InstallDogVagina.label>Імплантувати собачу вагіну</InstallDogVagina.label>
+<InstallDogVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона наявна.</InstallDogVagina.description>
+<InstallDogVagina.jobString>Імплантує вагіну.</InstallDogVagina.jobString>
+<InstallHorseVagina.label>Імплантувати кінську вагіну</InstallHorseVagina.label>
+<InstallHorseVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона є.</InstallHorseVagina.description>
+<InstallHorseVagina.jobString>Імплантує вагіну.</InstallHorseVagina.jobString>
+<InstallDragonVagina.label>Імплантувати драконячу вагіну</InstallDragonVagina.label>
+<InstallDragonVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона є.</InstallDragonVagina.description>
+<InstallDragonVagina.jobString>Імплантує вагіну.</InstallDragonVagina.jobString>
+<InstallNarrowVagina.label>Імплантувати вузьку вагіну</InstallNarrowVagina.label>
+<InstallNarrowVagina.description>Імплантує вагіну, замінює іншу частину тіла, якщо вона є.</InstallNarrowVagina.description>
+<InstallNarrowVagina.jobString>Імплантує вагіну.</InstallNarrowVagina.jobString>
+<InstallCloacalVagina.label>Імплантувати клоаку</InstallCloacalVagina.label>
+<InstallCloacalVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона наявна.</InstallCloacalVagina.description>
+<InstallCloacalVagina.jobString>Імплантує вагіну.</InstallCloacalVagina.jobString>
+<InstallRodentVagina.label>Імплантувати вагіну гризуна</InstallRodentVagina.label>
+<InstallRodentVagina.description>Імплантує вагіну, замінює іншу частину тіла якщо вона наявна.</InstallRodentVagina.description>
+<InstallRodentVagina.jobString>Імплантує вагіну.</InstallRodentVagina.jobString>
+<InstallOvipositorF.label>Імплантувати жіночий яйцеклад</InstallOvipositorF.label>
+<InstallOvipositorF.description>Імплантує жіночий яйцеклад.</InstallOvipositorF.description>
+<InstallOvipositorF.jobString>Імплантує жіночий яйцеклад.</InstallOvipositorF.jobString>
+<AttachHorsePenis.label>Імплантувати кінський пеніс</AttachHorsePenis.label>
+<AttachHorsePenis.description>Імплантує пеніс, замінює іншу частину тіла якщо вона наявна.</AttachHorsePenis.description>
+<AttachHorsePenis.jobString>Імплантує пеніс.</AttachHorsePenis.jobString>
+<AttachRaccoonPenis.label>Імплантувати пеніс єнота</AttachRaccoonPenis.label>
+<AttachRaccoonPenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона є.</AttachRaccoonPenis.description>
+<AttachRaccoonPenis.jobString>Імплантує пеніс.</AttachRaccoonPenis.jobString>
+<AttachCatPenis.label>Імплантувати котячий пеніс</AttachCatPenis.label>
+<AttachCatPenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона є.</AttachCatPenis.description>
+<AttachCatPenis.jobString>Імплантує пеніс.</AttachCatPenis.jobString>
+<AttachDogPenis.label>Імплантувати собачий пеніс</AttachDogPenis.label>
+<AttachDogPenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона є.</AttachDogPenis.description>
+<AttachDogPenis.jobString>Імплантує пеніс.</AttachDogPenis.jobString>
+<AttachDragonPenis.label>Імплантувати драконячий пеніс</AttachDragonPenis.label>
+<AttachDragonPenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона є.</AttachDragonPenis.description>
+<AttachDragonPenis.jobString>Імплантує пеніс.</AttachDragonPenis.jobString>
+<AttachHemiPenis.label>Імплантувати геміпеніс</AttachHemiPenis.label>
+<AttachHemiPenis.description>Імплантує роздвоєний пеніс.</AttachHemiPenis.description>
+<AttachHemiPenis.jobString>Імплантує геміпеніс.</AttachHemiPenis.jobString>
+<AttachCrocodilianPenis.label>Імплантувати крокодиловий пеніс</AttachCrocodilianPenis.label>
+<AttachCrocodilianPenis.description>Імплантує пеніс, замінює іншу частину тіла якщо вона наявна.</AttachCrocodilianPenis.description>
+<AttachCrocodilianPenis.jobString>Імплантує пеніс.</AttachCrocodilianPenis.jobString>
+<AttachNeedlePenis.label>Імплантувати голкоподібний пеніс</AttachNeedlePenis.label>
+<AttachNeedlePenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона є.</AttachNeedlePenis.description>
+<AttachNeedlePenis.jobString>Імплантує пеніс.</AttachNeedlePenis.jobString>
+<AttachCloacalPenis.label>Імплантувати пеніс-клоаку</AttachCloacalPenis.label>
+<AttachCloacalPenis.description>Імплантує пеніс, замінює іншу частину тіла, якщо вона наявна.</AttachCloacalPenis.description>
+<AttachCloacalPenis.jobString>Імплантує пеніс.</AttachCloacalPenis.jobString>
+<AttachRodentPenis.label>Імплантувати пеніс гризуна</AttachRodentPenis.label>
+<AttachRodentPenis.description>Імплантує пеніс, замінює іншу частину тіла якщо вона наявна.</AttachRodentPenis.description>
+<AttachRodentPenis.jobString>Імплантує пеніс.</AttachRodentPenis.jobString>
+<AttachOvipositorM.label>Імплантувати чоловічий яйцеклад</AttachOvipositorM.label>
+<AttachOvipositorM.description>Імплантує чоловічий яйцеклад, замінює іншу частину тіла якщо вона наявна.</AttachOvipositorM.description>
+<AttachOvipositorM.jobString>Імплантує чоловічий яйцеклад.</AttachOvipositorM.jobString>
+<!-- Breasts -->
+<AttachBreasts.label>Імплантувати груди</AttachBreasts.label>
+<AttachBreasts.description>Імплантує груди, замінює іншу частину тіла якщо вона є.</AttachBreasts.description>
+<AttachBreasts.jobString>Імплантує груди.</AttachBreasts.jobString>
+<AttachUdderBreasts.label>Імплантувати вим'я</AttachUdderBreasts.label>
+<AttachUdderBreasts.description>Імплантує велике коров'яче вим'я, замінює іншу частину тіла якщо вона наявна.</AttachUdderBreasts.description>
+<AttachUdderBreasts.jobString>Імплантує вим'я.</AttachUdderBreasts.jobString>
+<AttachFeaturelesschest.label>Імплантувати абсолютно плоскі груди</AttachFeaturelesschest.label>
+<AttachFeaturelesschest.description>Імплантує гладенькі груди не ссавця, замінює іншу частину тіла, якщо вона є.</AttachFeaturelesschest.description>.
+<AttachFeaturelesschest.jobString>Імплантує абсолютно плоскі груди.</AttachFeaturelesschest.jobString>
+<InstallAnus.label>Імплантувати звичайний анус</InstallAnus.label>
+<InstallAnus.description>Імплантує анус, замінює іншу частину тіла, якщо вона є.</InstallAnus.description>
+<InstallAnus.jobString>Імплантує анус.</InstallAnus.jobString>
+<InstallCloacalAnus.label>Імплантувати анус-клоаку</InstallCloacalAnus.label>
+<InstallCloacalAnus.description>Імплантує анус, замінює іншу частину тіла якщо вона наявна.</InstallCloacalAnus.description>
+<InstallCloacalAnus.jobString>Імплантує анус.</InstallCloacalAnus.jobString>
+<InstallInsectAnus.label>Імплантувати анус комахи</InstallInsectAnus.label>
+<InstallInsectAnus.description>Імплантує анус комахи, замінює іншу частину тіла якщо вона наявна.</InstallInsectAnus.description>
+<InstallInsectAnus.jobString>Імплантує анус комахи.</InstallInsectAnus.jobString>
+<!-- Attach simple prosthetic privates -->
+<InstallHydraulicPenis.label>Імплантувати гідравлічний пеніс</InstallHydraulicPenis.label>
+<InstallHydraulicPenis.description>Імплантує гідравлічний пеніс, замінює іншу частину тіла якщо вона є.</InstallHydraulicPenis.description>.
+<InstallHydraulicPenis.jobString>Імплантує гідравлічний пеніс.</InstallHydraulicPenis.jobString>
+<InstallHydraulicVagina.label>Імплантувати гідравлічну вагіну</InstallHydraulicVagina.label>
+<InstallHydraulicVagina.description>Імплантує гідравлічну вагіну, замінює іншу частину тіла якщо вона наявна.</InstallHydraulicVagina.description>
+<InstallHydraulicVagina.jobString>Імплантує гідравлічну вагіну.</InstallHydraulicVagina.jobString>
+<InstallHydraulicBreasts.label>Імплантувати гідравлічні груди</InstallHydraulicBreasts.label>
+<InstallHydraulicBreasts.description>Імплантує гідравлічні груди, замінює іншу частину тіла, якщо вона є.</InstallHydraulicBreasts.description>
+<InstallHydraulicBreasts.jobString>Імплантує гідравлічні груди.</InstallHydraulicBreasts.jobString>
+<InstallHydraulicAnus.label>Імплантувати гідравлічний анус</InstallHydraulicAnus.label>
+<InstallHydraulicAnus.description>Імплантує гідравлічний анус, замінює іншу частину тіла якщо вона наявна.</InstallHydraulicAnus.description>
+<InstallHydraulicAnus.jobString>Імплантує гідравлічний анус.</InstallHydraulicAnus.jobString>
+<AttachPegDick.label>Встановити дерев'яний член</AttachPegDick.label>
+<AttachPegDick.description>Встановлює дерев'яний член, замінює іншу частину тіла якщо вона є.</AttachPegDick.description>
+<AttachPegDick.jobString>Встановлює дерев'яний член.</AttachPegDick.jobString>
+<!-- Attach bionic privates -->
+<InstallBionicVagina.label>Імплантувати біонічну вагіну</InstallBionicVagina.label>
+<InstallBionicVagina.description>Імплантує біонічну вагіну, замінює іншу частину тіла якщо вона наявна.</InstallBionicVagina.description>
+<InstallBionicVagina.jobString>Імплантує біонічну вагіну.</InstallBionicVagina.jobString>
+<InstallBionicPenis.label>Імплантувати біонічний пеніс</InstallBionicPenis.label>
+<InstallBionicPenis.description>Імплантує біонічний пеніс, замінює іншу частину тіла, якщо вона є.</InstallBionicPenis.description>
+<InstallBionicPenis.jobString>Імплантує біонічний пеніс.</InstallBionicPenis.jobString>
+<InstallBionicBreasts.label>Імплантувати біонічні груди</InstallBionicBreasts.label>
+<InstallBionicBreasts.description>Імплантує біонічні груди, замінює іншу частину тіла, якщо вона є.</InstallBionicBreasts.description>
+<InstallBionicBreasts.jobString>Імплантує біонічні груди.</InstallBionicBreasts.jobString>
+<InstallBionicAnus.label>Імплантувати біонічний анус</InstallBionicAnus.label>
+<InstallBionicAnus.description>Імплантує біонічний анус, замінює іншу частину тіла якщо вона наявна.</InstallBionicAnus.description>
+<InstallBionicAnus.jobString>Імплантує біонічний анус.</InstallBionicAnus.jobString>
+<!-- Attach archotech privates -->
+<InstallArchotechPenis.label>Імплантувати Архотек-пеніс</InstallArchotechPenis.label>
+<InstallArchotechPenis.description>Імплантує Архотек-пеніс, замінює іншу частину тіла, якщо вона є.</InstallArchotechPenis.description>
+<InstallArchotechPenis.jobString>Імплантує Архотек-пеніс.</InstallArchotechPenis.jobString>
+<InstallArchotechVagina.label>Імплантувати Архотек-вагіну</InstallArchotechVagina.label>
+<InstallArchotechVagina.description>Імплантує Архотек-вагіну, замінює іншу частину тіла, якщо вона є.</InstallArchotechVagina.description>
+<InstallArchotechVagina.jobString>Імплантує Архотек-вагіну.</InstallArchotechVagina.jobString>
+<InstallArchotechAnus.label>Імплантувати Архотек-анус</InstallArchotechAnus.label>
+<InstallArchotechAnus.description>Імплантує Архотек-анус, замінює іншу частину тіла, якщо вона є.</InstallArchotechAnus.description>
+<InstallArchotechAnus.jobString>Імплантує Архотек-анус.</InstallArchotechAnus.jobString>
+<InstallArchotechBreasts.label>Імплантувати Архотек-груди</InstallArchotechBreasts.label>
+<InstallArchotechBreasts.description>Імплантує Архотек-груди, замінює іншу частину тіла якщо вона є.</InstallArchotechBreasts.description>
+<InstallArchotechBreasts.jobString>Імплантує Архотек-груди.</InstallArchotechBreasts.jobString>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForcedFellatioBreeding.label>Оральное обслуживание</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Отымел в рот [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Отымели в рот.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>Вагинальный секс</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] показывает свои прелести [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] видит киску.</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

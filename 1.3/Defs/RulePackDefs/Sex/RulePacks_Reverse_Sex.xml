@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<RulePackDef>
+		<defName>MainReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [RECIPIENT_nameDef] rode in [INITIATOR_nameDef]'s lap.</li>
+				<li>sent-> [RECIPIENT_nameDef] teased [INITIATOR_nameDef] until [INITIATOR_pronoun] couldn't take it anymore and ravished [RECIPIENT_objective].</li>
+				<li>sent-> [RECIPIENT_nameDef] tackled [INITIATOR_nameDef] down and pounded [RECIPIENT_objective] into the bed.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>DefaultSexReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [RECIPIENT_nameDef] had sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>AnalSexReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] was fucked anally by [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>VaginalSexReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] was fucked vaginally by [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>HandjobReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [RECIPIENT_nameDef] received a handjob from [INITIATOR_nameDef].</li>
+				<li>sent-> [INITIATOR_nameDef] squeezed [RECIPIENT_nameDef].</li>
+				<li>sent-> [INITIATOR_nameDef] jerked off [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>FootjobReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [RECIPIENT_nameDef] received a footjob from [INITIATOR_nameDef].</li>
+				<li>sent-> [INITIATOR_nameDef] squeezed [RECIPIENT_nameDef] with [INITIATOR_possessive] feet.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>FingeringReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] fingered [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>FistingReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] anally fisted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>DoublePenetrationReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into using both [RECIPIENT_possessive] poles on [INITIATOR_objective].</li>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into using both [RECIPIENT_possessive] poles on both [INITIATOR_possessive] holes.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+
+	<RulePackDef>
+		<defName>BreastjobReverseRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] gave [RECIPIENT_nameDef] a breastjob.</li>
+				<li>sent-> [INITIATOR_nameDef] stroked [RECIPIENT_nameDef] with [INITIATOR_possessive] breasts.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+</Defs>

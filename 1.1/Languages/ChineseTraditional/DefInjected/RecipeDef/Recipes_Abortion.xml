@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RJW_AbortionHuman.label>中止妊娠</RJW_AbortionHuman.label>
+	<RJW_AbortionHuman.description>這是合法的謀殺。</RJW_AbortionHuman.description>
+	<RJW_AbortionHuman.jobString>實施墮胎。</RJW_AbortionHuman.jobString>
+
+	<RJW_AbortionBeast.label>中止妊娠</RJW_AbortionBeast.label>
+	<RJW_AbortionBeast.description>這是合法的謀殺。</RJW_AbortionBeast.description>
+	<RJW_AbortionBeast.jobString>實施墮胎。</RJW_AbortionBeast.jobString>
+
+	<RJW_AbortionMech.label>中和機械胚胎</RJW_AbortionMech.label>
+	<RJW_AbortionMech.description>安全中和機械納米顆粒。</RJW_AbortionMech.description>
+	<RJW_AbortionMech.jobString>中和機械胚胎。</RJW_AbortionMech.jobString>
+
+	<RJW_HackMech.label>黑入機械</RJW_HackMech.label>
+	<RJW_HackMech.description>破解機械AI，將其從敵對AI核心的控制中分離出來，結果是溫順（除非被激怒）的機械AI。</RJW_HackMech.description>
+	<RJW_HackMech.jobString>黑入機械。</RJW_HackMech.jobString>
+</LanguageData>

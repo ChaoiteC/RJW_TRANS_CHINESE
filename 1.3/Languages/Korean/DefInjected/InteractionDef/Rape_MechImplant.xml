@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rape_MechImplant.label>메카노이드 칩 이식</Rape_MechImplant.label>
+	<Rape_MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef](을)를 습격함.</Rape_MechImplant.logRulesInitiator.rulesStrings.0>
+	<Rape_MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에 의해 능욕당함.</Rape_MechImplant.logRulesRecipient.rulesStrings.0>
+	<Rape_MechImplant.modExtensions.0.RMBLabelM>칩을 이식함.</Rape_MechImplant.modExtensions.0.RMBLabelM>
+
+</LanguageData>

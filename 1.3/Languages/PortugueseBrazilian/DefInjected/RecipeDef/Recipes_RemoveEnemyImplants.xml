@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- this needs custom class for x10, fuck it -->
+
+  <RemoveUnknownEgg.label>remover ovos</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>Remove ovos.</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>Removendo ovos.</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>remover ovos</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>Remove ovos.</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>Removendo ovos.</RemoveInsectHiveEgg.jobString>
+
+  <RemoveMicroComputer.label>remover microcomputador</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Remove microcomputador.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Removendo microcomputador.</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>remover restrições</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Remove restrições.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Removendo restrições.</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>remover casulo</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Remove casulo.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Removendo casulo.</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

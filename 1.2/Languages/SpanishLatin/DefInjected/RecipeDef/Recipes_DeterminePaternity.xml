@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePaternity.label>checar paternidad</DeterminePaternity.label>
+  <DeterminePaternity.description>Determina si un colono está embarazado(a) o no, y tratar de averiguar quién es el padre.</DeterminePaternity.description>
+  <DeterminePaternity.jobString>Checar paternidad.</DeterminePaternity.jobString>
+
+
+</LanguageData>

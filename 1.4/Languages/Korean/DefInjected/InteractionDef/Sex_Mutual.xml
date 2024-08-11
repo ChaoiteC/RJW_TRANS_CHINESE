@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Makeout.label>키스</Sex_Makeout.label>
+	<Sex_Makeout.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 입에 키스하고 황홀한 기분을 느낌.</Sex_Makeout.logRulesInitiator.rulesStrings.0>
+	<Sex_Makeout.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 입에 키스하고 황홀한 기분을 느낌.</Sex_Makeout.logRulesRecipient.rulesStrings.0>
+	<Sex_Makeout.modExtensions.0.RMBLabel>서로 손을 맞잡음.</Sex_Makeout.modExtensions.0.RMBLabel>
+
+	<Sex_MutualHandholding.label>서로 손잡기</Sex_MutualHandholding.label>
+	<Sex_MutualHandholding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 손을 꽉 쥐고 황홀한 기분을 느낌.</Sex_MutualHandholding.logRulesInitiator.rulesStrings.0>
+	<Sex_MutualHandholding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 손을 꽉 쥐고 황홀한 기분을 느낌.</Sex_MutualHandholding.logRulesRecipient.rulesStrings.0>
+	<Sex_MutualHandholding.modExtensions.0.RMBLabel>서로 손을 맞잡음.</Sex_MutualHandholding.modExtensions.0.RMBLabel>
+
+	<Sex_MutualMasturbation.label>상호 자위</Sex_MutualMasturbation.label>
+	<Sex_MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->손으로 [RECIPIENT_nameDef]의 성감대를 애무하면서 같은 방법으로 애무받음.</Sex_MutualMasturbation.logRulesInitiator.rulesStrings.0>
+	<Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->손으로 [INITIATOR_nameDef]의 성감대를 애무하면서 같은 방법으로 애무받음.</Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>
+	<Sex_MutualMasturbation.modExtensions.0.RMBLabel>상호 자위를 시작함.</Sex_MutualMasturbation.modExtensions.0.RMBLabel>
+
+	<Sex_MutualTailholding.label>상호 꼬리 걸기</Sex_MutualTailholding.label>
+	<Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>r_logentry->꼬리로 [RECIPIENT_nameDef]의 몸을 감싸고 애무함 .</Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>
+	<Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>r_logentry->꼬리로 [INITIATOR_nameDef]의 몸을 감싸고 애무함.</Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>
+	<Sex_MutualTailholding.modExtensions.0.RMBLabel>서로 꼬리를 걸음.</Sex_MutualTailholding.modExtensions.0.RMBLabel>
+
+	<Sex_Sixtynine.label>69</Sex_Sixtynine.label>
+	<Sex_Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]와 69 자세로 성감대를 애무함.</Sex_Sixtynine.logRulesInitiator.rulesStrings.0>
+	<Sex_Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]와 69 자세로 성감대를 애무함.</Sex_Sixtynine.logRulesRecipient.rulesStrings.0>
+	<Sex_Sixtynine.modExtensions.0.RMBLabelM>69 자세를 취함.</Sex_Sixtynine.modExtensions.0.RMBLabelM>
+
+</LanguageData>

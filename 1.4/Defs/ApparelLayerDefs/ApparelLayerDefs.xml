@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--A plugs-->
+	<ApparelLayerDef>
+		<defName>AnalInsertableBondage</defName>
+		<label>insertable</label>
+		<drawOrder>1</drawOrder>
+	</ApparelLayerDef>
+
+	<!--V plugs-->
+	<ApparelLayerDef>
+		<defName>VaginalInsertableBondage</defName>
+		<label>insertable</label>
+		<drawOrder>2</drawOrder>
+	</ApparelLayerDef>
+
+	<!--C belts-->
+	<ApparelLayerDef>
+		<defName>BeltsOnSkinBondage</defName>
+		<label>Over skin</label>
+		<drawOrder>2</drawOrder>
+	</ApparelLayerDef>
+
+	<!--
+	<ApparelLayerDef>
+		<defName>OnSkinBondage1</defName>
+		<label>Over skin</label>
+		<drawOrder>3</drawOrder>
+	</ApparelLayerDef>
+	-->
+
+	<ApparelLayerDef>
+		<defName>GagOuterBondage</defName>
+		<label>headgear</label>
+		<drawOrder>401</drawOrder>
+	</ApparelLayerDef>
+
+	<!--chains, armbinders, etc-->
+	<ApparelLayerDef>
+		<defName>ArmsOuterBondage</defName>
+		<label>outer</label>
+		<drawOrder>502</drawOrder>
+	</ApparelLayerDef>
+
+	<ApparelLayerDef>
+		<defName>LegsOuterBondage</defName>
+		<label>outer</label>
+		<drawOrder>501</drawOrder>
+	</ApparelLayerDef>
+</Defs>

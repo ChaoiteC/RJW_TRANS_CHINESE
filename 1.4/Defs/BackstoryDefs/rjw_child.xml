@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<BackstoryDef>
+		<defName>rjw_childC</defName>
+		<baseDesc>[PAWN_nameDef] was born in civil settlement.</baseDesc>
+		<title>Child</title>
+		<titleShort>Child</titleShort>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Child</li>
+		</spawnCategories>
+ 	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_childT</defName>
+		<baseDesc>[PAWN_nameDef] was born in a tribe.</baseDesc>
+		<title>Child</title>
+		<titleShort>Child</titleShort>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Child</li>
+		</spawnCategories>
+	</BackstoryDef>
+</Defs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- From core -->
+
+  <claimChild.label>Reivindicar criança</claimChild.label>
+  <claimChild.description>Faz uma criança pertencer a colônia.</claimChild.description>
+  <claimChild.jobString>Adotando.</claimChild.jobString>
+
+
+</LanguageData>

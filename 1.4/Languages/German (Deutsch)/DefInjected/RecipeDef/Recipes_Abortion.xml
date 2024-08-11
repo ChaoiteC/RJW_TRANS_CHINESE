@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_AbortionHuman.label>Abtreibung</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>Beendet Schwangerschaften vorzeitig.</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>Treibt ab.</RJW_AbortionHuman.jobString>
+
+  <RJW_AbortionBeast.label>Abtreibung</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>Beendet Schwangerschaften vorzeitig.</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>Treibt ab.</RJW_AbortionBeast.jobString>
+
+  <RJW_AbortionMech.label>Neutralisiere Mechanoiden</RJW_AbortionMech.label>
+  <RJW_AbortionMech.description>Entferne die Mechanoidenbrut.</RJW_AbortionMech.description>
+  <RJW_AbortionMech.jobString>Treibt ab.</RJW_AbortionMech.jobString>
+
+  <RJW_HackMech.label>Hacke Mechanoiden</RJW_HackMech.label>
+  <RJW_HackMech.description>Hacke die Mechanoid AI, um die Verbindung zur Zentralen AI zu unterbrechen und den Mechanoiden zu neutralisieren.</RJW_HackMech.description>
+  <RJW_HackMech.jobString>Hackt Mechanoiden.</RJW_HackMech.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<FeelingBroken.label>Зламаність</FeelingBroken.label>
+<FeelingBroken.description>Розум пригнічений і не здатний навіть на найпростіші емоції.</FeelingBroken.description>
+<FeelingBroken.stages.0.label>Рання стадія</FeelingBroken.stages.0.label>
+<FeelingBroken.stages.1.label>У трансі</FeelingBroken.stages.1.label>
+<FeelingBroken.stages.2.label>Зламаність</FeelingBroken.stages.2.label>
+<FeelingBroken.stages.3.label>Критична зломленість</FeelingBroken.stages.3.label>
+</LanguageData>

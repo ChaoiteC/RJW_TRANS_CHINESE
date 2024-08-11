@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RJW_RMB>RJW</RJW_RMB>
+	<RJW_RMB_Social>社交</RJW_RMB_Social>
+	<RJW_RMB_Masturbate>自慰</RJW_RMB_Masturbate>
+	<RJW_RMB_Sex>與某人發生性關係</RJW_RMB_Sex>
+	<RJW_RMB_Rape>強姦</RJW_RMB_Rape>
+
+	<!--Social-->
+	<RJW_RMB_Insult>侮辱</RJW_RMB_Insult>
+	<RJW_RMB_SocialFight>動手打架</RJW_RMB_SocialFight>
+	<RJW_RMB_Chat>閑聊</RJW_RMB_Chat>
+	<RJW_RMB_DeepTalk>深談</RJW_RMB_DeepTalk>
+	<RJW_RMB_RomanceAttempt>嘗試浪漫</RJW_RMB_RomanceAttempt>
+	<RJW_RMB_MarriageProposal>提出求婚</RJW_RMB_MarriageProposal>
+
+	<!--Masturbate-->
+	<RJW_RMB_Masturbate_Bed>在椅子或床上自慰</RJW_RMB_Masturbate_Bed>
+	<RJW_RMB_Masturbate_At>自慰</RJW_RMB_Masturbate_At>
+	<RJW_RMB_Masturbate_Here>在這裡自慰</RJW_RMB_Masturbate_Here>
+	<RJW_RMB_Masturbate_With>用道具自慰</RJW_RMB_Masturbate_With> <!-- dildoes or something like that -->
+
+	<!--Flavor text until this would actually be implemented some day if ever-->
+	<RJW_RMB_Masturbate_Fap>打飛機</RJW_RMB_Masturbate_Fap>
+	<RJW_RMB_Masturbate_Schlic>自慰</RJW_RMB_Masturbate_Schlic>
+	<RJW_RMB_Masturbate_Breasts>玩弄乳房</RJW_RMB_Masturbate_Breasts>
+	<RJW_RMB_Masturbate_Anal>玩弄肛門</RJW_RMB_Masturbate_Anal>
+	<RJW_RMB_Masturbate_AF>自我口交</RJW_RMB_Masturbate_AF>
+	<RJW_RMB_Masturbate_BJ>乳交</RJW_RMB_Masturbate_BJ>
+	<RJW_RMB_Masturbate_TJV>尾巴插陰道</RJW_RMB_Masturbate_TJV>
+	<RJW_RMB_Masturbate_TJA>尾巴插肛門</RJW_RMB_Masturbate_TJA>
+	
+	<!--Have sex-->
+	
+	<!--Rape-->
+	<RJW_RMB_RapeCP>強姦洩慾囚犯</RJW_RMB_RapeCP>
+	<RJW_RMB_RapeEnemy>強姦敵人</RJW_RMB_RapeEnemy>
+	<RJW_RMB_RapeCorpse>褻瀆屍體</RJW_RMB_RapeCorpse>
+	<RJW_RMB_RapeAnimal>強姦動物</RJW_RMB_RapeAnimal>
+	
+	<!--Poses/parts?-->
+</LanguageData>

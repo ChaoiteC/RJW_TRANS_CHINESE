@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<PawnColumnDef>
+		<defName>RJW_IsPrisoner</defName>
+		<headerTip>Prisoners</headerTip>
+		<headerIcon>UI/Commands/ComfortPrisoner_off</headerIcon>
+		<workerClass>rjw.MainTab.Icon.PawnColumnWorker_IsPrisoner</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	<PawnColumnDef>
+		<defName>RJW_IsSlave</defName>
+		<headerTip>Slaves</headerTip>
+		<headerIcon>UI/Commands/ComfortPrisoner_off</headerIcon>
+		<workerClass>rjw.MainTab.Icon.PawnColumnWorker_IsSlave</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	<PawnColumnDef>
+		<defName>RJW_Gender</defName>
+		<headerIcon>UI/Icons/Gender/Genders</headerIcon>
+		<headerTip>Gender</headerTip>
+		<workerClass>rjw.MainTab.Icon.PawnColumnWorker_RJWGender</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+</Defs>

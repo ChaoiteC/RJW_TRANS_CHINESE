@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+<!--
+	<InteractionDef>
+		<defName>SelfAutoFellatio</defName>
+		<label>AutoFellatio</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fellated myself.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+	</InteractionDef>
+	<InteractionDef>
+		<defName>Fellatio</defName>
+		<label>Fellatio</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Breastjobbed myself.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+	</InteractionDef>
+	<InteractionDef>
+		<defName>Fellatio</defName>
+		<label>Fellatio</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Stroked myself.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+	</InteractionDef>
+	<InteractionDef>
+		<defName>Fellatio</defName>
+		<label>Fellatio</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Schlicked myself.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+	</InteractionDef>
+	<InteractionDef>
+		<defName>Fellatio</defName>
+		<label>Fellatio</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>Things/Mote/SpeechSymbols/Romance</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fellated myself.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+	</InteractionDef>
+	-->
+</Defs>

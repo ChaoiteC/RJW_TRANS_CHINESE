@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- invitation "Female" breeding -->
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>RequestVaginalBreeding</defName>
+		<label>vaginal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed vaginally</RMBLabelM>
+				<RMBLabelF>request vaginal breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Vaginal</rjwSextype>
+				<i_role>Passive</i_role>
+				<tags>
+					<li>Vaginal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>VaginalBreedingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>RequestAnalBreeding</defName>
+		<label>anal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed anally</RMBLabelM>
+				<RMBLabelF>request anal breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Anal</rjwSextype>
+				<tags>
+					<li>Anal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>AnalBreedingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <PlantHumpShroom.label>cogumelo champintón</PlantHumpShroom.label>
+  <PlantHumpShroom.description>Um cogumelo grosso com carne dura, um suco espesso e uma pele macia. Exibe efeitos afrodisíacos quando consumido, recupera foco psíquico.</PlantHumpShroom.description>
+
+
+  <!-- Consumable item -->
+
+  <HumpShroom.label>champintón</HumpShroom.label>
+  <HumpShroom.description>Um cogumelo grosso com carne dura, um suco espesso e uma pele macia. Exibe efeitos afrodisíacos quando consumido, recupera foco psíquico.</HumpShroom.description>
+
+
+</LanguageData>

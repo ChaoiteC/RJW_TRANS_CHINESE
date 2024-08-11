@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (broken) -->
+
+  <size0.label>RJW part size set(PC)(broken):</size0.label>
+  <size0.description>Change part size to:</size0.description>
+  <size0.stages.0.label>Micro/Flat</size0.stages.0.label>
+  <size0.stages.1.label>Small/Thight</size0.stages.1.label>
+  <size0.stages.2.label>Average</size0.stages.2.label>
+  <size0.stages.3.label>Large/Loose</size0.stages.3.label>
+  <size0.stages.4.label>Huge/Gaping</size0.stages.4.label>
+  <size0.stages.5.label>Oversized</size0.stages.5.label>
+
+
+  <!-- For use in CE -->
+
+  <size1.label>RJW size set(CE): Микро/Соски</size1.label>
+  <size1.description>Сменить размер на:</size1.description>
+
+  <size2.label>RJW size set(CE): Микро/Маленький</size2.label>
+  <size2.description>Сменить размер на:</size2.description>
+
+  <size3.label>RJW size set(CE): Маленький/Узкий</size3.label>
+  <size3.description>Сменить размер на::</size3.description>
+
+  <size4.label>RJW size set(CE): Обычный размер</size4.label>
+  <size4.description>Сменить размер на:</size4.description>
+
+  <size5.label>RJW size set(CE): Большой/Просторный</size5.label>
+  <size5.description>Сменить размер на:</size5.description>
+
+  <size6.label>RJW size set(CE): Огромный/Пещера</size6.label>
+  <size6.description>Сменить размер на:</size6.description>
+
+  <size7.label>RJW size set(CE): Гигантский/Бездна/Ненормальный размер</size7.label>
+  <size7.description>Сменить размер на::</size7.description>
+
+  <size8.label>RJW breasts size set(CE): Массивный</size8.label>
+  <size8.description>Сменить размер на:</size8.description>
+
+  <size9.label>RJW breasts size set(CE): Гигантский</size9.label>
+  <size9.description>Сменить размер на:</size9.description>
+
+  <size10.label>RJW breasts size set(CE): Колоссальный</size10.label>
+  <size10.description>Сменить размер на:</size10.description>
+
+
+</LanguageData>

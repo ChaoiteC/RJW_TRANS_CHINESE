@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_Vaginal</defName>
+		<label>vaginal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Had vaginal sex with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Had vaginal sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Have vaginal sex</RMBLabel>
+				<rjwSextype>Vaginal</rjwSextype>
+				<rulepack_defs>
+					<li>VaginalSexRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

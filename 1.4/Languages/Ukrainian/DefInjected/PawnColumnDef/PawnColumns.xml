@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<IsWhore.headerTip>Пешка повія</IsWhore.headerTip>
+<IsPrisoner.headerTip>Пешка в'язень або раб</IsPrisoner.headerTip>
+<WhoreExperience.label>Досвід</WhoreExperience.label>
+<WhoreExperience.headerTip>досвід проституції</WhoreExperience.headerTip>
+<RoomAdjustmentOfWhore.label>Комната</RoomAdjustmentOfWhore.label>
+<RoomAdjustmentOfWhore.headerTip>враження від кімнати повії -&gt; впливає на ціну</RoomAdjustmentOfWhore.headerTip>
+<PriceRangeOfWhore.label>Ціна</PriceRangeOfWhore.label>
+<PriceRangeOfWhore.headerTip>Діапазон цін повії</PriceRangeOfWhore.headerTip>
+<EarnedMoneyByWhore.label>Зароблено</EarnedMoneyByWhore.label>
+<EarnedMoneyByWhore.headerTip>грошей зароблено (всього)</EarnedMoneyByWhore.headerTip>
+<CountOfWhore.label>Клієнти</CountOfWhore.label>
+<CountOfWhore.headerTip>Обслуговано клієнтів</CountOfWhore.headerTip>
+<AverageMoneyByWhore.label>Середнє</AverageMoneyByWhore.label>
+<AverageMoneyByWhore.headerTip>Середній заробіток</AverageMoneyByWhore.headerTip>
+<Mood.label>Настрій</Mood.label>
+<Mood.headerTip>Настрій</Mood.headerTip>
+</LanguageData>

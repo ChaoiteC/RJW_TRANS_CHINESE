@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AnalSex.label>性交（肛門）</AnalSex.label>
+	<AnalSex.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]發生了性關係（肛門）</AnalSex.logRulesInitiator.rulesStrings.0>
+	<AnalSex.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]發生了性關係（肛門）</AnalSex.logRulesRecipient.rulesStrings.0>
+
+	<VaginalSex.label>性交（陰道）</VaginalSex.label>
+	<VaginalSex.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]發生了性關係（陰道）</VaginalSex.logRulesInitiator.rulesStrings.0>
+	<VaginalSex.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]發生了性關係（陰道）</VaginalSex.logRulesRecipient.rulesStrings.0>
+
+	<Handjob.label>手交</Handjob.label>
+	<Handjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]做了手交。</Handjob.logRulesInitiator.rulesStrings.0>
+	<Handjob.logRulesRecipient.rulesStrings.0>r_logentry->得到了[INITIATOR_nameDef]的手交。</Handjob.logRulesRecipient.rulesStrings.0>
+
+	<Footjob.label>足交</Footjob.label>
+	<Footjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]做了足交。</Footjob.logRulesInitiator.rulesStrings.0>
+	<Footjob.logRulesRecipient.rulesStrings.0>r_logentry->得到了[INITIATOR_nameDef]的足交。</Footjob.logRulesRecipient.rulesStrings.0>
+
+	<Fingering.label>指交</Fingering.label>
+	<Fingering.logRulesInitiator.rulesStrings.0>r_logentry->指交了[RECIPIENT_nameDef]。</Fingering.logRulesInitiator.rulesStrings.0>
+	<Fingering.logRulesRecipient.rulesStrings.0>r_logentry->得到了[INITIATOR_nameDef]的手交。</Fingering.logRulesRecipient.rulesStrings.0>
+
+  <Fisting.label>拳指性交</Fisting.label>
+  <Fisting.logRulesInitiator.rulesStrings.0>r_logentry->拳指性交了[RECIPIENT_nameDef]。</Fisting.logRulesInitiator.rulesStrings.0>
+  <Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]拳指性交了。</Fisting.logRulesRecipient.rulesStrings.0>
+
+	<Breastjob.label>乳交</Breastjob.label>
+	<Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->為[RECIPIENT_nameDef]做了乳交。</Breastjob.logRulesInitiator.rulesStrings.0>
+	<Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->得到了[INITIATOR_nameDef]的乳交。</Breastjob.logRulesRecipient.rulesStrings.0>
+
+	<DoublePenetration.label>雙洞齊插</DoublePenetration.label>
+	<DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->雙洞齊插了[RECIPIENT_nameDef]。</DoublePenetration.logRulesInitiator.rulesStrings.0>
+	<DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]雙洞齊插了。</DoublePenetration.logRulesRecipient.rulesStrings.0>
+
+	<Scissoring.label>剪刀腿</Scissoring.label>
+	<Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->用剪刀腿的姿勢與[RECIPIENT_nameDef]磨豆豆了。</Scissoring.logRulesInitiator.rulesStrings.0>
+	<Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->用剪刀腿的姿勢與[INITIATOR_nameDef]磨豆豆了。</Scissoring.logRulesRecipient.rulesStrings.0>
+
+	<MutualMasturbation.label>互相手淫</MutualMasturbation.label>
+	<MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]試著互相手淫了。</MutualMasturbation.logRulesInitiator.rulesStrings.0>
+	<MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]試著互相手淫了。</MutualMasturbation.logRulesRecipient.rulesStrings.0>
+</LanguageData>

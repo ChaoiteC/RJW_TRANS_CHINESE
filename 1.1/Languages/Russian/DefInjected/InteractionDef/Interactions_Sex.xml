@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalSex.label>anal sex</AnalSex.label>
+  <AnalSex.logRulesInitiator.rulesStrings.0>r_logentry->Had anal sex with [RECIPIENT_nameDef].</AnalSex.logRulesInitiator.rulesStrings.0>
+  <AnalSex.logRulesRecipient.rulesStrings.0>r_logentry->Had anal sex with [INITIATOR_nameDef].</AnalSex.logRulesRecipient.rulesStrings.0>
+
+  <VaginalSex.label>vaginal sex</VaginalSex.label>
+  <VaginalSex.logRulesInitiator.rulesStrings.0>r_logentry->Had sex with [RECIPIENT_nameDef].</VaginalSex.logRulesInitiator.rulesStrings.0>
+  <VaginalSex.logRulesRecipient.rulesStrings.0>r_logentry->Had sex with [INITIATOR_nameDef].</VaginalSex.logRulesRecipient.rulesStrings.0>
+
+  <DoublePenetration.label>double-penetration</DoublePenetration.label>
+  <DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->Double-penetrated [RECIPIENT_nameDef].</DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->Was double-penetrated.</DoublePenetration.logRulesRecipient.rulesStrings.0>
+
+  <Breastjob.label>breastjob</Breastjob.label>
+  <Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->Gave a breastjob to [RECIPIENT_nameDef].</Breastjob.logRulesInitiator.rulesStrings.0>
+  <Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->Received a breastjob.</Breastjob.logRulesRecipient.rulesStrings.0>
+
+  <Handjob.label>handjob</Handjob.label>
+  <Handjob.logRulesInitiator.rulesStrings.0>r_logentry->Gave a Handjob.</Handjob.logRulesInitiator.rulesStrings.0>
+  <Handjob.logRulesRecipient.rulesStrings.0>r_logentry->Received a Handjob.</Handjob.logRulesRecipient.rulesStrings.0>
+
+  <Footjob.label>footjob</Footjob.label>
+  <Footjob.logRulesInitiator.rulesStrings.0>r_logentry->Gave a footjob.</Footjob.logRulesInitiator.rulesStrings.0>
+  <Footjob.logRulesRecipient.rulesStrings.0>r_logentry->Received a footjob.</Footjob.logRulesRecipient.rulesStrings.0>
+
+  <Beakjob.label>beakjob</Beakjob.label>
+  <Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->Gave a beakjob.</Beakjob.logRulesInitiator.rulesStrings.0>
+  <Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->Received a beakjob.</Beakjob.logRulesRecipient.rulesStrings.0>
+
+  <Fingering.label>Фингеринг</Fingering.label>
+  <Fingering.logRulesInitiator.rulesStrings.0>r_logentry->Вошёл пальцами в [RECIPIENT_nameDef].</Fingering.logRulesInitiator.rulesStrings.0>
+  <Fingering.logRulesRecipient.rulesStrings.0>r_logentry->Наслаждается фингерингом.</Fingering.logRulesRecipient.rulesStrings.0>
+
+  <Scissoring.label>Поза ножницы</Scissoring.label>
+  <Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->Потёрлась кисками с [RECIPIENT_nameDef].</Scissoring.logRulesInitiator.rulesStrings.0>
+  <Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->Потёрлась кисками с [INITIATOR_nameDef].</Scissoring.logRulesRecipient.rulesStrings.0>
+
+  <MutualMasturbation.label>Взаимная мастурбация</MutualMasturbation.label>
+  <MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->Принимает участие во взаимной мастурбации.</MutualMasturbation.logRulesInitiator.rulesStrings.0>
+  <MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->Принимает участие во взаимной мастурбации.</MutualMasturbation.logRulesRecipient.rulesStrings.0>
+
+  <Fisting.label>Фистинг</Fisting.label>
+  <Fisting.logRulesInitiator.rulesStrings.0>r_logentry->Засовывает кулак в [RECIPIENT_nameDef].</Fisting.logRulesInitiator.rulesStrings.0>
+  <Fisting.logRulesRecipient.rulesStrings.0>r_logentry->Наслаждается фистингом.</Fisting.logRulesRecipient.rulesStrings.0>
+
+  <Sixtynine.label>69</Sixtynine.label>
+  <Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->Участвует в позе 69 с [RECIPIENT_nameDef].</Sixtynine.logRulesInitiator.rulesStrings.0>
+  <Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->Участвует в позе 69 с [INITIATOR_nameDef].</Sixtynine.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Experimenting with sex dialogue. This was easiest to add, but the same method could be used to add pillow talk, etc. -->
+
+  <AnimalSexChat.label>Болтовня с животным</AnimalSexChat.label>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.0>r_logentry(p=20)->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.0>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] садится рядом с [RECIPIENT_nameDef] и говорит с [INITIATOR_objective] про [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.1>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] садится рядом с [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.2>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] подходит к [RECIPIENT_nameDef] и шепчет [INITIATOR_objective] что-то про [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.3>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] подходит к [RECIPIENT_nameDef] и шепчет [INITIATOR_objective] что-то про [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.4>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.5>r_logentry(p=2)->[INITIATOR_nameDef] приближается к [RECIPIENT_nameDef] рассказывая [INITIATOR_objective] про [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.5>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] приближается [RECIPIENT_nameDef] рассказывая [INITIATOR_objective] про [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.6>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef]пытается заставить [RECIPIENT_nameDef] сидеть смирно.</AnimalSexChat.logRulesInitiator.rulesStrings.7>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] пытается удержать [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.8>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] шлёпнул [RECIPIENT_nameDef] чтобы показать кто тут хозяин.</AnimalSexChat.logRulesInitiator.rulesStrings.9>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] мягко поглаживает гениталии [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.10>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] хватает [RECIPIENT_nameDef] за уязвимое место, требуя послушания.</AnimalSexChat.logRulesInitiator.rulesStrings.11>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.12>zooact->требует послушания</AnimalSexChat.logRulesInitiator.rulesStrings.12>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.13>zooact->издаёт успокаивабщие звуки</AnimalSexChat.logRulesInitiator.rulesStrings.13>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.14>zooact->делает дружелюбные жесты</AnimalSexChat.logRulesInitiator.rulesStrings.14>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.15>zooact->издаёт успокаивающие звуки</AnimalSexChat.logRulesInitiator.rulesStrings.15>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.16>zooact->издаёт цокающие звуки</AnimalSexChat.logRulesInitiator.rulesStrings.16>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.17>zooact->успокаивающе жестикулирует и приближается к</AnimalSexChat.logRulesInitiator.rulesStrings.17>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.18>zooact->медленно приближается к</AnimalSexChat.logRulesInitiator.rulesStrings.18>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.19>zooact->мягко прикасается к</AnimalSexChat.logRulesInitiator.rulesStrings.19>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.20>zooact->ласкает</AnimalSexChat.logRulesInitiator.rulesStrings.20>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.21>zooact->гладит</AnimalSexChat.logRulesInitiator.rulesStrings.21>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.22>zooact->успокаивает</AnimalSexChat.logRulesInitiator.rulesStrings.22>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.23>zooact->дышит в унисон с</AnimalSexChat.logRulesInitiator.rulesStrings.23>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.24>zooact->крадучись приближается к</AnimalSexChat.logRulesInitiator.rulesStrings.24>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.25>zooact->показывает отсутствие страха и агрессии</AnimalSexChat.logRulesInitiator.rulesStrings.25>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.26>zooact->легонько прикасается к</AnimalSexChat.logRulesInitiator.rulesStrings.26>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.27>zooact->показывает своё расслабленное поведение</AnimalSexChat.logRulesInitiator.rulesStrings.27>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.28>zooact->показывает [INITIATOR_possessive] гениталии</AnimalSexChat.logRulesInitiator.rulesStrings.28>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.29>zooact->вызывающе демонстрирует [INITIATOR_possessive] гениталии</AnimalSexChat.logRulesInitiator.rulesStrings.29>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.30>zooact->шепчет историю про [TalkTopicAny]</AnimalSexChat.logRulesInitiator.rulesStrings.30>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.31>zooact->шепчет историю про [TalkTopicSex]</AnimalSexChat.logRulesInitiator.rulesStrings.31>
+
+
+</LanguageData>

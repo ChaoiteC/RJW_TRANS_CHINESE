@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AcuteHIV.label>Вірус імунодефіциту, що передається статевим шляхом</AcuteHIV.label>
+<AcuteHIV.description>Вірус імунодефіциту, що передається статевим шляхом.</AcuteHIV.description>
+<AcuteHIV.stages.0.label>Діагнозований</AcuteHIV.stages.0.label>
+<AcuteHIV.stages.1.label>Мицний</AcuteHIV.stages.1.label>
+<AcuteHIV.stages.2.label>Слабкий</AcuteHIV.stages.2.label>
+<AcuteHIV.stages.3.label>Слабкий</AcuteHIV.stages.3.label>
+<AcuteHIV.stages.4.label>Середній</AcuteHIV.stages.4.label>
+<AcuteHIV.stages.5.label>Сильний</AcuteHIV.stages.5.label>
+<AcuteHIV.stages.6.label>Сильний</AcuteHIV.stages.6.label>
+<AcuteHIV.stages.7.label>Сильний</AcuteHIV.stages.7.label>
+<AcuteHIV.stages.8.label>Критичний</AcuteHIV.stages.8.label>
+<AcuteHIV.stages.9.label>Критичний</AcuteHIV.stages.9.label>
+<ChronicHIV.label>ВІЛ - Хронічний</ChronicHIV.label>
+<ChronicHIV.description>Вірус імунодефіциту, що передається статевим шляхом.</ChronicHIV.description>
+<ChronicHIV.stages.0.label>Діагнозований</ChronicHIV.stages.0.label>
+<ChronicHIV.stages.1.label>Хибкий</ChronicHIV.stages.1.label>
+<ChronicHIV.stages.2.label>Слабкий</ChronicHIV.stages.2.label>
+<ChronicHIV.stages.3.label>Слабкий</ChronicHIV.stages.3.label>
+<ChronicHIV.stages.4.label>Середній</ChronicHIV.stages.4.label>
+<ChronicHIV.stages.5.label>Сильний</ChronicHIV.stages.5.label>
+<ChronicHIV.stages.6.label>Сильний</ChronicHIV.stages.6.label>
+<ChronicHIV.stages.7.label>Сильний</ChronicHIV.stages.7.label>
+<ChronicHIV.stages.8.label>Критичний</ChronicHIV.stages.8.label>
+<ChronicHIV.stages.9.label>Критичний</ChronicHIV.stages.9.label>
+<Herpes.label>Герпес</Herpes.label>
+<Herpes.description>Ранки на геніталіях, що з'являються після статевого контакту із зараженим.</Herpes.description>
+<Herpes.stages.0.label>Слабкий</Herpes.stages.0.label>
+<Herpes.stages.1.label>Середній</Herpes.stages.1.label>
+<Herpes.stages.2.label>Сильний</Herpes.stages.2.label>
+<Warts.label>Бородавки</Warts.label>
+<Warts.description>Генітальні бородавки, що передаються статевим шляхом.</Warts.description>
+<Warts.stages.0.label>Немного</Warts.stages.0.label>
+<Warts.stages.1.label>Помітна кількість</Warts.stages.1.label>
+<Syphilis.label>Сифіліс</Syphilis.label>
+<Syphilis.description>Бактеріальна інфекція, що передається статевим шляхом</Syphilis.description>
+<Syphilis.stages.0.label>Мицний</Syphilis.stages.0.label>
+<Syphilis.stages.1.label>Середній</Syphilis.stages.1.label>
+<Syphilis.stages.2.label>Сильний</Syphilis.stages.2.label>
+<Syphilis.stages.3.label>Критичний</Syphilis.stages.3.label>
+<Syphilis.stages.4.label>Критичний</Syphilis.stages.4.label>
+<Syphilis.stages.5.label>Критичний</Syphilis.stages.5.label>
+<Boobitis.label>Грудить</Boobitis.label>
+<Boobitis.description>Грудит - це гостре захворювання, викликане наноботами, що призводить до безперервного зростання грудей. Воно було спочатку створене для безпечного використання в просунутих світах, але поширилося і мутувало.</Boobitis.description>
+<Boobitis.stages.0.label>слабке набрякання</Boobitis.stages.0.label>
+<Boobitis.stages.1.label>Помітне набрякання</Boobitis.stages.1.label>
+<Boobitis.stages.2.label>Ефектне набрякання</Boobitis.stages.2.label>
+</LanguageData>

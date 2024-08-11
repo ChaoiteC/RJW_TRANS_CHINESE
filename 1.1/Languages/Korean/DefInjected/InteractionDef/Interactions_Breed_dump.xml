@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ForcedFellatioBreeding.label>입으로 봉사</ForcedFellatioBreeding.label>
+	<ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 입에 자지가 삽입됨.</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+	<ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->입으로 자지를 삼킴.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+	<RequestBreeding.label>삽입 교미</RequestBreeding.label>
+	<RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 섹스를 요구함.</RequestBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 섹스를 요구받음.</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

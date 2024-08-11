@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Condom.label>Preservativo</Condom.label>
+  <Condom.description>Previene el embarazo una vez. Sugerencia: se usa automáticamente del inventario o de una pila colocada junto a la cama.</Condom.description>
+
+  <UsedCondom.label>Preservativo usado</UsedCondom.label>
+  <UsedCondom.description>Un condón lleno de esperma. HMM una delicia!</UsedCondom.description>
+
+
+</LanguageData>

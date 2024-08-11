@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Consumable item -->
+<HumpShroomEffect.label>Підвищене лібідо</HumpShroomEffect.label>
+<HumpShroomEffect.description>Ефект афродизіака від того дивного гриба.</HumpShroomEffect.description>
+<!-- Ambrosia addiction -->
+<HumpShroomTolerance.label>Звикання до гриба</HumpShroomTolerance.label>
+<HumpShroomTolerance.description>Ефект слабшає з кожним прийомом. Мені потрібно більше!!!</HumpShroomTolerance.description>
+<HumpShroomAddiction.label>Залежність до гриба</HumpShroomAddiction.label>
+<HumpShroomAddiction.description>Ви не можете зупинитися.</HumpShroomAddiction.description>
+<HumpShroomAddiction.stages.1.label>Ломка</HumpShroomAddiction.stages.1.label>
+</LanguageData>

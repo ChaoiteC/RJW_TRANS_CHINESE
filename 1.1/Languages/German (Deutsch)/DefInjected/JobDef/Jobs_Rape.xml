@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GettinRaped.reportString>wird vergewaltigt.</GettinRaped.reportString>
+  <RapeComfortPawn.reportString>vergewaltigt</RapeComfortPawn.reportString>
+  <RandomRape.reportString>Vergewaltigt zufälliges Opfer</RandomRape.reportString>
+  <RapeEnemy.reportString>vergewaltigt Feind</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>vergewaltigt Feind</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>vergewaltigt Feind</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>vergewaltigt Feind</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>vergewaltigt Feind</RapeEnemyToParasite.reportString>
+
+
+</LanguageData>

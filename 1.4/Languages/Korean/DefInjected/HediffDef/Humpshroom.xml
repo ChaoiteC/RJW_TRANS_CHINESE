@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HumpShroomEffect.label>최음 성분</HumpShroomEffect.label>
+	<HumpShroomEffect.description>최음 버섯의 최음 효과입니다.</HumpShroomEffect.description>
+
+	<HumpShroomTolerance.label>최음버섯 내성</HumpShroomTolerance.label>
+	<HumpShroomTolerance.description>최음 버섯의 효과에 내성이 생겼습니다.</HumpShroomTolerance.description>
+
+	<HumpShroomAddiction.label>최음버섯 중독</HumpShroomAddiction.label>
+	<HumpShroomAddiction.description>최음 버섯의 효과에 중독되었습니다.</HumpShroomAddiction.description>
+	<HumpShroomAddiction.stages.1.label>금단 증상</HumpShroomAddiction.stages.1.label>
+
+</LanguageData>

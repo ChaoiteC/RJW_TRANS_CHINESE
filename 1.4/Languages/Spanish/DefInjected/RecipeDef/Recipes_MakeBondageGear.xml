@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHololock.label>fabricar holotraba</MakeHololock.label>
+  <MakeHololock.description>Fabricar una holotraba.</MakeHololock.description>
+  <MakeHololock.jobString>Haciendo holotraba.</MakeHololock.jobString>
+
+  <MakePrisonerChains.label>fabricar cadenas</MakePrisonerChains.label>
+  <MakePrisonerChains.description>Fabrica cadenas restritivas.</MakePrisonerChains.description>
+  <MakePrisonerChains.jobString>Haciendo cadenas.</MakePrisonerChains.jobString>
+
+
+</LanguageData>

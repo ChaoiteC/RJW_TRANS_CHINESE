@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ItchyCrotch.stages.0.label>juckender Schritt</ItchyCrotch.stages.0.label>
+  <ItchyCrotch.stages.0.description>Solange niemand zuschaut kann ich mal kurz...</ItchyCrotch.stages.0.description>
+  <ItchyCrotch.stages.1.label>stechender Schritt</ItchyCrotch.stages.1.label>
+  <ItchyCrotch.stages.1.description>Das Schlimmste ist: Je mehr du kratzt, desto schlimmer wird es.</ItchyCrotch.stages.1.description>
+
+  <SyphiliticThoughts.stages.0.label>Syphilisgedanken</SyphiliticThoughts.stages.0.label>
+  <SyphiliticThoughts.stages.0.description>Jeder ist so dumm und nervig! Selbst ich kann nicht mehr klar denken.</SyphiliticThoughts.stages.0.description>
+  <SyphiliticThoughts.stages.1.label>starke Syphilisgedanken</SyphiliticThoughts.stages.1.label>
+  <SyphiliticThoughts.stages.1.description>Okay, alles was ich brauche ist... äh... was mache ich gerade? Ok also hier. Dieses verdammte Stück, verdammtes Stück Scheiße. VERDAMMTES MISTSTÜCK!</SyphiliticThoughts.stages.1.description>
+
+  <WastingAway.stages.0.label>schmachtend</WastingAway.stages.0.label>
+  <WastingAway.stages.0.description>Ich fühle mich von Tag zu Tag schwächer. Ich fühle mich als ob ich langsam mein Leben aushauche.</WastingAway.stages.0.description>
+
+  <SawDiseasedPrivates1.stages.0.label>bemerkte einen schrecklichen Ausschlag im Schritt von {0}</SawDiseasedPrivates1.stages.0.label>
+  <SawDiseasedPrivates2.stages.0.label>bemerkte ekelhafte Warzen im Schritt von {0}</SawDiseasedPrivates2.stages.0.label>
+  <SawDiseasedPrivates3.stages.0.label>ist übel nach dem Bemerken von {0}s Ausschlag im Schritt.</SawDiseasedPrivates3.stages.0.label>
+
+
+</LanguageData>

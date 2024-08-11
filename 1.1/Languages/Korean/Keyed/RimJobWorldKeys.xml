@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Mod strings -->
+	<!-- std -->
+	<RJW_Opportunistic_Infection_Message>{0}의 면역력이 약화되어 감염이 발생했습니다.</RJW_Opportunistic_Infection_Message>
+	<RJW_Syphilis_Damage_Message>{0} (은)는 {3}의 감염이 진행되어 {1} {2}가 영구적으로 손상되었습니다.</RJW_Syphilis_Damage_Message>
+	
+	<!--Whore Activities-->
+	<RJW_VisitorAcceptWhore>{0}가 {1}의 유혹에 넘어갔습니다.</RJW_VisitorAcceptWhore>
+	<RJW_VisitorRejectWhore>{0}가 {1}의 유혹을 거절했습니다.</RJW_VisitorRejectWhore>
+	<RJW_VisitorSickWhore>{1}의 몸 상태가 좋지 못하여 {0}가 유혹을 거절했습니다.</RJW_VisitorSickWhore>
+	
+	<!-- Notifications on right-clicking CP -->
+	<PawnCantRapeCP>해당 정착민은 건강하지 않거나 이동할 수 없는 곳에 있습니다.</PawnCantRapeCP>
+	<PawnCantRapeCP0>해당 정착민은 성관계가 필요없거나 건강하지 않거나 불가능합니다.</PawnCantRapeCP0>
+	<PawnCantRapeCP1>주변에 해당 정착민의 애인이 있습니다.</PawnCantRapeCP1>
+	<PawnCantRapeCP2>해당 정착민은 수간에 흥미가 없기에 강간하지 않습니다.</PawnCantRapeCP2>
+	
+	<!--Submit button-->
+	<CommandSubmit>항복</CommandSubmit>
+	<CommandSubmitDesc>바닥에 엎드려, 어떤 짓을 당하더라도 순응하도록 합니다.</CommandSubmitDesc>
+	
+	<!--Preganancy messages-->
+	<RJW_PregnantTitle>{0}가 임신하였습니다.</RJW_PregnantTitle>
+	<RJW_PregnantText>{0}가 임신하였습니다. 산모가 건강한 상태를 유지하지 못한다면 태아를 유산할 수 있으니 주의하십시오.</RJW_PregnantText>
+	<RJW_Contractions>{0}의 산통이 시작됐습니다. 곧 출산이 시작됩니다!</RJW_Contractions>
+	<RJW_GaveBirthTitle>출산했습니다.</RJW_GaveBirthTitle>
+	<RJW_GaveBirthText>{0}는 성공적으로 출산하여 </RJW_GaveBirthText>
+	<RJW_ABaby>아이를 얻었습니다.</RJW_ABaby>
+	<RJW_NBabies>아이를 {0} 명 얻었습니다.</RJW_NBabies>
+	<RJW_PregnantNormal>건강한 아이를 얻었습니다...</RJW_PregnantNormal>
+	<RJW_PregnantStrange>아이에게 어떤 문제가 있는 것 같습니다...</RJW_PregnantStrange>
+	<RJW_PregnantMechStrange>아이에게 심각한 문제가 있는 것 같습니다...</RJW_PregnantMechStrange>
+	<RJW_GaveBirthEggTitle>알을 산란했습니다.</RJW_GaveBirthEggTitle>
+	<RJW_GaveBirthEggText>{0} 가 알을 낳았습니다.</RJW_GaveBirthEggText>
+	<RJW_EggContractions>{0} 의 산통이 시작됐습니다. 곧 산란이 시작됩니다..</RJW_EggContractions>
+	
+	<!--Breast size changes-->
+	<!--Should be "{PAWN_possessive} breasts..." but I couldn't get that to work correctly.-->
+	<RJW_BreastsHaveGrownFromBoobitis>유방염 메카나이트 때문에 가슴이 커졌습니다.</RJW_BreastsHaveGrownFromBoobitis>
+	
+	<!--Comfort designation-->
+	<ForComfort>성노예 지정</ForComfort>
+	<ForComfortDesc>해당 정착민의 성적 의사결정권을 박탈합니다.</ForComfortDesc>
+	<ForComfortRefuseDesc>성노예가 되는 것을 원하지 않습니다.\n마조히스트 특성 필요</ForComfortRefuseDesc>
+	
+	<!--Whore-->
+	<ForService>창부 지정</ForService><!-- This field is not visible -->
+	<ForServiceDesc><![CDATA[창부 지정시
+- 방문객을 성적으로 유혹합니다.
+- 바쁘지 않은 정착민들과 관계를 맺습니다.
+- 창부는 자위를 최대한 억제하는데, 이는 욕구 불만의 원인이 될 수 있습니다.
+]]></ForServiceDesc>
+	<ForServiceRefuseDesc>창부가 되기를 원하지 않습니다.</ForServiceRefuseDesc>
+	
+	<!--Breeding designations-->
+	<ForBreeding>교미대상 지정</ForBreeding>
+	<ForBreedingDesc>동물의 교미대상으로 지정합니다.</ForBreedingDesc>
+	<ForBreedingRefuseDesc>동물과의 교미를 원하지 않습니다.\n수간 선호 특성 필요</ForBreedingRefuseDesc>
+	
+	<ForBreedingAnimalDesc>해당 동물이 교미대상과 번식할 수 있도록 지정</ForBreedingAnimalDesc>
+	
+	<BreedMessage>교미를 하려고 합니다</BreedMessage>
+	
+	<!--Milking-->
+	<ForMilking>착유대상 지정</ForMilking>
+	<ForMilkingDesc>선택한 대상으로부터 우유를 채취합니다.</ForMilkingDesc>
+	
+	<!--Hero-->
+	<ForHero>주인공으로 지정</ForHero>
+	<ForHeroDesc><![CDATA[해당 림을 플레이어의 주인공으로 지정
+-단 한번만 지정할 수 있습니다.
+-해제할 수 없습니다.
+]]></ForHeroDesc>
+	<ForHeroRefuse1Desc>이 주인공은 다른 플레이어의 것입니다.</ForHeroRefuse1Desc>
+	<ForHeroRefuse2Desc>지정을 변경할 권한이 없습니다.</ForHeroRefuse2Desc>
+	
+	<RJW_hediff_braSize>가슴 크기: {0}:{1} ({2} 컵)</RJW_hediff_braSize>
+	<RJW_hediff_braSizeNone>가슴 크기: -</RJW_hediff_braSizeNone>
+	<RJW_hediff_eggs>알: {0}</RJW_hediff_eggs>
+	<RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+	<RJW_hediff_girth>직경: {0}</RJW_hediff_girth>
+	<RJW_hediff_length>길이: {0}</RJW_hediff_length>
+	<RJW_hediff_maxGirth>최대 직경: {0}</RJW_hediff_maxGirth>
+	<RJW_hediff_maxLength>최대 길이: {0}</RJW_hediff_maxLength>
+	<RJW_hediff_overbust>윗가슴: {0}</RJW_hediff_overbust>
+	<RJW_hediff_underbust>밑가슴: {0}</RJW_hediff_underbust>
+	<RJW_hediff_unknownSpecies>알 수 없음</RJW_hediff_unknownSpecies>
+	<RJW_hediff_weight>무게: {0}</RJW_hediff_weight>
+</LanguageData>

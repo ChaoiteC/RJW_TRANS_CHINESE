@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates -->
+
+  <OvipositorF.label>ovipositor (Feminino)</OvipositorF.label>
+  <OvipositorF.labelNoun>un ovipositor</OvipositorF.labelNoun>
+  <OvipositorF.description>Una estructura segmentada similar a un pene capaz de poner huevos dentro de un huésped.</OvipositorF.description>
+  <OvipositorF.stages.0.label>Micro</OvipositorF.stages.0.label>
+  <OvipositorF.stages.1.label>Ajustado</OvipositorF.stages.1.label>
+  <OvipositorF.stages.2.label>Médio</OvipositorF.stages.2.label>
+  <OvipositorF.stages.3.label>Cómodo</OvipositorF.stages.3.label>
+  <OvipositorF.stages.4.label>Suelto</OvipositorF.stages.4.label>
+  <OvipositorF.stages.5.label>Cavernoso</OvipositorF.stages.5.label>
+
+  <OvipositorM.label>ovipositor (Masculino)</OvipositorM.label>
+  <OvipositorM.labelNoun>un ovipositor</OvipositorM.labelNoun>
+  <OvipositorM.description>Una estructura segmentada similar a un pene capaz de fertilizar los óvulos dentro de un huésped.</OvipositorM.description>
+  <OvipositorM.stages.0.label>Micro</OvipositorM.stages.0.label>
+  <OvipositorM.stages.1.label>Pequeno</OvipositorM.stages.1.label>
+  <OvipositorM.stages.2.label>Médio</OvipositorM.stages.2.label>
+  <OvipositorM.stages.3.label>Grande</OvipositorM.stages.3.label>
+  <OvipositorM.stages.4.label>Gigante</OvipositorM.stages.4.label>
+  <OvipositorM.stages.5.label>Grandioso</OvipositorM.stages.5.label>
+
+  <InsectAnus.label>ano de insecto</InsectAnus.label>
+  <InsectAnus.labelNoun>un ano de insecto</InsectAnus.labelNoun>
+  <InsectAnus.description>Ano de un insecto. Segmentado por fuera y pegajoso por dentro.</InsectAnus.description>
+  <InsectAnus.stages.0.label>Micro</InsectAnus.stages.0.label>
+  <InsectAnus.stages.1.label>Ajustado</InsectAnus.stages.1.label>
+  <InsectAnus.stages.2.label>Médio</InsectAnus.stages.2.label>
+  <InsectAnus.stages.3.label>Cómodo</InsectAnus.stages.3.label>
+  <InsectAnus.stages.4.label>Suelto</InsectAnus.stages.4.label>
+  <InsectAnus.stages.5.label>Cavernoso</InsectAnus.stages.5.label>
+
+
+</LanguageData>

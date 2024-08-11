@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Placeholder hediffs for unsupported pawns? -->
+
+  <GenericPenis.label>Обычный пенис</GenericPenis.label>
+  <GenericPenis.labelNoun>пенис</GenericPenis.labelNoun>
+  <GenericPenis.description>Простой пенис-заглушка для неподдерживаемых модом рас и существ.</GenericPenis.description>
+  <GenericPenis.stages.0.label>Микро</GenericPenis.stages.0.label>
+  <GenericPenis.stages.1.label>Маленький</GenericPenis.stages.1.label>
+  <GenericPenis.stages.2.label>Обыкновенный</GenericPenis.stages.2.label>
+  <GenericPenis.stages.3.label>Большой</GenericPenis.stages.3.label>
+  <GenericPenis.stages.4.label>Огромный</GenericPenis.stages.4.label>
+  <GenericPenis.stages.5.label>Гигантский</GenericPenis.stages.5.label>
+
+  <GenericVagina.label>Обычная вагина</GenericVagina.label>
+  <GenericVagina.labelNoun>вагина</GenericVagina.labelNoun>
+  <GenericVagina.description>Простая вагина-заглушкадля неподдерживаемых модом рас и существ.</GenericVagina.description>
+  <GenericVagina.stages.0.label>Микро</GenericVagina.stages.0.label>
+  <GenericVagina.stages.1.label>Узкая</GenericVagina.stages.1.label>
+  <GenericVagina.stages.2.label>Обыкновенная</GenericVagina.stages.2.label>
+  <GenericVagina.stages.3.label>Вместительная</GenericVagina.stages.3.label>
+  <GenericVagina.stages.4.label>Пещера</GenericVagina.stages.4.label>
+  <GenericVagina.stages.5.label>Бездна</GenericVagina.stages.5.label>
+
+  <GenericAnus.label>Обычный анус</GenericAnus.label>
+  <GenericAnus.labelNoun>анус</GenericAnus.labelNoun>
+  <GenericAnus.description>Простой анус-заглушка для неподдерживаемых модом рас и существ.</GenericAnus.description>
+  <GenericAnus.stages.0.label>Микро</GenericAnus.stages.0.label>
+  <GenericAnus.stages.1.label>Узкий</GenericAnus.stages.1.label>
+  <GenericAnus.stages.2.label>Обыкновенный</GenericAnus.stages.2.label>
+  <GenericAnus.stages.3.label>Вместительный</GenericAnus.stages.3.label>
+  <GenericAnus.stages.4.label>Пещера</GenericAnus.stages.4.label>
+  <GenericAnus.stages.5.label>Бездна</GenericAnus.stages.5.label>
+
+  <GenericBreasts.label>Обычная грудь</GenericBreasts.label>
+  <GenericBreasts.labelNoun>грудь</GenericBreasts.labelNoun>
+  <GenericBreasts.description>Простая грудь-заглушка неподдерживаемых модом рас и существ.</GenericBreasts.description>
+  <GenericBreasts.stages.0.label>Соски</GenericBreasts.stages.0.label>
+  <GenericBreasts.stages.1.label>Плоская</GenericBreasts.stages.1.label>
+  <GenericBreasts.stages.2.label>Маленькая</GenericBreasts.stages.2.label>
+  <GenericBreasts.stages.3.label>Обычная</GenericBreasts.stages.3.label>
+  <GenericBreasts.stages.4.label>Большая</GenericBreasts.stages.4.label>
+  <GenericBreasts.stages.5.label>Большущая</GenericBreasts.stages.5.label>
+  <GenericBreasts.stages.6.label>Выше любой нормы</GenericBreasts.stages.6.label>
+  <GenericBreasts.stages.7.label>Массивная</GenericBreasts.stages.7.label>
+  <GenericBreasts.stages.8.label>Гигантская</GenericBreasts.stages.8.label>
+  <GenericBreasts.stages.9.label>Колоссальная</GenericBreasts.stages.9.label>
+
+
+</LanguageData>

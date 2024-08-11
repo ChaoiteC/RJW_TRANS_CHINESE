@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnimalSexChat.label>동물과 대화</AnimalSexChat.label>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.0>r_logentry(p=20)->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [zooact].</AnimalSexChat.logRulesInitiator.rulesStrings.0>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 곁에 앉아 [INITIATOR_objective] 스스로 [TalkTopicSex]에 대하여 이야기 함.</AnimalSexChat.logRulesInitiator.rulesStrings.1>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 곁에 앉아 [INITIATOR_objective] 스스로 [TalkTopicAny]에 대하여 이야기 함.</AnimalSexChat.logRulesInitiator.rulesStrings.2>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 접근해 [INITIATOR_objective] 스스로 [TalkTopicSex]에 관해 속삭이듯 이야기를 건넴.</AnimalSexChat.logRulesInitiator.rulesStrings.3>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 접근해 [INITIATOR_objective] 스스로 [TalkTopicAny]에 관해 속삭이듯 이야기를 건넴.</AnimalSexChat.logRulesInitiator.rulesStrings.4>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.5>r_logentry(p=2)->[INITIATOR_nameDef](은)는 다가오는 [RECIPIENT_nameDef]에게 조심스럽게 접근하여 [INITIATOR_objective] 스스로 [TalkTopicSex]에 관하여 이야기를 건넴.</AnimalSexChat.logRulesInitiator.rulesStrings.5>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef](은)는 다가오는 [RECIPIENT_nameDef]에게 조심스럽게 접근하여 [INITIATOR_objective] 스스로 [TalkTopicAny]에 관하여 이야기를 건넴.</AnimalSexChat.logRulesInitiator.rulesStrings.6>
+
+	<AnimalSexChat.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 오랫동안 앉혀 놓음.</AnimalSexChat.logRulesInitiator.rulesStrings.7>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 오랫동안 안아줌.</AnimalSexChat.logRulesInitiator.rulesStrings.8>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 우월한 태도를 보이며 찰싹 때림.</AnimalSexChat.logRulesInitiator.rulesStrings.9>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 성기를 부드럽게 어루만짐.</AnimalSexChat.logRulesInitiator.rulesStrings.10>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 연약한 신체 부위를 붙잡으며, 지시에 잘 따르도록 강요함.</AnimalSexChat.logRulesInitiator.rulesStrings.11>
+
+	<AnimalSexChat.logRulesInitiator.rulesStrings.12>zooact->지시에 잘 따르도록 강요함.</AnimalSexChat.logRulesInitiator.rulesStrings.12>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.13>zooact->편안한 목소리로 이야기함.</AnimalSexChat.logRulesInitiator.rulesStrings.13>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.14>zooact->상냥하게 굴도록 유도함.</AnimalSexChat.logRulesInitiator.rulesStrings.14>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.15>zooact->경고음을 내며 쫒아냄.</AnimalSexChat.logRulesInitiator.rulesStrings.15>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.16>zooact->행복한 듯 흥얼거림.</AnimalSexChat.logRulesInitiator.rulesStrings.16>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.17>zooact->부드러운 몸짓으로 다가감.</AnimalSexChat.logRulesInitiator.rulesStrings.17>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.18>zooact->천천히 다가감.</AnimalSexChat.logRulesInitiator.rulesStrings.18>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.19>zooact->손을 뻗어서 다정하게 어루만짐.</AnimalSexChat.logRulesInitiator.rulesStrings.19>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.20>zooact->조심스레 애정을 표현함.</AnimalSexChat.logRulesInitiator.rulesStrings.20>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.21>zooact->힘차게 손짓함.</AnimalSexChat.logRulesInitiator.rulesStrings.21>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.22>zooact->기운을 얻고 마음을 가라앉힘.</AnimalSexChat.logRulesInitiator.rulesStrings.22>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.23>zooact->호흡을 맞춰봄.</AnimalSexChat.logRulesInitiator.rulesStrings.23>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.24>zooact->자세를 낮춰서 다가감.</AnimalSexChat.logRulesInitiator.rulesStrings.24>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.25>zooact->마음을 다스리는 모습을 보여줌.</AnimalSexChat.logRulesInitiator.rulesStrings.25>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.26>zooact->손을 뻗어 단호하면서도 부드럽게 만짐.</AnimalSexChat.logRulesInitiator.rulesStrings.26>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.27>zooact->느긋한 모습을 보임.</AnimalSexChat.logRulesInitiator.rulesStrings.27>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.28>zooact->자신의 성기를 보여줌.</AnimalSexChat.logRulesInitiator.rulesStrings.28>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.29>zooact->자신의 성기를 구경시켜줌.</AnimalSexChat.logRulesInitiator.rulesStrings.29>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.30>zooact->[TalkTopicAny]에 대한 이야기를 속삭임.</AnimalSexChat.logRulesInitiator.rulesStrings.30>
+	<AnimalSexChat.logRulesInitiator.rulesStrings.31>zooact->[TalkTopicSex]에 대한 이야기를 속삭임.</AnimalSexChat.logRulesInitiator.rulesStrings.31>
+
+</LanguageData>

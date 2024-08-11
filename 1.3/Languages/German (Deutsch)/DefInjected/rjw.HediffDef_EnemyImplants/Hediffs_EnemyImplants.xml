@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
+
+  <Parasite.label>Schwanger</Parasite.label>
+  <Parasite.description>Ein Lebewesen welches innerhalb des Körpers ihres Wirtes heranwächst. Sehr unangenehm.</Parasite.description>
+  <Parasite.comps.0.discoverLetterLabel>{0} befiel</Parasite.comps.0.discoverLetterLabel>
+  <Parasite.comps.0.discoverLetterText>{0} hat sich einen Parasiten eingefangen.</Parasite.comps.0.discoverLetterText>
+  <Parasite.stages.0.label>Frühe Phase (unsichtbar)</Parasite.stages.0.label>
+  <Parasite.stages.1.label>Mittlere Phase</Parasite.stages.1.label>
+  <Parasite.stages.2.label>Späte Phase</Parasite.stages.2.label>
+
+
+</LanguageData>

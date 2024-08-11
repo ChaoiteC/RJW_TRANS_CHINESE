@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- Insect privates -->
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartVagina">
+		<defName>OvipositorF</defName>
+		<label>ovipositor (Female)</label>
+		<labelNoun>an ovipositor</labelNoun>
+		<description>An ovipositor. Lays eggs inside host.</description>
+		<descriptionHyperlinks><ThingDef>OvipositorF</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>OvipositorF</spawnThingOnRemoved>
+		<produceEggs>true</produceEggs>
+		<!-- time to produce new egg -->
+		<minEggTick>12000</minEggTick>
+		<maxEggTick>60000</maxEggTick>
+		<minEggsProduced>1</minEggsProduced>
+		<maxEggsProduced>1</maxEggsProduced>
+		<FluidType>InsectJelly</FluidType>
+		<modExtensions Inherit="false">
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale>
+				<!-- rescales parts sizes based on bodysize of initial owner race -->
+				<!-- Matches with penis sizes. -->
+				<lengths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 14.0 is average -->
+					<li>18.0</li>
+					<li>25.0</li>
+					<li>35.0</li>
+					<!-- World record (Cabrera doesn't count). -->
+				</lengths>
+				<girths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 12.0 is average -->
+					<li>13.0</li>
+					<li>17.0</li>
+					<li>21.0</li>
+				</girths>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.GenitalPartExtension">
+				<family>FemaleOvipositor</family>
+				<tags>
+					<li>CanPenetrate</li>
+					<li>CanBePenetrated</li>
+					<li>CanEgg</li>
+				</tags>
+			</li>
+			<li Class="rjw.PartProps">
+				<props>
+					<li>Internal</li>
+					<li>Rigid</li>
+				</props>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+	
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartPenis">
+		<defName>OvipositorM</defName>
+		<label>ovipositor (Male)</label>
+		<labelNoun>an ovipositor</labelNoun>
+		<description>An ovipositor. Fertilizes eggs inside host.</description>
+		<descriptionHyperlinks><ThingDef>OvipositorM</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>OvipositorM</spawnThingOnRemoved>
+		<FluidType>InsectJelly</FluidType>
+		<modExtensions Inherit="false">
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale>
+				<density>1.0</density>
+				<lengths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 14.0 is average -->
+					<li>18.0</li>
+					<li>25.0</li>
+					<li>35.0</li>
+					<!-- World record (Cabrera doesn't count). -->
+					<!-- Can always add more later. -->
+				</lengths>
+				<girths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 12.0 is average -->
+					<li>13.0</li>
+					<li>17.0</li>
+					<li>21.0</li>
+				</girths>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.GenitalPartExtension">
+				<family>MaleOvipositor</family>
+				<tags>
+					<li>CanPenetrate</li>
+					<li>CanFertilizeEgg</li>
+				</tags>
+			</li>
+			<li Class="rjw.PartProps">
+				<props>
+					<li>Internal</li>
+					<li>Barbed</li>
+					<li>Ridged</li>
+					<li>Rigid</li>
+				</props>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartAnus">
+		<defName>InsectAnus</defName>
+		<label>insect anus</label>
+		<labelNoun>an insect anus</labelNoun>
+		<description>An insect anus.</description>
+		<descriptionHyperlinks><ThingDef>InsectAnus</ThingDef></descriptionHyperlinks>
+		<spawnThingOnRemoved>InsectAnus</spawnThingOnRemoved>
+		<modExtensions>
+			<li Class="rjw.PartProps">
+				<props>
+					<li>Rigid</li>
+				</props>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+</Defs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Consumable item -->
+
+	<HumpShroomEffect.label>催情</HumpShroomEffect.label>
+  <HumpShroomEffect.description>駝峰菇催情效果。</HumpShroomEffect.description>
+
+	<!-- Ambrosia addiction -->
+
+	<HumpShroomTolerance.label>駝峰菇耐受</HumpShroomTolerance.label>
+  <HumpShroomTolerance.description>駝峰菇效果耐受。</HumpShroomTolerance.description>
+
+	<HumpShroomAddiction.label>駝峰菇成癮</HumpShroomAddiction.label>
+  <HumpShroomAddiction.description>駝峰菇效果成癮。</HumpShroomAddiction.description>
+	<HumpShroomAddiction.stages.1.label>未滿足</HumpShroomAddiction.stages.1.label>
+</LanguageData>

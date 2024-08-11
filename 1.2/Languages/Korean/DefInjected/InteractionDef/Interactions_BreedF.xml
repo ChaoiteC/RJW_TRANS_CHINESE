@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RequestVaginalBreeding.label>성기 교미</RequestVaginalBreeding.label>
+	<RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 교미를 조름.</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 교미를 요구받음.</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+	<RequestVaginalBreeding.modExtensions.0.RMBLabelM>교미를 함.</RequestVaginalBreeding.modExtensions.0.RMBLabelM>
+	<RequestVaginalBreeding.modExtensions.0.RMBLabelF>교미를 요구함.</RequestVaginalBreeding.modExtensions.0.RMBLabelF>
+
+	<RequestAnalBreeding.label>항문 교미</RequestAnalBreeding.label>
+	<RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 항문 교미를 조름.</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 항문 교미를 요구받음.</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+	<RequestAnalBreeding.modExtensions.0.RMBLabelM>항문 교미를 함.</RequestAnalBreeding.modExtensions.0.RMBLabelM>
+	<RequestAnalBreeding.modExtensions.0.RMBLabelF>항문 교미를 요구함.</RequestAnalBreeding.modExtensions.0.RMBLabelF>
+
+</LanguageData>

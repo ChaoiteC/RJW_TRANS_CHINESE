@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- invitation for breeding -->
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Bestiality_Reverse_Vaginal</defName>
+		<label>vaginal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Presented to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Mounted vaginally [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Get bred vaginally</RMBLabel>
+				<rjwSextype>Vaginal</rjwSextype>
+				<rulepack_defs>
+					<li>Bestiality_Reverse_VaginalRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Bestiality</li>
+					<li>Animal</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Vagina</li>
+						<li>FemaleOvipositor</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+					<pawnStates>
+						<li>Healthy</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

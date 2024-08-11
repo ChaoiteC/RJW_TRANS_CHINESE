@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnalRapeF.label>肛門強姦F</AnalRapeF.label>
+  <AnalRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]的肛門發生了性關係。</AnalRapeF.logRulesInitiator.rulesStrings.0>
+  <AnalRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強姦了屁股。</AnalRapeF.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRapeF.label>陰道強姦F</VaginalRapeF.label>
+  <VaginalRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]的陰道發生了性關係。</VaginalRapeF.logRulesInitiator.rulesStrings.0>
+  <VaginalRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]插入陰道強姦了。</VaginalRapeF.logRulesRecipient.rulesStrings.0>
+
+  <HandjobRapeF.label>強行手交F</HandjobRapeF.label>
+  <HandjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]給自己擼了一發。</HandjobRapeF.logRulesInitiator.rulesStrings.0>
+  <HandjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被迫給[INITIATOR_nameDef]擼了一發。</HandjobRapeF.logRulesRecipient.rulesStrings.0>
+
+  <FootjobRapeF.label>強行腳交F</FootjobRapeF.label>
+  <FootjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]用腳給自己擼了一發。</FootjobRapeF.logRulesInitiator.rulesStrings.0>
+  <FootjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被迫用腳給[INITIATOR_nameDef]擼了一發。</FootjobRapeF.logRulesRecipient.rulesStrings.0>
+
+  <FingeringRapeF.label>強行指交F</FingeringRapeF.label>
+  <FingeringRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]給自己指交了。</FingeringRapeF.logRulesInitiator.rulesStrings.0>
+  <FingeringRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被迫給[INITIATOR_nameDef]指交了。</FingeringRapeF.logRulesRecipient.rulesStrings.0>
+
+  <FistingRapeF.label>強行拳交F</FistingRapeF.label>
+  <FistingRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]給自己拳交了。</FistingRapeF.logRulesInitiator.rulesStrings.0>
+  <FistingRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被迫給[INITIATOR_nameDef]拳交了。</FistingRapeF.logRulesRecipient.rulesStrings.0>
+
+  <BreastjobRapeF.label>強行乳交F</BreastjobRapeF.label>
+  <BreastjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強行插入了[RECIPIENT_nameDef]的乳溝。</BreastjobRapeF.logRulesInitiator.rulesStrings.0>
+  <BreastjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被迫給[INITIATOR_nameDef]乳交了。</BreastjobRapeF.logRulesRecipient.rulesStrings.0>
+
+  <DoublePenetrationRapeF.label>雙洞齊插強姦F</DoublePenetrationRapeF.label>
+  <DoublePenetrationRapeF.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]雙洞齊插了。</DoublePenetrationRapeF.logRulesInitiator.rulesStrings.0>
+  <DoublePenetrationRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行雙洞齊插了。</DoublePenetrationRapeF.logRulesRecipient.rulesStrings.0>
+
+  <ScissoringRapeF.label>剪刀腿強姦F</ScissoringRapeF.label>
+  <ScissoringRapeF.logRulesInitiator.rulesStrings.0>r_logentry->用剪刀腿的姿勢強行和[RECIPIENT_nameDef]進行了摩擦。</ScissoringRapeF.logRulesInitiator.rulesStrings.0>
+  <ScissoringRapeF.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行用剪刀腿的姿勢進行了摩擦。</ScissoringRapeF.logRulesRecipient.rulesStrings.0>
+</LanguageData>

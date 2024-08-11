@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Breeding/rape -->
+
+  <AnalBreeding.label>tribadismo</AnalBreeding.label>
+  <AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Montou [RECIPIENT_nameDef].</AnalBreeding.logRulesInitiator.rulesStrings.0>
+  <AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Foi analmente montado por [INITIATOR_nameDef].</AnalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <VaginalBreeding.label>tribadismo</VaginalBreeding.label>
+  <VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Montou [RECIPIENT_nameDef].</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Foi vaginalmente montado por [INITIATOR_nameDef].</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <OralBreeding.label>lambendo</OralBreeding.label>
+  <OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Lambeu [RECIPIENT_nameDef].</OralBreeding.logRulesInitiator.rulesStrings.0>
+  <OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Foi lambido por [INITIATOR_nameDef].</OralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Another rare one, but needed to get the icons working right. -->
+
+  <FingeringBreeding.label>dedada</FingeringBreeding.label>
+  <FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Forçou seus dedos em [RECIPIENT_nameDef].</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+  <FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Foi estuprado(a) pelos dedos de [INITIATOR_nameDef].</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+  <ForcedOralBreeding.label>lambendo</ForcedOralBreeding.label>
+  <ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Forçou boquete em [RECIPIENT_nameDef].</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Foi forçado a boquete.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!--<RequestVaginalBreeding.label>tribadismo</RequestVaginalBreeding.label>-->
+  <!--<RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expos a vagina para [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>-->
+  <!--<RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Se expos para [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>-->
+  <!--<RequestAnalBreeding.label>tribadismo</RequestAnalBreeding.label>-->
+  <!--<RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expos o ânus para [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>-->
+  <!--<RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Se expos para [INITIATOR_nameDef].</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>-->
+
+</LanguageData>

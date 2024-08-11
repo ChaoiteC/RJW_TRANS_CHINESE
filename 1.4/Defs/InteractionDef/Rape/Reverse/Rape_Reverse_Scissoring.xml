@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Reverse_Scissoring</defName>
+		<label>scissoring</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully scissored with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly scissored with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Do scissoring</RMBLabel>
+				<rjwSextype>Scissoring</rjwSextype>
+				<rulepack_defs>
+					<li>ScissoringReverseRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Mod strings -->
+	<!-- std -->
+	<RJW_Opportunistic_Infection_Message>{0}由于免疫系统的脆弱而感染。</RJW_Opportunistic_Infection_Message>
+	<!--RJW_Poisoned_by_Rimming_Message>{0}因{1}导致食物中毒</RJW_Poisoned_by_Rimming_Message-->
+	<RJW_Syphilis_Damage_Message>{0}由于感染{3}，导致{1}{2}永久损伤。</RJW_Syphilis_Damage_Message>
+
+	<!--Whore Activities-->
+	<RJW_VisitorAcceptWhore>{0}接受了{1}提出的性交易。</RJW_VisitorAcceptWhore>
+	<RJW_VisitorRejectWhore>{0}拒绝了{1}提出的性交易。</RJW_VisitorRejectWhore>
+	<RJW_VisitorSickWhore>{0}拒绝了性交易因为{1}看起来不健康。</RJW_VisitorSickWhore>
+
+	<!-- Notifications on right-clicking CP -->
+	<PawnCantRapeCP>目标不够健康或者位置不可到达。</PawnCantRapeCP>
+	<PawnCantRapeCP0>这个人不需要性交，有可能是不够健康，或者不能强奸。</PawnCantRapeCP0>
+	<PawnCantRapeCP1>这个人不是单身或者伴侣在身边。</PawnCantRapeCP1>
+	<PawnCantRapeCP2>这个人不是恋兽癖，所以不能强奸动物。</PawnCantRapeCP2>
+
+	<!--Submit button-->
+	<CommandSubmit>自我屈服</CommandSubmit>
+	<CommandSubmitDesc>躺在地上等着什么东西来上一发。</CommandSubmitDesc>
+
+	<!--Preganancy messages-->
+	<RJW_PregnantTitle>{0}怀孕了。</RJW_PregnantTitle>
+	<RJW_PregnantText>{0}怀孕了，很快她就要做母亲了。请注意，饥饿和创伤可能会导致她失去孩子。</RJW_PregnantText>
+	<RJW_Contractions>{0}出现了宫缩，她的孩子（们）就要出生了！</RJW_Contractions>
+	<RJW_GaveBirthTitle>孩子出生了。</RJW_GaveBirthTitle>
+	<RJW_GaveBirthText>{0}已成功产出</RJW_GaveBirthText>
+	<RJW_ABaby>她的宝宝。</RJW_ABaby>
+	<RJW_NBabies>她的{0}宝宝们。</RJW_NBabies>
+	<RJW_PregnantNormal>怀上了健康的孩子……</RJW_PregnantNormal>
+	<RJW_PregnantStrange>这孩子有点不寻常……</RJW_PregnantStrange>
+	<RJW_PregnantMechStrange>孩子有点奇怪……</RJW_PregnantMechStrange>
+	<RJW_GaveBirthEggTitle>产卵</RJW_GaveBirthEggTitle>
+	<RJW_GaveBirthEggText>{0}产出了卵</RJW_GaveBirthEggText>
+	<RJW_EggContractions>{0}发生了宫缩！即将产卵！</RJW_EggContractions>
+
+	<!--Breast size changes-->
+	<!--Should be "{PAWN_possessive} breasts..." but I couldn't get that to work correctly.-->
+	<RJW_BreastsHaveGrownFromBoobitis>乳房患上了机械感染</RJW_BreastsHaveGrownFromBoobitis>
+
+	<!--Comfort designation-->
+	<ForComfort>用于泄欲</ForComfort>
+	<ForComfortDesc>设为泄欲对象。</ForComfortDesc>
+	<ForComfortRefuseDesc>拒绝被用于泄欲。</ForComfortRefuseDesc>
+
+	<!--Whore-->
+	<ForService>设为妓女</ForService><!-- This field is not visible -->
+	<ForServiceDesc><![CDATA[启用勾搭：
+-会尝试与访客联系。
+-如果不忙，招待其他殖民者。
+-在工作中尽量避免自慰，可能会导致沮丧。]]></ForServiceDesc>
+	<ForServiceRefuseDesc>拒绝做妓女。</ForServiceRefuseDesc>
+
+	<!--Breeding designations-->
+	<ForBreeding>允许动物</ForBreeding>
+	<ForBreedingDesc>设为动物配种目标。</ForBreedingDesc>
+	<ForBreedingRefuseDesc>拒绝被动物骑在身上。</ForBreedingRefuseDesc>
+
+	<ForBreedingAnimalDesc>允许这只动物骑上指定的配种目标。</ForBreedingAnimalDesc>
+
+	<BreedMessage>正试图配种</BreedMessage>
+
+	<!--Milking-->
+	<ForMilking>指定为乳汁提供者</ForMilking>
+	<ForMilkingDesc>从这个生物获得乳汁。</ForMilkingDesc>
+
+	<!--Hero-->
+	<ForHero>设为主角</ForHero>
+	<ForHeroDesc><![CDATA[将小人设为玩家角色：
+-只能设置一次。
+-无法关闭。]]></ForHeroDesc>
+	<ForHeroRefuse1Desc>这是其他玩家的主角。</ForHeroRefuse1Desc>
+	<ForHeroRefuse2Desc>您无权更改设定。</ForHeroRefuse2Desc>
+
+	<RJW_hediff_braSize>胸罩尺寸：{0}:{1}（{2}罩杯）</RJW_hediff_braSize>
+	<RJW_hediff_braSizeNone>胸罩尺寸：-</RJW_hediff_braSizeNone>
+	<RJW_hediff_eggs>虫卵：{0}</RJW_hediff_eggs>
+	<RJW_hediff_fluidTypeFluidAmount>{0}:{1}</RJW_hediff_fluidTypeFluidAmount>
+	<RJW_hediff_girth>周长：{0}</RJW_hediff_girth>
+	<RJW_hediff_length>长度：{0}</RJW_hediff_length>
+	<RJW_hediff_maxGirth>最大周长：{0}</RJW_hediff_maxGirth>
+	<RJW_hediff_maxLength>最大长度：{0}</RJW_hediff_maxLength>
+	<RJW_hediff_overbust>上胸围：{0}</RJW_hediff_overbust>
+	<RJW_hediff_underbust>下胸围：{0}</RJW_hediff_underbust>
+	<RJW_hediff_unknownSpecies>未知物种</RJW_hediff_unknownSpecies>
+	<RJW_hediff_weight>重量：{0}</RJW_hediff_weight>
+</LanguageData>

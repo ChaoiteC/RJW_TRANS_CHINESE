@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RimmingRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] робить анілінгус [RECIPIENT_nameDef].</CunnilingusRP.rulePack.rulesStrings.0>
+<CunnilingusRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] відлизує [RECIPIENT_nameDef].</CunnilingusRP.rulePack.rulesStrings.0>
+<FellatioRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] відсмоктує [RECIPIENT_nameDef].</FellatioRP.rulePack.rulesStrings.0>
+<!-- Для пташиних рас... -->
+<BeakjobRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] відсмоктує [RECIPIENT_nameDef] за допомогою [INITIATOR_possessive] дзьоба.</BeakjobRP.rulePack.rulesStrings.0>
+<SixtynineRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] лягає в позу 69 з [RECIPIENT_nameDef].</SixtynineRP.rulePack.rulesStrings.0>
+</LanguageData>

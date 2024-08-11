@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddMultiVagina.label>adicionar vagina</AddMultiVagina.label>
+  <AddMultiVagina.description>adiciona uma vagina adicional.</AddMultiVagina.description>
+  <AddMultiVagina.jobString>adicionando vagina.</AddMultiVagina.jobString>
+
+  <AddMultiHorseVagina.label>adicionar vagina equina</AddMultiHorseVagina.label>
+  <AddMultiHorseVagina.description>adiciona uma vagina adicional.</AddMultiHorseVagina.description>
+  <AddMultiHorseVagina.jobString>adicionando vagina.</AddMultiHorseVagina.jobString>
+
+  <AddMultiCatVagina.label>adicionar vagina felina</AddMultiCatVagina.label>
+  <AddMultiCatVagina.description>adiciona uma vagina adicional.</AddMultiCatVagina.description>
+  <AddMultiCatVagina.jobString>adicionando vagina.</AddMultiCatVagina.jobString>
+
+  <AddMultiDogVagina.label>adicionar vagina canina</AddMultiDogVagina.label>
+  <AddMultiDogVagina.description>adiciona uma vagina adicional.</AddMultiDogVagina.description>
+  <AddMultiDogVagina.jobString>adicionando vagina.</AddMultiDogVagina.jobString>
+
+  <AddMultiDragonVagina.label>adicionar vagina dracônica</AddMultiDragonVagina.label>
+  <AddMultiDragonVagina.description>adiciona uma vagina adicional.</AddMultiDragonVagina.description>
+  <AddMultiDragonVagina.jobString>adicionando vagina.</AddMultiDragonVagina.jobString>
+
+
+  <!-- natural penises -->
+
+  <AddMultiPenis.label>adicionar pênis</AddMultiPenis.label>
+  <AddMultiPenis.description>adicionar um pênis adicional.</AddMultiPenis.description>
+  <AddMultiPenis.jobString>adicionando pênis.</AddMultiPenis.jobString>
+
+  <AddMultiHorsePenis.label>adicionar pênis equino</AddMultiHorsePenis.label>
+  <AddMultiHorsePenis.description>adicionar um pênis adicional.</AddMultiHorsePenis.description>
+  <AddMultiHorsePenis.jobString>adicionando pênis.</AddMultiHorsePenis.jobString>
+
+  <AddMultiCatPenis.label>adicionar pênis felino</AddMultiCatPenis.label>
+  <AddMultiCatPenis.description>adicionar um pênis adicional.</AddMultiCatPenis.description>
+  <AddMultiCatPenis.jobString>adicionando pênis.</AddMultiCatPenis.jobString>
+
+  <AddMultiDogPenis.label>adicionar pênis canino</AddMultiDogPenis.label>
+  <AddMultiDogPenis.description>adicionar um pênis adicional.</AddMultiDogPenis.description>
+  <AddMultiDogPenis.jobString>adicionando pênis.</AddMultiDogPenis.jobString>
+
+  <AddMultiDragonPenis.label>adicionar pênis dracônico</AddMultiDragonPenis.label>
+  <AddMultiDragonPenis.description>adicionar um pênis adicional.</AddMultiDragonPenis.description>
+  <AddMultiDragonPenis.jobString>adicionando pênis.</AddMultiDragonPenis.jobString>
+
+  <AddMultiRaccoonPenis.label>adicionar pênis procionídeo</AddMultiRaccoonPenis.label>
+  <AddMultiRaccoonPenis.description>adicionar um pênis adicional.</AddMultiRaccoonPenis.description>
+  <AddMultiRaccoonPenis.jobString>adicionando pênis.</AddMultiRaccoonPenis.jobString>
+
+  <AddMultiHemiPenis.label>adicionar hemipênis</AddMultiHemiPenis.label>
+  <AddMultiHemiPenis.description>adicionar um pênis adicional.</AddMultiHemiPenis.description>
+  <AddMultiHemiPenis.jobString>adicionando pênis.</AddMultiHemiPenis.jobString>
+
+  <AddMultiCrocodilianPenis.label>adicionar pênis crocodiliano</AddMultiCrocodilianPenis.label>
+  <AddMultiCrocodilianPenis.description>adicionar um pênis adicional.</AddMultiCrocodilianPenis.description>
+  <AddMultiCrocodilianPenis.jobString>adicionando pênis.</AddMultiCrocodilianPenis.jobString>
+
+
+  <!-- Breasts -->
+
+  <AddMultiBreasts.label>adicionar seios</AddMultiBreasts.label>
+  <AddMultiBreasts.description>adicionar um par extra de seios.</AddMultiBreasts.description>
+  <AddMultiBreasts.jobString>adicionando seios.</AddMultiBreasts.jobString>
+
+  <AddMultiAnus.label>adicionar ânus</AddMultiAnus.label>
+  <AddMultiAnus.description>adicionar um ânus adicional.</AddMultiAnus.description>
+  <AddMultiAnus.jobString>adicionando ânus.</AddMultiAnus.jobString>
+
+
+</LanguageData>

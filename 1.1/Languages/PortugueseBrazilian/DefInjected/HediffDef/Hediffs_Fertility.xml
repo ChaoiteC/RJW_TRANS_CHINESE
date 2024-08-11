@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IUD.label>DIU</RJW_IUD.label>
+  <RJW_IUD.description>Um pequeno equipamento de cobre inserido no útero que previne a gravidez.</RJW_IUD.description>
+
+  <IncreasedFertility.label>Fertilidade aprimorada</IncreasedFertility.label>
+  <IncreasedFertility.description>Fertilidade aprimorada, para fabricação de bebês.</IncreasedFertility.description>
+
+  <DecreasedFertility.label>Baixa fertilidade</DecreasedFertility.label>
+  <DecreasedFertility.description>Baixa fertilidade.</DecreasedFertility.description>
+
+  <ImpregnationBlocker.label>Bloqueador de gravidez arquotecológico</ImpregnationBlocker.label>
+  <ImpregnationBlocker.description>Um equipamento complexo que previne que os ovos dos ovários possam ser fecundados.</ImpregnationBlocker.description>
+
+  <FertilityEnhancer.label>Aprimorador de fertilidade arquotecológico</FertilityEnhancer.label>
+  <FertilityEnhancer.description>Um equipamento complexo que aumenta as chances de uma gravidez.</FertilityEnhancer.description>
+
+
+</LanguageData>

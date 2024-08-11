@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural Penises -->
+
+  <Penis.label>Пенис</Penis.label>
+  <Penis.description>Простой пенис.</Penis.description>
+
+
+  <!-- Natural Vaginas -->
+
+  <Vagina.label>Вагина</Vagina.label>
+  <Vagina.description>Простая вагина.</Vagina.description>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>Грудь</Breasts.label>
+  <Breasts.description>Простая грудь.</Breasts.description>
+
+
+  <!-- Natural Anuses -->
+
+  <Anus.label>Анус</Anus.label>
+  <Anus.description>Простой анус.</Anus.description>
+
+  <FeaturelessChest.label>Абсолютно плоская грудь</FeaturelessChest.label>
+  <FeaturelessChest.description>Гладкая грудь без каких либо сосков. В большинстве своём идеальна для немлекопитающих.</FeaturelessChest.description>
+
+
+</LanguageData>

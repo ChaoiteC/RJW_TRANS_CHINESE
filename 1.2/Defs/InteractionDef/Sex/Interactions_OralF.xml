@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>RimmingF</defName>
+		<label>rimming</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Rimmed [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was rimmed by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give an anal rimming</RMBLabelM>
+				<RMBLabelF>ask for an anal rimming</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Rimming</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>RimmingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>CunnilingusF</defName>
+		<label>cunnilingus</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Gave cunnilingus to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Received cunnilingus from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a cunnilingus</RMBLabelM>
+				<RMBLabelF>ask for a cunnilingus</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Cunnilingus</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>CunnilingusRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>FellatioF</defName>
+		<label>fellatio</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fellated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was fellated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a fellatio</RMBLabelM>
+				<RMBLabelF>ask for a fellatio</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Fellatio</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FellatioRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>BeakjobF</defName>
+		<label>beakjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Gave a beakjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Received a beakjob from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a beakjob</RMBLabelM>
+				<RMBLabelF>ask for a beakjob</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>None</rjwSextype><!-- hardcoded, overrides Fellatio-->
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>BeakjobRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>SixtynineF</defName>
+		<label>69ing</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->69'd with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->69'd with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>sixtynine(top)</RMBLabelM>
+				<RMBLabelF>sixtynine(bottom)</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Sixtynine</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Oral</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>SixtynineRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

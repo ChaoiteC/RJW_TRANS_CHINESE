@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_childC.baseDescription>[PAWN_nameDef](은)는 민간 정착지에서 태어났습니다.</rjw_childC.baseDescription>
+  <rjw_childC.title>어린이</rjw_childC.title>
+  <rjw_childC.titleShort>어린이</rjw_childC.titleShort>
+  <rjw_childT.baseDescription>[PAWN_nameDef](은)는 부족 마을에서 태어났습니다.</rjw_childT.baseDescription>
+  <rjw_childT.title>어린이</rjw_childT.title>
+  <rjw_childT.titleShort>어린이</rjw_childT.titleShort>
+
+</LanguageData>

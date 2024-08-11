@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SexAbility.label>habilidad sexual</SexAbility.label>
+  <SexAbility.description>Mide si el colono puede o no participar en actividades sexuales y qué tan bueno es</SexAbility.description>
+
+  <Vulnerability.label>vulnerabilidad</Vulnerability.label>
+  <Vulnerability.description>Mide las posibilidades del colono de ser violado sexualmente.</Vulnerability.description>
+
+  <SexFrequency.label>deseo sexual</SexFrequency.label>
+  <SexFrequency.description>Mide qué tan sexualmente activo es el colono.</SexFrequency.description>
+
+
+</LanguageData>

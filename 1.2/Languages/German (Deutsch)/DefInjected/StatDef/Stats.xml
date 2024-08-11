@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SexAbility.label>sexuelles Geschick</SexAbility.label>
+  <SexAbility.description>Gibt an ob oder wie gut diese Person ihre Partner befriedigen kann.</SexAbility.description>
+
+  <Vulnerability.label>Anfälligkeit</Vulnerability.label>
+  <Vulnerability.description>Gibt an wie anfällig diese Person für Vergewaltigungen ist.</Vulnerability.description>
+
+  <SexFrequency.label>Sexualtrieb</SexFrequency.label>
+  <SexFrequency.description>Gibt an wie stark der Sexualtrieb dieser Person ist.</SexFrequency.description>
+
+
+</LanguageData>

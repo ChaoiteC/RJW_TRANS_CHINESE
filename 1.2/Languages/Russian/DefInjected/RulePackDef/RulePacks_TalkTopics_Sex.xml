@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TalkTopicsSex.rulePack.rulesStrings.0>TalkTopicAny->[TalkTopicSex]</TalkTopicsSex.rulePack.rulesStrings.0>
+  <TalkTopicsSex.rulePack.rulesStrings.1>TalkTopicSex(p=0.8)->[talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.1>
+  <TalkTopicsSex.rulePack.rulesStrings.2>TalkTopicHeavy(p=0.08)->the link between [talktopicsexfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.2>
+  <TalkTopicsSex.rulePack.rulesStrings.3>TalkTopicHeavy(p=0.08)->the connection between [talktopicsexfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.3>
+  <TalkTopicsSex.rulePack.rulesStrings.4>TalkTopicHeavy(p=0.08)->the relationship between [talktopicsexfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.4>
+  <TalkTopicsSex.rulePack.rulesStrings.5>TalkTopicHeavy(p=0.16)->the link between [talktopicheavyfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.5>
+  <TalkTopicsSex.rulePack.rulesStrings.6>TalkTopicHeavy(p=0.16)->the connection between [talktopicheavyfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.6>
+  <TalkTopicsSex.rulePack.rulesStrings.7>TalkTopicHeavy(p=0.16)->the relationship between [talktopicheavyfile] and [talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.7>
+
+
+</LanguageData>

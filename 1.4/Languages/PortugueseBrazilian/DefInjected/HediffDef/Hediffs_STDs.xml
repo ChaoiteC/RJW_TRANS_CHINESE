@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AcuteHIV.label>HIV aguda</AcuteHIV.label>
+  <AcuteHIV.description>Um virus causador de imunodeficiência que se transmite através do contato sexual.</AcuteHIV.description>
+  <AcuteHIV.stages.0.label>detectável</AcuteHIV.stages.0.label>
+  <AcuteHIV.stages.1.label>leve</AcuteHIV.stages.1.label>
+  <AcuteHIV.stages.2.label>leve</AcuteHIV.stages.2.label>
+  <AcuteHIV.stages.3.label>leve</AcuteHIV.stages.3.label>
+  <AcuteHIV.stages.4.label>moderado</AcuteHIV.stages.4.label>
+  <AcuteHIV.stages.5.label>grave</AcuteHIV.stages.5.label>
+  <AcuteHIV.stages.6.label>grave</AcuteHIV.stages.6.label>
+  <AcuteHIV.stages.7.label>grave</AcuteHIV.stages.7.label>
+  <AcuteHIV.stages.8.label>extremo</AcuteHIV.stages.8.label>
+  <AcuteHIV.stages.9.label>extremo</AcuteHIV.stages.9.label>
+
+  <ChronicHIV.label>HIV crônico</ChronicHIV.label>
+  <ChronicHIV.description>Um virus causador de imunodeficiência que se transmite através do contato sexual.</ChronicHIV.description>
+  <ChronicHIV.stages.0.label>detectável</ChronicHIV.stages.0.label>
+  <ChronicHIV.stages.1.label>leve</ChronicHIV.stages.1.label>
+  <ChronicHIV.stages.2.label>leve</ChronicHIV.stages.2.label>
+  <ChronicHIV.stages.3.label>leve</ChronicHIV.stages.3.label>
+  <ChronicHIV.stages.4.label>moderado</ChronicHIV.stages.4.label>
+  <ChronicHIV.stages.5.label>grave</ChronicHIV.stages.5.label>
+  <ChronicHIV.stages.6.label>grave</ChronicHIV.stages.6.label>
+  <ChronicHIV.stages.7.label>grave</ChronicHIV.stages.7.label>
+  <ChronicHIV.stages.8.label>extremo</ChronicHIV.stages.8.label>
+  <ChronicHIV.stages.9.label>extremo</ChronicHIV.stages.9.label>
+
+  <Herpes.label>herpes</Herpes.label>
+  <Herpes.description>Úlceras genitais que se transmitem através do contato sexual.</Herpes.description>
+  <Herpes.stages.0.label>leve</Herpes.stages.0.label>
+  <Herpes.stages.1.label>moderado</Herpes.stages.1.label>
+  <Herpes.stages.2.label>grave</Herpes.stages.2.label>
+
+  <Warts.label>verruga</Warts.label>
+  <Warts.description>Verrugas genitais que se transmitem através do contato sexual.</Warts.description>
+  <Warts.stages.0.label>leve</Warts.stages.0.label>
+  <Warts.stages.1.label>grave</Warts.stages.1.label>
+
+  <Syphilis.label>sífilis</Syphilis.label>
+  <Syphilis.description>Uma infecção bactericida que se transmite através do contato sexual.</Syphilis.description>
+  <Syphilis.stages.0.label>leve</Syphilis.stages.0.label>
+  <Syphilis.stages.1.label>moderado</Syphilis.stages.1.label>
+  <Syphilis.stages.2.label>grave</Syphilis.stages.2.label>
+  <Syphilis.stages.3.label>extremo</Syphilis.stages.3.label>
+  <Syphilis.stages.4.label>extremo</Syphilis.stages.4.label>
+  <Syphilis.stages.5.label>extremo</Syphilis.stages.5.label>
+
+  <Boobitis.label>seiosite</Boobitis.label>
+  <Boobitis.description>Seiosite é uma praga mecanóide altamente contagiosa que cause crescimento permanente dos seios se não tratada. Era inicialmente criada como uma inofensiva "droga para festas" em um mundo brilhante, mas recentemente teve mutações e é capaz de se espalhar para virtualmente qualquer colônia humana.</Boobitis.description>
+  <Boobitis.stages.0.label>inchaço sutil</Boobitis.stages.0.label>
+  <Boobitis.stages.1.label>inchaço notável</Boobitis.stages.1.label>
+  <Boobitis.stages.2.label>inchaço espetacular</Boobitis.stages.2.label>
+
+
+</LanguageData>

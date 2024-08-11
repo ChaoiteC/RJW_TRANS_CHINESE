@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForcedFellatioBreeding.label>Servicio oral</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Cara cogida [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Cara fué cogida</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>reproducción vaginal</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presentado a [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Presentado a [INITIATOR_nameDef].</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>contraceptivos</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>Pílulas contraceptivas diminuem muito a fertilidade por um trimestre.</RJW_Contraceptive.description>
+  <RJW_Contraceptive.stages.0.label>Contracepivos</RJW_Contraceptive.stages.0.label>
+
+
+</LanguageData>

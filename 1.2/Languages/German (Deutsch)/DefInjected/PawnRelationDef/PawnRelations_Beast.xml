@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_Sire.label>Vater</RJW_Sire.label>
+  <RJW_Sire.labelFemale>Mutter</RJW_Sire.labelFemale>
+
+  <RJW_Pup.label>Sohn</RJW_Pup.label>
+  <RJW_Pup.labelFemale>Tochter</RJW_Pup.labelFemale>
+
+
+</LanguageData>

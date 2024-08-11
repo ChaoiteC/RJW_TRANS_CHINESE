@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.label>Libido inducida</HumpShroomEffect.label>
+  <HumpShroomEffect.description>Efectos afrodisíacos de champignón.</HumpShroomEffect.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomTolerance.label>tolerancia a champignón</HumpShroomTolerance.label>
+  <HumpShroomTolerance.description>Telerance a los efectos de champignón.</HumpShroomTolerance.description>
+
+  <HumpShroomAddiction.label>adicción a champignón</HumpShroomAddiction.label>
+  <HumpShroomAddiction.description>adicto a los efectos de champignón.</HumpShroomAddiction.description>
+  <HumpShroomAddiction.stages.1.label>abstinencia</HumpShroomAddiction.stages.1.label>
+
+
+</LanguageData>

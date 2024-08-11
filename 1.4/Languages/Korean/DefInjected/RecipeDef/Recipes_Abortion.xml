@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_AbortionHuman.label>낙태</RJW_AbortionHuman.label>
+	<RJW_AbortionHuman.description>원치 않은 임신을 제거합니다.</RJW_AbortionHuman.description>
+	<RJW_AbortionHuman.jobString>낙태중.</RJW_AbortionHuman.jobString>
+	<RJW_AbortionBeast.label>낙태</RJW_AbortionBeast.label>
+	<RJW_AbortionBeast.description>원치 않은 임신을 제거합니다.</RJW_AbortionBeast.description>
+	<RJW_AbortionBeast.jobString>낙태중.</RJW_AbortionBeast.jobString>
+	<RJW_AbortionMech.label>메카노이드 칩 제거</RJW_AbortionMech.label>
+	<RJW_AbortionMech.description>메카노이드 칩을 안전하게 제거합니다.</RJW_AbortionMech.description>
+	<RJW_AbortionMech.jobString>제거중.</RJW_AbortionMech.jobString>
+
+	<RJW_HackMech.label>메카노이드 칩 해킹</RJW_HackMech.label>
+	<RJW_HackMech.description>메카노이드 칩을 해킹하여 고분고분하게 만듭니다.</RJW_HackMech.description>
+	<RJW_HackMech.jobString>메카노이드 칩 해킹중.</RJW_HackMech.jobString>
+
+</LanguageData>

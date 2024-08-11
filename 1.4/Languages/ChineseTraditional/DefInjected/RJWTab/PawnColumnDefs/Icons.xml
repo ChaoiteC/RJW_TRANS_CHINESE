@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <RJW_IsPrisoner.headerTip>是否受囚</RJW_IsPrisoner.headerTip>
+    <RJW_IsSlave.headerTip>是否為奴</RJW_IsSlave.headerTip>
+    <RJW_Gender.headerTip>性別</RJW_Gender.headerTip>
+</LanguageData>

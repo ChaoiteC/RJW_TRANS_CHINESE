@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- From core -->
+<claimChild.label>Прихистити дитину</claimChild.label>
+<claimChild.description>Додає дитину до населення колонії.</claimChild.description>
+<claimChild.jobString>Приймає дитину в поселення.</claimChild.jobString>
+</LanguageData>

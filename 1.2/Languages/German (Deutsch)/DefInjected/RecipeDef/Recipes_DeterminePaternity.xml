@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePaternity.label>Teste Vaterschaft</DeterminePaternity.label>
+  <DeterminePaternity.description>Findet heraus ob ein Kolonist schwanger ist und versucht den Vater des Kindes zu ermitteln.</DeterminePaternity.description>
+  <DeterminePaternity.jobString>Testet auf Schwangerschaft.</DeterminePaternity.jobString>
+
+
+</LanguageData>

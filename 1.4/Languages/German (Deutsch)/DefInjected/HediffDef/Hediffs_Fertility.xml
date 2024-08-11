@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IUD.label>Spirale</RJW_IUD.label>
+  <RJW_IUD.description>Ein kleines Gerät aus Kupfer, es wird in die Gebärmutter eingesetzt um Schwangerschaften zu verhindern.</RJW_IUD.description>
+
+  <IncreasedFertility.label>Gesteigerte Fruchtbarkeit</IncreasedFertility.label>
+  <IncreasedFertility.description>Gesteigerte Fruchtbarkeit macht es leichter Kinder zu bekommen.</IncreasedFertility.description>
+
+  <DecreasedFertility.label>Geringe Fruchtbarkeit</DecreasedFertility.label>
+  <DecreasedFertility.description>Niedrige Fruchtbarkeit.</DecreasedFertility.description>
+
+  <ImpregnationBlocker.label>Archotech Schwangerschaftsblocker</ImpregnationBlocker.label>
+  <ImpregnationBlocker.description>Ein kompliziertes Gerät welches die Produktion von Eizellen und damit Schwangerschaften verhindert.</ImpregnationBlocker.description>
+
+  <FertilityEnhancer.label>Archotech Fruchtbarkeitsverstärker</FertilityEnhancer.label>
+  <FertilityEnhancer.description>Ein kompliziertes Gerät welches die Wahrscheinlichkeit von Schwangerschaften erhöht.</FertilityEnhancer.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GettinRaped.reportString>Sendo estruprado(a).</GettinRaped.reportString>
+  <RapeComfortPawn.reportString>Estuprando prisioneiro(a) por alívio</RapeComfortPawn.reportString>
+  <RandomRape.reportString>Procurando alguém para estuprar.</RandomRape.reportString>
+  <RapeEnemy.reportString>Estuprando inimigo(a).</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>Estuprando inseto.</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>Estuprando animal.</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>Estuprando mecanoide.</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>Estuprando parasita.</RapeEnemyToParasite.reportString>
+
+
+</LanguageData>

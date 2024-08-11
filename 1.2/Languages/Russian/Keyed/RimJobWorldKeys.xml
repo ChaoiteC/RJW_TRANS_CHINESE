@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod strings -->
+  <!-- std -->
+  <RJW_Opportunistic_Infection_Message>{0} заражается инфекцией из-за ослабленного иммунитета.</RJW_Opportunistic_Infection_Message>
+  <!--RJW_Poisoned_by_Rimming_Message>{0} получает несварение после римминга {1}</RJW_Poisoned_by_Rimming_Message-->
+  <RJW_Syphilis_Damage_Message>{0} получает урон {1} {2} из-за осложнения {3}.</RJW_Syphilis_Damage_Message>
+
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0} соглашается на предложение {1}.</RJW_VisitorAcceptWhore>
+  <RJW_VisitorRejectWhore>{0} отказывается от предложения {1}.</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0} отказывается от предложения {1} т.к. клиенту явно нездоровится.</RJW_VisitorSickWhore>
+
+  <!-- Notifications on right-clicking CP -->
+  <PawnCantRapeCP>Цель не достаточно здорова, или данная позиция запрещена.</PawnCantRapeCP>
+  <PawnCantRapeCP0>Пешка не хочет секса, не здоровая, или не может насиловать.</PawnCantRapeCP0>
+  <PawnCantRapeCP1>Пешка находится в отношениях или партнёр находится неподалёку.</PawnCantRapeCP1>
+  <PawnCantRapeCP2>Пешка не зоофил и не может насиловать животных.</PawnCantRapeCP2>
+
+  <!--Submit button-->
+  <CommandSubmit>Сдаться</CommandSubmit>
+  <CommandSubmitDesc>Лечь и надеяться на милость врагов.</CommandSubmitDesc>
+
+  <!--Preganancy messages-->
+  <RJW_PregnantTitle>{0} беременна.</RJW_PregnantTitle>
+  <RJW_PregnantText>{0} беременна и скоро станет матерью! Но будьте осторожны, ведь травмы и инфекции могут привести к выкидышу.</RJW_PregnantText>
+  <RJW_Contractions>У {0} схватки! Скоро она родит!</RJW_Contractions>
+  <RJW_GaveBirthTitle>Схватки кончились.</RJW_GaveBirthTitle>
+  <RJW_GaveBirthText>{0} успешно родила </RJW_GaveBirthText>
+  <RJW_ABaby>ребёнка.</RJW_ABaby>
+  <RJW_NBabies>её {0} дети.</RJW_NBabies>
+  <RJW_PregnantNormal>У неё здоровый малыш...</RJW_PregnantNormal>
+  <RJW_PregnantStrange>С ребёнком что-то не так...</RJW_PregnantStrange>
+  <RJW_PregnantMechStrange>Что-то ОЧЕНЬ не так с ребёнком...</RJW_PregnantMechStrange>
+  <RJW_GaveBirthEggTitle>Отложила яйцо.</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0} отложила яйца </RJW_GaveBirthEggText>
+  <RJW_EggContractions>У {0} схватки! Яйца уже выходят!</RJW_EggContractions>
+
+  <!--Breast size changes-->
+  <!--Should be "{PAWN_possessive} breasts..." but I couldn't get that to work correctly.-->
+  <RJW_BreastsHaveGrownFromBoobitis>Грудь выросла.</RJW_BreastsHaveGrownFromBoobitis>
+
+  <!--Comfort designation-->
+  <ForComfort>Разрешить для пешек</ForComfort>
+  <ForComfortDesc>Разрешить эту пешку для пользования другим</ForComfortDesc>
+  <ForComfortRefuseDesc>Не согласится со своей участью\nReq: черта мазохизм</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>Назначить проституткой</ForService>  <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[Заставить работать проституткой
+- Будет пытаться затащить гостей в постель.
+- Развлекает жителей, когда нет работы.
+- Восдерживается от мастурбации на работе, что может понизить настроение.
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>Не согласиться быть проституткой</ForServiceRefuseDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>Разрешить для животных</ForBreeding>
+  <ForBreedingDesc>Отметить для спаривания с животными</ForBreedingDesc>
+  <ForBreedingRefuseDesc>Не согласится со своей участью\nReq: черта зоофил</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>Разрешить животному спариваться с отмеченными пешками</ForBreedingAnimalDesc>
+
+  <BreedMessage> пытается спариться с </BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>Разрешить доить</ForMilking>
+  <ForMilkingDesc>Получить "биоматериал" от этого существа</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>Выбрать Героем</ForHero>
+  <ForHeroDesc><![CDATA[Выбрать пешку на роль игрового персонажа
+-Может быть выбран только один раз.
+-Нельзя отключить.
+]]></ForHeroDesc>
+  <ForHeroRefuse1Desc>Это герой другого игрока</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>Вы не имеете права менять его выбор</ForHeroRefuse2Desc>
+
+  <RJW_hediff_braSize>Размер груди: {0}:{1} ({2} )</RJW_hediff_braSize>
+  <RJW_hediff_braSizeNone>Размер груди: -</RJW_hediff_braSizeNone>
+  <RJW_hediff_eggs>Яйца: {0}</RJW_hediff_eggs>
+  <RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+  <RJW_hediff_girth>Обхват: {0}</RJW_hediff_girth>
+  <RJW_hediff_length>Длина: {0}</RJW_hediff_length>
+  <RJW_hediff_maxGirth>Макс. Обхват: {0}</RJW_hediff_maxGirth>
+  <RJW_hediff_maxLength>Макс. Длина: {0}</RJW_hediff_maxLength>
+  <RJW_hediff_overbust>Надгрудный обхват: {0}</RJW_hediff_overbust>
+  <RJW_hediff_underbust>Подгрудный обхват: {0}</RJW_hediff_underbust>
+  <RJW_hediff_unknownSpecies>Неизвестный вид</RJW_hediff_unknownSpecies>
+  <RJW_hediff_weight>Вес: {0}</RJW_hediff_weight>
+
+</LanguageData>

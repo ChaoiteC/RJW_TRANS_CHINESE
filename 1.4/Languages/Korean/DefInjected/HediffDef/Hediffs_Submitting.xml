@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hediff_Submitting.label>스스로 엎드림</Hediff_Submitting.label>
+	<Hediff_Submitting.description>항복.</Hediff_Submitting.description>
+	<Hediff_RapeEnemyCD.label>자신의 차례를 기다림</Hediff_RapeEnemyCD.label>
+	<Hediff_RapeEnemyCD.description>"다음은 누구?"</Hediff_RapeEnemyCD.description>
+
+</LanguageData>

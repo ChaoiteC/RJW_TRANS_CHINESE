@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Labels -->
+	<RJW_SexGizmo_Orgasm>Orgasm</RJW_SexGizmo_Orgasm>
+	<RJW_SexGizmo_RestNeed>Stamina</RJW_SexGizmo_RestNeed>
+	<RJW_SexGizmo_SexNeed>Satisfaction</RJW_SexGizmo_SexNeed><!-- ? -->
+	
+	<!-- Buttons -->
+	<RJW_SexGizmo_SexOverdriveTooltip>SexOverdrive - sex wont end until pawn collapses or interrupted otherwise.</RJW_SexGizmo_SexOverdriveTooltip>
+	<RJW_SexGizmo_HitPawn>Hit once.</RJW_SexGizmo_HitPawn>
+	<RJW_SexGizmo_Cocoon>Wrap pawn into cocoon.</RJW_SexGizmo_Cocoon><!-- ? -->
+	<RJW_SexGizmo_Egg>Stuff with eggs.</RJW_SexGizmo_Egg><!-- ? -->
+</LanguageData>

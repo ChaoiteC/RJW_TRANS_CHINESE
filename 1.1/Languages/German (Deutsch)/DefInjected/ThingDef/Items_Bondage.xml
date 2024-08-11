@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hololock.label>Holoschloss</Hololock.label>
+  <Hololock.description>Modernster Schließmechanismus. Mit folgenden Funktionen:\n - Extrem starkes, mit Plastahl verstärktes Gehäuse\n - Der Schlüssel und das Schloss werden mithilfe einer kryptografischen UID verbunden, die holographisch in das Jadensubstrat eingebettet ist, um sicherzustellen, dass keine falschen Schlüssel hergestellt werden können\n - Selbstzerstörerender Ausfallsicherheitsauslöser, um sicherzustellen, dass der geschützte Gegenstand zerstört wird und nicht in die falschen Hände gerät\nUrsprünglich für militärische Zwecke entwickelt, erfreut sich das holographische Schloss große Beliebtheit in der BDSM-Community. Dort ist es üblich, ein Schlüsselpaar mit gleichen Namen zu kennzeichnen, um die Identifizierung zu erleichtern.</Hololock.description>
+
+  <Holokey.label>Holoschlüssel</Holokey.label>
+  <Holokey.description>Modernster High-Tech Schlüssel. Kann nur Schlösser mit identischem kryptografischen Code öffnen.</Holokey.description>
+  <Holokey.comps.2.useLabel>Schloss öffnen</Holokey.comps.2.useLabel>
+
+
+</LanguageData>

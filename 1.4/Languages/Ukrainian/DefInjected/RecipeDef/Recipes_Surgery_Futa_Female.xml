@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- natural penises -->
+<AddPenis.label>Імплантувати пеніс</AddPenis.label>
+<AddPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</AddPenis.description>
+<AddPenis.jobString>Імплантує.</AddPenis.jobString>
+<addHorsePenis.label>Імплантувати</addHorsePenis.label>
+<addHorsePenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addHorsePenis.description>
+<addHorsePenis.jobString>Імплантує.</addHorsePenis.jobString>
+<addCatPenis.label>Імплантувати котячий пеніс</addCatPenis.label>
+<addCatPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addCatPenis.description>
+<addCatPenis.jobString>Імплантує.</addCatPenis.jobString>
+<addDogPenis.label>Імплантувати собачий пеніс</addDogPenis.label>
+<addDogPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addDogPenis.description>
+<addDogPenis.jobString>Імплантує.</addDogPenis.jobString>
+<addDragonPenis.label>Імплантувати драконячий пеніс</addDragonPenis.label>
+<addDragonPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addDragonPenis.description>
+<addDragonPenis.jobString>Імплантує.</addDragonPenis.jobString>
+<addOvipositorM.label>Імплантувати чоловічий яйцеклад</addOvipositorM.label>
+<addOvipositorM.jobString>Імплантує.</addOvipositorM.jobString>
+<addOvipositorM.description>Приєднує пеніс до самки, роблячи її гермафродитом.</addOvipositorM.description>
+<addRaccoonPenis.label>Імплантувати пеніс єнота</addRaccoonPenis.label>
+<addRaccoonPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addRaccoonPenis.description>
+<addRaccoonPenis.jobString>Імплантує.</addRaccoonPenis.jobString>
+<addHemiPenis.label>Імплантувати геміпеніс</addHemiPenis.label>
+<addHemiPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addHemiPenis.description>
+<addHemiPenis.jobString>Імплантує.</addHemiPenis.jobString>
+<addCrocodilianPenis.label>Імплантувати крокодилячий пеніс</addCrocodilianPenis.label>
+<addCrocodilianPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addCrocodilianPenis.description>
+<addCrocodilianPenis.jobString>Імплантує.</addCrocodilianPenis.jobString>
+<AddNeedlePenis.label>Імплантувати голкоподібний пеніс</AddNeedlePenis.label>
+<AddNeedlePenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</AddNeedlePenis.description>
+<AddNeedlePenis.jobString>Імплантує.</AddNeedlePenis.jobString>
+<AddCloacalPenis.label>Імплантувати пеніс-клоаку</AddCloacalPenis.label>
+<AddCloacalPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</AddCloacalPenis.description>
+<AddCloacalPenis.jobString>Імплантує.</AddCloacalPenis.jobString>
+<AddRodentPenis.label>Імплантувати пеніс гризуна</AddRodentPenis.label>
+<AddRodentPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</AddRodentPenis.description>
+<AddRodentPenis.jobString>Імплантує.</AddRodentPenis.jobString>
+<!-- hydraulic penis -->
+<addHydraulicPenis.label>Імплантувати гідравлічний пеніс</addHydraulicPenis.label>
+<addHydraulicPenis.jobString>АІмплантує.</addHydraulicPenis.jobString>
+<addHydraulicPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addHydraulicPenis.description>
+<!-- bionic penis -->
+<addBionicPenis.label>Імплантувати біонічний пеніс</addBionicPenis.label>
+<addBionicPenis.jobString>Імплантує.</addBionicPenis.jobString>
+<addBionicPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addBionicPenis.description>
+<!-- Archotech -->
+<addArchotechPenis.label>Імплантувати Архотек-пеніс</addArchotechPenis.label>
+<addArchotechPenis.jobString>АІмплантує.</addArchotechPenis.jobString>
+<addArchotechPenis.description>Імплантувати пеніс жінці та зробити її гермафродитом.</addArchotechPenis.description>
+</LanguageData>

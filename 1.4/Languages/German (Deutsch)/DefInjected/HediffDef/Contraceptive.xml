@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>Verhütungsmittel</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>Diese Pillen verringern die Fruchtbarkeit sehr für ein viertel Jahr.</RJW_Contraceptive.description>
+  <RJW_Contraceptive.stages.0.label>Verhütet</RJW_Contraceptive.stages.0.label>
+
+
+</LanguageData>

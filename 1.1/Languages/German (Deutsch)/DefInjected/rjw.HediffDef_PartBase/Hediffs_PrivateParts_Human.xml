@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular privates -->
+
+  <Penis.label>Penis</Penis.label>
+  <Penis.labelNoun>ein Penis</Penis.labelNoun>
+  <Penis.description>Ein Penis.</Penis.description>
+  <Penis.stages.0.label>Mikro</Penis.stages.0.label>
+  <Penis.stages.1.label>Klein</Penis.stages.1.label>
+  <Penis.stages.2.label>Mittelgroß</Penis.stages.2.label>
+  <Penis.stages.3.label>Groß</Penis.stages.3.label>
+  <Penis.stages.4.label>Riesig</Penis.stages.4.label>
+  <Penis.stages.5.label>Enorm</Penis.stages.5.label>
+
+  <Vagina.label>Vagina</Vagina.label>
+  <Vagina.labelNoun>eine Vagina</Vagina.labelNoun>
+  <Vagina.description>Eine Vagina.</Vagina.description>
+  <Vagina.stages.0.label>Mikro</Vagina.stages.0.label>
+  <Vagina.stages.1.label>Eng</Vagina.stages.1.label>
+  <Vagina.stages.2.label>Mittelgroß</Vagina.stages.2.label>
+  <Vagina.stages.3.label>Weit</Vagina.stages.3.label>
+  <Vagina.stages.4.label>Schlaff</Vagina.stages.4.label>
+  <Vagina.stages.5.label>Enorm</Vagina.stages.5.label>
+
+
+  <!-- Natural anuses -->
+
+  <Anus.label>Anus</Anus.label>
+  <Anus.labelNoun>ein Anus</Anus.labelNoun>
+  <Anus.description>Ein Anus.</Anus.description>
+  <Anus.stages.0.label>Mikro</Anus.stages.0.label>
+  <Anus.stages.1.label>Eng</Anus.stages.1.label>
+  <Anus.stages.2.label>Mittelgroß</Anus.stages.2.label>
+  <Anus.stages.3.label>Weit</Anus.stages.3.label>
+  <Anus.stages.4.label>Schlaff</Anus.stages.4.label>
+  <Anus.stages.5.label>Enorm</Anus.stages.5.label>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>Brüste</Breasts.label>
+  <Breasts.labelNoun>ein paar Brüste</Breasts.labelNoun>
+  <Breasts.description>Ein paar Brüste.</Breasts.description>
+  <Breasts.stages.0.label>Flach</Breasts.stages.0.label>
+  <Breasts.stages.1.label>Klein</Breasts.stages.1.label>
+  <Breasts.stages.2.label>Mittelgroß</Breasts.stages.2.label>
+  <Breasts.stages.3.label>Groß</Breasts.stages.3.label>
+  <Breasts.stages.4.label>Riesig</Breasts.stages.4.label>
+  <Breasts.stages.5.label>Enorm</Breasts.stages.5.label>
+  <Breasts.stages.6.label>Übergroß</Breasts.stages.6.label>
+  <Breasts.stages.7.label>Massiv</Breasts.stages.7.label>
+  <Breasts.stages.8.label>Gigantisch</Breasts.stages.8.label>
+  <Breasts.stages.9.label>Kolossal</Breasts.stages.9.label>
+
+
+  <!-- Natural Breasts or rather lack of -->
+
+  <FeaturelessChest.label>Merkmallose Brust</FeaturelessChest.label>
+  <FeaturelessChest.labelNoun>eine merkmallose Brust</FeaturelessChest.labelNoun>
+  <FeaturelessChest.description>Eine flache Brust ohne Nippel.</FeaturelessChest.description>
+
+
+</LanguageData>

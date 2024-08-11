@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Slime privates -->
+
+  <SlimeTentacles.label>tentáculo de geléia</SlimeTentacles.label>
+  <SlimeTentacles.labelNoun>um tentáculo de geléia</SlimeTentacles.labelNoun>
+  <SlimeTentacles.description>Um tentáculo translúcido e gosmento capaz de alterar sua forma conforme desejado.</SlimeTentacles.description>
+  <SlimeTentacles.stages.0.label>Micro</SlimeTentacles.stages.0.label>
+  <SlimeTentacles.stages.1.label>Pequeno</SlimeTentacles.stages.1.label>
+  <SlimeTentacles.stages.2.label>Médio</SlimeTentacles.stages.2.label>
+  <SlimeTentacles.stages.3.label>Grande</SlimeTentacles.stages.3.label>
+  <SlimeTentacles.stages.4.label>Gigante</SlimeTentacles.stages.4.label>
+  <SlimeTentacles.stages.5.label>Grandioso</SlimeTentacles.stages.5.label>
+
+  <SlimeVagina.label>vagina de geléia</SlimeVagina.label>
+  <SlimeVagina.labelNoun>uma vagina de geléia</SlimeVagina.labelNoun>
+  <SlimeVagina.description>Uma vagina translúcida e gosmenta capaz de alargar e encolher para acomodar qualquer pênis.</SlimeVagina.description>
+  <SlimeVagina.stages.0.label>Micro</SlimeVagina.stages.0.label>
+  <SlimeVagina.stages.1.label>Apertada</SlimeVagina.stages.1.label>
+  <SlimeVagina.stages.2.label>Média</SlimeVagina.stages.2.label>
+  <SlimeVagina.stages.3.label>Confortável</SlimeVagina.stages.3.label>
+  <SlimeVagina.stages.4.label>Folgada</SlimeVagina.stages.4.label>
+  <SlimeVagina.stages.5.label>Cavernosa</SlimeVagina.stages.5.label>
+
+  <SlimeAnus.label>ânus de geléia</SlimeAnus.label>
+  <SlimeAnus.labelNoun>um ânus de geléia</SlimeAnus.labelNoun>
+  <SlimeAnus.description>Um ânus translúcido e gosmento capaz de apertar e conformar qualquer penetração.</SlimeAnus.description>
+  <SlimeAnus.stages.0.label>Micro</SlimeAnus.stages.0.label>
+  <SlimeAnus.stages.1.label>Apertado</SlimeAnus.stages.1.label>
+  <SlimeAnus.stages.2.label>Médio</SlimeAnus.stages.2.label>
+  <SlimeAnus.stages.3.label>Confortável</SlimeAnus.stages.3.label>
+  <SlimeAnus.stages.4.label>Folgado</SlimeAnus.stages.4.label>
+  <SlimeAnus.stages.5.label>Cavernoso</SlimeAnus.stages.5.label>
+
+  <SlimeBreasts.label>seios de geléia</SlimeBreasts.label>
+  <SlimeBreasts.labelNoun>um par de seios de geléia</SlimeBreasts.labelNoun>
+  <SlimeBreasts.description>Um par de seios translúcidos e gosmentos capazes de crescer ou diminuir de tamanho como desejado.</SlimeBreasts.description>
+  <SlimeBreasts.stages.0.label>Mamilos</SlimeBreasts.stages.0.label>
+  <SlimeBreasts.stages.1.label>Minúculos</SlimeBreasts.stages.1.label>
+  <SlimeBreasts.stages.2.label>Pequenos</SlimeBreasts.stages.2.label>
+  <SlimeBreasts.stages.3.label>Médios</SlimeBreasts.stages.3.label>
+  <SlimeBreasts.stages.4.label>Grandes</SlimeBreasts.stages.4.label>
+  <SlimeBreasts.stages.5.label>Gigantes</SlimeBreasts.stages.5.label>
+  <SlimeBreasts.stages.6.label>Gigantescos</SlimeBreasts.stages.6.label>
+  <SlimeBreasts.stages.7.label>Imensos</SlimeBreasts.stages.7.label>
+  <SlimeBreasts.stages.8.label>Descomunais</SlimeBreasts.stages.8.label>
+  <SlimeBreasts.stages.9.label>Colossais</SlimeBreasts.stages.9.label>
+  <SlimeBreasts.stages.10.label>Titanic</SlimeBreasts.stages.10.label>
+
+
+</LanguageData>

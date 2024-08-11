@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- default table cuz why not? -->
+	<PawnTableDef>
+		<defName>RJW_PawnTable_Humanlikes</defName>
+		<workerClass>rjw.MainTab.RJW_PawnTable_Humanlikes</workerClass>
+		<columns>
+			<li>Label</li>
+			<li>GapTiny</li>
+			<li>RJW_Gender</li>
+			<li>GapTiny</li>
+			<li>LifeStage</li>
+			<li>GapTiny</li>
+			<li>RJW_IsPrisoner</li>
+			<li>RJW_IsSlave</li>
+			<li>Faction</li>
+			<li>GapTiny</li>
+			<li>RJW_Hero</li>
+			<li>RJW_Comfort</li>
+			<li>RJW_BreedHumanlike</li>
+			<li>GapTiny</li>
+			<li>Pregnant</li>
+			<li>RemainingSpace</li>
+		</columns>
+		<modExtensions>
+			<li Class="rjw.MainTab.DefModExtensions.RJW_PawnTable">
+				<label>Humanlikes</label>
+			</li>
+		</modExtensions>
+	</PawnTableDef>
+	
+	<PawnTableDef>
+		<defName>RJW_PawnTable_Animals</defName>
+		<workerClass>rjw.MainTab.RJW_PawnTable_Animals</workerClass>
+		<columns>
+			<li>Label</li>
+			<li>GapTiny</li>
+			<li>RJW_Gender</li>
+			<li>GapTiny</li>
+			<li>LifeStage</li>
+			<li>GapTiny</li>
+			<li>RJW_BreederAnimal</li>
+			<li>RJW_BreedAnimal</li>
+			<li>GapTiny</li>
+			<li>Pregnant</li>
+			<li>RemainingSpace</li>
+		</columns>
+		<modExtensions>
+			<li Class="rjw.MainTab.DefModExtensions.RJW_PawnTable">
+				<label>Animals</label>
+			</li>
+		</modExtensions>
+	</PawnTableDef>
+
+	<PawnTableDef>
+		<defName>RJW_PawnTable_Colonists</defName>
+		<workerClass>rjw.MainTab.RJW_PawnTable_Humanlikes</workerClass>
+		<columns>
+			<li>Label</li>
+			<li>GapTiny</li>
+			<li>RJW_Gender</li>
+			<li>GapTiny</li>
+			<li>LifeStage</li>
+			<li>GapTiny</li>
+			<li>RJW_Hero</li>
+			<li>RJW_Comfort</li>
+			<li>RJW_BreedHumanlike</li>
+			<li>GapTiny</li>
+			<li>Pregnant</li>
+			<li>RemainingSpace</li>
+		</columns>
+		<modExtensions>
+			<li Class="rjw.MainTab.DefModExtensions.RJW_PawnTable">
+				<label>Colonists</label>
+			</li>
+		</modExtensions>
+	</PawnTableDef>
+	
+		<PawnTableDef>
+		<defName>RJW_PawnTable_Property</defName>
+		<workerClass>rjw.MainTab.RJW_PawnTable_Humanlikes</workerClass>
+		<columns>
+			<li>Label</li>
+			<li>GapTiny</li>
+			<li>RJW_Gender</li>
+			<li>GapTiny</li>
+			<li>LifeStage</li>
+			<li>GapTiny</li>
+			<li>RJW_IsPrisoner</li>
+			<li>RJW_IsSlave</li>
+			<li>Faction</li>
+			<li>GapTiny</li>
+			<li>RJW_Comfort</li>
+			<li>RJW_BreedHumanlike</li>
+			<li>GapTiny</li>
+			<li>Pregnant</li>
+			<li>RemainingSpace</li>
+		</columns>
+		<modExtensions>
+			<li Class="rjw.MainTab.DefModExtensions.RJW_PawnTable">
+				<label>Property</label>
+			</li>
+		</modExtensions>
+	</PawnTableDef>
+
+</Defs>

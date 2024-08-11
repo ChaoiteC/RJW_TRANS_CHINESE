@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--
+	<JobDef>
+		<defName>RJW_AdjustParts</defName>
+		<driverClass>rjw.JobDriver_AdjustParts</driverClass>
+		<reportString>changing artificial parts size.</reportString>
+		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+	</JobDef>
+	-->
+</Defs>

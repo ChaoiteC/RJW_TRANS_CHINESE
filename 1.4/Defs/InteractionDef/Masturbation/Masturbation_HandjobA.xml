@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Masturbation_HandjobA</defName>
+		<label>masturbation_handjoba</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Masturbated.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Masturbated.</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Use anus</RMBLabel>
+				<rjwSextype>Masturbation</rjwSextype>
+				<rulepack_defs>
+					<li>Masturbation_HandjobARP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Masturbation</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Anus</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<hand>true</hand>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Breeding/rape -->
+	<AnalBreeding.label>肛门配种</AnalBreeding.label>
+	<AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->骑着[RECIPIENT_nameDef]并插进了肛门。</AnalBreeding.logRulesInitiator.rulesStrings.0>
+	<AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]骑着并插进了肛门。</AnalBreeding.logRulesRecipient.rulesStrings.0>
+
+	<VaginalBreeding.label>阴道配种</VaginalBreeding.label>
+	<VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->骑着[RECIPIENT_nameDef]并插进了阴道。</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+	<VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]骑着并插进了阴道。</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+	<OralBreeding.label>骑脸配种</OralBreeding.label>
+	<OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]被舔了阴部。</OralBreeding.logRulesInitiator.rulesStrings.0>
+	<OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]舔了阴部。</OralBreeding.logRulesRecipient.rulesStrings.0>
+  <!-- Another rare one, but needed to get the icons working right. -->
+	<FingeringBreeding.label>指交配种</FingeringBreeding.label>
+	<FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->指交了[RECIPIENT_nameDef]。</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+	<FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]指交了。</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+	<ForcedOralBreeding.label>骑脸配种</ForcedOralBreeding.label>
+	<ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->强行插入了[RECIPIENT_nameDef]的喉咙。</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+	<ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]强行深喉了。</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+</LanguageData>

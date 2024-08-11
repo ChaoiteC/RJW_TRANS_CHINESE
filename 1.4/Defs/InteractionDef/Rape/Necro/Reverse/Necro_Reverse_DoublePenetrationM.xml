@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Necro_Reverse_DoublePenetrationM</defName>
+		<label>double-penetration</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Double-penetrated by [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forced to double-penetrate [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Get double-penetrated</RMBLabel>
+				<rjwSextype>DoublePenetration</rjwSextype>
+				<rulepack_defs>
+					<li>DoubleReverseRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Reverse</li>
+					<li>Rape</li>
+					<li>Bestiality</li>
+					<li>Necrophilia</li>
+				</tags>
+				<dominantRequirement>
+					<minimumCount>2</minimumCount>
+					<tags>
+						<li>CanBePenetrated</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<partProps>
+						<li>Multiple</li>	
+					</partProps>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+					<pawnStates>
+						<li>Dead</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

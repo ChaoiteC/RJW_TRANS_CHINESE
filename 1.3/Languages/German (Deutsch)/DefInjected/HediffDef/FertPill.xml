@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_FertPill.label>Potenzpille</RJW_FertPill.label>
+  <RJW_FertPill.description>Steigert Fruchtbarkeit und Libido.</RJW_FertPill.description>
+  <RJW_FertPill.stages.0.label>gesteigerte Libido</RJW_FertPill.stages.0.label>
+
+
+</LanguageData>

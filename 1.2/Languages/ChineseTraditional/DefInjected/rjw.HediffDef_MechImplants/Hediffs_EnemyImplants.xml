@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- vanilla mechanoids. Mechs implant things. -->
+
+  <RJW_MechanoidImplant.description>放入宿主肉穴里的小型計算機。可以分析生命體徵和位置數據，並將這些資訊反饋給機械族的AI。</RJW_MechanoidImplant.description>
+
+  <!-- maybe readd someday? -->
+
+  <RJW_MicroComputer.label>機械胚胎</RJW_MicroComputer.label>
+  <RJW_MicroComputer.description>放入宿主肉穴里的小型計算機。可以分析生命體徵和位置數據，並將這些資訊反饋給植入者。</RJW_MicroComputer.description>
+</LanguageData>

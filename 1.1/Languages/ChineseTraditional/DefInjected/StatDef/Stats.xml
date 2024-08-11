@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<SexAbility.label>效能力</SexAbility.label>
+	<SexAbility.description>衡量一個小人是否有效能力，以及這方面的能力有多強。</SexAbility.description>
+
+  <SexSatisfaction.label>性滿足</SexSatisfaction.label>
+  <SexSatisfaction.description>衡量小人對性的滿足程度。</SexSatisfaction.description>
+
+	<Vulnerability.label>脆弱度</Vulnerability.label>
+	<Vulnerability.description>衡量一個小人有多好欺負（越高越容易被強姦）</Vulnerability.description>
+
+	<SexFrequency.label>性慾</SexFrequency.label>
+	<SexFrequency.description>衡量一個小人性行為活躍度。</SexFrequency.description>
+</LanguageData>

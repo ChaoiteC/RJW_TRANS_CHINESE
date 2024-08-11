@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates parts -->
+
+  <OvipositorM.label>M. Ovipositor</OvipositorM.label>
+  <OvipositorM.description>Ovipositoren von Männchen befruchten Eier.</OvipositorM.description>
+
+  <OvipositorF.label>W. Ovipositor</OvipositorF.label>
+  <OvipositorF.description>Ovipositoren von Weibchen produzieren und legen Eier</OvipositorF.description>
+
+  <InsectAnus.label>Insektenanus</InsectAnus.label>
+  <InsectAnus.description>Anus eines Insekts.</InsectAnus.description>
+
+
+</LanguageData>

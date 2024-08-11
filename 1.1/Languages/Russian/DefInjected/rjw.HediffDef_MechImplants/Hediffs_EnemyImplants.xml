@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
+
+  <RJW_MicroComputer.label>Микрокомпьютер</RJW_MicroComputer.label>
+  <RJW_MicroComputer.description>Маленький компьютер, установленый в тело через одно из отверстий. 
+Может анализировать жизненные показатели и местоположение, после чего передать их своему установщику.</RJW_MicroComputer.description>
+
+
+</LanguageData>

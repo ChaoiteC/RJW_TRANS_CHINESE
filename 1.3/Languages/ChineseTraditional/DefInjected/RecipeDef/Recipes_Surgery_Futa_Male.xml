@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddVagina.label>新增人類陰道</AddVagina.label>
+  <AddVagina.description>為男性新增人類陰道，使他們成為雙性人。</AddVagina.description>
+  <AddVagina.jobString>新增人類陰道。</AddVagina.jobString>
+
+  <addHorseVagina.label>新增馬陰道</addHorseVagina.label>
+  <addHorseVagina.description>為男性新增馬陰道，使他們成為雙性人。</addHorseVagina.description>
+  <addHorseVagina.jobString>新增馬陰道。</addHorseVagina.jobString>
+
+  <addCatVagina.label>新增貓陰道</addCatVagina.label>
+  <addCatVagina.description>為男性新增貓陰道，使他們成為雙性人。</addCatVagina.description>
+  <addCatVagina.jobString>新增貓陰道。</addCatVagina.jobString>
+
+  <addDogVagina.label>新增狗陰道</addDogVagina.label>
+  <addDogVagina.description>為男性新增狗陰道，使他們成為雙性人。</addDogVagina.description>
+  <addDogVagina.jobString>新增狗陰道。</addDogVagina.jobString>
+
+  <addDragonVagina.label>新增龍陰道</addDragonVagina.label>
+  <addDragonVagina.description>為男性新增龍陰道，使他們成為雙性人。</addDragonVagina.description>
+  <addDragonVagina.jobString>新增龍陰道。</addDragonVagina.jobString>
+
+  <AddNarrowVagina.label>新增窄陰道</AddNarrowVagina.label>
+  <AddNarrowVagina.description>給雄性增加一個窄陰道，使他們成為雌雄同體。</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>新增窄陰道。</AddNarrowVagina.jobString>
+
+  <AddCloacalVagina.label>新增泄殖腔陰道</AddCloacalVagina.label>
+  <AddCloacalVagina.description>給雄性增加一個泄殖腔陰道，使他們成為雌雄同體。</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>安裝泄殖腔陰道。</AddCloacalVagina.jobString>
+
+  <AddRodentVagina.label>新增齧齒動物陰道</AddRodentVagina.label>
+  <AddRodentVagina.description>給雄性增加一個齧齒動物陰道，使他們成為雌雄同體。</AddRodentVagina.description>
+  <AddRodentVagina.jobString>新增齧齒動物陰道。</AddRodentVagina.jobString>
+
+  <addOvipositorF.label>新增產卵器</addOvipositorF.label>
+  <addOvipositorF.description>為男性新增產卵器，使他們成為雙性人。</addOvipositorF.description>
+  <addOvipositorF.jobString>新增產卵器。</addOvipositorF.jobString>
+
+
+  <!-- hydraulic vagina -->
+
+  <addHydraulicVagina.label>新增液壓陰道</addHydraulicVagina.label>
+  <addHydraulicVagina.description>為男性新增液壓陰道，使他們成為雙性人。</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>新增液壓陰道。</addHydraulicVagina.jobString>
+
+
+  <!-- bionic vagina -->
+
+  <addBionicVagina.label>新增仿生陰道</addBionicVagina.label>
+  <addBionicVagina.description>為男性新增仿生陰道，使他們成為雙性人。</addBionicVagina.description>
+  <addBionicVagina.jobString>新增仿生陰道。</addBionicVagina.jobString>
+
+
+  <!-- archotech vagina -->
+
+  <addArchotechVagina.label>新增遠古陰道</addArchotechVagina.label>
+  <addArchotechVagina.description>為男性新增遠古陰道，使他們成為雙性人。</addArchotechVagina.description>
+  <addArchotechVagina.jobString>新增遠古陰道。</addArchotechVagina.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Remove privates -->
+<RemoveGenitals.label>Видалити геніталії</RemoveGenitals.label>
+<RemoveGenitals.description>Видаляє статеві органи.</RemoveGenitals.description>
+<RemoveGenitals.jobString>Видаляє геніталії.</RemoveGenitals.jobString>
+<!--<RecipeDef ParentName="SexReassignmentP">
+<defName>RemovePenis</defName>
+<label>remove genitals</label>
+<description>Removes penis.</description>
+<workerClass>rjw.Recipe_RemovePenis</workerClass>
+<jobString>Removing penis.</jobString>
+<workAmount>1600</workAmount>
+<skillRequirements>
+<Medicine>2</Medicine>
+</skillRequirements>
+<ingredients>
+<li>
+<filter>
+<categories>
+<li>Medicine</li>
+</categories>
+</filter>
+<count>1</count>
+</li>
+</ingredients>
+<fixedIngredientFilter>
+<categories>
+<li>Medicine</li>
+</categories>
+</fixedIngredientFilter>
+</RecipeDef>
+<RecipeDef ParentName="SexReassignmentV">
+<defName>RemoveVagina</defName>
+<label>remove vagina</label>
+<description>Removes vagina.</description>
+<workerClass>rjw.Recipe_RemoveVagina</workerClass>
+<jobString>Removing vagina.</jobString>
+<workAmount>1600</workAmount>
+<skillRequirements>
+<Medicine>2</Medicine>
+</skillRequirements>
+<ingredients>
+<li>
+<filter>
+<categories>
+<li>Medicine</li>
+</categories>
+</filter>
+<count>1</count>
+</li>
+</ingredients>
+<fixedIngredientFilter>
+<categories>
+<li>Medicine</li>
+</categories>
+</fixedIngredientFilter>
+</RecipeDef>-->
+<RemoveBreasts.label>Видалити груди</RemoveBreasts.label>
+<RemoveBreasts.description>Видаляє груди.</RemoveBreasts.description>
+<RemoveBreasts.jobString>Видаляє груди.</RemoveBreasts.jobString>
+<RemoveAnus.label>Видалити анус</RemoveAnus.label>
+<RemoveAnus.description>Видаляє анус.</RemoveAnus.description>
+<RemoveAnus.jobString>Видаляє анус.</RemoveAnus.jobString>
+</LanguageData>

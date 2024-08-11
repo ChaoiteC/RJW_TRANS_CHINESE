@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<ThingDef>
+		<defName>Hololock</defName>
+		<label>Hololock</label>
+		<description>A high-tech locking mechanism. Features include:
+- Extremely hardy, plasteel-reinforced build
+- Key and lock paired using a cryptographic UID holographically embedded in a jade substrate, ensuring counterfeit keys are impossible to produce
+- Self-destruct failsafe triggers when the lock is tampered with, ensuring that the protected item is destroyed rather than captured by the enemy
+
+Originally designed for military use, the hololock has since become popular in the BDSM community, where it is customary to engrave a key and lock pair with matching names so they are easier to identify.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>500</MaxHitPoints>
+			<Flammability>0.0</Flammability>
+			<DeteriorationRate>0.1</DeteriorationRate>
+			<Beauty>-6</Beauty>
+			<MarketValue>400</MarketValue>
+			<Mass>0.5</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>RJW_NoBuy</li> <!--prevents vanilla traders from buying RJW stuff worth above 15 silver (StockGenerator_BuyExpensiveSimple)-->
+			<li>Exotic</li>
+		</tradeTags>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+		</comps>
+		<pathCost>2</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/hololock</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Spacer</techLevel>
+	</ThingDef>
+
+	<ThingDef>
+		<defName>Holokey</defName>
+		<label>Holokey</label>
+		<description>A high-tech key. Releases the lock on an item with a matching cryptographic stamp.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0.2</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<Beauty>0</Beauty>
+			<MarketValue>10</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>RJW_NoBuy</li> <!--prevents vanilla traders from buying RJW stuff worth above 15 silver (StockGenerator_BuyExpensiveSimple)-->
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeability>None</tradeability>
+		<generateCommonality>0.0</generateCommonality>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_HoloCryptoStamped" />
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompStampedApparelKey</compClass>
+				<useJob>UnlockBondageGear</useJob>
+				<useLabel>Unlock apparel</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompUnlockBondageGear</compClass>
+			</li>
+		</comps>
+		<pathCost>1</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/holokey</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Spacer</techLevel>
+	</ThingDef>
+	
+	<!--
+	<ThingDef>
+		<defName>Simplelock</defName>
+		<label>Simple lock</label>
+		<description>A low-tech locking mechanism.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>500</MaxHitPoints>
+			<Flammability>0.0</Flammability>
+			<DeteriorationRate>0.1</DeteriorationRate>
+			<Beauty>-6</Beauty>
+			<MarketValue>400</MarketValue>
+			<Mass>0.5</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+		</comps>
+		<pathCost>2</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/hololock</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef>
+	
+	<ThingDef>
+		<defName>Simplekey</defName>
+		<label>Simple key</label>
+		<description>A low-tech key. Releases matching lock.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0.2</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<Beauty>0</Beauty>
+			<MarketValue>1</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_CryptoStamped" />
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompStampedApparelKey</compClass>
+				<useJob>UnlockBondageGear</useJob>
+				<useLabel>Unlock apparel</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompUnlockBondageGear</compClass>
+			</li>
+		</comps>
+		<pathCost>1</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/holokey</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef>
+	
+	<ThingDef>
+		<defName>Genericlockpick</defName>
+		<label>Lock pick</label>
+		<description>A lock pick. Picks locks.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0.2</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<Beauty>0</Beauty>
+			<MarketValue>50</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_CryptoStamped" />
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompStampedApparelKey</compClass>
+				<useJob>UnlockBondageGear</useJob>
+				<useLabel>Unlock apparel</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompUnlockBondageGear</compClass>
+			</li>
+		</comps>
+		<pathCost>1</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/holokey</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef>
+	-->
+	
+	<!-- -->
+
+	<rjw.bondage_gear_def Name="BondageGearBase" Abstract="True">
+		<thingClass>rjw.bondage_gear</thingClass>
+		<category>Item</category>
+		<generateCommonality>0.0</generateCommonality>
+		<thingCategories>
+			<li>Bondage</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>RJW_NoBuy</li> <!--prevents vanilla traders from buying RJW stuff worth above 15 silver (StockGenerator_BuyExpensiveSimple)-->
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeNeverStack>true</tradeNeverStack>
+		<equippedStatOffsets>
+			<SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">0.15</SlaveSuppressionOffset>
+		</equippedStatOffsets>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_HoloCryptoStamped" />
+			<!--<li Class="rjw.CompProperties_CryptoStamped" />-->
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompBondageGear</compClass>
+				<useJob>GiveBondageGear</useJob>
+				<useLabel>Equip</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompGetBondageGear</compClass>
+			</li>
+			<li>
+				<compClass>CompColorable</compClass>
+			</li>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
+		</comps>
+		<pathCost>10</pathCost>
+		<apparel>
+			<countsAsClothingForNudity>false</countsAsClothingForNudity>
+			<ideoDesireDisallowedFactionCategoryTags><li>Tribal</li></ideoDesireDisallowedFactionCategoryTags>
+		</apparel>
+	</rjw.bondage_gear_def>
+
+	<rjw.bondage_gear_def ParentName="BondageGearBase">
+		<defName>PrisonerChains</defName>
+		<label>chains</label>
+		<description>Chains with cuffs. Useful for restricting someone's movement and manipulation freedom. Prevents* hand-to-hand fighting attempts.
+*gag is advised for complete neutralization</description>
+		<thingClass>rjw.restraints</thingClass>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/PrisonerChains/PrisonerChains</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>80</costStuffCount>
+		<statBases>
+			<MaxHitPoints>400</MaxHitPoints>
+			<Flammability>0.1</Flammability>
+			<DeteriorationRate>1.0</DeteriorationRate>
+			<Beauty>-6</Beauty>
+			<MarketValue>300</MarketValue>
+			<Mass>4</Mass>
+			<ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+			<Insulation_Cold>-4</Insulation_Cold>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>Arms</li>
+				<li>Legs</li>
+				<li>LeftHand</li>
+				<li>RightHand</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Things/Pawn/Humanlike/Apparel/Bondage/PrisonerChains/PrisonerChains</wornGraphicPath>
+			<layers>
+				<li>ArmsOuterBondage</li>
+				<li>LegsOuterBondage</li>
+			</layers>
+		</apparel>
+		<soul_type>rjw.bondage_gear_soul</soul_type>
+		<equipped_hediff>Chains</equipped_hediff>
+		<gives_bound_moodlet>true</gives_bound_moodlet>
+		<HediffTargetBodyPartDefs>
+			<li>Arm</li>
+			<li>Leg</li>
+		</HediffTargetBodyPartDefs>
+		<BoundBodyPartGroupDefs>
+			<li>Arms</li>
+			<li>LeftHand</li>
+			<li>RightHand</li>
+			<li>Legs</li>
+			<li>Feet</li>
+		</BoundBodyPartGroupDefs>
+	</rjw.bondage_gear_def>
+</Defs>

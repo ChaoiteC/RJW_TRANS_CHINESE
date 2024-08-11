@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PegDick.label>나무 자지</PegDick.label>
+	<PegDick.labelNoun>나무 자지</PegDick.labelNoun>
+	<PegDick.description>단순하고 단단한 친구입니다.</PegDick.description>
+	<PegDick.stages.0.label>왜소한</PegDick.stages.0.label>
+	<PegDick.stages.1.label>작은</PegDick.stages.1.label>
+	<PegDick.stages.2.label>평범한</PegDick.stages.2.label>
+	<PegDick.stages.3.label>큰</PegDick.stages.3.label>
+	<PegDick.stages.4.label>대물</PegDick.stages.4.label>
+	<PegDick.stages.5.label>초대물</PegDick.stages.5.label>
+
+	<HydraulicPenis.label>유압 자지</HydraulicPenis.label>
+	<HydraulicPenis.labelNoun>유압 자지</HydraulicPenis.labelNoun>
+	<HydraulicPenis.description>평범한 자지와 비슷하게, 유압 장치로 발기를 표현합니다.</HydraulicPenis.description>
+	<HydraulicPenis.stages.0.label>왜소한</HydraulicPenis.stages.0.label>
+	<HydraulicPenis.stages.1.label>작은</HydraulicPenis.stages.1.label>
+	<HydraulicPenis.stages.2.label>평범한</HydraulicPenis.stages.2.label>
+	<HydraulicPenis.stages.3.label>큰</HydraulicPenis.stages.3.label>
+	<HydraulicPenis.stages.4.label>대물</HydraulicPenis.stages.4.label>
+	<HydraulicPenis.stages.5.label>초대물</HydraulicPenis.stages.5.label>
+	<HydraulicVagina.label>유압 보지</HydraulicVagina.label>
+	<HydraulicVagina.labelNoun>유압 보지</HydraulicVagina.labelNoun>
+	<HydraulicVagina.description>간단한 유압 장치를 써서 일반적인 질압을 표현합니다.</HydraulicVagina.description>
+	<HydraulicVagina.stages.0.label>매우 좁은</HydraulicVagina.stages.0.label>
+	<HydraulicVagina.stages.1.label>조이는</HydraulicVagina.stages.1.label>
+	<HydraulicVagina.stages.2.label>평범한</HydraulicVagina.stages.2.label>
+	<HydraulicVagina.stages.3.label>수용적인</HydraulicVagina.stages.3.label>
+	<HydraulicVagina.stages.4.label>동굴같은</HydraulicVagina.stages.4.label>
+	<HydraulicVagina.stages.5.label>심연같은</HydraulicVagina.stages.5.label>
+	<HydraulicAnus.label>유압 항문</HydraulicAnus.label>
+	<HydraulicAnus.labelNoun>유압 항문</HydraulicAnus.labelNoun>
+	<HydraulicAnus.description>간단한 유압 장치로 압력을 표현하는 항문입니다.</HydraulicAnus.description>
+	<HydraulicAnus.stages.0.label>매우 좁은</HydraulicAnus.stages.0.label>
+	<HydraulicAnus.stages.1.label>조이는</HydraulicAnus.stages.1.label>
+	<HydraulicAnus.stages.2.label>평범한</HydraulicAnus.stages.2.label>
+	<HydraulicAnus.stages.3.label>수용적인</HydraulicAnus.stages.3.label>
+	<HydraulicAnus.stages.4.label>동굴같은</HydraulicAnus.stages.4.label>
+	<HydraulicAnus.stages.5.label>심연같은</HydraulicAnus.stages.5.label>
+	<HydraulicBreasts.label>유압 가슴</HydraulicBreasts.label>
+	<HydraulicBreasts.labelNoun>유압 가슴</HydraulicBreasts.labelNoun>
+	<HydraulicBreasts.description>명백하게 부자연스러운 한쌍의 보철물입니다.</HydraulicBreasts.description>
+	<HydraulicBreasts.stages.0.label>무유</HydraulicBreasts.stages.0.label>
+	<HydraulicBreasts.stages.1.label>미유</HydraulicBreasts.stages.1.label>
+	<HydraulicBreasts.stages.2.label>빈유</HydraulicBreasts.stages.2.label>
+	<HydraulicBreasts.stages.3.label>평유</HydraulicBreasts.stages.3.label>
+	<HydraulicBreasts.stages.4.label>풍유</HydraulicBreasts.stages.4.label>
+	<HydraulicBreasts.stages.5.label>거유</HydraulicBreasts.stages.5.label>
+	<HydraulicBreasts.stages.6.label>폭유</HydraulicBreasts.stages.6.label>
+	<HydraulicBreasts.stages.7.label>초거유</HydraulicBreasts.stages.7.label>
+	<HydraulicBreasts.stages.8.label>초폭유</HydraulicBreasts.stages.8.label>
+	<HydraulicBreasts.stages.9.label>초초폭유</HydraulicBreasts.stages.9.label>
+	<HydraulicBreasts.stages.10.label>핵유</HydraulicBreasts.stages.10.label>
+
+	<BionicPenis.label>생체공학 자지</BionicPenis.label>
+	<BionicPenis.labelNoun>생체공학 자지</BionicPenis.labelNoun>
+	<BionicPenis.description>첨단기술로 만든 인공자지입니다. 미세 조정된 압력 센서와 PID 순환 제어기를 사용해 상대방의 수축을 분석합니다. 이는 통해 상대방의 취향에 맞춰 확장, 수축 기능을 제공합니다.</BionicPenis.description>
+	<BionicPenis.stages.0.label>왜소한</BionicPenis.stages.0.label>
+	<BionicPenis.stages.1.label>작은</BionicPenis.stages.1.label>
+	<BionicPenis.stages.2.label>평범한</BionicPenis.stages.2.label>
+	<BionicPenis.stages.3.label>큰</BionicPenis.stages.3.label>
+	<BionicPenis.stages.4.label>대물</BionicPenis.stages.4.label>
+	<BionicPenis.stages.5.label>초대물</BionicPenis.stages.5.label>
+	<BionicVagina.label>생체공학 보지</BionicVagina.label>
+	<BionicVagina.labelNoun>생체공학 보지</BionicVagina.labelNoun>
+	<BionicVagina.description>첨단기술로 만든 인공보지입니다. 내부 압력 센서를 사용하여 받아들인 물건의 크기와 속도에 맞춰줍니다.</BionicVagina.description>
+	<BionicVagina.stages.0.label>매우 좁은</BionicVagina.stages.0.label>
+	<BionicVagina.stages.1.label>조이는</BionicVagina.stages.1.label>
+	<BionicVagina.stages.2.label>평범한</BionicVagina.stages.2.label>
+	<BionicVagina.stages.3.label>수용적인</BionicVagina.stages.3.label>
+	<BionicVagina.stages.4.label>동굴같은</BionicVagina.stages.4.label>
+	<BionicVagina.stages.5.label>심연같은</BionicVagina.stages.5.label>
+	<BionicAnus.label>생체공학 항문</BionicAnus.label>
+	<BionicAnus.labelNoun>생체공학 항문</BionicAnus.labelNoun>
+	<BionicAnus.description>첨단기술로 만든 인공항문입니다.</BionicAnus.description>
+	<BionicAnus.stages.0.label>매우 좁은</BionicAnus.stages.0.label>
+	<BionicAnus.stages.1.label>조이는</BionicAnus.stages.1.label>
+	<BionicAnus.stages.2.label>평범한</BionicAnus.stages.2.label>
+	<BionicAnus.stages.3.label>수용적인</BionicAnus.stages.3.label>
+	<BionicAnus.stages.4.label>동굴같은</BionicAnus.stages.4.label>
+	<BionicAnus.stages.5.label>심연같은</BionicAnus.stages.5.label>
+	<BionicBreasts.label>생체공학 가슴</BionicBreasts.label>
+	<BionicBreasts.labelNoun>생체공학 가슴</BionicBreasts.labelNoun>
+	<BionicBreasts.description>첨단기술로 만든 인공가슴입니다.</BionicBreasts.description>
+	<BionicBreasts.stages.0.label>무유</BionicBreasts.stages.0.label>
+	<BionicBreasts.stages.1.label>미유</BionicBreasts.stages.1.label>
+	<BionicBreasts.stages.2.label>빈유</BionicBreasts.stages.2.label>
+	<BionicBreasts.stages.3.label>평유</BionicBreasts.stages.3.label>
+	<BionicBreasts.stages.4.label>풍유</BionicBreasts.stages.4.label>
+	<BionicBreasts.stages.5.label>거유</BionicBreasts.stages.5.label>
+	<BionicBreasts.stages.6.label>폭유</BionicBreasts.stages.6.label>
+	<BionicBreasts.stages.7.label>초거유</BionicBreasts.stages.7.label>
+	<BionicBreasts.stages.8.label>초폭유</BionicBreasts.stages.8.label>
+	<BionicBreasts.stages.9.label>초초폭유</BionicBreasts.stages.9.label>
+	<BionicBreasts.stages.10.label>핵유</BionicBreasts.stages.10.label>
+
+	<ArchotechPenis.label>초월공학 자지</ArchotechPenis.label>
+	<ArchotechPenis.description>초월공학 자지</ArchotechPenis.description>
+	<ArchotechPenis.stages.0.label>왜소한</ArchotechPenis.stages.0.label>
+	<ArchotechPenis.stages.1.label>작은</ArchotechPenis.stages.1.label>
+	<ArchotechPenis.stages.2.label>평범한</ArchotechPenis.stages.2.label>
+	<ArchotechPenis.stages.3.label>큰</ArchotechPenis.stages.3.label>
+	<ArchotechPenis.stages.4.label>대물</ArchotechPenis.stages.4.label>
+	<ArchotechPenis.stages.5.label>초대물</ArchotechPenis.stages.5.label>
+	<ArchotechVagina.label>초월공학 보지</ArchotechVagina.label>
+	<ArchotechVagina.description>초월공학 보지</ArchotechVagina.description>
+	<ArchotechVagina.stages.0.label>매우 좁은</ArchotechVagina.stages.0.label>
+	<ArchotechVagina.stages.1.label>조이는</ArchotechVagina.stages.1.label>
+	<ArchotechVagina.stages.2.label>평범한</ArchotechVagina.stages.2.label>
+	<ArchotechVagina.stages.3.label>수용적인</ArchotechVagina.stages.3.label>
+	<ArchotechVagina.stages.4.label>동굴같은</ArchotechVagina.stages.4.label>
+	<ArchotechVagina.stages.5.label>심연같은</ArchotechVagina.stages.5.label>
+	<ArchotechAnus.label>초월공학 항문</ArchotechAnus.label>
+	<ArchotechAnus.description>초월공학 항문</ArchotechAnus.description>
+	<ArchotechAnus.stages.0.label>매우 좁은</ArchotechAnus.stages.0.label>
+	<ArchotechAnus.stages.1.label>조이는</ArchotechAnus.stages.1.label>
+	<ArchotechAnus.stages.2.label>평범한</ArchotechAnus.stages.2.label>
+	<ArchotechAnus.stages.3.label>수용적인</ArchotechAnus.stages.3.label>
+	<ArchotechAnus.stages.4.label>동굴같은</ArchotechAnus.stages.4.label>
+	<ArchotechAnus.stages.5.label>심연같은</ArchotechAnus.stages.5.label>
+	<ArchotechBreasts.label>초월공학 가슴</ArchotechBreasts.label>
+	<ArchotechBreasts.description>초월공학 가슴</ArchotechBreasts.description>
+	<ArchotechBreasts.stages.0.label>무유</ArchotechBreasts.stages.0.label>
+	<ArchotechBreasts.stages.1.label>미유</ArchotechBreasts.stages.1.label>
+	<ArchotechBreasts.stages.2.label>빈유</ArchotechBreasts.stages.2.label>
+	<ArchotechBreasts.stages.3.label>평유</ArchotechBreasts.stages.3.label>
+	<ArchotechBreasts.stages.4.label>풍유</ArchotechBreasts.stages.4.label>
+	<ArchotechBreasts.stages.5.label>거유</ArchotechBreasts.stages.5.label>
+	<ArchotechBreasts.stages.6.label>폭유</ArchotechBreasts.stages.6.label>
+	<ArchotechBreasts.stages.7.label>초거유</ArchotechBreasts.stages.7.label>
+	<ArchotechBreasts.stages.8.label>초폭유</ArchotechBreasts.stages.8.label>
+	<ArchotechBreasts.stages.9.label>초초폭유</ArchotechBreasts.stages.9.label>
+	<ArchotechBreasts.stages.10.label>핵유</ArchotechBreasts.stages.10.label>
+
+</LanguageData>

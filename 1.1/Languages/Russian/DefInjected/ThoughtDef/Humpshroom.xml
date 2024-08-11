@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.stages.0.label>Послевкусие после гриба</HumpShroomEffect.stages.0.label>
+  <HumpShroomEffect.stages.0.description>Хм-м... Интересный вкус.</HumpShroomEffect.stages.0.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomWithdrawal.stages.1.label>Ломка от гриба-стояка</HumpShroomWithdrawal.stages.1.label>
+  <HumpShroomWithdrawal.stages.1.description>Я у себя снизу вообще ничего не чувствую.</HumpShroomWithdrawal.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Hediff_Submitting.label>Ліжить нічком</Hediff_Submitting.label>
+<Hediff_Submitting.description>Робіть зі мною що хочете.</Hediff_Submitting.description>
+<!-- prevents 10 job stacks error -->
+<Hediff_RapeEnemyCD.label>Переререрва між зґвалтуванням</Hediff_RapeEnemyCD.label>
+<Hediff_RapeEnemyCD.description>"Ну, хто наступний?"</Hediff_RapeEnemyCD.description>
+</LanguageData>

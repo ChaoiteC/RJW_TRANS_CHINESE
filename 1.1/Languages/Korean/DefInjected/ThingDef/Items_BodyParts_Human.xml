@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Penis.label>자지</Penis.label>
+	<Penis.description>자지입니다.</Penis.description>
+	<Vagina.label>보지</Vagina.label>
+	<Vagina.description>보지입니다.</Vagina.description>
+	<Breasts.label>가슴</Breasts.label>
+	<Breasts.description>한 쌍의 가슴입니다.</Breasts.description>
+	<Anus.label>항문</Anus.label>
+	<Anus.description>항문입니다.</Anus.description>
+
+	<FeaturelessChest.label>밋밋한 가슴</FeaturelessChest.label>
+	<FeaturelessChest.description>매끄럽고, 특색없는 가슴입니다. 포유류가 아닌 동물들은 보통 이렇습니다.</FeaturelessChest.description>
+
+</LanguageData>

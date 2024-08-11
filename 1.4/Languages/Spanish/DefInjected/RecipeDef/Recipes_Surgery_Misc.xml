@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- targetsBodyPart>true</targetsBodyPart -->
+
+  <Sterilization.label>esterilizar</Sterilization.label>
+  <Sterilization.description>Evita la reproducción sin quitar los genitales.</Sterilization.description>
+  <Sterilization.jobString>esterilizando.</Sterilization.jobString>
+
+
+  <!-- IUD Sergery -->
+
+  <RJW_InstallIUD.label>instalar DIU</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>Impide la reproducción temporalmente. Se puede recuperar en cualquier momento.</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>instalando DIU.</RJW_InstallIUD.jobString>
+
+  <RJW_RemovelIUD.label>remover DIU</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>Retire el DIU, permitiendo la reproducción nuevamente.</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>removiendo DIU.</RJW_RemovelIUD.jobString>
+
+  <InstallPegArm.label>instalar brazo de madera</InstallPegArm.label>
+  <InstallPegArm.description>Instala un brazo de palo.</InstallPegArm.description>
+  <InstallPegArm.jobString>Instalación de un brazo de palo.</InstallPegArm.jobString>
+
+
+</LanguageData>

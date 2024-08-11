@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_Scissoring</defName>
+		<label>scissoring</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Scissored with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Scissored with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Do scissoring</RMBLabel>
+				<rjwSextype>Scissoring</rjwSextype>
+				<rulepack_defs>
+					<li>ScissoringRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+			</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

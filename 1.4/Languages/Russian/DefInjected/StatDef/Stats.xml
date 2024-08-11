@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SexAbility.label>Возможности в сексе </SexAbility.label>
+  <SexAbility.description>Показывает, может ли пешка заниматься сексом и насколько в этом преуспевает</SexAbility.description>
+
+  <Vulnerability.label>Уязвимость</Vulnerability.label>
+  <Vulnerability.description>Чем выше, тем больше шанс пассивной роли в сексе</Vulnerability.description>
+
+  <SexFrequency.label>Интерес к сексу</SexFrequency.label>
+  <SexFrequency.description>Показывает насколько сексуально активна данная пешка.</SexFrequency.description>
+
+
+</LanguageData>

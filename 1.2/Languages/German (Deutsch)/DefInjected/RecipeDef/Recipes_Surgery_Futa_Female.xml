@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural penises -->
+
+  <AddPenis.label>Penis anbringen</AddPenis.label>
+  <AddPenis.description>Fügt einer Frau einen Penis in gewählter Größe hinzu.</AddPenis.description>
+  <AddPenis.jobString>Penis anbringen.</AddPenis.jobString>
+
+  <addHorsePenis.label>Pferdepenis anbringen</addHorsePenis.label>
+  <addHorsePenis.description>Fügt einer Frau einen Hengstpenis hinzu.</addHorsePenis.description>
+  <addHorsePenis.jobString>Pferdepenis anbringen.</addHorsePenis.jobString>
+
+  <addCatPenis.label>Katerpenis anbringen</addCatPenis.label>
+  <addCatPenis.description>Fügt einer Frau einen Katerpenis hinzu.</addCatPenis.description>
+  <addCatPenis.jobString>Katerpenis anbringen.</addCatPenis.jobString>
+
+  <addDogPenis.label>Hundepenis anbringen</addDogPenis.label>
+  <addDogPenis.description>Fügt einer Frau einen Rüdepenis hinzu.</addDogPenis.description>
+  <addDogPenis.jobString>Hundepenis anbringen.</addDogPenis.jobString>
+
+  <addDragonPenis.label>Drachenpenis anbringen</addDragonPenis.label>
+  <addDragonPenis.description>Fügt einer Frau einen Drachenpenis hinzu.</addDragonPenis.description>
+  <addDragonPenis.jobString>Drachenpenis anbringen.</addDragonPenis.jobString>
+
+  <addOvipositorM.label>Ovipositor anbringen</addOvipositorM.label>
+  <addOvipositorM.description>Fügt einer Frau einen männlichen Ovipositor hinzu.</addOvipositorM.description>
+  <addOvipositorM.jobString>Ovipositor anbringen.</addOvipositorM.jobString>
+
+  <addRaccoonPenis.label>Waschbärpenis anbringen</addRaccoonPenis.label>
+  <addRaccoonPenis.description>Fügt einer Frau einen Waschbärpenis hinzu.</addRaccoonPenis.description>
+  <addRaccoonPenis.jobString>Waschbärpenis anbringen.</addRaccoonPenis.jobString>
+
+  <addHemiPenis.label>Hemipenis anbringen</addHemiPenis.label>
+  <addHemiPenis.description>Fügt einer Frau einen doppel-schaftigen Penis hinzu.</addHemiPenis.description>
+  <addHemiPenis.jobString>Hemipenis anbringen.</addHemiPenis.jobString>
+
+  <addCrocodilianPenis.label>Krokodilpenis anbringen</addCrocodilianPenis.label>
+  <addCrocodilianPenis.description>Fügt einer Frau einen Krokodilpenis hinzu.</addCrocodilianPenis.description>
+  <addCrocodilianPenis.jobString>Krokodilpenis anbringen.</addCrocodilianPenis.jobString>
+
+  <AddNeedlePenis.label>Nadelpenis anbringen</AddNeedlePenis.label>
+  <AddNeedlePenis.description>Fügt den Genitalien einer Frau einen Penis hinzu.</AddNeedlePenis.description>
+  <AddNeedlePenis.jobString>Penis anbringen.</AddNeedlePenis.jobString>
+
+  <AddCloacalPenis.label>Kloakenpenis anbringen</AddCloacalPenis.label>
+  <AddCloacalPenis.description>Fügt den Genitalien einer Frau einen Penis hinzu.</AddCloacalPenis.description>
+  <AddCloacalPenis.jobString>Penis anbringen.</AddCloacalPenis.jobString>
+
+  <AddRodentPenis.label>Nagetierpenis anbringen</AddRodentPenis.label>
+  <AddRodentPenis.description>Fügt den Genitalien einer Frau einen Penis hinzu.</AddRodentPenis.description>
+  <AddRodentPenis.jobString>Penis anbringen.</AddRodentPenis.jobString>
+
+
+  <!-- hydraulic penis -->
+
+  <addHydraulicPenis.label>Hydraulischen Penis anbringen</addHydraulicPenis.label>
+  <addHydraulicPenis.jobString>Installiert hydraulischen Penis.</addHydraulicPenis.jobString>
+  <addHydraulicPenis.description>Fügt einer Frau einen Penis in gewählter Größe hinzu.</addHydraulicPenis.description>
+
+
+  <!-- bionic penis -->
+
+  <addBionicPenis.label>Bionischen Penis anbringen</addBionicPenis.label>
+  <addBionicPenis.jobString>Installiert bionischen Penis.</addBionicPenis.jobString>
+  <addBionicPenis.description>Fügt einer Frau einen bionischen Penis hinzu.</addBionicPenis.description>
+
+
+  <!-- Archotech -->
+
+  <addArchotechPenis.label>Archotech Penis anbringen</addArchotechPenis.label>
+  <addArchotechPenis.jobString>Installiert archotech Penis.</addArchotechPenis.jobString>
+  <addArchotechPenis.description>Fügt einer Frau einen archotech Penis hinzu.</addArchotechPenis.description>
+
+
+</LanguageData>

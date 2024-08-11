@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawns with ovis plant egg. -->
+
+  <RJW_InsectEgg.label>Huevo</RJW_InsectEgg.label>
+  <RJW_InsectEgg.description>Huevo(s) parasito(s) que se depositan en un huésped y se alimentan de sus nutrientes hasta que están listos para eclosionar. Al menos no eclosionan si se salen del pecho. .</RJW_InsectEgg.description>
+
+
+  <!-- Placeholder egg/unsupported/any races -->
+
+  <RJW_UnknownEgg.label>Huevo</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>Huevo(s) parasito(s) que se depositan en un huésped y se alimentan de sus nutrientes hasta que están listos para eclosionar. Al menos no eclosionan si se salen del pecho. .</RJW_UnknownEgg.description>
+
+
+  <!-- vanilla insects, can fertilize each other -->
+
+  <RJW_InsectHiveEgg.label>Huevo</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>Huevo(s) parasito(s) que se depositan en un huésped y se alimentan de sus nutrientes hasta que están listos para eclosionar. Al menos no eclosionan si se salen del pecho. .</RJW_InsectHiveEgg.description>
+
+
+</LanguageData>

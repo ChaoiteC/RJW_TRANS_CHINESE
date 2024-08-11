@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--theory-->
+<!--included rjw interactions are hardcoded and used for fallback, new interactions will be randomly picked by npcs-->
+<Defs>
+	<InteractionDef>
+		<defName>0AnalBreeding0</defName>
+		<label>anal breeding</label>
+		<workerClass>rjw.InteractionWorker_AnalSexAttempt</workerClass><!-->not sure what it is, probably disables interactions for non rjw-->
+		<symbol>UI/Commands/Breeding_Animal_off</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Mounted1 [RECIPIENT_nameDef].</li>
+				<li>r_logentry->Mounted2 [RECIPIENT_nameDef].</li>
+				<li>r_logentry->Mounted3 [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was anally mounted1 by [INITIATOR_nameDef].</li>
+				<li>r_logentry->Was anally mounted2 by [INITIATOR_nameDef].</li>
+				<li>r_logentry->Was anally mounted3 by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed anally</RMBLabelM><!--Fuck partner. male/futa-->
+				<RMBLabelF>request anal breeding</RMBLabelF><!--Get Fucked by partner. female/futa-->
+				<!--uncomment to enable/add to rjw interactions selection-->
+				<!--<sextype1>Normal</sextype1> { Normal, Rape, Bestiality}-->
+				<!-- rjwSextype { None, Vaginal, Anal, Oral, Masturbation, DoublePenetration, Boobjob, Handjob, Footjob, Fingering, Scissoring, MutualMasturbation, Fisting, MechImplant, Rimming, Fellatio, Cunnilingus, Sixtynine }-->
+				<!--<rjwSextype>Vaginal</rjwSextype>-->
+				
+				
+				<!--WIP shit-->
+				<i_role>Active</i_role><!--Fuck-->
+				<!--<i_role>Passive</i_role><!--Get Fucked-->
+				<tags><!--Tags for finding/filtering interaction in db-->
+					<li>Oral</li>
+					<li>Anal</li>
+					<li>Vaginal</li>
+					<li>Handjob</li>
+					<li>Footjob</li>
+					<li>Breastjob</li>
+					<li>Masturbation</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+					<li>Breeding</li>
+				</tags>
+				<i_tags><!--Tags showing what initiator does/uses/needs-->
+					<li>Animal</li>
+					<li>Oral</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+					<li>Vaginal</li>
+					<li>Anal</li>
+				</i_tags>
+				<r_tags><!--Tags showing what receiver does/uses/needs-->
+					<li>Animal</li>
+					<li>Oral</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+					<li>Vaginal</li>
+					<li>Anal</li>
+				</r_tags>
+				<!-- ???
+					Handjob+Anal=Fisting/Fingering
+					Handjob+Vaginal=Fisting/Fingering
+					Oral+Anal=Rimmimg
+					Oral+Oral=Sixtynine
+					Oral+Vaginal=Cunnilingus
+					Oral+Penis=Fellatio/Beakjob
+					Vaginal+Vaginal=Scissoring
+					Penis+Vaginal+Anal=DoublePenetration
+					Masturbation+Masturbation=MutualMasturbation ???
+				-->
+				
+				<!--Use these rulepack as fixed outcome, none = try find random by tags(maybe someday?)-->
+				<rulepack_defs>
+					<li>FootjobRP</li>
+					<li>FingeringRP</li>
+					<li>FistingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

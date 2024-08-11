@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalRape.label>sexo anal</AnalRape.label>
+  <AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->Fez sexo anal com [RECIPIENT_nameDef].</AnalRape.logRulesInitiator.rulesStrings.0>
+  <AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->Fez sexo anal com [INITIATOR_nameDef].</AnalRape.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRape.label>sexo vaginal</VaginalRape.label>
+  <VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->Estuprou [RECIPIENT_nameDef].</VaginalRape.logRulesInitiator.rulesStrings.0>
+  <VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->Fez sexo com [INITIATOR_nameDef].</VaginalRape.logRulesRecipient.rulesStrings.0>
+
+  <HandjobRape.label>punheta</HandjobRape.label>
+  <HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Masturbou [RECIPIENT_nameDef].</HandjobRape.logRulesInitiator.rulesStrings.0>
+  <HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu uma punheta de [INITIATOR_nameDef].</HandjobRape.logRulesRecipient.rulesStrings.0>
+
+  <FootjobRape.label>masturbação com os pés</FootjobRape.label>
+  <FootjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Masturbou [RECIPIENT_nameDef].</FootjobRape.logRulesInitiator.rulesStrings.0>
+  <FootjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu masturbação com os pés de [INITIATOR_nameDef].</FootjobRape.logRulesRecipient.rulesStrings.0>
+
+  <FingeringRape.label>dedada</FingeringRape.label>
+  <FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->Forçou seus dedos em [RECIPIENT_nameDef].</FingeringRape.logRulesInitiator.rulesStrings.0>
+  <FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->Foi estuprado(a) pelos dedos de [INITIATOR_nameDef].</FingeringRape.logRulesRecipient.rulesStrings.0>
+
+  <FistingRape.label>punho anal</FistingRape.label>
+  <FistingRape.logRulesInitiator.rulesStrings.0>r_logentry->Penetrou seu punho em [RECIPIENT_nameDef].</FistingRape.logRulesInitiator.rulesStrings.0>
+  <FistingRape.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu penetração com punho de [INITIATOR_nameDef].</FistingRape.logRulesRecipient.rulesStrings.0>
+
+  <BreastjobRape.label>espanhola</BreastjobRape.label>
+  <BreastjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Fez uma espanhola em [RECIPIENT_nameDef].</BreastjobRape.logRulesInitiator.rulesStrings.0>
+  <BreastjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu uma espanhola de [INITIATOR_nameDef].</BreastjobRape.logRulesRecipient.rulesStrings.0>
+
+  <DoublePenetrationRape.label>dupla penetração</DoublePenetrationRape.label>
+  <DoublePenetrationRape.logRulesInitiator.rulesStrings.0>r_logentry->Dupla penetração em [RECIPIENT_nameDef].</DoublePenetrationRape.logRulesInitiator.rulesStrings.0>
+  <DoublePenetrationRape.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu dupla penetração de [INITIATOR_nameDef].</DoublePenetrationRape.logRulesRecipient.rulesStrings.0>
+
+  <ScissoringRape.label>tribadismo</ScissoringRape.label>
+  <ScissoringRape.logRulesInitiator.rulesStrings.0>r_logentry->Fez tribadismo com [RECIPIENT_nameDef].</ScissoringRape.logRulesInitiator.rulesStrings.0>
+  <ScissoringRape.logRulesRecipient.rulesStrings.0>r_logentry->Fez tribadismo com [INITIATOR_nameDef].</ScissoringRape.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- weird stuff -->
+
+  <ViolateCorpse.label>violar cadáver</ViolateCorpse.label>
+  <ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->Violou o cadáver de [RECIPIENT_nameDef].</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+  <ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->Foi violado por [INITIATOR_nameDef].</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+
+  <MechImplant.label>implante mecanóide</MechImplant.label>
+  <MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->agrediu [RECIPIENT_nameDef].</MechImplant.logRulesInitiator.rulesStrings.0>
+  <MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->Foi agredido por [INITIATOR_nameDef].</MechImplant.logRulesRecipient.rulesStrings.0>
+
+  <OtherRape.label>estupro</OtherRape.label>
+  <OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->Estuprou [RECIPIENT_nameDef].</OtherRape.logRulesInitiator.rulesStrings.0>
+  <OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->Foi estuprado(a) por [INITIATOR_nameDef].</OtherRape.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

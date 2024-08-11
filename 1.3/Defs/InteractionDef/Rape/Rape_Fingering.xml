@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Fingering</defName>
+		<label>fingering</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forced [RECIPIENT_nameDef] to give fingering.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forced to finger [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Get fingered</RMBLabel>
+				<rjwSextype>Fingering</rjwSextype>
+				<rulepack_defs>
+					<li>ForcedFingeringRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Vagina</li>
+						<li>FemaleOvipositor</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<hand>true</hand>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+				<rulepacks>
+					<li>FingeringReverseRapeRP</li>
+				</rulepacks>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

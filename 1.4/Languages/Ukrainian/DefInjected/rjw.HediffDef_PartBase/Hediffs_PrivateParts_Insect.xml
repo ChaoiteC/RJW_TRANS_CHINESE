@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Insect privates -->
+<OvipositorF.label>Жіночий яйцеклад</OvipositorF.label>
+<OvipositorF.labelNoun>яйцеклад</OvipositorF.labelNoun>
+<OvipositorF.description>Частина тіла, за допомогою якої комаха відкладає яйця в жертву.</OvipositorF.description>
+<OvipositorF.stages.0.label>Мікро</OvipositorF.stages.0.label>
+<OvipositorF.stages.1.label>Вузький</OvipositorF.stages.1.label>
+<OvipositorF.stages.2.label>Зазвичайний</OvipositorF.stages.2.label>
+<OvipositorF.stages.3.label>Місткий</OvipositorF.stages.3.label>
+<OvipositorF.stages.4.label>Печера</OvipositorF.stages.4.label>
+<OvipositorF.stages.5.label>Безодня</OvipositorF.stages.5.label>
+<OvipositorM.label>Чужій яйцеклад</OvipositorM.label>
+<OvipositorM.labelNoun>яйцеклад.labelNoun>
+<OvipositorM.description>Частина тіла, за допомогою якої комаха запліднює яйця всередині жертви.</OvipositorM.description>
+<OvipositorM.stages.0.label>Мікро</OvipositorM.stages.0.label>
+<OvipositorM.stages.1.label>Маленький</OvipositorM.stages.1.label>
+<OvipositorM.stages.2.label>Звичний</OvipositorM.stages.2.label>
+<OvipositorM.stages.3.label>Великий</OvipositorM.stages.3.label>
+<OvipositorM.stages.4.label>Велетенський</OvipositorM.stages.4.label>
+<OvipositorM.stages.5.label>Гігантський</OvipositorM.stages.5.label>
+<InsectAnus.label>Жучиний анус</InsectAnus.label>
+<InsectAnus.labelNoun>жучиний анус</InsectAnus.labelNoun>
+<InsectAnus.description>Анус жука.</InsectAnus.description>
+<InsectAnus.stages.0.label>Мікро</InsectAnus.stages.0.label>
+<InsectAnus.stages.1.label>Вузький</InsectAnus.stages.1.label>
+<InsectAnus.stages.2.label>Звичний</InsectAnus.stages.2.label>
+<InsectAnus.stages.3.label>Місткий</InsectAnus.stages.3.label>
+<InsectAnus.stages.4.label>Печера</InsectAnus.stages.4.label>
+<InsectAnus.stages.5.label>Безодня</InsectAnus.stages.5.label>
+</LanguageData>

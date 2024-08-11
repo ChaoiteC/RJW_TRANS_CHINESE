@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--Sexuality card-->
+	<SexcardTooltip>Mostrar sexualidade</SexcardTooltip>
+	<WhorePrice>Faixa de preço por prostituição: </WhorePrice>
+	<Quirks>Peculiaridades: </Quirks>
+	<NoQuirks>Nenhum gosto peculiar, padrão.</NoQuirks>
+	<MessyQuirk><![CDATA[
+{pawn} não só produz quantidades grandes de fluidos durante o sexo mas {pawn_pronoun} raramente se importa se limpar depois.
+]]></MessyQuirk>
+	<PodophileQuirk><![CDATA[
+{pawn} realmente gosta de pés e prefere atos sexuais relacionados a pés.
+]]></PodophileQuirk>
+	<TeratophileQuirk><![CDATA[
+{pawn} prefere parceiros feios. {pawn_pronoun} também prefere aniamis maiores e mais selvagens se {pawn_pronoun} gostasse desse tipo de coisa...
+]]></TeratophileQuirk>
+	<EndytophileQuirk><![CDATA[
+{pawn} prefere manter suas roupas vestidas durante o sexo.
+]]></EndytophileQuirk>
+	<ExhibitionistQuirk><![CDATA[
+{pawn} gosta de fazer sexo onde os outros possam ver.
+]]></ExhibitionistQuirk>
+	<GerontophileQuirk><![CDATA[
+{pawn} prefere parceiros mais velhos (55+ em uma escala humana).
+]]></GerontophileQuirk>
+	<SomnophileQuirk><![CDATA[
+{pawn} prefere que {pawn_possessive} parceiros estejam dormindo.
+]]></SomnophileQuirk>
+	<SapiosexualQuirk><![CDATA[
+{pawn} prefere parceiros mais inteligentes.
+]]></SapiosexualQuirk>
+	<FertileQuirk><![CDATA[
+{pawn} tem uma fertilidade incomumente alta, tendo mais chances de ter filhos.
+]]></FertileQuirk>
+	<InfertileQuirk><![CDATA[
+{pawn} tem uma fertilidade incomumente baixa, tendo quase nenhuma chance de ter filhos.
+]]></InfertileQuirk>
+	<ImpregnationFetishQuirk><![CDATA[
+{pawn} gosta muito da idéia de que alguem possa engravidar. {pawn_pronoun} prefere parceiros e atos sexuais onde exista a possibilidade de gravidez. {pawn_pronoun} não se importa se {pawn_pronoun} vai engravidar ou se o {pawn_possessive} parceiro vai, desde que um bebê possa se formar. 
+]]></ImpregnationFetishQuirk>
+	<PregnancyFetishQuirk><![CDATA[
+{pawn} prefere parceiros que estejam visivelmente grávidos.
+]]></PregnancyFetishQuirk>
+	<IncubatorQuirk><![CDATA[
+{pawn} botou tantos ovos que seu corpo se adaptou a procriar. A velocidade que os ovos são incubados aumentou.
+]]></IncubatorQuirk>
+	<BreederQuirk><![CDATA[
+{pawn} teve tantos filhos que seu corpo se adaptou a procriar. Suas gravidez são mais curtas e produzem mais crias.
+]]></BreederQuirk>
+	<VigorousQuirk><![CDATA[
+{pawn} é envigorado por sexo. {pawn_pronoun} não se cansa tanto durante o sexo.
+]]></VigorousQuirk>
+	<ChitinLoverQuirk><![CDATA[
+{pawn} gosta  da força e maciez de um exoesqueleto. {pawn_pronoun} prefere parceiros insectóides ou arachnóides.
+]]></ChitinLoverQuirk>
+	<DemonLoverQuirk><![CDATA[
+{pawn} está atrás dos malcriados. {pawn_pronoun} prefere que seus parceiros venham das literais profundezas do inferno, ou que pelo menos pareça que venham.
+]]></DemonLoverQuirk>
+	<FeatherLoverQuirk><![CDATA[
+{pawn} ama penas aveludadas. {pawn_pronoun} prefere parceiros aviários ou dinossauros. Dinossauros são pássaros com penas, o que {pawn_pronoun} não se importa de explicar se tiver chance.
+]]></FeatherLoverQuirk>
+	<FurLoverQuirk><![CDATA[
+{pawn} prefere parceiros com uma grossa, macia, e felpuda cobertura de pêlos.
+]]></FurLoverQuirk>
+	<PlantLoverQuirk><![CDATA[
+{pawn} gosta de molhar as plantas. Você entende o que quero dizer.
+]]></PlantLoverQuirk>
+	<RobotLoverQuirk><![CDATA[
+O que é melhor, 2D ou 3D? {pawn} sabe que os impressos em 3d te dão o melhor dos dois mundos.
+]]></RobotLoverQuirk>
+	<ScaleLoverQuirk><![CDATA[
+Quem gostaria de foder um dragão? Definitivamente {pawn}. {pawn} quer foder um dragão.
+]]></ScaleLoverQuirk>
+	<SkinLoverQuirk><![CDATA[
+{pawn} prefere que seus parceiros tenham uma pele macia e sensível, sem nenhum pelo ou escama pra atrapalhar. Por sorte {pawn_objective} humanos estão por toda parte.
+]]></SkinLoverQuirk>
+	<SlimeLoverQuirk><![CDATA[
+Pela sua natureza deslizante e maleável, slimes são muito, muito boas em sexo. Como você pode ouvir de {pawn} se você parar pra escutar suas conversas por muito tempo.
+]]></SlimeLoverQuirk>
+	<SexPartWants>Wants to be: </SexPartWants>
+</LanguageData>

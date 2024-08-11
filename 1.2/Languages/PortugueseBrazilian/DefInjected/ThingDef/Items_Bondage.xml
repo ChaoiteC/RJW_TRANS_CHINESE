@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hololock.label>Holotrava</Hololock.label>
+  <Hololock.description>Um mecanismo de trava de alta tecnologia. Features include:
+- Construido com uma estrutura de plastiaço, muito resitente
+- Chave e trava pareados utilizando um UID criptografado holograficamente embutido em um substrato de jade, sendo impossível a remoção sem a chave original
+- Um sistema de auto destruição quando há uma tentativa de modificar a trava, causando a destruição do item ao invés da possivel captura e use por inimigos
+
+Originalmente feito para uso militar, as holotravas desde então se tornaram populares nas comunidades BDSM, onde por costume as chaves e as travas são engravadas com o mesmo nome para serem mais fáceis de identificar.</Hololock.description>
+
+  <Holokey.label>Holochave</Holokey.label>
+  <Holokey.description>Uma chave de alta tecnologia. Capaz de destravar um item que possua a mesma masca criptográfica.</Holokey.description>
+  <Holokey.comps.2.useLabel>Destrancar</Holokey.comps.2.useLabel>
+
+
+</LanguageData>

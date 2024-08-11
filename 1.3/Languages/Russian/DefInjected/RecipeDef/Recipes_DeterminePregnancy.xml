@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePregnancy.label>Сделать тест на беременность</DeterminePregnancy.label>
+  <DeterminePregnancy.description>Определяет беременный ли колонист и обнаруживает аномалии развития плода.</DeterminePregnancy.description>
+  <DeterminePregnancy.jobString>Делает тест.</DeterminePregnancy.jobString>
+
+
+</LanguageData>

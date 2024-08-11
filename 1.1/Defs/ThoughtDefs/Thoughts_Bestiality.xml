@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<ThoughtDef>
+		<defName>GotBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>10.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>raped by animal</label>
+				<description>Oh God... I was raped by an animal. The sheer humiliation of it...How can I look anybody in the eye now? I think I can still smell it on me...</description>
+				<baseMoodEffect>-20</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>GotAnalBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>30.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>bred in the ass by animal</label>
+				<description>I was raped...in the ass... by an animal. I can't get any lower than this; I just want to crawl in a hole and die. Please, nobody look at me...</description>
+				<baseMoodEffect>-25</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>MasochistGotBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>raped by animal</label>
+				<description>An animal raped me. It makes me feel so dirty and deviant, like a filthy sow being bred...not bad.</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>MasochistGotAnalBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>bred in the ass by animal</label>
+				<description>I was raped...in the ass... by an animal. The way it utterly humiliated me by rutting on me and wrecking my asshole mindlessly like I was just some pig who deserved nothing better...I could get used to this.</description>
+				<baseMoodEffect>4</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>ZoophileGotBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>bred by animal</label>
+				<description>An animal made love to me, just like I was one too...It's so much more better than with a human..</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>ZoophileGotAnalBredByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>bred in the ass by animal</label>
+				<description>That animal just took me in the ass and made me its bitch...The way it mounted me and thrust into my behind until it finally filled me with its seed...it just makes me want to touch myself all over again just thinking about it.</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>AllowedAnimalToBreed</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>bred by animal</label>
+				<description>I was so horny that I let an animal mount me. I feel ashamed for enjoying it...</description>
+				<baseMoodEffect>-2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>GotLickedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>10.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>raped by animal</label>
+				<description>An animal forced their tongue inside me.</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>MasochistGotLickedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>raped by animal</label>
+				<description>An animal forced their tongue inside me. I kinda liked it...</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>ZoophileGotLickedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>ravished by animal</label>
+				<description>An animal ravished me.</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>AllowedAnimalToLick</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>10.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>licked by animal</label>
+				<description>I let an animal lick me. I feel ashamed, but kinda liked it...</description>
+				<baseMoodEffect>2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<!-- Generic type for weirder animal stuff, these normally only happen if the player messes with the defaults too much-->
+	<ThoughtDef>
+		<defName>GotGropedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>8.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>molested by animal</label>
+				<description>An animal molested me. I feel dirty.</description>
+				<baseMoodEffect>-8</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>MasochistGotGropedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>molested by animal (Masochist)</label>
+				<description>An animal molested me. I kinda liked it...</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>ZoophileGotGropedByAnimal</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>5.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>molested by animal (Zoophile)</label>
+				<description>An animal ravished me.</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>AllowedAnimalToGrope</defName>
+		<thoughtClass>Thought_Memory</thoughtClass>
+		<durationDays>10.0</durationDays>
+		<stackLimit>5</stackLimit>
+		<stackedEffectMultiplier>0.4</stackedEffectMultiplier>
+		<stages>
+			<li>
+				<label>groped by animal</label>
+				<description>I was so horny that I let an animal grope me. I feel ashamed...</description>
+				<baseMoodEffect>-2</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</Defs>

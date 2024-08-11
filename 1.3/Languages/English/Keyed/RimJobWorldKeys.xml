@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Mod strings -->
+
+	<!-- Notifications on right-clicking CP -->
+	<PawnCantRapeCP>The target isn't healthy enough or is in a forbidden location.</PawnCantRapeCP>
+	<PawnCantRapeCP0>The pawn doesn't need sex, is not healthy, or cannot rape.</PawnCantRapeCP0>
+	<PawnCantRapeCP1>The pawn is not single or has his partner around.</PawnCantRapeCP1>
+	<PawnCantRapeCP2>The pawn is not zoophile so they can't rape animals.</PawnCantRapeCP2>
+
+	<!--Submit button-->
+	<CommandSubmit>Submit</CommandSubmit>
+	<CommandSubmitDesc>Lay down and accept whatever to cum.</CommandSubmitDesc>
+
+	<!--Pregnancy messages-->
+	<RJW_PregnantTitle>{0} is pregnant.</RJW_PregnantTitle>
+	<RJW_PregnantText>{0} is pregnant and is going to be a mother soon. Be aware, starvation and trauma may result in loss of child.</RJW_PregnantText>
+	<RJW_Contractions>{0} is having contractions! Baby(ies) is(are) on the way!</RJW_Contractions>
+	<RJW_GaveBirthTitle>Birthing done.</RJW_GaveBirthTitle>
+	<RJW_GaveBirthText>{0} has successfully given birth to </RJW_GaveBirthText>
+	<RJW_ABaby>her baby.</RJW_ABaby>
+	<RJW_NBabies>her {0} babies.</RJW_NBabies>
+	<RJW_PregnantNormal>Have a healthy baby...</RJW_PregnantNormal>
+	<RJW_PregnantStrange>Something is unusual about the baby...</RJW_PregnantStrange>
+	<RJW_PregnantMechStrange>Something is very strange about the baby...</RJW_PregnantMechStrange>
+	<RJW_GaveBirthEggTitle>Birthed egg.</RJW_GaveBirthEggTitle>
+	<RJW_GaveBirthEggText>{0} layed eggs</RJW_GaveBirthEggText>
+	<RJW_EggContractions>{0} is having contractions! Eggs are on the way!</RJW_EggContractions>
+
+	<GoToModSettings>This space is reserved for optional RJW features that are either turned off or unavailable for the selected pawn/animal.\nCheck the fucking mod options and stop asking if THIS is normal.</GoToModSettings>
+
+	<!--Comfort designation-->
+	<ForComfort>Use for comfort</ForComfort>
+	<ForComfortDesc>Mark for comforting sex</ForComfortDesc>
+	<ForComfortRefuseDesc>Won't agree to be used for comfort\nReq: masochist trait</ForComfortRefuseDesc>
+
+	<!--Whore-->
+	<ForService>Assign to whorin'</ForService> <!-- This field is not visible -->
+	<ForServiceDesc><![CDATA[Mark for whoring
+- Will try to hook up with visitors.
+- Entertains other colonists if not busy.
+- Tries to refrain from masturbation while on the job, may cause frustration.
+]]></ForServiceDesc>
+	<ForServiceRefuseDesc>Won't agree to be a whore</ForServiceRefuseDesc>
+
+	<!--Breeding designations-->
+	<ForBreeding>For animals</ForBreeding>
+	<ForBreedingDesc>Mark for animal breeding</ForBreedingDesc>
+	<ForBreedingRefuseDesc>Won't agree to be mounted by animals\nReq: zoophile trait</ForBreedingRefuseDesc>
+
+	<ForBreedingAnimalDesc>Allow this animal to mount designated breeders</ForBreedingAnimalDesc>
+
+	<BreedMessage> is trying to breed </BreedMessage>
+
+	<!--Milking-->
+	<ForMilking>Designate dairy</ForMilking>
+	<ForMilkingDesc>Harvest biological materials from this being</ForMilkingDesc>
+
+	<!--Hero-->
+	<ForHero>Designate Hero</ForHero>
+	<ForHeroDesc><![CDATA[Set pawn as player character
+-Can only be set once.
+-Can't be turned off.
+]]></ForHeroDesc>
+	<ForHeroRefuse1Desc>This is hero of other player</ForHeroRefuse1Desc>
+	<ForHeroRefuse2Desc>You have no right to change designation</ForHeroRefuse2Desc>
+	<ForHeroRefuseHCDesc>Non hero colonist in HC mode</ForHeroRefuseHCDesc>
+
+	<RJW_hediff_braCup>Bra cup: {0}</RJW_hediff_braCup>
+	<RJW_hediff_braSizeNone>Bra size: -</RJW_hediff_braSizeNone>
+	<RJW_hediff_eggs>Eggs: {0}</RJW_hediff_eggs>
+	<RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+	<RJW_hediff_girth>Girth: {0}</RJW_hediff_girth>
+	<RJW_hediff_length>Length: {0}</RJW_hediff_length>
+	<RJW_hediff_maxGirth>Max Girth: {0}</RJW_hediff_maxGirth>
+	<RJW_hediff_maxLength>Max Length: {0}</RJW_hediff_maxLength>
+	<RJW_hediff_braSize>Bra size: {0}:{1}</RJW_hediff_braSize>
+	<RJW_hediff_overbust>Overbust: {0}</RJW_hediff_overbust>
+	<RJW_hediff_underbust>Underbust: {0}</RJW_hediff_underbust>
+	<RJW_hediff_unknownSpecies>Unknown species</RJW_hediff_unknownSpecies>
+	<RJW_hediff_weight>Weight: {0}</RJW_hediff_weight>
+
+	<RJW_nymph_incident_raid_title>Nymphs!!!</RJW_nymph_incident_raid_title>
+	<RJW_nymph_incident_raid_description>A group of nymphs has wandered into your settlement.</RJW_nymph_incident_raid_description>
+	<RJW_nymph_incident_wander_title>Nymph!</RJW_nymph_incident_wander_title>
+	<RJW_nymph_incident_wander_description>A wandering nymph has decided to visit your settlement.</RJW_nymph_incident_wander_description>
+	<RJW_nymph_incident_join_title>Nymph Joins</RJW_nymph_incident_join_title>
+	<RJW_nymph_incident_join_description>A wandering nymph has decided to join your settlement.</RJW_nymph_incident_join_description>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Reverse_Rimming.label>리밍</Sex_Reverse_Rimming.label>
+	<Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 항문을 핥음.</Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 리밍에 몸을 맡김.</Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Rimming.modExtensions.0.RMBLabel>혀로 항문을 핥음.</Sex_Reverse_Rimming.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Cunnilingus.label>커닐링구스</Sex_Reverse_Cunnilingus.label>
+	<Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 보지를 애무함.</Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 커닐링구스에 몸을 맡김.</Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>혀로 보지를 애무함.</Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Fellatio.label>펠라치오</Sex_Reverse_Fellatio.label>
+	<Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->입과 혀로 [RECIPIENT_nameDef]의 자지를 핥음.</Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 펠라치오에 몸을 맡김.</Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>혀로 자지를 핥음.</Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>
+
+	<Sex_Reverse_Beakjob.label>비크잡</Sex_Reverse_Beakjob.label>
+	<Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->부리로 [RECIPIENT_nameDef]의 자지를 애무함.</Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 농밀한 부리 애무에 몸을 맡김.</Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Reverse_Beakjob.modExtensions.0.RMBLabel>부리로 자지를 핥음.</Sex_Reverse_Beakjob.modExtensions.0.RMBLabel>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NymphJoins.label>ninfa se junta</NymphJoins.label>
+  <NymphVisitor.label>ninfa visitante</NymphVisitor.label>
+  <NymphVisitorGroupEasy.label>invasión de ninfas(fácil)</NymphVisitorGroupEasy.label>
+  <NymphVisitorGroupHard.label>invasión de ninfas(difícil)</NymphVisitorGroupHard.label>
+
+
+</LanguageData>

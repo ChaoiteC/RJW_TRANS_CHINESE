@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakeHololock.label>홀로그램 구속구 제작</MakeHololock.label>
+	<MakeHololock.description>홀로그램 구속구를 제작합니다.</MakeHololock.description>
+	<MakeHololock.jobString>홀로그램 구속구 제작 중.</MakeHololock.jobString>
+	<MakePrisonerChains.label>사슬 제작</MakePrisonerChains.label>
+	<MakePrisonerChains.description>사슬을 제작합니다.</MakePrisonerChains.description>
+	<MakePrisonerChains.jobString>사슬 제작 중.</MakePrisonerChains.jobString>
+
+</LanguageData>

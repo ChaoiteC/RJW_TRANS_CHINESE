@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[NL] Facial Animation - WIP</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Lovin" or defName="Lovin2"]/targetJobs</xpath>
+          <success>Always</success>
+          <value>
+            <li>RJW_Masturbate</li>
+            <li>GettinBred</li>
+            <li>Bestiality</li>
+            <li>BestialityForFemale</li>
+            <li>ViolateCorpse</li>
+            <li>Quickie</li>
+            <li>GettingQuickie</li>
+            <li>GettinRaped</li>
+            <li>JoinInBed</li>
+            <li>GettinLoved</li>
+            <li>GettinLicked</li>
+            <li>GettinSucked</li>
+            <li>WhoreIsServingVisitors</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="WaitCombat" or defName="Wait_Combat_Rare"]/targetJobs</xpath>
+          <success>Always</success>
+          <value>
+            <li>RapeComfortPawn</li>
+            <li>RandomRape</li>
+            <li>RapeEnemy</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="StandAndBeSociallyActive"]/targetJobs</xpath>
+          <success>Always</success>
+          <value>
+            <li>WhoreInvitingVisitors</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Wear" or defName="Wear2" or defName="Wear3"]/targetJobs</xpath>
+          <success>Always</success>
+          <value>
+            <li>CleanSelf</li>
+            <li>StruggleInBondageGear</li>
+          </value>
+        </li>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>Rimworld-Animations</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+              <li Class="PatchOperationRemove">
+                <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Lovin" or defName="Lovin2"]/animationFrames/li[1]/headOffset</xpath>
+                <success>Always</success>
+              </li>
+              <li Class="PatchOperationRemove">
+                <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Lovin"]/animationFrames/li[2]/headOffset</xpath>
+                <success>Always</success>
+              </li>
+              <li Class="PatchOperationRemove">
+                <xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Lovin"]/animationFrames/li[3]/headOffset</xpath>
+                <success>Always</success>
+              </li>
+			  <li Class="PatchOperationAdd">
+				<xpath>/Defs/FacialAnimation.FaceAnimationDef[defName="Lovin" or defName="Lovin2"]/targetJobs</xpath>
+				<success>Always</success>
+				<value>
+					<li>JoinInBedAnimation</li>
+					<li>GettinLovedAnimation</li>
+				</value>
+			   </li>
+            </operations>
+          </match>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

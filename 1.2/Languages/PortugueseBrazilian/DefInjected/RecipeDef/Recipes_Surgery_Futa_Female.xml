@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural pênises -->
+
+  <AddPenis.label>adicionar pênis</AddPenis.label>
+  <AddPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</AddPenis.description>
+  <AddPenis.jobString>Implantando pênis.</AddPenis.jobString>
+
+  <addHorsePenis.label>adicionar pênis equino</addHorsePenis.label>
+  <addHorsePenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addHorsePenis.description>
+  <addHorsePenis.jobString>Implantando pênis.</addHorsePenis.jobString>
+
+  <addCatPenis.label>adicionar pênis felino</addCatPenis.label>
+  <addCatPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addCatPenis.description>
+  <addCatPenis.jobString>Implantando pênis.</addCatPenis.jobString>
+
+  <addDogPenis.label>adicionar pênis canino</addDogPenis.label>
+  <addDogPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addDogPenis.description>
+  <addDogPenis.jobString>Implantando pênis.</addDogPenis.jobString>
+
+  <addDragonPenis.label>adicionar pênis dracônico</addDragonPenis.label>
+  <addDragonPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addDragonPenis.description>
+  <addDragonPenis.jobString>Implantando pênis.</addDragonPenis.jobString>
+
+  <addOvipositorM.label>adicionar ovipositor</addOvipositorM.label>
+  <addOvipositorM.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addOvipositorM.description>
+  <addOvipositorM.jobString>adding Ovipositor.</addOvipositorM.jobString>
+
+  <addRaccoonPenis.label>adicionar pênis procionídeo</addRaccoonPenis.label>
+  <addRaccoonPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addRaccoonPenis.description>
+  <addRaccoonPenis.jobString>Implantando pênis.</addRaccoonPenis.jobString>
+
+  <addHemiPenis.label>adicionar hemipênis</addHemiPenis.label>
+  <addHemiPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addHemiPenis.description>
+  <addHemiPenis.jobString>Implantando pênis.</addHemiPenis.jobString>
+
+  <addCrocodilianPenis.label>adicionar pênis crocodiliano</addCrocodilianPenis.label>
+  <addCrocodilianPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addCrocodilianPenis.description>
+  <addCrocodilianPenis.jobString>Implantando pênis.</addCrocodilianPenis.jobString>
+
+  <AddNeedlePenis.label>adicionar pênis fino</AddNeedlePenis.label>
+  <AddNeedlePenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</AddNeedlePenis.description>
+  <AddNeedlePenis.jobString>Implantando pênis.</AddNeedlePenis.jobString>
+
+  <AddCloacalPenis.label>adicionar pênis cloacal</AddCloacalPenis.label>
+  <AddCloacalPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</AddCloacalPenis.description>
+  <AddCloacalPenis.jobString>Implantando pênis.</AddCloacalPenis.jobString>
+
+  <AddRodentPenis.label>adicionar pênis de roedor</AddRodentPenis.label>
+  <AddRodentPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</AddRodentPenis.description>
+  <AddRodentPenis.jobString>Implantando pênis.</AddRodentPenis.jobString>
+
+
+  <!-- hydraulic pênis -->
+
+  <addHydraulicPenis.label>adicionar pênis hidráulico</addHydraulicPenis.label>
+  <addHydraulicPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addHydraulicPenis.description>
+  <addHydraulicPenis.jobString>Implantando pênis hidráulico.</addHydraulicPenis.jobString>
+
+
+  <!-- bionic pênis -->
+
+  <addBionicPenis.label>adicionar pênis biônico</addBionicPenis.label>
+  <addBionicPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addBionicPenis.description>
+  <addBionicPenis.jobString>Implantando pênis biônico.</addBionicPenis.jobString>
+
+
+  <!-- Archotech -->
+
+  <addArchotechPenis.label>adicionar pênis arquotécnológico</addArchotechPenis.label>
+  <addArchotechPenis.description>Adiciona um pênis a uma mulher, fazendo delas hermafroditas.</addArchotechPenis.description>
+  <addArchotechPenis.jobString>Implantando pênis arquotécnológico.</addArchotechPenis.jobString>
+
+
+</LanguageData>

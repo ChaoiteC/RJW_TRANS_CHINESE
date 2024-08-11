@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts masturbation -->
+
+  <CountOfFappin.label>Masturbiert</CountOfFappin.label>
+  <CountOfFappin.description>So oft habe ich mich selbst Befriedigt.</CountOfFappin.description>
+
+
+  <!-- Counts all sex excluding masturbation -->
+
+  <CountOfSex.label>Sex gehabt</CountOfSex.label>
+  <CountOfSex.description>So oft habe ich Sex gehabt.</CountOfSex.description>
+
+
+  <!-- Counts all sex + rapes -->
+
+  <CountOfSexWithHumanlikes.label>Sex mit Menschen</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>So oft habe ich mit Menschen geschlafen.</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>Sex mit Tieren</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>So oft habe ich mit Tieren geschlafen.</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>Sex mit Insekten</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>So oft habe ich mit Insekten geschlafen.</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>Sex mit anderem</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>So oft habe ich mit anderen Wesen geschlafen.</CountOfSexWithOthers.description>
+
+
+  <!-- Counts rapes -->
+
+  <CountOfRapedHumanlikes.label>Menschliche Vergewaltigt</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>So oft habe ich jemanden vergewaltigt.</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>Tiere vergewaltigt</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>So oft habe ich Tiere vergewaltigt.</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>Insekten vergewaltigt</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>So oft habe ich Insekten vergewaltigt.</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>Menschen vergewaltigt</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>So oft habe ich andere vergewaltigt.</CountOfRapedOthers.description>
+
+  <CountOfSexWithCorpse.label>Leichen vergewaltigt</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>So oft habe ich Leichen vergewaltigt.</CountOfSexWithCorpse.description>
+
+  <CountOfBeenRapedByHumanlikes.label>Vergewaltigt von Menschen</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>So oft wurde ich von Menschen vergewaltigt.</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>Vergewaltigt von Tieren</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>So oft wurde ich von Tieren vergewaltigt.</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>Vergewaltigt von Insekten</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>So oft wurde ich von Insekten vergewaltigt.</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>Vergewaltigt von Anderem</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>So oft wurde ich von anderen menschlichen Wesen vergewaltigt.</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>Wurde benutzt</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>So oft wurde ich, gegen meinen Willen, für die Bedürfnisse von anderen benutzt.</GetRapedAsComfortPrisoner.description>
+
+
+  <!-- Counts whoring stuff -->
+
+  <CountOfWhore.label>Anzahl Prostitution</CountOfWhore.label>
+  <CountOfWhore.description>So oft habe ich meinen Körper verkauft.</CountOfWhore.description>
+
+  <EarnedMoneyByWhore.label>Silber verdient</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.description>So viel hab ich durch Anschaffen verdient.</EarnedMoneyByWhore.description>
+
+
+  <!-- Counts birthing -->
+
+  <CountOfBirthHuman.label>Anzahl der Geburten</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>So viele menschliche Wesen habe ich geboren.</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>Anzahl von Tiergeburten</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>So viele Tiere habe ich geboren.</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>Eier gelegt</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>So viele Eier habe ich gelegt.</CountOfBirthEgg.description>
+
+  <CountOfCondomsUsed.label>Kondome benutzt</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>Anzahl der Kondome die ich benutzt habe.</CountOfCondomsUsed.description>
+
+
+</LanguageData>

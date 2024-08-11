@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FortunateGaveVirginity.stages.0.label>첫경험</FortunateGaveVirginity.stages.0.label>
+	<FortunateGaveVirginity.stages.0.description>스스로 선택한 거야.</FortunateGaveVirginity.stages.0.description>
+	<UnfortunateLostVirginity.stages.0.label>순결을 잃음</UnfortunateLostVirginity.stages.0.label>
+	<UnfortunateLostVirginity.stages.0.description>더럽혀졌어... 이제 다시는 되돌릴 수 없겠지.</UnfortunateLostVirginity.stages.0.description>
+	<TookVirginity.stages.0.label>처녀를 따먹음</TookVirginity.stages.0.label>
+	<TookVirginity.stages.0.description>풋풋했어.</TookVirginity.stages.0.description>
+
+</LanguageData>

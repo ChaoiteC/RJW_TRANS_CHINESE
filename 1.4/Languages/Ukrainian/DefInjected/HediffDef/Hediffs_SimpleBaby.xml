@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RJW_BabyState.label>Дитина росте</RJW_BabyState.label>
+<RJW_BabyState.description>Малюк готується стати частиною суспільства.</RJW_BabyState.description>
+<RJW_BabyState.stages.0.label>немовля</RJW_BabyState.stages.0.label>
+<RJW_BabyState.stages.1.label>малюк</RJW_BabyState.stages.1.label>
+<RJW_BabyState.stages.2.label>дитина</RJW_BabyState.stages.2.label>
+<!-- This only exists separately from BabyState to get around a bug making children drop their weapons on savegame load. -->
+<RJW_NoManipulationFlag.label>Занадто малий для роботи</RJW_NoManipulationFlag.label>
+<RJW_NoManipulationFlag.description>Занадто малий для роботи.</RJW_NoManipulationFlag.description>
+</LanguageData>

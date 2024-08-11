@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_IUD.label>피임기구</RJW_IUD.label>
+	<RJW_IUD.description>임신 확률을 99% 줄이기 위해 자궁에 삽입하는 은으로 만든 작은 장치.</RJW_IUD.description>
+	<IncreasedFertility.label>향상된 임신률</IncreasedFertility.label>
+	<IncreasedFertility.description>아이를 만들기 위해 생식력을 높입니다.</IncreasedFertility.description>
+	<DecreasedFertility.label>약화된 임신률</DecreasedFertility.label>
+	<DecreasedFertility.description>임신률이 떨어졌습니다.</DecreasedFertility.description>
+	<ImpregnationBlocker.label>초월공학 임신차단기</ImpregnationBlocker.label>
+	<ImpregnationBlocker.description>난소가 난자를 배출하지 못하게 하는 복잡한 장치</ImpregnationBlocker.description>
+	<FertilityEnhancer.label>초월공학 임신유도기</FertilityEnhancer.label>
+	<FertilityEnhancer.description>임신 가능성을 높이는 복잡한 장치</FertilityEnhancer.description>
+
+</LanguageData>

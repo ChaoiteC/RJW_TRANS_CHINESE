@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_pregnancy.label>Schwanger</RJW_pregnancy.label>
+  <RJW_pregnancy.description>Ein Baby im Bauch.</RJW_pregnancy.description>
+  <RJW_pregnancy.stages.0.label>Erstes Trimester</RJW_pregnancy.stages.0.label>
+  <RJW_pregnancy.stages.1.label>Zweites Trimester</RJW_pregnancy.stages.1.label>
+  <RJW_pregnancy.stages.2.label>Drittes Trimester</RJW_pregnancy.stages.2.label>
+  <RJW_pregnancy.stages.3.label>Wehen</RJW_pregnancy.stages.3.label>
+
+  <RJW_pregnancy_beast.label>Schwanger</RJW_pregnancy_beast.label>
+  <RJW_pregnancy_beast.description>Ein Baby im Bauch.</RJW_pregnancy_beast.description>
+  <RJW_pregnancy_beast.stages.0.label>Erstes Trimester</RJW_pregnancy_beast.stages.0.label>
+  <RJW_pregnancy_beast.stages.1.label>Zweites Trimester</RJW_pregnancy_beast.stages.1.label>
+  <RJW_pregnancy_beast.stages.2.label>Drittes Trimester</RJW_pregnancy_beast.stages.2.label>
+  <RJW_pregnancy_beast.stages.3.label>Wehen</RJW_pregnancy_beast.stages.3.label>
+
+  <RJW_pregnancy_mech.label>Schwanger</RJW_pregnancy_mech.label>
+  <RJW_pregnancy_mech.description>Ein Baby im Bauch.</RJW_pregnancy_mech.description>
+  <RJW_pregnancy_mech.stages.0.label>Erstes Trimester</RJW_pregnancy_mech.stages.0.label>
+  <RJW_pregnancy_mech.stages.1.label>Zweites Trimester</RJW_pregnancy_mech.stages.1.label>
+  <RJW_pregnancy_mech.stages.2.label>Drittes Trimester</RJW_pregnancy_mech.stages.2.label>
+  <RJW_pregnancy_mech.stages.3.label>Wehen</RJW_pregnancy_mech.stages.3.label>
+
+
+</LanguageData>

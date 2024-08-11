@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DeterminePaternity.label>친자 확인</DeterminePaternity.label>
+	<DeterminePaternity.description>정착민이 임신했을 경우, 그 아이의 아버지를 찾습니다.</DeterminePaternity.description>
+	<DeterminePaternity.jobString>친자 확인 중.</DeterminePaternity.jobString>
+
+</LanguageData>

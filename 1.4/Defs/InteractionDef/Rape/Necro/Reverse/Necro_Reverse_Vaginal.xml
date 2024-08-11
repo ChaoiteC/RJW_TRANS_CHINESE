@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Necro_Reverse_Vaginal</defName>
+		<label>vaginal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Raped vaginally [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was vaginally raped by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Ride vaginally</RMBLabel>
+				<rjwSextype>Vaginal</rjwSextype>
+				<rulepack_defs>
+					<li>VaginalReverseRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Reverse</li>
+					<li>Rape</li>
+					<li>Bestiality</li>
+					<li>Necrophilia</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+					<pawnStates>
+						<li>Dead</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

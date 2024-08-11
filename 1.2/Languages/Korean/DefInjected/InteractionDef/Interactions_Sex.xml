@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnalSex.label>항문 성교</AnalSex.label>
+	<AnalSex.logRulesInitiator.rulesStrings.0>r_logentry->자지를 [RECIPIENT_nameDef]의 항문에 밀어넣음.</AnalSex.logRulesInitiator.rulesStrings.0>
+	<AnalSex.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 격렬한 허리놀림에 몸을 맡김.</AnalSex.logRulesRecipient.rulesStrings.0>
+	<AnalSex.modExtensions.0.RMBLabelM>항문 성교를 시작함.</AnalSex.modExtensions.0.RMBLabelM>
+	<AnalSex.modExtensions.0.RMBLabelF>항문 성교를 요청함.</AnalSex.modExtensions.0.RMBLabelF>
+
+	<VaginalSex.label>삽입 성교</VaginalSex.label>
+	<VaginalSex.logRulesInitiator.rulesStrings.0>r_logentry->자지를 [RECIPIENT_nameDef]의 보지에 밀어넣음.</VaginalSex.logRulesInitiator.rulesStrings.0>
+	<VaginalSex.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 격렬한 허리놀림에 몸을 맡김.</VaginalSex.logRulesRecipient.rulesStrings.0>
+	<VaginalSex.modExtensions.0.RMBLabelM>성교를 시작함.</VaginalSex.modExtensions.0.RMBLabelM>
+	<VaginalSex.modExtensions.0.RMBLabelF>성교를 요청함.</VaginalSex.modExtensions.0.RMBLabelF>
+
+	<Handjob.label>핸드잡</Handjob.label>
+	<Handjob.logRulesInitiator.rulesStrings.0>r_logentry->손으로 [RECIPIENT_nameDef]의 자지를 애무함.</Handjob.logRulesInitiator.rulesStrings.0>
+	<Handjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 우악스런 손놀림에 몸을 맡김.</Handjob.logRulesRecipient.rulesStrings.0>
+	<Handjob.modExtensions.0.RMBLabelM>손으로 애무함.</Handjob.modExtensions.0.RMBLabelM>
+	<Handjob.modExtensions.0.RMBLabelF>핸드잡을 요청함.</Handjob.modExtensions.0.RMBLabelF>
+
+	<Footjob.label>풋잡</Footjob.label>
+	<Footjob.logRulesInitiator.rulesStrings.0>r_logentry->발로 [RECIPIENT_nameDef]의 성감대를 애무함.</Footjob.logRulesInitiator.rulesStrings.0>
+	<Footjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 서툰 발놀림에 몸을 맡김.</Footjob.logRulesRecipient.rulesStrings.0>
+	<Footjob.modExtensions.0.RMBLabelM>발로 애무함.</Footjob.modExtensions.0.RMBLabelM>
+	<Footjob.modExtensions.0.RMBLabelF>풋잡을 요청함.</Footjob.modExtensions.0.RMBLabelF>
+
+	<Fingering.label>핑거링</Fingering.label>
+	<Fingering.logRulesInitiator.rulesStrings.0>r_logentry->손가락으로 [RECIPIENT_nameDef]의 성감대를 애무함.</Fingering.logRulesInitiator.rulesStrings.0>
+	<Fingering.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 섬세한 손놀림에 몸을 맡김.</Fingering.logRulesRecipient.rulesStrings.0>
+	<Fingering.modExtensions.0.RMBLabelM>손가락으로 애무함.</Fingering.modExtensions.0.RMBLabelM>
+	<Fingering.modExtensions.0.RMBLabelF>핑거링을 요청함.</Fingering.modExtensions.0.RMBLabelF>
+
+	<Fisting.label>피스팅</Fisting.label>
+	<Fisting.logRulesInitiator.rulesStrings.0>r_logentry->주먹을 [RECIPIENT_nameDef]의 항문에 천천히 박아넣음.</Fisting.logRulesInitiator.rulesStrings.0>
+	<Fisting.logRulesRecipient.rulesStrings.0>r_logentry->아랫배 깊숙히 박힌 [INITIATOR_nameDef]의 우악스런 손놀림에 몸을 맡김.</Fisting.logRulesRecipient.rulesStrings.0>
+	<Fisting.modExtensions.0.RMBLabelM>주먹을 집어넣음.</Fisting.modExtensions.0.RMBLabelM>
+	<Fisting.modExtensions.0.RMBLabelF>피스팅을 요청함.</Fisting.modExtensions.0.RMBLabelF>
+
+	<Breastjob.label>파이즈리</Breastjob.label>
+	<Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->양 가슴 사이에 [RECIPIENT_nameDef]의 자지를 끼워넣고 비벼줌.</Breastjob.logRulesInitiator.rulesStrings.0>
+	<Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 부드러운 품에 몸을 맡김.</Breastjob.logRulesRecipient.rulesStrings.0>
+	<Breastjob.modExtensions.0.RMBLabelM>가슴으로 비벼줌.</Breastjob.modExtensions.0.RMBLabelM>
+	<Breastjob.modExtensions.0.RMBLabelF>파이즈리를 요청함.</Breastjob.modExtensions.0.RMBLabelF>
+
+	<DoublePenetration.label>동시 삽입</DoublePenetration.label>
+	<DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지와 항문을 동시에 애무함.</DoublePenetration.logRulesInitiator.rulesStrings.0>
+	<DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]는 보지와 항문에서 같이 느껴지는 쾌감에 몸을 맡김.</DoublePenetration.logRulesRecipient.rulesStrings.0>
+	<DoublePenetration.modExtensions.0.RMBLabelM>동시 삽입을 시작함.</DoublePenetration.modExtensions.0.RMBLabelM>
+	<DoublePenetration.modExtensions.0.RMBLabelF>동시 삽입을 요청함.</DoublePenetration.modExtensions.0.RMBLabelF>
+
+	<Scissoring.label>가위치기</Scissoring.label>
+	<Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]와 보지를 서로 맞대고 격렬히 비빔.</Scissoring.logRulesInitiator.rulesStrings.0>
+	<Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]와 보지를 서로 맞대고 격렬히 비빔.</Scissoring.logRulesRecipient.rulesStrings.0>
+	<Scissoring.modExtensions.0.RMBLabelM>가위치기를 시작함.</Scissoring.modExtensions.0.RMBLabelM>
+	<Scissoring.modExtensions.0.RMBLabelF>가위치기를 요청함.</Scissoring.modExtensions.0.RMBLabelF>
+
+	<MutualMasturbation.label>상호 자위</MutualMasturbation.label>
+	<MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->손으로 [RECIPIENT_nameDef]의 자지를 애무하면서 같은 방으로 애무받음.</MutualMasturbation.logRulesInitiator.rulesStrings.0>
+	<MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->손으로 [RECIPIENT_nameDef]의 자지를 애무하면서 같은 방법으로 애무받음.</MutualMasturbation.logRulesRecipient.rulesStrings.0>
+	<MutualMasturbation.modExtensions.0.RMBLabelM>상호 자위를 시작함.</MutualMasturbation.modExtensions.0.RMBLabelM>
+	<MutualMasturbation.modExtensions.0.RMBLabelF>상호 자위를 요청함,</MutualMasturbation.modExtensions.0.RMBLabelF>
+
+</LanguageData>

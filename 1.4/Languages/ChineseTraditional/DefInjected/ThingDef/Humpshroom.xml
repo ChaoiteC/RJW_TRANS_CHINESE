@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <PlantHumpShroom.label>駝峰菇</PlantHumpShroom.label>
+  <PlantHumpShroom.description>這是一種肉質堅韌，充滿濃稠汁液，表面順滑的蘑菇，食用具有催情效果。</PlantHumpShroom.description>
+
+
+  <!-- Consumable item -->
+
+  <HumpShroom.label>駝峰菇</HumpShroom.label>
+  <HumpShroom.description>這是一種肉質堅韌，充滿濃稠汁液，表面順滑的蘑菇，食用具有催情效果。</HumpShroom.description>
+
+
+</LanguageData>

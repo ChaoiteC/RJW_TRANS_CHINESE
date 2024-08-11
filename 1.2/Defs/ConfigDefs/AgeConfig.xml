@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<rjw.AgeConfigDef>
+		<defName>RJW_AgeConfig</defName>
+
+		<!-- Peak at 22. Not much penalty for old age because either aging-related issues have their own effects or they are removed with tech. -->
+		<attractivenessByAgeFemale>
+			<points>
+				<li>(12, 0)</li>
+				<li>(13, .7)</li>
+				<li>(18, .95)</li>
+				<li>(22, 1)</li>
+				<li>(38, .9)</li>
+				<li>(80, .8)</li>
+			</points>
+		</attractivenessByAgeFemale>
+
+		<!-- Peak at 28. Not much penalty for old age because either aging-related issues have their own effects or they are removed with tech. -->
+		<attractivenessByAgeMale>
+			<points>
+				<li>(12, 0)</li>
+				<li>(13, .5)</li>
+				<li>(18, .95)</li>
+				<li>(28, 1)</li>
+				<li>(38, .95)</li>
+				<li>(80, .9)</li>
+			</points>
+		</attractivenessByAgeMale>
+
+		<lovinIntervalHoursByAge>
+			<points>
+				<li>(1, 12)</li>
+				<li>(16, 6)</li>
+				<li>(22, 9)</li>
+				<li>(30, 12)</li>
+				<li>(50, 18)</li>
+				<li>(75, 24)</li>
+			</points>
+		</lovinIntervalHoursByAge>
+
+		<rigidityByAge>
+			<points>
+				<li>(0, .1)</li>
+				<li>(16, .1)</li>
+				<li>(40, 1)</li>
+				<li>(80, 1)</li>
+			</points>
+		</rigidityByAge>
+
+		<!-- In theory this should use the attractiveness code and so indirectly attractivenessByAge, but currently it doesn't. -->
+		<whoringPriceByAge>
+			<points>
+				<li>(12, 1)</li>
+				<li>(18, 1.5)</li>
+				<li>(24, 1.4)</li>
+				<li>(32, 1)</li>
+				<li>(48, .8)</li>
+				<li>(80, .6)</li>
+				<li>(400, .6)</li>
+			</points>
+		</whoringPriceByAge>
+	</rjw.AgeConfigDef>
+</Defs>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural penises -->
+
+  <AddPenis.label>Имплантировать пенис</AddPenis.label>
+  <AddPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</AddPenis.description>
+  <AddPenis.jobString>Имплантирует.</AddPenis.jobString>
+
+  <addHorsePenis.label>Имплантировать</addHorsePenis.label>
+  <addHorsePenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addHorsePenis.description>
+  <addHorsePenis.jobString>Имплантирует.</addHorsePenis.jobString>
+
+  <addCatPenis.label>Имплантировать кошачий пенис</addCatPenis.label>
+  <addCatPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addCatPenis.description>
+  <addCatPenis.jobString>Имплантирует.</addCatPenis.jobString>
+
+  <addDogPenis.label>Имплантировать собачий пенис</addDogPenis.label>
+  <addDogPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addDogPenis.description>
+  <addDogPenis.jobString>Имплантирует.</addDogPenis.jobString>
+
+  <addDragonPenis.label>Имплантировать драконий пенис</addDragonPenis.label>
+  <addDragonPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addDragonPenis.description>
+  <addDragonPenis.jobString>Имплантирует.</addDragonPenis.jobString>
+
+  <addOvipositorM.label>Имплантировать мужской яйцеклад</addOvipositorM.label>
+  <addOvipositorM.jobString>Имплантирует.</addOvipositorM.jobString>
+  <addOvipositorM.description>Adds a пенис to a female, making them a hermaphrodite.</addOvipositorM.description>
+
+  <addRaccoonPenis.label>Имплантировать пенис енота</addRaccoonPenis.label>
+  <addRaccoonPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addRaccoonPenis.description>
+  <addRaccoonPenis.jobString>Имплантирует.</addRaccoonPenis.jobString>
+
+  <addHemiPenis.label>Имплантировать гемипенис</addHemiPenis.label>
+  <addHemiPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addHemiPenis.description>
+  <addHemiPenis.jobString>Имплантирует.</addHemiPenis.jobString>
+
+  <addCrocodilianPenis.label>Имплантировать крокодилий пенис</addCrocodilianPenis.label>
+  <addCrocodilianPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addCrocodilianPenis.description>
+  <addCrocodilianPenis.jobString>Имплантирует.</addCrocodilianPenis.jobString>
+
+  <AddNeedlePenis.label>Имплантировать иглообразный пенис</AddNeedlePenis.label>
+  <AddNeedlePenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</AddNeedlePenis.description>
+  <AddNeedlePenis.jobString>Имплантирует.</AddNeedlePenis.jobString>
+
+  <AddCloacalPenis.label>Имплантировать пенис-клоаку</AddCloacalPenis.label>
+  <AddCloacalPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</AddCloacalPenis.description>
+  <AddCloacalPenis.jobString>Имплантирует.</AddCloacalPenis.jobString>
+
+  <AddRodentPenis.label>Имплантировать пенис грызуна</AddRodentPenis.label>
+  <AddRodentPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</AddRodentPenis.description>
+  <AddRodentPenis.jobString>Имплантирует.</AddRodentPenis.jobString>
+
+
+  <!-- hydraulic penis -->
+
+  <addHydraulicPenis.label>Имплантировать гидравлический пенис</addHydraulicPenis.label>
+  <addHydraulicPenis.jobString>AИмплантирует.</addHydraulicPenis.jobString>
+  <addHydraulicPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addHydraulicPenis.description>
+
+
+  <!-- bionic penis -->
+
+  <addBionicPenis.label>Имплантировать бионический пенис</addBionicPenis.label>
+  <addBionicPenis.jobString>Имплантирует.</addBionicPenis.jobString>
+  <addBionicPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addBionicPenis.description>
+
+
+  <!-- Archotech -->
+
+  <addArchotechPenis.label>Имплантировать Архотек-пенис</addArchotechPenis.label>
+  <addArchotechPenis.jobString>AИмплантирует.</addArchotechPenis.jobString>
+  <addArchotechPenis.description>Имплантировать пенис женщине и сделать её гермафродитом.</addArchotechPenis.description>
+
+
+</LanguageData>

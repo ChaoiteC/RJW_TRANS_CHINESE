@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rape_Rimming.label>리밍</Rape_Rimming.label>
+	<Rape_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 항문을 핥도록 강요함.</Rape_Rimming.logRulesInitiator.rulesStrings.0>
+	<Rape_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 항문을 핥도록 강요당함.</Rape_Rimming.logRulesRecipient.rulesStrings.0>
+	<Rape_Rimming.modExtensions.0.RMBLabel>항문을 능욕당함.</Rape_Rimming.modExtensions.0.RMBLabel>
+
+	<Rape_Cunnilingus.label>커닐링구스</Rape_Cunnilingus.label>
+	<Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 보지를 핥도록 강요함.</Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>
+	<Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지를 핥도록 강요당함.</Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>
+	<Rape_Cunnilingus.modExtensions.0.RMBLabel>보지를 능욕당함.</Rape_Cunnilingus.modExtensions.0.RMBLabel>
+
+	<Rape_Fellatio.label>펠라치오</Rape_Fellatio.label>
+	<Rape_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 성기를 입으로 물고 빨도록 강요함.</Rape_Fellatio.logRulesInitiator.rulesStrings.0>
+	<Rape_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 성기를 입으로 물고 빨도록 강요당함.</Rape_Fellatio.logRulesRecipient.rulesStrings.0>
+	<Rape_Fellatio.modExtensions.0.RMBLabel>성기를 물고 빨림.</Rape_Fellatio.modExtensions.0.RMBLabel>
+
+	<Rape_Beakjob.label>비크잡</Rape_Beakjob.label>
+	<Rape_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 부리로 성기를 물도록 강요함.</Rape_Beakjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 부리로 성기를 물도록 강요당함.</Rape_Beakjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Beakjob.modExtensions.0.RMBLabel>성기에 부리가 물림.</Rape_Beakjob.modExtensions.0.RMBLabel>
+
+</LanguageData>

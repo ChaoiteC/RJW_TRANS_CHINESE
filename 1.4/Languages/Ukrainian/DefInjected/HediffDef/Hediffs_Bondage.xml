@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Chains.label>Цепи</Chains.label>.
+<Chains.description>Цепи, що обмежують рухи носія.</Chains.description>
+<Chains.labelNoun>Цепи</Chains.labelNoun>
+<BoundHands.label>Зв'язані руки</BoundHands.label>
+<BoundHands.description>Пальці ледь ворушаться.</BoundHands.description>
+<BoundHands.labelNoun>Зв'язані руки</BoundHands.labelNoun>
+<BoundLegs.label>Зв'язані ноги</BoundLegs.label>
+<BoundLegs.description>Не рухаються.</BoundLegs.description>
+<BoundLegs.labelNoun>Зв'язані ноги</BoundLegs.labelNoun>
+<RJW_Restraints.label>Ремені</RJW_Restraints.label>
+<RJW_Restraints.description>Пара ременів, що обмежує рухи носія.</RJW_Restraints.description>
+<RJW_Restraints.labelNoun>Ремені</RJW_Restraints.labelNoun>
+<!-- insect restraints -->
+<RJW_Cocoon.label>Кокон</RJW_Cocoon.label>
+<RJW_Cocoon.description>Кокон, що обмежує тіло доти, доки воно не буде готове до народження.</RJW_Cocoon.description>
+<RJW_Cocoon.labelNoun>Кокон</RJW_Cocoon.labelNoun>
+</LanguageData>

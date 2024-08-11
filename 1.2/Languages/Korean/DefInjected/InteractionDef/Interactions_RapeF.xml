@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnalRapeF.label>항문</AnalRapeF.label>
+	<AnalRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 항문을 자지에 밀어넣음.</AnalRapeF.logRulesInitiator.rulesStrings.0>
+	<AnalRapeF.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 항문을 능욕당함.</AnalRapeF.logRulesRecipient.rulesStrings.0>
+	<AnalRapeF.modExtensions.0.RMBLabelM>강압적으로 항문 성교를 함.</AnalRapeF.modExtensions.0.RMBLabelM>
+	<AnalRapeF.modExtensions.0.RMBLabelF>강압적으로 항문 성교를 당함.</AnalRapeF.modExtensions.0.RMBLabelF>
+
+	<VaginalRapeF.label>보지</VaginalRapeF.label>
+	<VaginalRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지를 자지에 밀어넣음.</VaginalRapeF.logRulesInitiator.rulesStrings.0>
+	<VaginalRapeF.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 보지를 능욕당함.</VaginalRapeF.logRulesRecipient.rulesStrings.0>
+	<VaginalRapeF.modExtensions.0.RMBLabelM>강압적으로 강간함.</VaginalRapeF.modExtensions.0.RMBLabelM>
+	<VaginalRapeF.modExtensions.0.RMBLabelF>강압적으로 강간당함.</VaginalRapeF.modExtensions.0.RMBLabelF>
+
+	<HandjobRapeF.label>핸드잡</HandjobRapeF.label>
+	<HandjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]가 자지를 손가락으로 비비게 함.</HandjobRapeF.logRulesInitiator.rulesStrings.0>
+	<HandjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]가 자지를 희롱하도록 강요함.</HandjobRapeF.logRulesRecipient.rulesStrings.0>
+	<HandjobRapeF.modExtensions.0.RMBLabelM>강압적으로 손을 놀림.</HandjobRapeF.modExtensions.0.RMBLabelM>
+	<HandjobRapeF.modExtensions.0.RMBLabelF>강압적으로 핸드잡을 당함.</HandjobRapeF.modExtensions.0.RMBLabelF>
+
+	<FootjobRapeF.label>풋잡</FootjobRapeF.label>
+	<FootjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]가 자지를 발가락으로 비비게 함.</FootjobRapeF.logRulesInitiator.rulesStrings.0>
+	<FootjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]가 자지를 희롱하도록 강요함.</FootjobRapeF.logRulesRecipient.rulesStrings.0>
+	<FootjobRapeF.modExtensions.0.RMBLabelM>강압적으로 발을 놀림.</FootjobRapeF.modExtensions.0.RMBLabelM>
+	<FootjobRapeF.modExtensions.0.RMBLabelF>강압적으로 풋잡을 당함.</FootjobRapeF.modExtensions.0.RMBLabelF>
+
+	<FingeringRapeF.label>핑거링</FingeringRapeF.label>
+	<FingeringRapeF.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지를 손가락으로 쑤시도록 강요함.</FingeringRapeF.logRulesInitiator.rulesStrings.0>
+	<FingeringRapeF.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]가 보지를 희롱하도록 강요함.</FingeringRapeF.logRulesRecipient.rulesStrings.0>
+	<FingeringRapeF.modExtensions.0.RMBLabelM>강압적으로 손가락으로 쑤심.</FingeringRapeF.modExtensions.0.RMBLabelM>
+	<FingeringRapeF.modExtensions.0.RMBLabelF>강압적으로 핑거링을 당함.</FingeringRapeF.modExtensions.0.RMBLabelF>
+
+	<FistingRapeF.label>피스팅</FistingRapeF.label>
+	<FistingRapeF.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지를 주먹으로 쑤시도록 강요함.</FistingRapeF.logRulesInitiator.rulesStrings.0>
+	<FistingRapeF.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 보지를 희롱하도록 강요함.</FistingRapeF.logRulesRecipient.rulesStrings.0>
+	<FistingRapeF.modExtensions.0.RMBLabelM>강압적으로 주먹을 쑤심.</FistingRapeF.modExtensions.0.RMBLabelM>
+	<FistingRapeF.modExtensions.0.RMBLabelF>강압적으로 피스팅을 당함.</FistingRapeF.modExtensions.0.RMBLabelF>
+
+	<BreastjobRapeF.label>파이즈리</BreastjobRapeF.label>
+	<BreastjobRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]한테 가슴으로 자지를 비벼짐.</BreastjobRapeF.logRulesInitiator.rulesStrings.0>
+	<BreastjobRapeF.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 자지를 희롱하도록 강요함.</BreastjobRapeF.logRulesRecipient.rulesStrings.0>
+	<BreastjobRapeF.modExtensions.0.RMBLabelM>강압적으로 가슴을 비빔.</BreastjobRapeF.modExtensions.0.RMBLabelM>
+	<BreastjobRapeF.modExtensions.0.RMBLabelF>강압적으로 파이즈리당함.</BreastjobRapeF.modExtensions.0.RMBLabelF>
+
+	<DoublePenetrationRapeF.label>동시 삽입</DoublePenetrationRapeF.label>
+	<DoublePenetrationRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지와 항문을 자지에 꽂아넣음.</DoublePenetrationRapeF.logRulesInitiator.rulesStrings.0>
+	<DoublePenetrationRapeF.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 보지와 항문을 능욕당함.</DoublePenetrationRapeF.logRulesRecipient.rulesStrings.0>
+	<DoublePenetrationRapeF.modExtensions.0.RMBLabelM>강압적으로 양쪽 구멍에 동시 삽입함.</DoublePenetrationRapeF.modExtensions.0.RMBLabelM>
+	<DoublePenetrationRapeF.modExtensions.0.RMBLabelF>강압적으로 양쪽 구멍에 동시 삽입당함.</DoublePenetrationRapeF.modExtensions.0.RMBLabelF>
+
+	<ScissoringRapeF.label>가위치기</ScissoringRapeF.label>
+	<ScissoringRapeF.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 가슴을 가슴으로 부딪침.</ScissoringRapeF.logRulesInitiator.rulesStrings.0>
+	<ScissoringRapeF.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 가슴을 능욕당함.</ScissoringRapeF.logRulesRecipient.rulesStrings.0>
+	<ScissoringRapeF.modExtensions.0.RMBLabelM>강압적으로 가슴을 침.</ScissoringRapeF.modExtensions.0.RMBLabelM>
+	<ScissoringRapeF.modExtensions.0.RMBLabelF>강압적으로 가슴을 들이박힘.</ScissoringRapeF.modExtensions.0.RMBLabelF>
+
+</LanguageData>

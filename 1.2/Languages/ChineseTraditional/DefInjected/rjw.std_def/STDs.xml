@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HIV.label>艾滋病</HIV.label>
+	<HIV.description>艾滋病分為急性艾滋和慢性艾滋，這兩種都遵循同一樣的程序，隨著感染的進度病人的血液過濾能力會下降，急性艾滋發展極快，但可被免疫系統擊敗；而慢性艾滋進展緩慢，但永遠無法治癒，治療只能減緩疾病的進度。</HIV.description>
+
+	<Herpes.label>皰疹</Herpes.label>
+	<Herpes.description>皰疹是一種無法治癒但不致命的疾病，病人的發病部位會感到疼痛和麻癢，治療可以有效地降低疾病的嚴重度。</Herpes.description>
+
+	<Warts.label>菜花病</Warts.label>
+	<Warts.description>菜花病會使得生殖器上生長不雅觀的疣並引起瘙癢和灼燒感，它們很容易治療，並且不會致命。</Warts.description>
+
+	<Syphilis.label>梅毒</Syphilis.label>
+	<Syphilis.description>梅毒是一種嚴重疾病甚至影響神志，如果不及時的治療，會導致情緒問題甚至思想混亂，並且會對大腦，肝臟和腎臟造成永久性的傷害並最終導致死亡，好訊息使它很容易被合適的醫療手段治療。</Syphilis.description>
+
+  <Boobitis.label>乳房機械感染</Boobitis.label>
+  <Boobitis.description>乳房機械感染是一種高度傳染性的機械瘟疫，如果不加以治療，會導致乳房永久生長。它最初是一種無害的閃耀科技「娛樂藥物」但後來發生變異並傳播到每個人類殖民地。</Boobitis.description>
+</LanguageData>

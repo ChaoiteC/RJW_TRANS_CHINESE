@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<ForcedFellatioBreeding.label>Оральне обслуговування</ForcedFellatioBreeding.label>
+<ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Орально трахнув [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+<ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Відсмоктав</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+<RequestBreeding.label>Вагінальний секс</RequestBreeding.label>
+<RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] показує свої принади [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+<RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] бачить кицьку.</RequestBreeding.logRulesRecipient.rulesStrings.0>
+</LanguageData>

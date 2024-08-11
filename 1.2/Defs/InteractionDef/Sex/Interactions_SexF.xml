@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>AnalSexF</defName>
+		<label>anal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Had anal sex with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Had anal sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>start a anal sex</RMBLabelM>
+				<RMBLabelF>ask for anal sex</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Anal</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>AnalSexRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>VaginalSexF</defName>
+		<label>vaginal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Had vaginal sex with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Had vaginal sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>start a vaginal sex</RMBLabelM>
+				<RMBLabelF>ask for vaginal sex</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Vaginal</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>VaginalSexRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>HandjobF</defName>
+		<label>handjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Gave a handjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Received a handjob from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a handjob</RMBLabelM>
+				<RMBLabelF>ask for a handjob</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Handjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>HandjobRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>FootjobF</defName>
+		<label>footjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Gave a footjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Received a footjob from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a footjob</RMBLabelM>
+				<RMBLabelF>ask for a footjob</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Footjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FootjobRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>FingeringF</defName>
+		<label>fingering</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fingered [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was fingered by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a fingering</RMBLabelM>
+				<RMBLabelF>ask for a fingering</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Fingering</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FingeringRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>FistingF</defName>
+		<label>fisting</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fisted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was fisted by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a fisting</RMBLabelM>
+				<RMBLabelF>ask for a fisting</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Fisting</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FistingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>BreastjobF</defName>
+		<label>breastjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Gave a breastjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Received a breastjob from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give a breastjob</RMBLabelM>
+				<RMBLabelF>ask for a breastjob</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Boobjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>BreastjobRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>DoublePenetrationF</defName>
+		<label>double-penetration</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Double-penetrated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was double-penetrated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>start a double-penetration sex</RMBLabelM>
+				<RMBLabelF>ask for a double-penetration sex</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>DoublePenetration</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>DoublePenetrationRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>ScissoringF</defName>
+		<label>scissoring</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Scissored with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Scissored with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>start a scissoring</RMBLabelM>
+				<RMBLabelF>ask for a scissoring</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>Scissoring</rjwSextype>
+				<tags>
+					<li>Vaginal</li>
+				</tags>
+				<i_tags>
+					<li>Vaginal</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>ScissoringRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>MutualMasturbationF</defName>
+		<label>mutual masturbation</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Engaged in mutual masturbation with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Engaged in mutual masturbation with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>start a mutual masturbation</RMBLabelM>
+				<RMBLabelF>ask for a mutual masturbation</RMBLabelF>
+				<sextype1>Normal</sextype1>
+				<rjwSextype>MutualMasturbation</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>MutualMasturbationRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

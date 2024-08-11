@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePregnancy.label>Prüfe Schwangerschaft</DeterminePregnancy.label>
+  <DeterminePregnancy.description>Finde heraus ob ein Kolonist Schwanger ist und ob Komplikationen zu erwarten sind.</DeterminePregnancy.description>
+  <DeterminePregnancy.jobString>Überprüft Schwangerschaft.</DeterminePregnancy.jobString>
+
+
+</LanguageData>

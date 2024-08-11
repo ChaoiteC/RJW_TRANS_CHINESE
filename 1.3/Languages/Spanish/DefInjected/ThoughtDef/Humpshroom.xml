@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.stages.0.label>Me gusta champton</HumpShroomEffect.stages.0.label>
+  <HumpShroomEffect.stages.0.description>Eso sabe raro.</HumpShroomEffect.stages.0.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomWithdrawal.stages.1.label>Abstinencia de Champinton</HumpShroomWithdrawal.stages.1.label>
+  <HumpShroomWithdrawal.stages.1.description>No siento nada ahí abajo.</HumpShroomWithdrawal.stages.1.description>
+
+
+</LanguageData>

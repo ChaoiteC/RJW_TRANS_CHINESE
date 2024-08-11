@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IsWhore.headerTip>Пешка проститутка</IsWhore.headerTip>
+  <IsPrisoner.headerTip>Пешка узник или раб</IsPrisoner.headerTip>
+
+  <WhoreExperience.label>Опыт</WhoreExperience.label>
+  <WhoreExperience.headerTip>опыт проституции</WhoreExperience.headerTip>
+
+  <RoomAdjustmentOfWhore.label>Комната</RoomAdjustmentOfWhore.label>
+  <RoomAdjustmentOfWhore.headerTip>впечатление от комнаты проститутки -&gt; влияет на цену</RoomAdjustmentOfWhore.headerTip>
+
+  <PriceRangeOfWhore.label>Цена</PriceRangeOfWhore.label>
+  <PriceRangeOfWhore.headerTip>Диапазон цен проститутки</PriceRangeOfWhore.headerTip>
+
+  <EarnedMoneyByWhore.label>Заработано</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.headerTip>денег заработано (всего)</EarnedMoneyByWhore.headerTip>
+
+  <CountOfWhore.label>Клиенты</CountOfWhore.label>
+  <CountOfWhore.headerTip>Обслужено клиентов</CountOfWhore.headerTip>
+
+  <AverageMoneyByWhore.label>Среднее</AverageMoneyByWhore.label>
+  <AverageMoneyByWhore.headerTip>Средний заработок</AverageMoneyByWhore.headerTip>
+
+  <Mood.label>Настроение</Mood.label>
+  <Mood.headerTip>Настроение</Mood.headerTip>
+
+
+</LanguageData>

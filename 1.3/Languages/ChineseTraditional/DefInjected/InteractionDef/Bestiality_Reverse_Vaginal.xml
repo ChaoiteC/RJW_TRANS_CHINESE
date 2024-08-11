@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation for breeding -->
+
+  <Bestiality_Reverse_Vaginal.label>動物陰道交配</Bestiality_Reverse_Vaginal.label>
+  <Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->請求和[RECIPIENT_nameDef]交配。</Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->騎著[INITIATOR_nameDef]並插進了陰道。</Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

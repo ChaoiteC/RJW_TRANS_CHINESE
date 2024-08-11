@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Labels -->
+	<RJW_SexGizmo_Orgasm>Orgasmo</RJW_SexGizmo_Orgasm>
+	<RJW_SexGizmo_RestNeed>Aguante</RJW_SexGizmo_RestNeed>
+	<RJW_SexGizmo_SexNeed>Satisfacción</RJW_SexGizmo_SexNeed><!-- ? -->
+	
+	<!-- Buttons -->
+	<RJW_SexGizmo_SexOverdriveTooltip>SexOverdrive: El sexo no terminará hasta que el peón colapse o se interrumpa de otra manera.</RJW_SexGizmo_SexOverdriveTooltip>
+	<RJW_SexGizmo_HitPawn>Golpear una vez.</RJW_SexGizmo_HitPawn>
+	<RJW_SexGizmo_Cocoon>Envuelva el peón en el capullo.</RJW_SexGizmo_Cocoon><!-- ? -->
+	<RJW_SexGizmo_Egg>Rellenar con huevos.</RJW_SexGizmo_Egg><!-- ? -->
+</LanguageData>

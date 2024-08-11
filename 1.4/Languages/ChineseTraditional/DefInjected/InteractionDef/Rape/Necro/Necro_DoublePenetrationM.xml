@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Necro_DoublePenetrationM.label>雙重插入</Necro_DoublePenetrationM.label>
+    <Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry-&gt;雙重插入了[RECIPIENT_nameDef]。</Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+    <Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]雙重插入。</Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+</LanguageData>

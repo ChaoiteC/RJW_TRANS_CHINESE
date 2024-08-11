@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HIV.label>VIH</HIV.label>
+  <HIV.description>El VIH consta de dos partes: una infección aguda y una crónica. Ambas partes siguen el mismo curso, reduciendo la filtración de sangre del peón infectado a medida que aumenta su gravedad. La fase aguda progresa rápidamente pero puede ser combatida por el sistema inmunológico del peón, mientras que la fase crónica progresa muy lentamente pero nunca puede curarse. El tratamiento puede retrasar moderadamente el progreso de la enfermedad.</HIV.description>
+
+  <Herpes.label>herpes</Herpes.label>
+  <Herpes.description>El herpes es una enfermedad incurable pero no mortal. Los peones afectados experimentan dolor y picazón en las partes del cuerpo afectadas. El tratamiento es eficaz para reducir la intensidad de los síntomas..</Herpes.description>
+
+  <Warts.label>verrugas</Warts.label>
+  <Warts.description>Las verrugas genitales son antiestéticas y provocan una sensación de picazón / ardor. Se tratan fácilmente y nunca son fatales.</Warts.description>
+
+  <Syphilis.label>sifilis</Syphilis.label>
+  <Syphilis.description>La sífilis es una enfermedad grave que afecta la mente. Si no se trata, conduce a pensamientos corruptos, problemas de humor, daño potencial permanente al cerebro, hígado y riñones y, en última instancia, a la muerte. La buena noticia es que se vence fácilmente con un tratamiento adecuado.</Syphilis.description>
+
+  <Boobitis.label>senositis</Boobitis.label>
+  <Boobitis.description>La senositis es una plaga mecánica altamente contagiosa que causa el crecimiento permanente de los senos si no se trata. Inicialmente se creó como una "droga de fiesta" inofensiva, pero desde entonces ha mutado y se ha extendido a prácticamente todas las colonias humanas.</Boobitis.description>
+
+
+</LanguageData>

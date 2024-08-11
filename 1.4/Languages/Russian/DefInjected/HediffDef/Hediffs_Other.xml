@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
+
+  <Immunodeficiency.label>Иммунодефицит</Immunodeficiency.label>
+  <Immunodeficiency.description>Высокая восприимчивость к заболеваниям.</Immunodeficiency.description>
+  <Immunodeficiency.stages.0.label>Слабый</Immunodeficiency.stages.0.label>
+  <Immunodeficiency.stages.1.label>Средний</Immunodeficiency.stages.1.label>
+  <Immunodeficiency.stages.2.label>Критический</Immunodeficiency.stages.2.label>
+
+  <VirusPerma.label>Вирусное повреждение</VirusPerma.label>
+  <VirusPerma.description>Вирусное повреждение.</VirusPerma.description>
+  <VirusPerma.injuryProps.destroyedLabel>Уничтожено болезнью</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>Уничтожено болезнью</VirusPerma.injuryProps.destroyedOutLabel>
+
+  <PegArm.label>рука-палка</PegArm.label>
+  <PegArm.description>Обрубок на месте когда-то существовавшей руки.</PegArm.description>
+  <PegArm.labelNoun>рука-палка</PegArm.labelNoun>
+
+
+</LanguageData>

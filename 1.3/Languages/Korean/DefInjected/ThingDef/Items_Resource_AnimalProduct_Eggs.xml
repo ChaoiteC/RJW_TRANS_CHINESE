@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_EggUnfertilized.label>알 (무정란)</RJW_EggUnfertilized.label>
+	<RJW_EggUnfertilized.description>수정되지 않은 알입니다.</RJW_EggUnfertilized.description>
+	<RJW_EggFertilized.label>알 (유정란)</RJW_EggFertilized.label>
+	<RJW_EggFertilized.description>수정된 알 입니다.</RJW_EggFertilized.description>
+
+	<RJW_EggInsectUnfertilized.label>알 (무정란)</RJW_EggInsectUnfertilized.label>
+	<RJW_EggInsectUnfertilized.description>수정되지 않은 곤충의 알입니다.</RJW_EggInsectUnfertilized.description>
+	<RJW_EggInsectFertilized.label>알 (유정란)</RJW_EggInsectFertilized.label>
+	<RJW_EggInsectFertilized.description>수정된 곤충의 알입니다.</RJW_EggInsectFertilized.description>
+
+</LanguageData>

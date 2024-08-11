@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chains.label>cadenas</Chains.label>
+  <Chains.description>Una serie de cadenas que restringen al usuario.</Chains.description>
+  <Chains.labelNoun>cadenas</Chains.labelNoun>
+
+  <BoundHands.label>manos atadas</BoundHands.label>
+  <BoundHands.description>Manos atadas.</BoundHands.description>
+  <BoundHands.labelNoun>manos atadas</BoundHands.labelNoun>
+
+  <BoundLegs.label>piernas atadas</BoundLegs.label>
+  <BoundLegs.description>Piernas atadas.</BoundLegs.description>
+  <BoundLegs.labelNoun>piernas atadas</BoundLegs.labelNoun>
+
+  <RJW_Restraints.label>Restricciones</RJW_Restraints.label>
+  <RJW_Restraints.description>Una série de restricciones.</RJW_Restraints.description>
+  <RJW_Restraints.labelNoun>restricciones</RJW_Restraints.labelNoun>
+
+
+  <!-- insect restraints -->
+
+  <RJW_Cocoon.label>Capullo</RJW_Cocoon.label>
+  <RJW_Cocoon.description>Un capullo que cuida al huesped hasta que esté listo para reproducirse.</RJW_Cocoon.description>
+  <RJW_Cocoon.labelNoun>Un capullo</RJW_Cocoon.labelNoun>
+
+
+</LanguageData>

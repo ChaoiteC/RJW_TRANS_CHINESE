@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
+
+  <Immunodeficiency.label>imunodeficiencia</Immunodeficiency.label>
+  <Immunodeficiency.description>Muy susceptible a las enfermedades.</Immunodeficiency.description>
+  <Immunodeficiency.stages.0.label>leve</Immunodeficiency.stages.0.label>
+  <Immunodeficiency.stages.1.label>grave</Immunodeficiency.stages.1.label>
+  <Immunodeficiency.stages.2.label>extremo</Immunodeficiency.stages.2.label>
+
+  <VirusPerma.label>daño viral</VirusPerma.label>
+  <VirusPerma.description>Daño viral.</VirusPerma.description>
+  <VirusPerma.injuryProps.destroyedLabel>Destruido por enfermedad</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>Destruido por enfermedad</VirusPerma.injuryProps.destroyedOutLabel>
+
+  <PegArm.label>brazo de madera</PegArm.label>
+  <PegArm.description>Un brazo de madera.</PegArm.description>
+  <PegArm.labelNoun>un brazo de madera</PegArm.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Sexuality card-->
+  <SexcardTooltip>Zeige Sexualität</SexcardTooltip>
+  <WhorePrice>Hurenpreis-Bereich: </WhorePrice>
+  <Quirks>Eigenheiten: </Quirks>
+  <NoQuirks>Keine</NoQuirks>
+  <MessyQuirk><!--Schlampig--><![CDATA[
+{pawn} produziert nicht nur eine große Menge an Flüssigkeit während des Verkehrs, {pawn_pronoun} macht hinter sich auch nicht sauber.
+]]></MessyQuirk>
+  <PodophileQuirk><!--Podophil (Fußfetish)--><![CDATA[
+{pawn} mag Füße sehr und bevorzugt Sexakte mit Füßen.
+]]></PodophileQuirk>
+  <TeratophileQuirk><!--Teratophile (Fetisch für Monster und Entstellte)--><![CDATA[
+{pawn} bevorzugt hässliche Sexualpartner. Wenn {pawn} auf Tiere stehen würde, dann würde {pawn_pronoun} auch größere und wildere Tiere wählen.
+]]></TeratophileQuirk>
+  <EndytophileQuirk><!--Endytophile (Sex in Kleidung)--><![CDATA[
+{pawn} bevorzugt {pawn_possessive} Kleidung beim Sex zu anzubehalten.
+]]></EndytophileQuirk>
+  <ExhibitionistQuirk><!--Exhibitionist--><![CDATA[
+{pawn} genießt Sex wenn andere dabei zuschauen.
+]]></ExhibitionistQuirk>
+  <GerontophileQuirk><!--Gerontophil (Anziehung zu Älteren)--><![CDATA[
+{pawn} bevorzugt ältere Partner (55+ in Menschenjahren).
+]]></GerontophileQuirk>
+  <SomnophileQuirk><!--Somnophil (Anziehung zu Schlafenden/Bewusstlosen)--><![CDATA[
+{pawn} bevorzugt Partner die schlafen.
+]]></SomnophileQuirk>
+  <SapiosexualQuirk><!--Sapiophil (Anziehung zu Intelligenz)--><![CDATA[
+{pawn} bevorzugt intelligente Partner.
+]]></SapiosexualQuirk>
+  <FertileQuirk><!--Fruchtbar--><![CDATA[
+{pawn} hat ungewöhnlich hohe Fruchtbarkeit.
+]]></FertileQuirk>
+  <InfertileQuirk><!--Unfruchtbar--><![CDATA[
+{pawn} hat ungewöhnlich geringe Fruchtbarkeit.
+]]></InfertileQuirk>
+  <ImpregnationFetishQuirk><!--Schwängerungsfetisch--><![CDATA[
+{pawn} liebt die Möglichkeit, dass jemand Schwanger werden könnte. {pawn_pronoun} bevorzugt Positionen in denen eine Schwangerschaft entstehen kann.
+]]></ImpregnationFetishQuirk>
+  <PregnancyFetishQuirk><!--Schwangerschaftsfetisch--><![CDATA[
+{pawn} findet sichtbar Schangere anziehend.
+]]></PregnancyFetishQuirk>
+  <IncubatorQuirk><!--Inkubator--><![CDATA[
+{pawn} hat so viele Eier gelegt, dass sich {pawn_possessive} Körper angepasst hat und die Eier nun schneller heranreifen.
+]]></IncubatorQuirk>
+  <BreederQuirk><!--Brüter--><![CDATA[
+{pawn} hat so viele Kinder geboren, dass sich {pawn_possessive} Körper angepasst hat und die Schwangerschaften nun viel schneller verlaufen und mehr Kinder auf einmal geboren werden.
+]]></BreederQuirk>
+  <VigorousQuirk><!--Ausdauernd--><![CDATA[
+{pawn} erholt sich durch Sex und wird dadurch nicht so schnell müde.
+]]></VigorousQuirk>
+  <ChitinLoverQuirk><!--Chitin Liebhaber--><![CDATA[
+{pawn} genießt die glatte Oberfläche eines chitinösen Exoskeletts. {pawn_pronoun} bevorzugt Arachnide oder Insektiode Partner.
+]]></ChitinLoverQuirk>
+  <DemonLoverQuirk><!--Dämonen Liebhaber--><![CDATA[
+{pawn_pronoun} bevorzugt Partner, welche aus den Tiefen der Hölle kommen, oder so aussehen.
+]]></DemonLoverQuirk>
+  <FeatherLoverQuirk><!--Federn Liebhaber--><![CDATA[
+{pawn} liebt flaumige Federkleider. {pawn_pronoun} bevorzugt somit Vögel oder Dinosaurier als Partner.
+]]></FeatherLoverQuirk>
+  <FurLoverQuirk><!--Fell Liebhaber--><![CDATA[
+{pawn} bevorzugt Partner mit dichtem Fell.
+]]></FurLoverQuirk>
+  <PlantLoverQuirk><!--Pflanzen Liebhaber--><![CDATA[
+{pawn} liebt es Pflanzen zu bewässern, wenn du verstehst was ich meine...
+]]></PlantLoverQuirk>
+  <RobotLoverQuirk><!--Roboter Liebhaber--><![CDATA[
+Was ist besser, 2D oder 3D? {pawn} weis dass 3D-Druck das beste aus beiden Welten vereint.
+]]></RobotLoverQuirk>
+  <ScaleLoverQuirk><!--Schuppen Liebhaber--><![CDATA[
+Wer würde nicht einen Drachen ficken? {pawn} will es auf jeden Fall.
+]]></ScaleLoverQuirk>
+  <SkinLoverQuirk><!--Haut Liebhaber--><![CDATA[
+{pawn} bevorzugt {pawn_possessive} Partner welche weiche Haut anstatt Fell oder Schuppen haben. Zum Glück von {pawn_objective} sind Menschen hier überall verbreitet.
+]]></SkinLoverQuirk>
+  <SlimeLoverQuirk><!--Schleim Liebhaber--><![CDATA[
+Wegen ihrer schlüpfrigen und dehnbaren Eigenschaften eignen sich Schleime sehr gut als Sexpartner. Was {pawn} immer wieder beteuert.
+]]></SlimeLoverQuirk>
+  <SexPartWants>Möchte werden: </SexPartWants>
+
+</LanguageData>

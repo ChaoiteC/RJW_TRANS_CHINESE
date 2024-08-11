@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts masturbation -->
+
+  <CountOfFappin.label>Кол-во мастурбаций</CountOfFappin.label>
+  <CountOfFappin.description>Количество мастурбаций без чужой помощи.</CountOfFappin.description>
+
+
+  <!-- Counts all sex excluding masturbation -->
+
+  <CountOfSex.label>Кол-во половых актов</CountOfSex.label>
+  <CountOfSex.description>Сколько раз у меня был секс.</CountOfSex.description>
+
+
+  <!-- Counts all sex + rapes -->
+
+  <CountOfSexWithHumanlikes.label>Секс с человекоподобными</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>Кол-во раз, когда у меня был секс с человекоподобными.</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>Секс с животными</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>Кол-во раз, когда у меня был секс с животными.</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>Секс с насекомыми</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>Кол-во раз, когда у меня был секс с насекомыми.</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>Секс с другими</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>Кол-во раз, когда у меня был секс со странными штуками.</CountOfSexWithOthers.description>
+
+
+  <!-- Counts rapes -->
+
+  <CountOfRapedHumanlikes.label>Изнасиловано человекоподобных</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>Кол-во раз когда я изнасиловал человекоподобных.</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>Изнасиловано животных</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>Кол-во раз когда я изнасиловал животных.</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>Изнасиловано насекомых</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>Кол-во раз когда я изнасиловал насекомых.</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>Изнасиловано других</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>Кол-во раз когда я изнасиловал странные штуки.</CountOfRapedOthers.description>
+
+  <CountOfSexWithCorpse.label>Изнасиловано трупы</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>Кол-во раз когда я изнасиловал трупы.</CountOfSexWithCorpse.description>
+
+  <CountOfBeenRapedByHumanlikes.label>Изнасилован человекоподобными</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>Кол-во раз когда я был изнасилован человекоподобными.</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>Изнасилован животными</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>Кол-во раз когда я был изнасилован животными.</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>Изнасилован насекомыми</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>Кол-во раз когда я был изнасилован насекомыми.</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>Изнасилован другими</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>Кол-во раз когда я был изнасилован странными штуками.</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>Изнасилован as a comfort</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>Кол-во раз когда я был изнасилован с откметкой.</GetRapedAsComfortPrisoner.description>
+
+
+  <!-- Counts whoring stuff -->
+
+  <CountOfWhore.label>Количество занятий проституцией</CountOfWhore.label>
+  <CountOfWhore.description>Кол-во раз когда я занимался проституцией.</CountOfWhore.description>
+
+  <EarnedMoneyByWhore.label>Серебра заработано проституцией</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.description>Кол-во серебра, которое мне удалось выручить за секс.</EarnedMoneyByWhore.description>
+
+
+  <!-- Counts birthing -->
+
+  <CountOfBirthHuman.label>Рождено человекоподобных</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>Как много человекоподобных я родила.</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>Рождено животных</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>Как много животных я родила.</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>Отложено яиц</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>Как много яиц я отложил.</CountOfBirthEgg.description>
+
+  <CountOfCondomsUsed.label>Использовано презервативов</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>Как много презервативов я использовал.</CountOfCondomsUsed.description>
+
+
+</LanguageData>

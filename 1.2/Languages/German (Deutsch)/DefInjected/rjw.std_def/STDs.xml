@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HIV.label>HIV</HIV.label>
+  <HIV.description>HIV hat zwei Stadien der Infektion: akut und chronisch. Beide Stadien verhalten sich gleich und reduzieren die Filtration des Blutes mit zunehmender Stärke. Die akute Phase schreitet rasch voran, kann jedoch vom Immunsystem der Kreatur überwunden werden, während die chronische Phase sehr langsam voranschreitet, jedoch unheilbar ist. Die Behandlung kann das Fortschreiten der Krankheit verlangsamen.</HIV.description>
+
+  <Herpes.label>Herpes</Herpes.label>
+  <Herpes.description>Herpes ist eine unheilbare, aber ziemlich harmlose Krankheit. Betroffene klagen über Schmerzen und Juckreiz an den betroffenen Körperteilen. Die Behandlung reduziert die Intensität der Symptome.</Herpes.description>
+
+  <Warts.label>Warzen</Warts.label>
+  <Warts.description>Genitalwarzen sind unansehnlich und verursachen und jucken und brennen. Sie sind leicht zu behandeln und niemals tödlich.</Warts.description>
+
+  <Syphilis.label>Syphilis</Syphilis.label>
+  <Syphilis.description>Syphilis ist eine schwere Krankheit, die den Geisteszustand beeinträchtigt. Wenn sie nicht behandelt wird führt sie zu verdorbenen Gedanken, Stimmungsproblemen, bis hin zu dauerhaften Schäden an Gehirn, Leber und Nieren und endet letztendlich mit dem Tod. Die gute Nachricht ist, dass sie durch richtige Behandlung leicht zu heilen ist.</Syphilis.description>
+
+  <Boobitis.label>Tittitis</Boobitis.label>
+  <Boobitis.description>Tittitis ist eine hochansteckende Krankheit, welche dauerhaftes anwachsen der Brüste hervorruft.</Boobitis.description>
+
+
+</LanguageData>

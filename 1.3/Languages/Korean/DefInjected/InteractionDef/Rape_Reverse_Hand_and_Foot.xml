@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rape_Reverse_Handjob.label>핸드잡</Rape_Reverse_Handjob.label>
+	<Rape_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 자지를 손으로 희롱함.</Rape_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 자지를 희롱당함.</Rape_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Handjob.modExtensions.0.RMBLabelM>핸드잡을 함.</Rape_Reverse_Handjob.modExtensions.0.RMBLabelM>
+
+	<Rape_Reverse_Fingering.label>핑거링</Rape_Reverse_Fingering.label>
+	<Rape_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 몸을 손가락으로 쑤심.</Rape_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 손가락으로 몸을 능욕당함.</Rape_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Fingering.modExtensions.0.RMBLabel>핑거링을 함.</Rape_Reverse_Fingering.modExtensions.0.RMBLabel>
+
+	<Rape_Reverse_Fisting.label>피스팅</Rape_Reverse_Fisting.label>
+	<Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 항문을 주먹으로 쑤시게 강요함.</Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 항문을 주먹으로 쑤시게 강요당함.</Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Fisting.modExtensions.0.RMBLabel>항문에 주먹이 들어옴.</Rape_Reverse_Fisting.modExtensions.0.RMBLabel>
+
+	<Rape_Reverse_Footjob.label>풋잡</Rape_Reverse_Footjob.label>
+	<Rape_Reverse_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 자지를 발로 희롱함.</Rape_Reverse_Footjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 자지를 발로 능욕당함.</Rape_Reverse_Footjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Footjob.modExtensions.0.RMBLabel>풋잡을 함.</Rape_Reverse_Footjob.modExtensions.0.RMBLabel>
+
+</LanguageData>

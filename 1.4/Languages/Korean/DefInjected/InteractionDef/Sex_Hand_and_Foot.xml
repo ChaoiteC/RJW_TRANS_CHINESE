@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Handjob.label>핸드잡</Sex_Handjob.label>
+	<Sex_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 우악스런 손놀림에 몸을 맡김.</Sex_Handjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->손으로 [INITIATOR_nameDef]의 자지를 애무함.</Sex_Handjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Handjob.modExtensions.0.RMBLabel>손으로 애무당함.</Sex_Handjob.modExtensions.0.RMBLabel>
+
+	<Sex_Footjob.label>풋잡</Sex_Footjob.label>
+	<Sex_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 서툰 발놀림에 몸을 맡김.</Sex_Footjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->발로 [INITIATOR_nameDef]의 성감대를 애무함.</Sex_Footjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Footjob.modExtensions.0.RMBLabel>발로 애무당함.</Sex_Footjob.modExtensions.0.RMBLabel>
+
+	<Sex_Fingering.label>핑거링</Sex_Fingering.label>
+	<Sex_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 섬세한 손놀림에 몸을 맡김.</Sex_Fingering.logRulesInitiator.rulesStrings.0>
+	<Sex_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->손가락으로 [INITIATOR_nameDef]의 성감대를 애무함.</Sex_Fingering.logRulesRecipient.rulesStrings.0>
+	<Sex_Fingering.modExtensions.0.RMBLabel>손가락으로 애무당함.</Sex_Fingering.modExtensions.0.RMBLabel>
+
+	<Sex_Fisting.label>피스팅</Sex_Fisting.label>
+	<Sex_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->아랫배 깊숙히 박힌 [RECIPIENT_nameDef]의 우악스런 손놀림에 몸을 맡김.</Sex_Fisting.logRulesInitiator.rulesStrings.0>
+	<Sex_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->주먹을 [INITIATOR_nameDef]의 항문에 천천히 박아넣음.</Sex_Fisting.logRulesRecipient.rulesStrings.0>
+	<Sex_Fisting.modExtensions.0.RMBLabel>주먹이 몸속으로 들어옴.</Sex_Fisting.modExtensions.0.RMBLabel>
+
+</LanguageData>

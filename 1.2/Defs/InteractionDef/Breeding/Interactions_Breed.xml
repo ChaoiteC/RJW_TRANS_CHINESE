@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<!-- Breeding/rape -->
+	<InteractionDef ParentName="RJW_InteractionDefBaseBestiaity">
+		<defName>AnalBreeding</defName>
+		<label>anal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Mounted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was anally mounted by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed anally</RMBLabelM>
+				<RMBLabelF>request anal breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Anal</rjwSextype>
+				<tags>
+					<li>Anal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+					<li>Breeding</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>AnalBreedingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>VaginalBreeding</defName>
+		<label>vaginal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Mounted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was mounted by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed vaginally</RMBLabelM>
+				<RMBLabelF>request vaginal breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Vaginal</rjwSextype>
+				<tags>
+					<li>Vaginal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+					<li>Breeding</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>VaginalBreedingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>OralBreeding</defName>
+		<label>licking</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Licked [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was licked by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>lick</RMBLabelM>
+				<RMBLabelF>get licked</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Oral</rjwSextype>
+				<tags>
+					<li>Oral</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Oral</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<!-- Another rare one, but needed to get the icons working right. -->
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>FingeringBreeding</defName>
+		<label>fingering</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fingered [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was fingered by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give fingering</RMBLabelM>
+				<RMBLabelF>ask for a fingering</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Fingering</rjwSextype>
+				<tags>
+					<li>Anal</li>
+					<li>Vaginal</li>
+					<li>Handjob</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Handjob</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FingeringRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>ForcedOralBreeding</defName>
+		<label>licking</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forced oral sex from [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forced into giving oral to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>give licking</RMBLabelM>
+				<RMBLabelF>ask for licking</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Oral</rjwSextype>
+				<tags>
+					<li>Oral</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Oral</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

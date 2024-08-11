@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural Penises -->
+
+  <Penis.label>pênis</Penis.label>
+  <Penis.description>Um pênis humanóide. Um membro completamente coberto de pele, exceto pela glande, que é sensível e geralmente fica exposta durante o sexo.</Penis.description>
+
+
+  <!-- Natural Vaginas -->
+
+  <Vagina.label>vagina</Vagina.label>
+  <Vagina.description>Uma vagina humanóide. Os grandes lábios de fora escondem os lábios menores e rosados de dentro. Onde fica o clitóris?</Vagina.description>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>seios</Breasts.label>
+  <Breasts.description>Um par de seios humanóides. São mais volumosos do que o de outros mamíferos.</Breasts.description>
+
+
+  <!-- Natural Anuses -->
+
+  <Anus.label>ânus</Anus.label>
+  <Anus.description>Um ânus.</Anus.description>
+
+  <FeaturelessChest.label>peitos descaracterizados</FeaturelessChest.label>
+  <FeaturelessChest.description>Um peito reto sem mamilos onde deveriam ter.</FeaturelessChest.description>
+
+
+</LanguageData>

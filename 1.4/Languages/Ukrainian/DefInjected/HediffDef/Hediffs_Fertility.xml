@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RJW_IUD.label>Внутрішньоматкова спіраль</RJW_IUD.label>
+<RJW_IUD.description>Маленька металева спіраль, яку поміщають всередину матки, щоб уникнути вагітності.</RJW_IUD.description>
+<IncreasedFertility.label>Підвищена фертильність</IncreasedFertility.label>
+<IncreasedFertility.description>Підвищена фертильність. Пора робити дітей.</IncreasedFertility.description>
+<DecreasedFertility.label>Низька фертильність</DecreasedFertility.label>
+<DecreasedFertility.description>Погано це, чи ні вирішувати вам.</DecreasedFertility.description>
+<ImpregnationBlocker.label>Архо-тек блокіратор</ImpregnationBlocker.label>
+<ImpregnationBlocker.description>Продвинутий пристрій, що блокує виробництво яйцеклітин яєчниками.</ImpregnationBlocker.description>
+<FertilityEnhancer.label>Архо-тек підсилювач фертильності</FertilityEnhancer.label>
+<FertilityEnhancer.description>Продвинутий пристрій, що підвищує шанс вагітності.</FertilityEnhancer.description>
+</LanguageData>

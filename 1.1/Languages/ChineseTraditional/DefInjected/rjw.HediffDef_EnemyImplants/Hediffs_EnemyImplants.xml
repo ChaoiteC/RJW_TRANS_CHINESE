@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
+
+	<Parasite.label>懷孕</Parasite.label>
+  <Parasite.description>生活在寄主體內並以其營養為食的有機體，給寄主帶來嚴重的不適。</Parasite.description>
+	<Parasite.comps.0.discoverLetterLabel>{0}懷孕</Parasite.comps.0.discoverLetterLabel>
+	<Parasite.comps.0.discoverLetterText>{0}懷孕了！</Parasite.comps.0.discoverLetterText>
+	<Parasite.stages.0.label>前期，隱藏</Parasite.stages.0.label>
+	<Parasite.stages.1.label>中期</Parasite.stages.1.label>
+	<Parasite.stages.2.label>後期</Parasite.stages.2.label>
+</LanguageData>

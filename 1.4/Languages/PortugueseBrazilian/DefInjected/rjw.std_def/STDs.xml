@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HIV.label>HIV</HIV.label>
+  <HIV.description>O HIV consiste em duas partes: uma infecção aguda e uma infecção crônica. Ambas as partes seguem o mesmo curso, reduzindo a filtração de sangue do peão infectado conforme sua gravidade aumenta. A fase aguda progride rapidamente, mas pode ser combatida pelo sistema imunológico do colono, enquanto a fase crônica progride muito lentamente, mas nunca pode ser curada. O tratamento pode retardar modestamente o progresso da doença.</HIV.description>
+
+  <Herpes.label>herpes</Herpes.label>
+  <Herpes.description>O herpes é uma doença incurável, mas não fatal. Os colonos afetados sentem dor e coceira nas partes afetadas do corpo. O tratamento é eficaz na redução da intensidade dos sintomas.</Herpes.description>
+
+  <Warts.label>verrugas</Warts.label>
+  <Warts.description>As verrugas genitais são feias e causam uma sensação de coceira / queimação. Eles são facilmente tratados e nunca fatais.</Warts.description>
+
+  <Syphilis.label>sífilis</Syphilis.label>
+  <Syphilis.description>A sífilis é uma doença grave que afeta a mente. Se não for tratada, pode levar a pensamentos corrompidos, problemas de humor, danos permanentes potenciais ao cérebro, fígado e rins e, por fim, à morte. A boa notícia é que ela é facilmente derrotada com um tratamento adequado.</Syphilis.description>
+
+  <Boobitis.label>boobite</Boobitis.label>
+  <Boobitis.description>A boobite é uma praga mecânica altamente contagiosa que causa crescimento permanente dos seios se não for tratada. Ele foi inicialmente criado como uma "droga de festa" inofensiva de tecnologia brilhante, mas desde então sofreu mutação e se espalhou para praticamente todas as colônias humanas.</Boobitis.description>
+
+
+</LanguageData>

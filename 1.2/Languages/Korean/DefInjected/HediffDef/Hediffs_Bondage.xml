@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Chains.label>쇠사슬</Chains.label>
+	<Chains.description>사슬은 착용자에게 제약을 가합니다.</Chains.description>
+	<Chains.labelNoun>사슬</Chains.labelNoun>
+	<BoundHands.label>손 묶기</BoundHands.label>
+	<BoundHands.description>손을 묶습니다.</BoundHands.description>
+	<BoundHands.labelNoun>손 묶기</BoundHands.labelNoun>
+	<BoundLegs.label>다리 묶기</BoundLegs.label>
+	<BoundLegs.description>다리를 묶습니다.</BoundLegs.description>
+	<BoundLegs.labelNoun>다리 묶기</BoundLegs.labelNoun>
+	<RJW_Restraints.label>구속 장치</RJW_Restraints.label>
+	<RJW_Restraints.description>구속 장치입니다.</RJW_Restraints.description>
+	<RJW_Restraints.labelNoun>구속 장치</RJW_Restraints.labelNoun>
+	<RJW_Cocoon.label>고치</RJW_Cocoon.label>
+	<RJW_Cocoon.description>아이가 태어날 때까지 보호하는 고치</RJW_Cocoon.description>
+	<RJW_Cocoon.labelNoun>고치</RJW_Cocoon.labelNoun>
+
+</LanguageData>

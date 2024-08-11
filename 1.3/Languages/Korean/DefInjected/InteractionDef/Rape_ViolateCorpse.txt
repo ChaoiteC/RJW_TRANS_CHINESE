@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Rape_ViolateCorpse.label>시체 능욕</Rape_ViolateCorpse.label>
+	<Rape_ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->식어버린 [RECIPIENT_nameDef]의 몸을 마음껏 능욕함.</Rape_ViolateCorpse.logRulesInitiator.rulesStrings.0>
+	<Rape_ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에 의해 시체조차 능욕당함.</Rape_ViolateCorpse.logRulesRecipient.rulesStrings.0>
+	<Rape_ViolateCorpse.modExtensions.0.RMBLabel>시체를 강간함.</Rape_ViolateCorpse.modExtensions.0.RMBLabel>
+
+</LanguageData>

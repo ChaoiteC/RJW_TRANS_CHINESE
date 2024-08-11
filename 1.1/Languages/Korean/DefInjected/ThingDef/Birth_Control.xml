@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Condom.label>콘돔</Condom.label>
+	<Condom.description>한번의 임신을 예방합니다.</Condom.description>
+
+	<UsedCondom.label>사용한 콘돔</UsedCondom.label>
+	<UsedCondom.description>콘돔이 정액으로 가득합니다.</UsedCondom.description>
+
+</LanguageData>

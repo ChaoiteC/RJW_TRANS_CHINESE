@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<TestInc.label>測試事件</TestInc.label>
+	<TestInc.letterText>什麼事發生了</TestInc.letterText>
+	<TestInc.letterLabel>什麼事發生了</TestInc.letterLabel>
+
+	<TestInc2.label>測試事件2</TestInc2.label>
+	<TestInc2.letterText>什麼事發生了2</TestInc2.letterText>
+	<TestInc2.letterLabel>什麼事發生了2</TestInc2.letterLabel>
+</LanguageData>

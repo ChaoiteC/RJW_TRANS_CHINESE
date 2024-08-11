@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DeterminePregnancy.label>임신 진단</DeterminePregnancy.label>
+	<DeterminePregnancy.description>정착민의 몸 속에 태아가 있는지 확인합니다.</DeterminePregnancy.description>
+	<DeterminePregnancy.jobString>임신 진단 중.</DeterminePregnancy.jobString>
+
+</LanguageData>

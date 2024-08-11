@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Aphrodisiac.label>droga afrodisíaca</Aphrodisiac.label>
+  <Aphrodisiac.description>Uma droga fumável feita com champintón.</Aphrodisiac.description>
+  <Aphrodisiac.ingestible.ingestCommandString>Fumar {0}</Aphrodisiac.ingestible.ingestCommandString>
+  <Aphrodisiac.ingestible.ingestReportString>Fumando {0}.</Aphrodisiac.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHololock.label>Сделать голозамок</MakeHololock.label>
+  <MakeHololock.description>Сделать голозамок.</MakeHololock.description>
+  <MakeHololock.jobString>Делает голозамок.</MakeHololock.jobString>
+
+  <MakePrisonerChains.label>Сделать цепи</MakePrisonerChains.label>
+  <MakePrisonerChains.description>Сделать ограничивающие движения цепи.</MakePrisonerChains.description>
+  <MakePrisonerChains.jobString>Делает цепи.</MakePrisonerChains.jobString>
+
+
+</LanguageData>

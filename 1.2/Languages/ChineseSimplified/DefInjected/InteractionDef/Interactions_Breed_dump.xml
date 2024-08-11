@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ForcedFellatioBreeding.label>骑脸配种</ForcedFellatioBreeding.label>
+	<ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->骑脸插入了[RECIPIENT_nameDef]。</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+	<ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]骑脸狂插了。</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+	<RequestBreeding.label>请求配种</RequestBreeding.label>
+	<RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]被献给了[INITIATOR_nameDef]。</RequestBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被献给[INITIATOR_nameDef]了。</RequestBreeding.logRulesRecipient.rulesStrings.0>
+</LanguageData>

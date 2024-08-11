@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rapist.degreeDatas.0.label>Насильник</Rapist.degreeDatas.0.label>
+  <Rapist.degreeDatas.0.description>[PAWN_nameDef] никогда не волнуется о согласии партнёра.</Rapist.degreeDatas.0.description>
+
+  <Necrophiliac.degreeDatas.0.label>Некрофил</Necrophiliac.degreeDatas.0.label>
+  <Necrophiliac.degreeDatas.0.description>Мертвые же не могут отказать, да?</Necrophiliac.degreeDatas.0.description>
+
+  <Zoophile.degreeDatas.0.label>Зоофил</Zoophile.degreeDatas.0.label>
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef] близко дружит с животными.</Zoophile.degreeDatas.0.description>
+
+
+</LanguageData>

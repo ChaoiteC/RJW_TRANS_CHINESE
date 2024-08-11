@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- left for save compatibility(for now), use glowy ones -->
+
+  <RJW_EggUnfertilized.label>ovo (não fertilizado)</RJW_EggUnfertilized.label>
+  <RJW_EggUnfertilized.description>Um ovo não fertilizado.</RJW_EggUnfertilized.description>
+
+  <RJW_EggFertilized.label>ovo (fertilizado)</RJW_EggFertilized.label>
+  <RJW_EggFertilized.description>Um ovo fertilizado.</RJW_EggFertilized.description>
+
+
+  <!-- Insect eggs / enemy implant -->
+
+  <RJW_EggInsectUnfertilized.label>ovo (não fertilizado)</RJW_EggInsectUnfertilized.label>
+  <RJW_EggInsectUnfertilized.description>Um ovo de inseto não fertilizado.</RJW_EggInsectUnfertilized.description>
+
+  <RJW_EggInsectFertilized.label>ovo (fertilizado)</RJW_EggInsectFertilized.label>
+  <RJW_EggInsectFertilized.description>Ovo fertilizado de um inseto.</RJW_EggInsectFertilized.description>
+
+
+</LanguageData>

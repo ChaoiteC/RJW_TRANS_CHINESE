@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--삽입-->
+	<Rape_Reverse_Anal.label>항문 강간</Rape_Reverse_Anal.label>
+	<Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 항문을 겁탈함.</Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 항문을 능욕당함.</Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Anal.modExtensions.0.RMBLabel>항문 위에 올라탐.</Rape_Reverse_Anal.modExtensions.0.RMBLabel>
+	
+	<Rape_Reverse_Vaginal.label>보지 강간</Rape_Reverse_Vaginal.label>
+	<Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지를 겁탈함.</Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지를 능욕당함.</Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Vaginal.modExtensions.0.RMBLabelM>보지 위에 올라탐.</Rape_Reverse_Vaginal.modExtensions.0.RMBLabelM>
+	
+	<Rape_Reverse_DoublePenetration.label>동시 삽입 강간</Rape_Reverse_DoublePenetration.label>
+	<Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지와 항문이 자지로 능욕당함.</Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지와 항문을 능욕하게 함.</Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabelM>양쪽 구멍에 동시 삽입당함.</Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabelM>
+	<Rape_Reverse_DoublePenetrationM.label>동시 삽입 강간</Rape_Reverse_DoublePenetrationM.label>
+	<Rape_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 자지와 항문이 능욕당함.</Rape_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 자지와 항문을 능욕하게 함.</Rape_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_DoublePenetrationM.modExtensions.0.RMBLabelM>양쪽 구멍에 동시 삽입당함.</Rape_Reverse_DoublePenetrationM.modExtensions.0.RMBLabelM>
+
+	<!--가슴-->
+	<Rape_Reverse_Breastjob.label>파이즈리</Rape_Reverse_Breastjob.label>
+	<Rape_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 자지를 가슴에 끼우고 비빔.</Rape_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 자지를 가슴으로 능욕당함.</Rape_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Breastjob.modExtensions.0.RMBLabel>파이즈리를 함.</Rape_Reverse_Breastjob.modExtensions.0.RMBLabel>
+	
+	<Rape_Reverse_Scissoring.label>가위치기</Rape_Reverse_Scissoring.label>
+	<Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 가슴을 가슴으로 부딪침.</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 가슴을 능욕당함.</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>가위치기함.</Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>
+
+</LanguageData>

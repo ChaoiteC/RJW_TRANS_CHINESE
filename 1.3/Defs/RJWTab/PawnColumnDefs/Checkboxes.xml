@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<PawnColumnDef>
+		<defName>RJW_Hero</defName>
+		<headerTip>Designate pawn as Hero, hero can be directly ordered to do loving with other pawns</headerTip>
+		<headerIcon>UI/Commands/Hero_off</headerIcon>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_Hero</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	<PawnColumnDef>
+		<defName>RJW_Comfort</defName>
+		<headerTip>Designate pawn as Comfort pawn, pawn will be used to relief pent up sex need</headerTip>
+		<headerIcon>UI/Commands/ComfortPrisoner_off</headerIcon>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_Comfort</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	<PawnColumnDef>
+		<defName>RJW_BreedHumanlike</defName>
+		<headerTip>Designate pawn for breeding, colony animals will try to breed this pawn</headerTip>
+		<headerIcon>UI/Commands/Breeding_Pawn_off</headerIcon>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_BreedHumanlike</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	
+ 	<PawnColumnDef>
+		<defName>RJW_BreederAnimal</defName>
+		<headerTip>Designate pawn as breeder, these animals will try to breed pawns desiganted for breeding</headerTip>
+		<headerIcon>UI/Commands/Breeder_Animal_off</headerIcon>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_BreederAnimal</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	<PawnColumnDef>
+		<defName>RJW_BreedAnimal</defName>
+		<headerTip>Designate pawn for breeding, colony animals will try to breed this pawn</headerTip>
+		<headerIcon>UI/Commands/Breeding_Animal_off</headerIcon>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_BreedAnimal</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+	</PawnColumnDef>
+	
+	<PawnColumnDef>
+		<defName>RJW_Whore</defName>
+		<headerTip>Designate pawn as Whore, whores provide service to guests for silver</headerTip>
+		<workerClass>rjw.MainTab.Checkbox.PawnColumnWorker_Whore</workerClass>
+		<sortable>true</sortable>
+		<width>80</width>
+		<headerIcon>UI/Commands/Service_off</headerIcon>
+	</PawnColumnDef>
+</Defs>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>Член-деревяшка</PegDick.label>
+  <PegDick.labelNoun>член-деревяшка</PegDick.labelNoun>
+  <PegDick.description>Отдалённо напоминающий член кусок дерева.</PegDick.description>
+  <PegDick.stages.0.label>Микро</PegDick.stages.0.label>
+  <PegDick.stages.1.label>Маленький</PegDick.stages.1.label>
+  <PegDick.stages.2.label>Обычный</PegDick.stages.2.label>
+  <PegDick.stages.3.label>Большой</PegDick.stages.3.label>
+  <PegDick.stages.4.label>Огромный</PegDick.stages.4.label>
+  <PegDick.stages.5.label>Гигантский</PegDick.stages.5.label>
+
+  <HydraulicPenis.label>Гидравлический пенис</HydraulicPenis.label>
+  <HydraulicPenis.labelNoun>гидравлический пенис</HydraulicPenis.labelNoun>
+  <HydraulicPenis.description>Отдалённое подобие пениса, способное увеличиваться за счёт гидравлики.</HydraulicPenis.description>
+  <HydraulicPenis.stages.0.label>Микро</HydraulicPenis.stages.0.label>
+  <HydraulicPenis.stages.1.label>Маленький</HydraulicPenis.stages.1.label>
+  <HydraulicPenis.stages.2.label>Обычный</HydraulicPenis.stages.2.label>
+  <HydraulicPenis.stages.3.label>Большой</HydraulicPenis.stages.3.label>
+  <HydraulicPenis.stages.4.label>Огромный</HydraulicPenis.stages.4.label>
+  <HydraulicPenis.stages.5.label>Гигантский</HydraulicPenis.stages.5.label>
+
+  <HydraulicVagina.label>Гидравлическая вагина</HydraulicVagina.label>
+  <HydraulicVagina.labelNoun>гидравлическая вагина</HydraulicVagina.labelNoun>
+  <HydraulicVagina.description>Она использует простую гидравлику, чтобы хотя бы немного приблизится к возможностям настоящей.</HydraulicVagina.description>
+  <HydraulicVagina.stages.0.label>Микро</HydraulicVagina.stages.0.label>
+  <HydraulicVagina.stages.1.label>Узкая</HydraulicVagina.stages.1.label>
+  <HydraulicVagina.stages.2.label>Обычная</HydraulicVagina.stages.2.label>
+  <HydraulicVagina.stages.3.label>Вместительная</HydraulicVagina.stages.3.label>
+  <HydraulicVagina.stages.4.label>Пещера</HydraulicVagina.stages.4.label>
+  <HydraulicVagina.stages.5.label>Бездна</HydraulicVagina.stages.5.label>
+
+  <HydraulicAnus.label>Гидравлический анус</HydraulicAnus.label>
+  <HydraulicAnus.labelNoun>гидравлический анус</HydraulicAnus.labelNoun>
+  <HydraulicAnus.description>Анус, использующий гидравлику для симуляции способностей настоящего.</HydraulicAnus.description>
+  <HydraulicAnus.stages.0.label>Микро</HydraulicAnus.stages.0.label>
+  <HydraulicAnus.stages.1.label>Узкий</HydraulicAnus.stages.1.label>
+  <HydraulicAnus.stages.2.label>Обычный</HydraulicAnus.stages.2.label>
+  <HydraulicAnus.stages.3.label>Вместительный</HydraulicAnus.stages.3.label>
+  <HydraulicAnus.stages.4.label>Пещера</HydraulicAnus.stages.4.label>
+  <HydraulicAnus.stages.5.label>Бездна</HydraulicAnus.stages.5.label>
+
+  <HydraulicBreasts.label>Гидравлическая грудь</HydraulicBreasts.label>
+  <HydraulicBreasts.labelNoun>гидравлическая грудь</HydraulicBreasts.labelNoun>
+  <HydraulicBreasts.description>Очевидно ненастоящие импланты.</HydraulicBreasts.description>
+  <HydraulicBreasts.stages.0.label>Соски</HydraulicBreasts.stages.0.label>
+  <HydraulicBreasts.stages.1.label>Плоская</HydraulicBreasts.stages.1.label>
+  <HydraulicBreasts.stages.2.label>Маленькая</HydraulicBreasts.stages.2.label>
+  <HydraulicBreasts.stages.3.label>Обычная</HydraulicBreasts.stages.3.label>
+  <HydraulicBreasts.stages.4.label>Большая</HydraulicBreasts.stages.4.label>
+  <HydraulicBreasts.stages.5.label>Огромная</HydraulicBreasts.stages.5.label>
+  <HydraulicBreasts.stages.6.label>Больше нормы</HydraulicBreasts.stages.6.label>
+  <HydraulicBreasts.stages.7.label>Массивная</HydraulicBreasts.stages.7.label>
+  <HydraulicBreasts.stages.8.label>Гигантская</HydraulicBreasts.stages.8.label>
+  <HydraulicBreasts.stages.9.label>Колоссальная</HydraulicBreasts.stages.9.label>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>Бионический пенис</BionicPenis.label>
+  <BionicPenis.labelNoun>бионический пенис</BionicPenis.labelNoun>
+  <BionicPenis.description>Продвинутый искусственный пенис. Он использует прекрасно откалиброванные сенсоры давления
+и PID регуляцию для анализа сокращений мышц партнёра. Он может менять длину и толщину, а также вибрировать. 
+to adapt to its lover's preferences.</BionicPenis.description>
+  <BionicPenis.stages.0.label>Микро</BionicPenis.stages.0.label>
+  <BionicPenis.stages.1.label>Маленький</BionicPenis.stages.1.label>
+  <BionicPenis.stages.2.label>Обычный</BionicPenis.stages.2.label>
+  <BionicPenis.stages.3.label>Большой</BionicPenis.stages.3.label>
+  <BionicPenis.stages.4.label>Огромный</BionicPenis.stages.4.label>
+  <BionicPenis.stages.5.label>Гигантский</BionicPenis.stages.5.label>
+
+  <BionicVagina.label>Бионическая вагина</BionicVagina.label>
+  <BionicVagina.labelNoun>бионическая вагина</BionicVagina.labelNoun>
+  <BionicVagina.description>Продвинутая искусственная вагина. Она использует внутренние сенсоры давления для того чтобы подстроиться под размеры и скорость партнёра.
+  Автоматически выделяет смазку желаемой консистенции</BionicVagina.description>
+  <BionicVagina.stages.0.label>Микро</BionicVagina.stages.0.label>
+  <BionicVagina.stages.1.label>Узкая</BionicVagina.stages.1.label>
+  <BionicVagina.stages.2.label>Обычная</BionicVagina.stages.2.label>
+  <BionicVagina.stages.3.label>Вместительная</BionicVagina.stages.3.label>
+  <BionicVagina.stages.4.label>Пещера</BionicVagina.stages.4.label>
+  <BionicVagina.stages.5.label>Бездна</BionicVagina.stages.5.label>
+
+  <BionicAnus.label>Бионический анус</BionicAnus.label>
+  <BionicAnus.labelNoun>бионический анус</BionicAnus.labelNoun>
+  <BionicAnus.description>Продвинутый искусственный анус. Он использует внутренние сенсоры давления для того чтобы подстроиться под размеры и скорость партнёра.
+ Автоматически выделяет смазку желаемой консистенции</BionicAnus.description>
+  <BionicAnus.stages.0.label>Микро</BionicAnus.stages.0.label>
+  <BionicAnus.stages.1.label>Узкий</BionicAnus.stages.1.label>
+  <BionicAnus.stages.2.label>Обычный</BionicAnus.stages.2.label>
+  <BionicAnus.stages.3.label>Вместительный</BionicAnus.stages.3.label>
+  <BionicAnus.stages.4.label>Пещера</BionicAnus.stages.4.label>
+  <BionicAnus.stages.5.label>Бездна</BionicAnus.stages.5.label>
+
+  <BionicBreasts.label>Бионическая грудь</BionicBreasts.label>
+  <BionicBreasts.labelNoun>бионическая грудь</BionicBreasts.labelNoun>
+  <BionicBreasts.description>Продвинутая искусственная грудь. Она способна менять размеры по желанию пользователя,
+  а так же симулировать лактацию</BionicBreasts.description>
+  <BionicBreasts.stages.0.label>Соски</BionicBreasts.stages.0.label>
+  <BionicBreasts.stages.1.label>Плоская</BionicBreasts.stages.1.label>
+  <BionicBreasts.stages.2.label>Маленькая</BionicBreasts.stages.2.label>
+  <BionicBreasts.stages.3.label>Обычная</BionicBreasts.stages.3.label>
+  <BionicBreasts.stages.4.label>Большая</BionicBreasts.stages.4.label>
+  <BionicBreasts.stages.5.label>Огромная</BionicBreasts.stages.5.label>
+  <BionicBreasts.stages.6.label>Больше нормы</BionicBreasts.stages.6.label>
+  <BionicBreasts.stages.7.label>Массивная</BionicBreasts.stages.7.label>
+  <BionicBreasts.stages.8.label>Гигантская</BionicBreasts.stages.8.label>
+  <BionicBreasts.stages.9.label>Колоссальная</BionicBreasts.stages.9.label>
+
+
+  <!-- Archotech -->
+
+  <ArchotechPenis.label>Архотек пенис</ArchotechPenis.label>
+  <ArchotechPenis.description>Искусственный пенис, созданный по новейшим технологиям и способный доставить максимальное удовольствие обоим партнёрам.</ArchotechPenis.description>
+  <ArchotechPenis.stages.0.label>Микро</ArchotechPenis.stages.0.label>
+  <ArchotechPenis.stages.1.label>Маленький</ArchotechPenis.stages.1.label>
+  <ArchotechPenis.stages.2.label>Обычный</ArchotechPenis.stages.2.label>
+  <ArchotechPenis.stages.3.label>Большой</ArchotechPenis.stages.3.label>
+  <ArchotechPenis.stages.4.label>Огромный</ArchotechPenis.stages.4.label>
+  <ArchotechPenis.stages.5.label>Гигантский</ArchotechPenis.stages.5.label>
+
+  <ArchotechVagina.label>Архотек вагина</ArchotechVagina.label>
+  <ArchotechVagina.description>Искусственная вагина, созданная по новейшим технологиям и способная доставить максимальное удовольствие обоим партнёрам.</ArchotechVagina.description>
+  <ArchotechVagina.stages.0.label>Микро</ArchotechVagina.stages.0.label>
+  <ArchotechVagina.stages.1.label>Узкая</ArchotechVagina.stages.1.label>
+  <ArchotechVagina.stages.2.label>Обычная</ArchotechVagina.stages.2.label>
+  <ArchotechVagina.stages.3.label>Вместительная</ArchotechVagina.stages.3.label>
+  <ArchotechVagina.stages.4.label>Пещера</ArchotechVagina.stages.4.label>
+  <ArchotechVagina.stages.5.label>Бездна</ArchotechVagina.stages.5.label>
+
+  <ArchotechAnus.label>Архотек анус</ArchotechAnus.label>
+  <ArchotechAnus.description>Искусственный анус, созданный по новейшим технологиям и способный доставить максимальное удовольствие обоим партнёрам.</ArchotechAnus.description>
+  <ArchotechAnus.stages.0.label>Микро</ArchotechAnus.stages.0.label>
+  <ArchotechAnus.stages.1.label>Tight</ArchotechAnus.stages.1.label>
+  <ArchotechAnus.stages.2.label>Average</ArchotechAnus.stages.2.label>
+  <ArchotechAnus.stages.3.label>Accomodating</ArchotechAnus.stages.3.label>
+  <ArchotechAnus.stages.4.label>Пещера</ArchotechAnus.stages.4.label>
+  <ArchotechAnus.stages.5.label>Бездна</ArchotechAnus.stages.5.label>
+
+  <ArchotechBreasts.label>Архотек грудь</ArchotechBreasts.label>
+  <ArchotechBreasts.description>Искусственная грудь, созданная по новейшим технологиям и способная принимать любые желаемые формы.</ArchotechBreasts.description>
+  <ArchotechBreasts.stages.0.label>Соски</ArchotechBreasts.stages.0.label>
+  <ArchotechBreasts.stages.1.label>Плоская</ArchotechBreasts.stages.1.label>
+  <ArchotechBreasts.stages.2.label>Маленькая</ArchotechBreasts.stages.2.label>
+  <ArchotechBreasts.stages.3.label>Обычная</ArchotechBreasts.stages.3.label>
+  <ArchotechBreasts.stages.4.label>Большая</ArchotechBreasts.stages.4.label>
+  <ArchotechBreasts.stages.5.label>Огромная</ArchotechBreasts.stages.5.label>
+  <ArchotechBreasts.stages.6.label>Больше нормы</ArchotechBreasts.stages.6.label>
+  <ArchotechBreasts.stages.7.label>Массивная</ArchotechBreasts.stages.7.label>
+  <ArchotechBreasts.stages.8.label>Гигантская</ArchotechBreasts.stages.8.label>
+  <ArchotechBreasts.stages.9.label>Колоссальная</ArchotechBreasts.stages.9.label>
+
+
+</LanguageData>

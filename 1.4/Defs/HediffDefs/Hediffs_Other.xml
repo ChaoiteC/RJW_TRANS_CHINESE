@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HediffDef ParentName="AddedBodyPartBase">
+		<defName>PegArm</defName>
+		<label>peg arm</label>
+		<labelNoun>a peg arm</labelNoun>
+		<description>A peg arm.</description>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>0.00</partEfficiency>
+			<betterThanNatural>false</betterThanNatural>
+		</addedPartProps>
+		<spawnThingOnRemoved>WoodLog</spawnThingOnRemoved>
+	</HediffDef>
+</Defs>

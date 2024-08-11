@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- this needs custom class for x10, fuck it -->
+
+  <RemoveUnknownEgg.label>quitar huevos</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>Retire los huevos.</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>Retirarando huevos.</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>quitar huevos</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>Retire los huevos.</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>Retirarando huevos.</RemoveInsectHiveEgg.jobString>
+
+  <RemoveMicroComputer.label>quitar microcomputador</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Retire microcomputador.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Retirando microcomputador.</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>quitar restricciones</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Retire restricciones.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Retirando restricciones.</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>quitar capullo</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Retire capullo.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Retirando capullo.</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

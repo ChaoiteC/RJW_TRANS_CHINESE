@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ItchyCrotch.stages.0.label>下體發癢</ItchyCrotch.stages.0.label>
+	<ItchyCrotch.stages.0.description>我想沒人在看。那我稍稍……</ItchyCrotch.stages.0.description>
+	<ItchyCrotch.stages.1.label>下體瘙癢</ItchyCrotch.stages.1.label>
+	<ItchyCrotch.stages.1.description>最糟糕的是：我撓得越多，灼燒感越強。</ItchyCrotch.stages.1.description>
+
+	<SyphiliticThoughts.stages.0.label>得了梅毒</SyphiliticThoughts.stages.0.label>
+	<SyphiliticThoughts.stages.0.description>所有人都是那麼的愚蠢，什麼事都是那麼的煩人。至於我，我只是沒有清晰的思維。</SyphiliticThoughts.stages.0.description>
+	<SyphiliticThoughts.stages.1.label>得了梅毒（意識恍惚）</SyphiliticThoughts.stages.1.label>
+	<SyphiliticThoughts.stages.1.description>OK，我需要的是……呃……？我又在做什麼？哦，這事兒。這該死的該死的混賬天殺的垃圾。</SyphiliticThoughts.stages.1.description>
+
+	<WastingAway.stages.0.label>日漸消瘦</WastingAway.stages.0.label>
+	<WastingAway.stages.0.description>我每天都感覺比之前更虛弱。我能感覺到我的生命慢慢地流逝。</WastingAway.stages.0.description>
+
+	<SawDiseasedPrivates1.stages.0.label>在{0}的襠部看到一個醜陋的皮疹</SawDiseasedPrivates1.stages.0.label>
+	<SawDiseasedPrivates2.stages.0.label>在{0}的襠部看到了噁心的疣</SawDiseasedPrivates2.stages.0.label>
+	<SawDiseasedPrivates3.stages.0.label>看到{0}患病的襠部</SawDiseasedPrivates3.stages.0.label>
+</LanguageData>

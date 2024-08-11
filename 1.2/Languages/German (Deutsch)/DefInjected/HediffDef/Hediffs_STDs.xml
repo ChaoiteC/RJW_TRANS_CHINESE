@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AcuteHIV.label>HIV (Akut)</AcuteHIV.label>
+  <AcuteHIV.description>Das Menschliche Immunschwäche-Virus verbreitet sich durch sexuellen Kontakt.</AcuteHIV.description>
+  <AcuteHIV.stages.0.label>Bemerkbar</AcuteHIV.stages.0.label>
+  <AcuteHIV.stages.1.label>Schwach</AcuteHIV.stages.1.label>
+  <AcuteHIV.stages.2.label>Schwach</AcuteHIV.stages.2.label>
+  <AcuteHIV.stages.3.label>Leicht</AcuteHIV.stages.3.label>
+  <AcuteHIV.stages.4.label>Mittel</AcuteHIV.stages.4.label>
+  <AcuteHIV.stages.5.label>Stark</AcuteHIV.stages.5.label>
+  <AcuteHIV.stages.6.label>Stark</AcuteHIV.stages.6.label>
+  <AcuteHIV.stages.7.label>Kritisch</AcuteHIV.stages.7.label>
+  <AcuteHIV.stages.8.label>Gefährlich</AcuteHIV.stages.8.label>
+  <AcuteHIV.stages.9.label>Tödlich</AcuteHIV.stages.9.label>
+
+  <ChronicHIV.label>HIV (Chronisch)</ChronicHIV.label>
+  <ChronicHIV.description>Das Menschliche Immunschwäche-Virus verbreitet sich durch sexuellen Kontakt.</ChronicHIV.description>
+  <ChronicHIV.stages.0.label>Bemerkbar</ChronicHIV.stages.0.label>
+  <ChronicHIV.stages.1.label>Schwach</ChronicHIV.stages.1.label>
+  <ChronicHIV.stages.2.label>Schwach</ChronicHIV.stages.2.label>
+  <ChronicHIV.stages.3.label>Leicht</ChronicHIV.stages.3.label>
+  <ChronicHIV.stages.4.label>Mittel</ChronicHIV.stages.4.label>
+  <ChronicHIV.stages.5.label>Stark</ChronicHIV.stages.5.label>
+  <ChronicHIV.stages.6.label>Stark</ChronicHIV.stages.6.label>
+  <ChronicHIV.stages.7.label>Kritisch</ChronicHIV.stages.7.label>
+  <ChronicHIV.stages.8.label>Gefährlich</ChronicHIV.stages.8.label>
+  <ChronicHIV.stages.9.label>Tödlich</ChronicHIV.stages.9.label>
+
+  <Herpes.label>Herpes</Herpes.label>
+  <Herpes.description>Entzündungen im Genitalbereich welche durch sexuallen Kontakt verbreitet werden.</Herpes.description>
+  <Herpes.stages.0.label>Schwach</Herpes.stages.0.label>
+  <Herpes.stages.1.label>Mittel</Herpes.stages.1.label>
+  <Herpes.stages.2.label>Stark</Herpes.stages.2.label>
+
+  <Warts.label>Warzen</Warts.label>
+  <Warts.description>Warzen im Genitalbereich welche durch sexuellen Kontakt verbreitet werden.</Warts.description>
+  <Warts.stages.0.label>Schwach</Warts.stages.0.label>
+  <Warts.stages.1.label>Stark</Warts.stages.1.label>
+
+  <Syphilis.description>Eine bakterielle Infektion welche durch sexuallen Kontakt verbreitet wird.</Syphilis.description>
+  <Syphilis.label>Syphilis</Syphilis.label>
+  <Syphilis.stages.0.label>Schwach</Syphilis.stages.0.label>
+  <Syphilis.stages.1.label>Mittel</Syphilis.stages.1.label>
+  <Syphilis.stages.2.label>Stark</Syphilis.stages.2.label>
+  <Syphilis.stages.3.label>Gefährlich</Syphilis.stages.3.label>
+  <Syphilis.stages.4.label>Kritisch</Syphilis.stages.4.label>
+  <Syphilis.stages.5.label>Tödlich</Syphilis.stages.5.label>
+
+  <Boobitis.label>Tittitis</Boobitis.label>
+  <Boobitis.description>Tittitis ist eine hochansteckende Krankheit, welche zu permanentem anwachsen der Brüste führt, solange unbehandelt. Es wurde ursprünglich als eine harmlose glittertech party Droge entwickelt, aber ist inzwischen mutiert und hat sich fast jeder menschlichen Kolonie verbreitet.</Boobitis.description>
+  <Boobitis.stages.0.label>Leichte Schwellung</Boobitis.stages.0.label>
+  <Boobitis.stages.1.label>Bemerkbare Schwellung</Boobitis.stages.1.label>
+  <Boobitis.stages.2.label>Starke Schwellung</Boobitis.stages.2.label>
+
+
+</LanguageData>

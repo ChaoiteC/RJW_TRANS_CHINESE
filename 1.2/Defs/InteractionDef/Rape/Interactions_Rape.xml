@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>AnalRape</defName>
+		<label>anal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Raped anally [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was anally raped by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully have anal sex</RMBLabelM>
+				<RMBLabelF>forcefully receive anal sex</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Anal</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>AnalRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>VaginalRape</defName>
+		<label>vaginal</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Raped vaginally [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was vaginally raped by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully have vaginal sex</RMBLabelM>
+				<RMBLabelF>forcefully receive vaginal sex</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Vaginal</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>VaginalRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>HandjobRape</defName>
+		<label>handjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully jerked off [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly jerked off by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give a handjob</RMBLabelM>
+				<RMBLabelF>forcefully receive a handjob</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Handjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>HandjobRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>FootjobRape</defName>
+		<label>footjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully gave a footjo to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly given a footjob by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give a footjob</RMBLabelM>
+				<RMBLabelF>forcefully receive a footjob</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Footjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FootjobRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>FingeringRape</defName>
+		<label>fingering</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully fingered [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly fingered by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give fingering</RMBLabelM>
+				<RMBLabelF>forcefully receive fingering</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Fingering</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FingeringRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>FistingRape</defName>
+		<label>fisting</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully fisted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly fisted by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give a fisting</RMBLabelM>
+				<RMBLabelF>forcefully receive a fisting</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Fisting</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>FistingRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>BreastjobRape</defName>
+		<label>breastjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully gave a breastjob to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly given a breastjob by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give a breastjob</RMBLabelM>
+				<RMBLabelF>forcefully receive a breastjob</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Boobjob</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>DoublePenetrationRape</defName>
+		<label>double-penetration</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Double-penetrated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was double-penetrated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give double-penetration</RMBLabelM>
+				<RMBLabelF>forcefully receive double-penetration</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>DoublePenetration</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>DoubleRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>ScissoringRape</defName>
+		<label>scissoring</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully scissored [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forcibly scissored with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>forcefully give scissoring</RMBLabelM>
+				<RMBLabelF>forcefully receive scissoring</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Scissoring</rjwSextype>
+				<tags>
+					<li>Vaginal</li>
+				</tags>
+				<i_tags>
+					<li>Vaginal</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>ScissoringRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+	
+	<!-- weird stuff -->
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>ViolateCorpse</defName>
+		<label>violate corpse</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Violated [RECIPIENT_nameDef]'s corpse.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was violated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>violate corpse</RMBLabelM>
+				<RMBLabelF>f violate corpse</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>None</rjwSextype><!-- hardcoded, overrides dead pawns-->
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<!--<li>ViolateCorpseRP</li>-->
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>MechImplant</defName>
+		<label>mechanoid implanting</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Assaulted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was violated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>implant chip</RMBLabelM>
+				<RMBLabelF>ask for implant chip</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>MechImplant</rjwSextype><!-- hardcoded, overrides mech pawns-->
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>MechImplantingRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>OtherRape</defName>
+		<label>rape</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Raped [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was raped by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>rape</RMBLabelM>
+				<RMBLabelF>f rape</RMBLabelF>
+				<sextype1>Rape</sextype1>
+				<rjwSextype>Oral</rjwSextype>
+				<tags>
+					<li>Oral</li>
+				</tags>
+				<i_tags>
+					<li>Oral</li>
+				</i_tags>
+				<r_tags>
+					<li>Anal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

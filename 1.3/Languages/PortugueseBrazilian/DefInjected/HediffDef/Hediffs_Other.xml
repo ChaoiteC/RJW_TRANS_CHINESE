@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
+
+  <Immunodeficiency.label>imunodeficiência</Immunodeficiency.label>
+  <Immunodeficiency.description>Muito suscetivel à doenças.</Immunodeficiency.description>
+  <Immunodeficiency.stages.0.label>leve</Immunodeficiency.stages.0.label>
+  <Immunodeficiency.stages.1.label>grave</Immunodeficiency.stages.1.label>
+  <Immunodeficiency.stages.2.label>extremo</Immunodeficiency.stages.2.label>
+
+  <VirusPerma.label>dano viral</VirusPerma.label>
+  <VirusPerma.description>Dano viral.</VirusPerma.description>
+  <VirusPerma.injuryProps.destroyedLabel>Destruido por doença</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>Destruido por doença</VirusPerma.injuryProps.destroyedOutLabel>
+
+  <PegArm.label>braço de pau</PegArm.label>
+  <PegArm.description>Um braço de pau.</PegArm.description>
+  <PegArm.labelNoun>um braço de pau</PegArm.labelNoun>
+
+
+</LanguageData>

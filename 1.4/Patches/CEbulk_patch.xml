@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Combat Extended</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Condom"]/statBases</xpath>
+			<value>
+				<Bulk>0.01</Bulk>
+			</value>
+        </li>
+        <li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="HumpShroom"]/statBases</xpath>
+			<value>
+				<Bulk>0.25</Bulk>
+			</value>
+        </li>
+        <li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Aphrodisiac"]/statBases</xpath>
+			<value>
+				<Bulk>0.05</Bulk>
+			</value>
+        </li>
+		<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="RJW_Contraceptive"]/statBases</xpath>
+			<value>
+				<Bulk>0.01</Bulk>
+			</value>
+        </li>
+		<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="RJW_FertPill"]/statBases</xpath>
+			<value>
+				<Bulk>0.01</Bulk>
+			</value>
+        </li>
+		<li Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Holokey"]/statBases</xpath>
+			<value>
+				<Bulk>0.05</Bulk>
+			</value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

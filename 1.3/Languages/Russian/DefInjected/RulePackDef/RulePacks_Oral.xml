@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimmingRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] делает анилингус [RECIPIENT_nameDef].</RimmingRP.rulePack.rulesStrings.0>
+  <CunnilingusRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] отлизывает [RECIPIENT_nameDef].</CunnilingusRP.rulePack.rulesStrings.0>
+  <FellatioRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] отсасывает [RECIPIENT_nameDef].</FellatioRP.rulePack.rulesStrings.0>
+
+
+  <!-- For the avian races... -->
+
+  <BeakjobRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] отсасывает [RECIPIENT_nameDef] с помощью [INITIATOR_possessive] клюва.</BeakjobRP.rulePack.rulesStrings.0>
+  <SixtynineRP.rulePack.rulesStrings.0>sent-> [INITIATOR_nameDef] ложится в позу 69 с [RECIPIENT_nameDef].</SixtynineRP.rulePack.rulesStrings.0>
+
+
+</LanguageData>

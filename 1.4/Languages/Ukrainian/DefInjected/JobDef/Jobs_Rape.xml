@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<GettinRaped.reportString>Підданий зґвалтуванню</GettinRaped.reportString>
+<RapeComfortPawn.reportString>Зґвалтування пішака</RapeComfortPawn.reportString>
+<RandomRape.reportString>Зґвалтування</RandomRape.reportString>
+<RapeEnemy.reportString>Зґвалтування ворога</RapeEnemy.reportString>
+<RapeEnemyByInsect.reportString>Зґвалтувати ворога комахою</RapeEnemyByInsect.reportString>
+<RapeEnemyByAnimal.reportString>Зґвалтування ворога твариною</RapeEnemyByAnimal.reportString>
+<RapeEnemyByMech.reportString>Зґвалтувати ворога мехом</RapeEnemyByMech.reportString>
+<RapeEnemyToParasite.reportString>Зґвалтувати ворога паразитом</RapeEnemyToParasite.reportString>
+</LanguageData>

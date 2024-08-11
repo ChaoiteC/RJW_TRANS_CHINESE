@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <PlantHumpShroom.label>hongo champignón</PlantHumpShroom.label>
+  <PlantHumpShroom.description>Un hongo espeso con carne dura, jugo espeso y piel suave. Muestra efectos afrodisíacos cuando se consume, recupera el enfoque psíquico.</PlantHumpShroom.description>
+
+
+  <!-- Consumable item -->
+
+  <HumpShroom.label>Champignón</HumpShroom.label>
+  <HumpShroom.description>Un hongo espeso con pulpa dura, jugo espeso y piel suave. Muestra efectos afrodisíacos cuando se consume, recupera el enfoque psíquico.</HumpShroom.description>
+
+
+</LanguageData>

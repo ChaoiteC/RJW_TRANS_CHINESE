@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IsWhore.headerTip>Ist eine Hure</IsWhore.headerTip>
+  <IsPrisoner.headerTip>ist entweder Gefangener oder Sklave</IsPrisoner.headerTip>
+
+  <WhoreExperience.headerTip>Huren Erfahrung</WhoreExperience.headerTip>
+  <WhoreExperience.label>Erfahrung</WhoreExperience.label>
+
+  <RoomAdjustmentOfWhore.headerTip>Hurenraum Eindruck -&gt; Preis Modifikator</RoomAdjustmentOfWhore.headerTip>
+  <RoomAdjustmentOfWhore.label>Raum</RoomAdjustmentOfWhore.label>
+
+  <PriceRangeOfWhore.headerTip>Preisspanne</PriceRangeOfWhore.headerTip>
+  <PriceRangeOfWhore.label>Preis</PriceRangeOfWhore.label>
+
+  <EarnedMoneyByWhore.headerTip>Silber verdient (total)</EarnedMoneyByWhore.headerTip>
+  <EarnedMoneyByWhore.label>Einnahmen</EarnedMoneyByWhore.label>
+
+  <CountOfWhore.headerTip>Klienten bedient</CountOfWhore.headerTip>
+  <CountOfWhore.label>Klienten</CountOfWhore.label>
+
+  <AverageMoneyByWhore.headerTip>Silber verdient (Durchschnitt)</AverageMoneyByWhore.headerTip>
+  <AverageMoneyByWhore.label>Durchschnitt</AverageMoneyByWhore.label>
+
+  <Mood.headerTip>Stimmung der Person</Mood.headerTip>
+  <Mood.label>Stimmung</Mood.label>
+
+
+</LanguageData>

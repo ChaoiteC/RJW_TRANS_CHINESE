@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates parts -->
+
+  <OvipositorM.label>Мужской яйцеклад</OvipositorM.label>
+  <OvipositorM.description>Используется для оплодворения яиц.</OvipositorM.description>
+
+  <OvipositorF.label>Женский яйцеклад</OvipositorF.label>
+  <OvipositorF.description>Используется для откладки яиц.</OvipositorF.description>
+
+  <InsectAnus.label>Жучиный анус</InsectAnus.label>
+  <InsectAnus.description>Просто жучиный анус.</InsectAnus.description>
+
+
+</LanguageData>

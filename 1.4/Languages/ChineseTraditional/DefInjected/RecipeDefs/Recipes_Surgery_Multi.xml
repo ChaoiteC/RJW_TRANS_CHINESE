@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <AddMultiOvipositorF.label>移植雌性產卵器</AddMultiOvipositorF.label>
+    <AddMultiOvipositorF.description>往身上移植額外的雌性產卵器。</AddMultiOvipositorF.description>
+    <AddMultiOvipositorF.jobString>正在植入雌性產卵器。</AddMultiOvipositorF.jobString>
+    <AddMultiOvipositorM.label>移植雄性產卵器</AddMultiOvipositorM.label>
+    <AddMultiOvipositorM.description>往身上移植額外的雄性產卵器。</AddMultiOvipositorM.description>
+    <AddMultiOvipositorM.jobString>正在植入雄性產卵器。</AddMultiOvipositorM.jobString>
+    <AddMultiUdder.label>移植奶乳</AddMultiUdder.label>
+    <AddMultiUdder.description>往身上移植額外的奶乳。</AddMultiUdder.description>
+    <AddMultiUdder.jobString>正在移植奶乳。</AddMultiUdder.jobString>
+    <AddMultiInsectAnus.label>移植蟲類肛門</AddMultiInsectAnus.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
+
+  <Immunodeficiency.label>Immunschwäche</Immunodeficiency.label>
+  <Immunodeficiency.description>Steigert die Anfälligkeit für Krankheiten.</Immunodeficiency.description>
+  <Immunodeficiency.stages.0.label>Leicht</Immunodeficiency.stages.0.label>
+  <Immunodeficiency.stages.1.label>Mittel</Immunodeficiency.stages.1.label>
+  <Immunodeficiency.stages.2.label>Stark</Immunodeficiency.stages.2.label>
+
+  <VirusPerma.description>Virale Schäden.</VirusPerma.description>
+  <VirusPerma.label>Virale Schäden</VirusPerma.label>
+  <VirusPerma.injuryProps.destroyedLabel>Zerstört durch eine Krankheit</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>Zerstört durch eine Krankheit</VirusPerma.injuryProps.destroyedOutLabel>
+
+  <PegArm.label>Holzarm</PegArm.label>
+  <PegArm.labelNoun>ein Holzarm</PegArm.labelNoun>
+  <PegArm.description>Eine hölzerne Armprotese.</PegArm.description>
+
+
+</LanguageData>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<rjw.HediffDef_PartBase Name="RJW_PrivatePartBase" Abstract="True">
+		<DefaultBodyPartList>
+			<!--
+			<li>Head</li>
+			<li>Genitals</li>
+			<li>Chest</li>
+			<li>Anus</li>
+			-->
+		</DefaultBodyPartList>
+		<!-- <everVisible>true</everVisible> -->
+		<FluidType></FluidType>
+		<!-- string, make into something else, someday, maybe-->
+		<isBad>false</isBad>
+		<comps>
+			<li Class="rjw.CompProperties_HediffBodyPart" />
+		</comps>
+		<priceImpact>false</priceImpact>
+	</rjw.HediffDef_PartBase>
+
+	<!-- natural parts (purist love) -->
+	<rjw.HediffDef_PartBase ParentName="RJW_PrivatePartBase" Name="NaturalPrivatePartBase" Abstract="True">
+		<hediffClass>rjw.Hediff_PartBaseNatural</hediffClass>
+		<defaultLabelColor>(0.5, 0.8, 0.5)</defaultLabelColor>
+		<addedPartProps>
+			<solid>false</solid>
+			<partEfficiency>1.0</partEfficiency>
+		</addedPartProps>
+	</rjw.HediffDef_PartBase>
+
+	<!-- Humanlikes should generally spawn with severity between 0 and 1. The higher sizes are for growth or ultra endowed races. -->
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartBase" Name="NaturalPrivatePartPenis" Abstract="True">
+		<FluidType>Cum</FluidType>
+		<DefaultBodyPart>Genitals</DefaultBodyPart>
+		<stages>
+			<li>
+				<label>Micro</label>
+				<minSeverity>0.01</minSeverity>
+			</li>
+			<li>
+				<label>Small</label>
+				<minSeverity>0.20</minSeverity>
+			</li>
+			<li>
+				<label>Average</label>
+				<minSeverity>0.40</minSeverity>
+			</li>
+			<li>
+				<label>Large</label>
+				<minSeverity>0.60</minSeverity>
+					<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.02</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Huge</label>
+				<minSeverity>0.80</minSeverity>
+				<capMods>
+					<li>
+						<!-- A few inches extra isn't really going to make a difference, but it's funny so... -->
+						<capacity>Moving</capacity>
+						<offset>-0.05</offset>
+					</li>
+				</capMods>
+			</li>
+			<!-- Humanlikes should generally spawn with severity between 0 and 1. The higher sizes are for growth or ultra endowed races. -->
+			<li>
+				<label>Towering</label>
+				<minSeverity>1.01</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.10</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale>
+				<density>1.0</density>
+				<lengths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 14.0 is average -->
+					<li>18.0</li>
+					<li>25.0</li>
+					<li>35.0</li>
+					<!-- World record (Cabrera doesn't count). -->
+					<!-- Can always add more later. -->
+				</lengths>
+				<girths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 12.0 is average -->
+					<li>13.0</li>
+					<li>17.0</li>
+					<li>21.0</li>
+				</girths>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartBase" Name="NaturalPrivatePartVagina" Abstract="True">
+		<FluidType>Cum</FluidType>
+		<DefaultBodyPart>Genitals</DefaultBodyPart>
+		<stages>
+			<li>
+				<label>Micro</label>
+				<minSeverity>0.01</minSeverity>
+			</li>
+			<li>
+				<label>Tight</label>
+				<minSeverity>0.20</minSeverity>
+			</li>
+			<li>
+				<label>Average</label>
+				<minSeverity>0.40</minSeverity>
+			</li>
+			<li>
+				<label>Accommodating</label>
+				<minSeverity>0.60</minSeverity>
+			</li>
+			<li>
+				<label>Cavernous</label>
+				<minSeverity>0.80</minSeverity>
+			</li>
+			<li>
+				<label>Abyssal</label>
+				<minSeverity>1.01</minSeverity>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale> <!-- rescales parts sizes based on bodysize of initial owner race -->
+				<!-- Matches with penis sizes. -->
+				<lengths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 14.0 is average -->
+					<li>18.0</li>
+					<li>25.0</li>
+					<li>35.0</li>
+					<!-- World record (Cabrera doesn't count). -->
+				</lengths>
+				<girths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 12.0 is average -->
+					<li>13.0</li>
+					<li>17.0</li>
+					<li>21.0</li>
+				</girths>
+			</li>
+			<li Class="rjw.PartProps">
+				<props>
+				</props>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartBase" Name="NaturalPrivatePartAnus" Abstract="True">
+		<FluidType></FluidType>
+		<DefaultBodyPart>Anus</DefaultBodyPart>
+		<stages>
+			<li>
+				<label>Micro</label>
+				<minSeverity>0.01</minSeverity>
+			</li>
+			<li>
+				<label>Tight</label>
+				<minSeverity>0.20</minSeverity>
+			</li>
+			<li>
+				<label>Average</label>
+				<minSeverity>0.40</minSeverity>
+			</li>
+			<li>
+				<label>Accommodating</label>
+				<minSeverity>0.60</minSeverity>
+			</li>
+			<li>
+				<label>Cavernous</label>
+				<minSeverity>0.80</minSeverity>
+			</li>
+			<li>
+				<label>Abyssal</label>
+				<minSeverity>1.01</minSeverity>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale>
+				<!-- Matches with penis sizes. -->
+				<girths>
+					<li>0</li>
+					<li>5.0</li>
+					<li>10.0</li>
+					<!-- 12.0 is average -->
+					<li>13.0</li>
+					<li>17.0</li>
+					<li>21.0</li>
+				</girths>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartBase" Name="NaturalPrivatePartBreast" Abstract="True">
+		<FluidType>Milk</FluidType>
+		<DefaultBodyPart>Chest</DefaultBodyPart>
+		<stages>
+			<li>
+				<!-- Male breast stage-->
+				<label>Nipples</label>
+				<minSeverity>0.01</minSeverity>
+			</li>
+			<li>
+				<label>Tiny</label>
+				<minSeverity>0.02</minSeverity>
+			</li>
+			<li>
+				<label>Small</label>
+				<minSeverity>0.20</minSeverity>
+			</li>
+			<li>
+				<label>Average</label>
+				<minSeverity>0.40</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.01</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Large</label>
+				<minSeverity>0.60</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.025</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.01</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Huge</label>
+				<minSeverity>0.80</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.05</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.02</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Enormous</label>
+				<minSeverity>1.00</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.10</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.04</offset>
+					</li>
+			</capMods>
+			</li>
+			<!-- Humanlikes should generally spawn with severity between 0 and 1. The higher sizes are for growth or ultra endowed races. -->
+			<li>
+				<label>Massive</label>
+				<minSeverity>1.2</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.15</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.08</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Gargantuan</label>
+				<minSeverity>1.4</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.25</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.12</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Colossal</label>
+				<minSeverity>1.6</minSeverity>
+				<!-- Norma Stitz is obviously not crippled, but she's not winning any races either. -->
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.40</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.20</offset>
+					</li>
+				</capMods>
+			</li>
+			<li>
+				<label>Titanic</label>
+				<minSeverity>1.8</minSeverity>
+				<capMods>
+					<li>
+						<capacity>Moving</capacity>
+						<offset>-0.65</offset>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<offset>-0.32</offset>
+					</li>
+				</capMods>
+			</li>
+		</stages>
+		<modExtensions>
+			<li Class="rjw.PartSizeExtension">
+				<bodysizescale>true</bodysizescale>
+				<!-- Human standard would be 1.0. Leave out for no weight display. -->
+				<density>1.0</density>
+				<cupSizes>
+					<li>0</li>
+					<li>1</li>
+					<li>2</li>
+					<li>4</li>
+					<!-- DD is average -->
+					<li>7</li>
+					<li>11</li>
+					<li>15</li>
+					<li>19</li>
+					<li>25</li>
+					<li>31</li>
+					<!-- World record is 2x this. Can always add more later. -->
+				</cupSizes>
+			</li>
+		</modExtensions>
+	</rjw.HediffDef_PartBase>
+
+	<!-- artificial parts (transhumanist love) -->
+	<rjw.HediffDef_PartBase ParentName="RJW_PrivatePartBase" Name="ArtificialPrivatePartBase" Abstract="True">
+		<hediffClass>rjw.Hediff_PartBaseArtifical</hediffClass>
+		<defaultLabelColor>(0.5, 0.5, 0.9)</defaultLabelColor>
+		<addedPartProps>
+			<solid>true</solid>
+			<partEfficiency>1.0</partEfficiency>
+		</addedPartProps>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="ArtificialPrivatePartBase" Name="ArtificialPrivatePartLotech" Abstract="True">
+		<addedPartProps>
+			<betterThanNatural>false</betterThanNatural>
+		</addedPartProps>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="ArtificialPrivatePartBase" Name="ArtificialPrivatePartHitech" Abstract="True">
+		<addedPartProps>
+			<betterThanNatural>true</betterThanNatural>
+		</addedPartProps>
+		<priceImpact>true</priceImpact>
+	</rjw.HediffDef_PartBase>
+
+
+	<!-- Placeholder hediffs for unsupported pawns? -->
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartPenis">
+		<defName>GenericPenis</defName>
+		<label>generic penis</label>
+		<labelNoun>a penis</labelNoun>
+		<description>A penis. Generic placeholder part for unsuported race.</description>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartVagina">
+		<defName>GenericVagina</defName>
+		<label>generic vagina</label>
+		<labelNoun>a vagina</labelNoun>
+		<description>A vagina. Generic placeholder part for unsuported race.</description>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartAnus">
+		<defName>GenericAnus</defName>
+		<label>generic anus</label>
+		<labelNoun>an anus</labelNoun>
+		<description>An anus. Generic placeholder part for unsuported race.</description>
+	</rjw.HediffDef_PartBase>
+
+	<rjw.HediffDef_PartBase ParentName="NaturalPrivatePartBreast">
+		<defName>GenericBreasts</defName>
+		<label>generic breasts</label>
+		<labelNoun>breasts</labelNoun>
+		<description>A pair of breasts. Generic placeholder part for unsuported race.</description>
+	</rjw.HediffDef_PartBase>
+</Defs>

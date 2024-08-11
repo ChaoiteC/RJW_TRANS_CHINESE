@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod strings -->
+  <!-- std -->
+  <RJW_Opportunistic_Infection_Message>{0} desenvolveu uma infecção devido a uma deficiência no sistema imune.</RJW_Opportunistic_Infection_Message>
+  <!--RJW_Poisoned_by_Rimming_Message>{0} teve intoxicação alimentar por causa de {1}</RJW_Poisoned_by_Rimming_Message-->
+  <RJW_Syphilis_Damage_Message>{0} sofreu danos permanentes na {1} {2} devido a uma avançada infecção {3}.</RJW_Syphilis_Damage_Message>
+
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0} aceitou o acordo que {1} ofereceu.</RJW_VisitorAcceptWhore>
+  <RJW_VisitorSolicitWhore>{0} deseja ser atendido por {1}.</RJW_VisitorSolicitWhore>
+  <RJW_VisitorRejectWhore>{0} rejeitou o acordo que {1} ofereceu.</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0} rejeitou a oferta pois {1} não parece saudável</RJW_VisitorSickWhore>
+
+  <!-- Notifications on right-clicking CP -->
+  <PawnCantRapeCP>O alvo não está saudável o suficiente ou está em uma posição proibida.</PawnCantRapeCP>
+  <PawnCantRapeCP0>O colono não precisa de sexo, não está saldável ou não pode estuprar.</PawnCantRapeCP0>
+  <PawnCantRapeCP1>O colono não está solteiro ou seu/sua parceiro(a) está por perto.</PawnCantRapeCP1>
+  <PawnCantRapeCP2>O colono não é zoófilo, por isso não pode estuprar animais.</PawnCantRapeCP2>
+
+  <!--Submit button-->
+  <CommandSubmit>render-se</CommandSubmit>
+  <CommandSubmitDesc>Deitar e aceitar o que a vida te enfiar.</CommandSubmitDesc>
+
+  <!--Preganancy messages-->
+  <RJW_PregnantTitle>{0} está grávida.</RJW_PregnantTitle>
+  <RJW_PregnantText>{0} está grávida e será uma mãe logo. Cuidado, fome e traumas podem resultar na perda do bebê.</RJW_PregnantText>
+  <RJW_Contractions>{0} está com contrações! Bebês estão a caminho!</RJW_Contractions>
+  <RJW_GaveBirthTitle>Parto feito.</RJW_GaveBirthTitle>
+  <RJW_GaveBirthText>{0} com sucesso pariu </RJW_GaveBirthText>
+  <RJW_ABaby>seu bebê.</RJW_ABaby>
+  <RJW_NBabies>seus {0} bebês.</RJW_NBabies>
+  <RJW_PregnantNormal>Tem um bebê saudável...</RJW_PregnantNormal>
+  <RJW_PregnantStrange>Algo é incomum no bebê...</RJW_PregnantStrange>
+  <RJW_PregnantMechStrange>Algo está muito estranho com o bebê...</RJW_PregnantMechStrange>
+  <RJW_GaveBirthEggTitle>Botou um ovo.</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0} botou seus ovos</RJW_GaveBirthEggText>
+  <RJW_EggContractions>{0} está com contrações! Ovos estão a caminho!</RJW_EggContractions>
+
+  <!--Breast size changes-->
+  <!--Should be "{PAWN_possessive} breasts..." but I couldn't get that to work correctly.-->
+  <RJW_BreastsHaveGrownFromBoobitis>Seios cresceram devido a seiosite.</RJW_BreastsHaveGrownFromBoobitis>
+
+  <GoToModSettings>Este espaço é reservado para recursos RJW opcionais que estão desligados ou indisponíveis para o colono, animal selecionado.\nVerifique a porra das opções do mod e pare de perguntar se ISTO é normal.</GoToModSettings>
+
+  <!--Comfort designation-->
+  <ForComfort>Usar como alívio</ForComfort>
+  <ForComfortDesc>Marcar para alívio sexual</ForComfortDesc>
+  <ForComfortRefuseDesc>Não concorda em ser usado como alívio\nNecessário: Masoquista</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>Atribuir para prostituta</ForService>  <!-- This field is not visible -->
+  <ForServiceDesc>Marcar para prostiuir, irá oferecer seus serviços aos visitantes. Tentará entreter os outro colonos se não estiver ocupado(a). Tentará não se masturbar enquanto estiver trabalhando, pode causar frustração.</ForServiceDesc>
+  <ForServiceRefuseDesc>Não concoda em ser prostituta</ForServiceRefuseDesc>
+
+  <!--Bed-->
+  <CommandBedSetAsWhoreBedLabel>Permitir que todos se prostituam</CommandBedSetAsWhoreBedLabel>
+  <CommandBedSetAsWhoreBedDesc>Permita que todas as putas usem esta cama para entreter os clientes.</CommandBedSetAsWhoreBedDesc>
+  <CommandBedAllowWhoringLabel>Permitir que o dono se prostitua</CommandBedAllowWhoringLabel>
+  <CommandBedAllowWhoringDesc>Se o(s) proprietário(s) têm permissão para usar esta cama para se prostituir.</CommandBedAllowWhoringDesc>
+  <WhorePriceCalcDesc>Fator de preço de prostituta (com base no conforto, capacidade impressionante do quarto e número de camas no quarto: {0}</WhorePriceCalcDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>Para os animais</ForBreeding>
+  <ForBreedingDesc>Marcar para cruza com animais</ForBreedingDesc>
+  <ForBreedingRefuseDesc>Não concorda em ser montado(a) por animais\nNecessário: Zoófilo</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>Permitir que este animal seja montado pelos reprodutores designados</ForBreedingAnimalDesc>
+
+  <BreedMessage> está tentando reproduzir com</BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>Designar como leiteira</ForMilking>
+  <ForMilkingDesc>Coletar material biológico deste ser</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>Designar Herói</ForHero>
+  <ForHeroDesc>Seleciona como personagem do jogador. Só pode ser selecionado uma vez. Não pode ser desativado.</ForHeroDesc>
+  <ForHeroRefuse1Desc>Este Herói é de outro jogador</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>Você não tem direitos de mudar a designação</ForHeroRefuse2Desc>
+  <ForHeroRefuseHCDesc>Colono não herói no modo HC</ForHeroRefuseHCDesc>
+
+  <RJW_hediff_braSize>Tamanho do sutiã: {0}:{1} ({2} cup)</RJW_hediff_braSize>
+  <RJW_hediff_braSizeNone>Tamanho do sutiã: -</RJW_hediff_braSizeNone>
+  <RJW_hediff_eggs>Ovos: {0}</RJW_hediff_eggs>
+  <RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+  <RJW_hediff_girth>Circunferência: {0}</RJW_hediff_girth>
+  <RJW_hediff_length>Comprimento: {0}</RJW_hediff_length>
+  <RJW_hediff_maxGirth>Circunferência Máxima: {0}</RJW_hediff_maxGirth>
+  <RJW_hediff_maxLength>Comprimento Máximo: {0}</RJW_hediff_maxLength>
+  <RJW_hediff_overbust>Busto: {0}</RJW_hediff_overbust>
+  <RJW_hediff_underbust>Cintura: {0}</RJW_hediff_underbust>
+  <RJW_hediff_unknownSpecies>Espécie desconhecida</RJW_hediff_unknownSpecies>
+  <RJW_hediff_weight>Peso: {0}</RJW_hediff_weight>
+
+</LanguageData>

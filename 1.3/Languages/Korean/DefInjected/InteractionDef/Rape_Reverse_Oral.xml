@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rape_Reverse_Rimming.label>리밍</Rape_Reverse_Rimming.label>
+	<Rape_Reverse_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 항문을 핥음.</Rape_Reverse_Rimming.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 항문을 능욕당함.</Rape_Reverse_Rimming.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Rimming.modExtensions.0.RMBLabel>항문을 핥음.</Rape_Reverse_Rimming.modExtensions.0.RMBLabel>
+
+	<Rape_Reverse_Cunnilingus.label>커닐링구스</Rape_Reverse_Cunnilingus.label>
+	<Rape_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지를 핥음.</Rape_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지를 능욕당함.</Rape_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Cunnilingus.modExtensions.0.RMBLabel>보지를 핥음.</Rape_Reverse_Cunnilingus.modExtensions.0.RMBLabel>
+
+	<Rape_Reverse_Fellatio.label>펠라치오</Rape_Reverse_Fellatio.label>
+	<Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 성기를 입으로 물고 빰.</Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 성기를 물리고 빨림.</Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>성기를 물고 빰.</Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>
+
+	<!--
+	<Rape_Reverse_Beakjob.label>비크잡</Rape_Reverse_Beakjob.label>
+	<Rape_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 부리로 성기를 물도록 강요함.</Rape_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 부리로 성기를 물도록 강요당함.</Rape_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Reverse_Beakjob.modExtensions.0.RMBLabel>강압적으로 부리로 성기를 물음.</Rape_Reverse_Beakjob.modExtensions.0.RMBLabel>
+	-->
+
+</LanguageData>

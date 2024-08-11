@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<rjw.RaceGroupDef Name="RJW_CustomRaceBase" Abstract="True">
+		
+		<!-- Just a list of strings, should not fail based on mods installed. -->
+		<raceNames>
+			<li>UnsupportedRace</li>
+		</raceNames>
+		
+		<!-- Prefer to use raceNames over pawnKindNames where possible. -->
+		<pawnKindNames>
+		</pawnKindNames>
+		
+		<!-- A empty list means default part adding sequence will run. -->
+		<!-- Do weird shit here ... like dicktails. -->
+		<!-- Chance to add -->
+		<!-- Hediff to add, you probably need custom hediff that wont relocate itself from <DefaultBodyPartList> -->
+		<!-- BodypartDef(s) where to add -->
+		<!--
+		<partAdders>
+			<li Class="rjw.PartAdder">
+				<chance>1.0</chance>
+				<rjwPart>HydraulicPenis</rjwPart>
+				<bodyParts>
+					<li>Anus</li>
+					<li>Chest</li>
+					<li>Genitals</li>
+				</bodyParts>
+			</li>
+		</partAdders>
+		 -->
+
+		<!-- A missing list means to use the regular part picking code for that sex part type. -->
+		<!-- A empty list means no part will be added. -->
+		<anuses>
+			<li>GenericAnus</li>
+			
+			<!-- humanlikes
+			<li>Anus</li>
+			-->
+			
+			<!-- implants
+			<li>HydraulicAnus</li>
+			<li>BionicAnus</li>
+			<li>ArchotechAnus</li>
+			-->
+			
+			<!-- special
+			<li>InsectAnus</li>
+			<li>DemonAnus</li>
+			<li>SlimeAnus</li>
+			-->
+		</anuses>
+		
+		<!--if no chances or only 1, will choose random part from list-->
+		<!--<li>1.0</li> is 100% to choose this part-->
+		<chanceanuses>
+			<li>1.0</li>
+			
+			<!-- humanlikes
+			<li>0.05</li>
+			<li>0.20</li>
+			<li>0.70</li>
+			<li>0.80</li>
+			<li>1.0</li>
+			-->
+		</chanceanuses>
+		
+		<femaleBreasts>
+			<li>GenericBreasts</li>
+			
+			<!-- humanlikes
+			<li>Breasts</li>
+			-->
+			
+			<!-- implants
+			<li>HydraulicBreasts</li>
+			<li>BionicBreasts</li>
+			<li>ArchotechBreasts</li>
+			-->
+			
+			<!-- special
+			<li>FeaturelessChest</li>
+			<li>SlimeBreasts</li>
+			-->
+		</femaleBreasts>
+		
+		<chancefemaleBreasts>
+			<li>1.0</li>
+		</chancefemaleBreasts>
+		
+		<femaleGenitals>
+			<li>GenericVagina</li>
+			
+			<!-- humanlikes
+			<li>Vagina</li>
+			-->
+			
+			<!-- animals?
+			<li>CatVagina</li>
+			<li>DogVagina</li>
+			<li>HorseVagina</li>
+			<li>DragonVagina</li>
+			-->
+			
+			<!-- implants
+			<li>HydraulicVagina</li>
+			<li>BionicVagina</li>
+			<li>ArchotechVagina</li>
+			-->
+			
+			<!-- ovi implant eggs
+			<li>OvipositorF</li>
+			-->
+			
+			<!-- special
+			<li>DemonVagina</li>
+			<li>SlimeVagina</li>
+			-->
+		</femaleGenitals>
+		
+		<chancefemaleGenitals>
+			<li>1.0</li>
+		</chancefemaleGenitals>
+		
+		<!-- Not used if hasSingleGender is true. -->
+		<maleBreasts>
+			<li>GenericBreasts</li>
+			
+			<!-- humanlikes
+			<li>Breasts</li>
+			-->
+			
+			<!-- implants
+			<li>HydraulicBreasts</li>
+			<li>BionicBreasts</li>
+			<li>ArchotechBreasts</li>
+			-->
+			
+			<!-- special
+			<li>FeaturelessChest</li>
+			<li>SlimeBreasts</li>
+			-->
+		</maleBreasts>
+		
+		<chancemaleBreasts>
+			<li>1.0</li>
+		</chancemaleBreasts>
+		
+		<maleGenitals>
+			<li>GenericPenis</li>
+			
+			<!-- humanlikes
+			<li>Penis</li>
+			-->
+			
+			<!-- animals?
+			<li>CatPenis</li>
+			<li>DogPenis</li>
+			<li>HorsePenis</li>
+			<li>DragonPenis</li>
+			<li>RaccoonPenis</li>
+			<li>HemiPenis</li>
+			<li>CrocodilianPenis</li>
+			-->
+			
+			<!-- implants
+			<li>PegDick</li>
+			<li>HydraulicPenis</li>
+			<li>BionicPenis</li>
+			<li>ArchotechPenis</li>
+			-->
+			
+			<!-- ovi fertilize eggs
+			<li>OvipositorM</li>
+			-->
+			
+			<!-- special
+			<li>DemonTentaclePenis</li>
+			<li>DemonPenis</li>
+			<li>SlimeTentacles</li>
+			-->
+		</maleGenitals>
+		
+		<chancemaleGenitals>
+			<li>1.0</li>
+		</chancemaleGenitals>
+
+		<tags>
+			<!--
+			<li>Chitin</li>
+			<li>Demon</li>
+			<li>Feathers</li>
+			<li>Fur</li>
+			<li>Plant</li>
+			<li>Robot</li>
+			<li>Scales</li>
+			<li>Skin</li>
+			<li>Slime</li>
+			-->
+		</tags>
+		
+		<!-- Slime pregnancy always birth slime -->
+		
+		<!-- Hybrid Pregnancy -->
+		<!-- Birth predefined hybrids from cross-race sex -->
+		<!-- human/animal/bestiality -->
+		<!-- ex: human+orassan=neko -->
+		<!-- Case sensitive defnames-->
+		<hybridRaceParents><!-- hybrid Pregnancy checks both parents races (who are not same race) -->
+			<!--
+			<li>Mother.PawnKindDef.Race</li>
+			<li>Father.PawnKindDef.Race</li>
+			<li>Any</li> - Any race ("Any" + mother/father race)
+			-->
+		</hybridRaceParents>
+		
+		<hybridChildKindDef><!-- hybrid Pregnancy child KindDef output -->
+			<!--
+			<li>Slime.PawnKindDef.defname</li> - some slime PawnKindDef
+			<li>MotherKindDef</li> - use mother PawnKindDef
+			<li>FatherKindDef</li> - use father PawnKindDef
+			-->
+		</hybridChildKindDef>
+		
+		<!-- All the values below are the defaults and can be omitted. -->
+		<raceSexDrive>1.0</raceSexDrive>			<!--how fast race sex need reduces(no effect for animals, not shown in sex stats, goes directly to sex need calc )-->
+		<hasSingleGender>false</hasSingleGender>	<!--if genderless race, set futa without gender change to female. -->
+		<hasSexNeed>true</hasSexNeed>				<!--asexual pawns, mechanoids, droids, etc-->
+
+		<!--normal pregnancy-->
+		<hasFertility>true</hasFertility>			<!--can be pregnant or fertilize, not mechanoids(always can impregnate/implant), droids, etc-->
+		<hasPregnancy>true</hasPregnancy>			<!--can be pregnant, not mechanoids, droids, etc-->
+		
+		<!--egg laying-->
+		<oviPregnancy>false</oviPregnancy>			<!--ovi pregnancy, produces and birth eggs instead of normal pregnancy, eggs will be either mother race or w/e they are defined in eggDef-->
+		<!--overrides CompProperties_EggLayer properties, requires oviPregnancy=true -->
+		<eggFertilizedDef>RJW_EggFertilized</eggFertilizedDef>		<!--default falback outcome: chicken-->
+		<eggUnfertilizedDef>RJW_EggUnfertilized</eggUnfertilizedDef>
+		<eggProgressUnfertilizedMax>1.0</eggProgressUnfertilizedMax>
+		<eggLayIntervalDays>3.5</eggLayIntervalDays>
+		
+		<!--egg implanting-->
+		<ImplantEggs>false</ImplantEggs>			<!--race can implant eggs with normal penises or Ovipositors, you may want to add race specific egg to Hediffs_EnemyImplants-->
+		
+		<HasUdder>false</HasUdder>					<!--add UdderBreasts to female pawn "Torso"-->
+	</rjw.RaceGroupDef>
+	
+	<rjw.RaceGroupDef ParentName="RJW_CustomRaceBase">
+		<!-- The name of this RaceGroupDef. -->
+		<defName>Generic_Group</defName>
+		<raceNames>
+			<li>UnsupportedRace</li>
+		</raceNames>
+	</rjw.RaceGroupDef>
+</Defs>

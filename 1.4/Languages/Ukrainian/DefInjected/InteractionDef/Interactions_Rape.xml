@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AnalRape.label>Анальне зґвалтування</AnalRape.label>
+<AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->Наґвалтує [RECIPIENT_nameDef].</AnalRape.logRulesInitiator.rulesStrings.0>
+<AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->Терпить наругу над свої задом від [INITIATOR_nameDef].</AnalRape.logRulesRecipient.rulesStrings.0>
+<VaginalRape.label>Вагінальне зґвалтування</VaginalRape.label>
+<VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->Зґвалтує [RECIPIENT_nameDef].</VaginalRape.logRulesInitiator.rulesStrings.0>
+<VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->Причинив зґвалтування [INITIATOR_nameDef].</VaginalRape.logRulesRecipient.rulesStrings.0>
+<HandjobRape.label>Мастурбація</HandjobRape.label>
+<HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Змусили мастурбувати [RECIPIENT_nameDef].</HandjobRape.logRulesInitiator.rulesStrings.0>
+<HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Змусив мастурбувати собі [INITIATOR_nameDef].</HandjobRape.logRulesRecipient.rulesStrings.0>
+<FingeringRape.label>Фінгерінг</FingeringRape.label>
+<FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->Насильно вставив свої пальці в [RECIPIENT_nameDef].</FingeringRape.logRulesInitiator.rulesStrings.0>
+<FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->Терпить брудні пальці [INITIATOR_nameDef] в собі.</FingeringRape.logRulesRecipient.rulesStrings.0>
+<ViolateCorpse.label>Некрофілія</ViolateCorpse.label>
+<ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->Насварився над трупом [RECIPIENT_nameDef].</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+<ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->Терпить наругу над своїм трупом від [INITIATOR_nameDef].</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+<MechImplant.label>Імплантація механоїдом</MechImplant.label>
+<MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->Атакував [RECIPIENT_nameDef].</MechImplant.logRulesInitiator.rulesStrings.0>
+<MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] силоміць щось імплантував всередину.</MechImplant.logRulesRecipient.rulesStrings.0>
+<OtherRape.label>Зґвалтування</OtherRape.label>
+<OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->Зґвалтував [RECIPIENT_nameDef].</OtherRape.logRulesInitiator.rulesStrings.0>
+<OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->Став жертвою насильства [INITIATOR_nameDef].</OtherRape.logRulesRecipient.rulesStrings.0>
+</LanguageData>

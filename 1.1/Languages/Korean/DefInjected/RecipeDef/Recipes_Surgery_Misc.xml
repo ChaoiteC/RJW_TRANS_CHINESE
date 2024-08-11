@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sterilization.label>불임 시술</Sterilization.label>
+	<Sterilization.description>생식기를 제거하지 않고도 원치 않는 임신을 방지하는 방법입니다.</Sterilization.description>
+	<Sterilization.jobString>불임 시술 중.</Sterilization.jobString>
+	<RJW_InstallIUD.label>질내 피임기구 설치</RJW_InstallIUD.label>
+	<RJW_InstallIUD.description>임신을 피하기 위한 예방적 조치입니다. 언제든 원상태로 되돌릴 수 있습니다.</RJW_InstallIUD.description>
+	<RJW_InstallIUD.jobString>피임기구 장착 중.</RJW_InstallIUD.jobString>
+	<RJW_RemovelIUD.label>질내 피임기구 제거</RJW_RemovelIUD.label>
+	<RJW_RemovelIUD.description>피임기구를 몸에서 제거합니다. 언제든지 재설치 가능합니다.</RJW_RemovelIUD.description>
+	<RJW_RemovelIUD.jobString>피임기구 제거 중.</RJW_RemovelIUD.jobString>
+
+	<InstallPegArm.label>의수 장착</InstallPegArm.label>
+	<InstallPegArm.description>신체에 간단한 의체를 장착합니다.</InstallPegArm.description>
+	<InstallPegArm.jobString>장착 중.</InstallPegArm.jobString>
+
+</LanguageData>

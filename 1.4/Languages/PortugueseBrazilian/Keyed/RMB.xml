@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_RMB>RJW</RJW_RMB>
+  <RJW_RMB_Social>Socializar </RJW_RMB_Social>
+  <RJW_RMB_Masturbate>Masturbar-se</RJW_RMB_Masturbate>
+  <RJW_RMB_Sex>Fazer sexo com </RJW_RMB_Sex>
+  <RJW_RMB_Rape>Estuprar </RJW_RMB_Rape>
+
+  <!--Social-->
+  <RJW_RMB_Insult>Insultar</RJW_RMB_Insult>
+  <RJW_RMB_SocialFight>Começar uma luta</RJW_RMB_SocialFight>
+  <RJW_RMB_Chat>Bate-papo</RJW_RMB_Chat>
+  <RJW_RMB_DeepTalk>Conversa profunda</RJW_RMB_DeepTalk>
+  <RJW_RMB_RomanceAttempt>Tentativa de romance</RJW_RMB_RomanceAttempt>
+  <RJW_RMB_MarriageProposal>Fazer proposta de casamento</RJW_RMB_MarriageProposal>
+
+  <!--Masturbate-->
+  <RJW_RMB_Masturbate_Bed>Masturbar-se em uma cadeira ou cama</RJW_RMB_Masturbate_Bed>
+  <RJW_RMB_Masturbate_At>Masturbar-se em </RJW_RMB_Masturbate_At>
+  <RJW_RMB_Masturbate_Here>Masturbar-se aqui</RJW_RMB_Masturbate_Here>
+  <RJW_RMB_Masturbate_With>Masturbar-se com </RJW_RMB_Masturbate_With>  <!-- dildoes or something like that -->
+
+  <!--Flavor text until this would actually be implemented some day if ever-->
+  <RJW_RMB_Masturbate_Fap>Tocar uma com pênis</RJW_RMB_Masturbate_Fap>
+  <RJW_RMB_Masturbate_Schlic>Tocar siririca com vagina</RJW_RMB_Masturbate_Schlic>
+  <RJW_RMB_Masturbate_Breasts>Brincar com os seios</RJW_RMB_Masturbate_Breasts>
+  <RJW_RMB_Masturbate_Anal>Brincar com o ânus</RJW_RMB_Masturbate_Anal>
+  <RJW_RMB_Masturbate_AF>Auto-chupar</RJW_RMB_Masturbate_AF>
+  <RJW_RMB_Masturbate_BJ>Usar os seios</RJW_RMB_Masturbate_BJ>
+  <RJW_RMB_Masturbate_TJV>Enfiar cauda na vagina</RJW_RMB_Masturbate_TJV>
+  <RJW_RMB_Masturbate_TJA>Enfiar cauda no ânus</RJW_RMB_Masturbate_TJA>
+
+
+  <!--Have sex-->
+
+  <!--Rape-->
+  <RJW_RMB_RapeCP>Usar como alívio </RJW_RMB_RapeCP>
+  <RJW_RMB_RapeEnemy>Estuprar </RJW_RMB_RapeEnemy>
+  <RJW_RMB_RapeCorpse>Violar cadáver de </RJW_RMB_RapeCorpse>
+  <RJW_RMB_RapeAnimal>Estuprar </RJW_RMB_RapeAnimal>
+
+  <!--Poses/parts?-->
+
+</LanguageData>

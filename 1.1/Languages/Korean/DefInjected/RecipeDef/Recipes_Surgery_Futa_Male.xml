@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AddVagina.label>평범한 보지 이식</AddVagina.label>
+	<AddVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</AddVagina.description>
+	<AddVagina.jobString>이식 중.</AddVagina.jobString>
+	<addHorseVagina.label>말 보지 이식</addHorseVagina.label>
+	<addHorseVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addHorseVagina.description>
+	<addHorseVagina.jobString>이식 중.</addHorseVagina.jobString>
+	<addCatVagina.label>고양이 보지 이식</addCatVagina.label>
+	<addCatVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addCatVagina.description>
+	<addCatVagina.jobString>이식 중.</addCatVagina.jobString>
+	<addDogVagina.label>개 보지 이식</addDogVagina.label>
+	<addDogVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addDogVagina.description>
+	<addDogVagina.jobString>이식 중.</addDogVagina.jobString>
+	<addDragonVagina.label>용 보지 이식</addDragonVagina.label>
+	<addDragonVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addDragonVagina.description>
+	<addDragonVagina.jobString>이식 중.</addDragonVagina.jobString>
+	<AddNarrowVagina.label>좁은 보지 이식</AddNarrowVagina.label>
+	<AddNarrowVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</AddNarrowVagina.description>
+	<AddNarrowVagina.jobString>이식 중.</AddNarrowVagina.jobString>
+	<AddCloacalVagina.label>총배설강 보지 이식</AddCloacalVagina.label>
+	<AddCloacalVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</AddCloacalVagina.description>
+	<AddCloacalVagina.jobString>이식 중.</AddCloacalVagina.jobString>
+	<AddRodentVagina.label>설치류 보지 이식</AddRodentVagina.label>
+	<AddRodentVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</AddRodentVagina.description>
+	<AddRodentVagina.jobString>이식 중.</AddRodentVagina.jobString>
+	<addOvipositorF.label>벌레 산란관 이식</addOvipositorF.label>
+	<addOvipositorF.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addOvipositorF.description>
+	<addOvipositorF.jobString>이식 중.</addOvipositorF.jobString>
+
+	<addHydraulicVagina.label>유압 보지</addHydraulicVagina.label>
+	<addHydraulicVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addHydraulicVagina.description>
+	<addHydraulicVagina.jobString>이식 중.</addHydraulicVagina.jobString>
+	<addBionicVagina.label>생체공학 보지</addBionicVagina.label>
+	<addBionicVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addBionicVagina.description>
+	<addBionicVagina.jobString>이식 중.</addBionicVagina.jobString>
+	<addArchotechVagina.label>초월공학 보지 이식</addArchotechVagina.label>
+	<addArchotechVagina.description>선택한 크기의 음부를 해당 남성에게 추가합니다.</addArchotechVagina.description>
+	<addArchotechVagina.jobString>이식 중.</addArchotechVagina.jobString>
+
+</LanguageData>

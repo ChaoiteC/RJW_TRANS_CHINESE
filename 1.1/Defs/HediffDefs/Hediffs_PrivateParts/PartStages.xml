@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<rjw.PartStagesDef>
+		<defName>RJW_PartStages</defName>
+
+		<!-- Every bra manufacturer has a slightly different scheme for bra sizes. -->
+		<!-- This is the scheme used by Ewa Michalak, 5cm band size interval and 2.54cm cup size interval. -->
+		<!-- Ewa Michalak sells the largest non-custom bras in the world. -->
+		<bandSizeInterval>5</bandSizeInterval>
+		<cupSizeInterval>2.54</cupSizeInterval>
+		
+		<!-- Pretend all humans have the same band size. -->
+		<bandSizeBase>85</bandSizeBase>
+
+		<cupSizeLabels>
+			<li>-</li>
+
+			<li>A</li>
+			<li>B</li>
+			<li>C</li>
+			<li>D</li>
+			<li>DD</li>
+			<li>E</li>
+			<li>F</li>
+			<li>FF</li>
+			<li>G</li>
+			<li>GG</li>
+
+			<li>H</li>
+			<li>HH</li>
+			<li>J</li>
+			<li>JJ</li>
+			<li>K</li>
+			<li>KK</li>
+			<li>L</li>
+			<li>LL</li>
+			<li>M</li>
+			<li>MM</li>
+
+			<li>N</li>
+			<!-- Largest non-custom cup size sold by Ewa Michalak. -->
+			<li>NN</li>
+			<li>O</li>
+			<li>OO</li>
+			<li>P</li>
+			<li>PP</li>
+			<li>Q</li>
+			<li>QQ</li>
+			<li>R</li>
+			<li>RR</li>
+			
+			<li>???</li>
+		</cupSizeLabels>
+	
+	</rjw.PartStagesDef>
+</Defs>

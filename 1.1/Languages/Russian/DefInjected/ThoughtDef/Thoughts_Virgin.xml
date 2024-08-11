@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added by Hoge. -->
+
+  <FortunateGaveVirginity.stages.0.label>Потеря девтвенности</FortunateGaveVirginity.stages.0.label>
+  <FortunateGaveVirginity.stages.0.description>Почему никто не говорил, что это так приятно?</FortunateGaveVirginity.stages.0.description>
+
+  <UnfortunateLostVirginity.stages.0.label>Потеря девственности</UnfortunateLostVirginity.stages.0.label>
+  <UnfortunateLostVirginity.stages.0.description>Это точно не то, что бы мне хотелось почувствовать в свой первый раз.</UnfortunateLostVirginity.stages.0.description>
+
+  <TookVirginity.stages.0.label>Лишил девственности</TookVirginity.stages.0.label>
+  <TookVirginity.stages.0.description>Я лишил кого-то девственности.</TookVirginity.stages.0.description>
+
+
+</LanguageData>

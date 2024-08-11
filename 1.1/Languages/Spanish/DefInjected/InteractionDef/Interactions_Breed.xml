@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Breeding/rape -->
+
+  <AnalBreeding.label>cruzamento anal</AnalBreeding.label>
+  <AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Montado [RECIPIENT_nameDef].</AnalBreeding.logRulesInitiator.rulesStrings.0>
+  <AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Fue analmente montado(a) por [INITIATOR_nameDef].</AnalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <VaginalBreeding.label>cruzamento vaginal</VaginalBreeding.label>
+  <VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Moontado [RECIPIENT_nameDef].</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Fue vaginalmente montado(a) por [INITIATOR_nameDef].</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <OralBreeding.label>paliza</OralBreeding.label>
+  <OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Lamido [RECIPIENT_nameDef].</OralBreeding.logRulesInitiator.rulesStrings.0>
+  <OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Fue lamido(a) por [INITIATOR_nameDef].</OralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Another rare one, but needed to get the icons working right. -->
+
+  <FingeringBreeding.label>dedeando</FingeringBreeding.label>
+  <FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Dedeando [RECIPIENT_nameDef].</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+  <FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Fue dedeado(a) por [INITIATOR_nameDef].</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+  <ForcedOralBreeding.label>paliza</ForcedOralBreeding.label>
+  <ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Sexo oral forzado de [RECIPIENT_nameDef].</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Fue obligado(a) a hacer oral.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- invitation "Female" breeding -->
+
+  <RequestVaginalBreeding.label>cruzamento vaginal</RequestVaginalBreeding.label>
+  <RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expuso la vagina a [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Si se expone a [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestAnalBreeding.label>cruzamento anal</RequestAnalBreeding.label>
+  <RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expuso el ano a [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Si se expone a [INITIATOR_nameDef].</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Regular privates -->
+<Penis.label>Пеніс</Penis.label>
+<Penis.labelNoun>Пеніс</Penis.labelNoun>
+<Penis.description>Простий пеніс.</Penis.description>
+<Penis.stages.0.label>Мікро</Penis.stages.0.label>
+<Penis.stages.1.label>Маленький</Penis.stages.1.label>
+<Penis.stages.2.label>Звичний</Penis.stages.2.label>
+<Penis.stages.3.label>Великий</Penis.stages.3.label>
+<Penis.stages.4.label>Велетенський</Penis.stages.4.label>
+<Penis.stages.5.label>Гігантський</Penis.stages.5.label>
+<Vagina.label>Вагіна</Vagina.label>
+<Vagina.labelNoun>вагіна</Vagina.labelNoun>
+<Vagina.description>Проста вагіна.</Vagina.description>
+<Vagina.stages.0.label>Мікро</Vagina.stages.0.label>
+<Vagina.stages.1.label>Вузька</Vagina.stages.1.label>
+<Vagina.stages.2.label>Звична</Vagina.stages.2.label>
+<Vagina.stages.3.label>Вмістка</Vagina.stages.3.label>
+<Vagina.stages.4.label>Печера</Vagina.stages.4.label>
+<Vagina.stages.5.label>Бездна</Vagina.stages.5.label>
+<!-- Природні ануси -->
+<Anus.label>Анус</Anus.label>
+<Anus.labelNoun>анус</Anus.labelNoun>
+<Anus.description>Простий анус.</Anus.description>
+<Anus.stages.0.label>Мікро</Anus.stages.0.label>
+<Anus.stages.1.label>Вузький</Anus.stages.1.label>
+<Anus.stages.2.label>Звичний</Anus.stages.2.label>
+<Anus.stages.3.label>Місткий</Anus.stages.3.label>
+<Anus.stages.4.label>Печера</Anus.stages.4.label>
+<Anus.stages.5.label>Безодня</Anus.stages.5.label>
+<!-- Natural Breasts -->
+<Breasts.label>Груди</Breasts.label>
+<Breasts.labelNoun>груди</Breasts.labelNoun>
+<Breasts.description>Зазвичайні груди.</Breasts.description>
+<Breasts.stages.0.label>Соски</Breasts.stages.0.label>
+<Breasts.stages.1.label>Плоска</Breasts.stages.1.label>
+<Breasts.stages.2.label>Маленька</Breasts.stages.2.label>
+<Breasts.stages.3.label>Звична</Breasts.stages.3.label>
+<Breasts.stages.4.label>Велика</Breasts.stages.4.label>
+<Breasts.stages.5.label>Велетенська</Breasts.stages.5.label>
+<Breasts.stages.6.label>Більша за норму</Breasts.stages.6.label>
+<Breasts.stages.7.label>Масивна</Breasts.stages.7.label>
+<Breasts.stages.8.label>Гігантська</Breasts.stages.8.label>
+<Breasts.stages.9.label>Колосальна</Breasts.stages.9.label>
+<!-- Натуральні груди або, скоріше, їх відсутність -->
+<FeaturelessChest.label>Абсолютно плоскі груди</FeaturelessChest.label>
+<FeaturelessChest.labelNoun>плоскі груди</FeaturelessChest.labelNoun>
+<FeaturelessChest.description>Абсолютно плоскі груди, на яких немає навіть сосків.</FeaturelessChest.description>
+</LanguageData>

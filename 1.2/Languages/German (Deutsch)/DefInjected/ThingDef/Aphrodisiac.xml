@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Aphrodisiac.label>Aphrodisia</Aphrodisiac.label>
+  <Aphrodisiac.description>Eine rauchbare Droge, hergestellt aus Bumspilzen.</Aphrodisiac.description>
+  <Aphrodisiac.ingestible.ingestCommandString>Rauche {0}</Aphrodisiac.ingestible.ingestCommandString>
+  <Aphrodisiac.ingestible.ingestReportString>Raucht {0}.</Aphrodisiac.ingestible.ingestReportString>
+
+
+</LanguageData>

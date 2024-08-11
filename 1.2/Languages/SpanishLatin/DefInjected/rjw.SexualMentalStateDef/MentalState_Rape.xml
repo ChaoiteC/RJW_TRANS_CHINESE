@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomRape.label>violación al azar</RandomRape.label>
+  <RandomRape.beginLetterLabel>violación al azar</RandomRape.beginLetterLabel>
+  <RandomRape.beginLetter>{0} está sexualmente frustrado y busca a alguien a quien violar.</RandomRape.beginLetter>
+  <RandomRape.recoveryMessage>{0} se sintió sexualmente satisfecho y dejó de violar al azar.</RandomRape.recoveryMessage>
+  <RandomRape.baseInspectLine>Estado mental: Violación al azar</RandomRape.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural penises -->
+
+  <AddPenis.label>新增人類陰莖</AddPenis.label>
+  <AddPenis.description>為女性新增選定大小的陰莖。</AddPenis.description>
+  <AddPenis.jobString>新增人類陰莖。</AddPenis.jobString>
+
+  <addHorsePenis.label>新增馬陰莖</addHorsePenis.label>
+  <addHorsePenis.description>為女性新增選定大小的陰莖。</addHorsePenis.description>
+  <addHorsePenis.jobString>新增馬陰莖。</addHorsePenis.jobString>
+
+  <addCatPenis.label>新增貓陰莖</addCatPenis.label>
+  <addCatPenis.description>為女性新增選定大小的陰莖。</addCatPenis.description>
+  <addCatPenis.jobString>新增貓陰莖。</addCatPenis.jobString>
+
+  <addDogPenis.label>新增犬陰莖</addDogPenis.label>
+  <addDogPenis.description>為女性新增選定大小的陰莖。</addDogPenis.description>
+  <addDogPenis.jobString>新增犬陰莖。</addDogPenis.jobString>
+
+  <addDragonPenis.label>新增龍陰莖</addDragonPenis.label>
+  <addDragonPenis.description>為女性新增選定大小的陰莖。</addDragonPenis.description>
+  <addDragonPenis.jobString>新增龍陰莖。</addDragonPenis.jobString>
+
+  <addOvipositorM.label>新增產卵器</addOvipositorM.label>
+  <addOvipositorM.description>為女性新增選定大小的陰莖。</addOvipositorM.description>
+  <addOvipositorM.jobString>新增產卵器。</addOvipositorM.jobString>
+
+  <addRaccoonPenis.label>新增浣熊陰莖</addRaccoonPenis.label>
+  <addRaccoonPenis.description>為女性新增選定大小的陰莖。</addRaccoonPenis.description>
+  <addRaccoonPenis.jobString>新增浣熊陰莖。</addRaccoonPenis.jobString>
+
+  <addHemiPenis.label>新增半陰莖</addHemiPenis.label>
+  <addHemiPenis.description>為女性新增選定大小的陰莖。</addHemiPenis.description>
+  <addHemiPenis.jobString>新增半陰莖。</addHemiPenis.jobString>
+
+  <addCrocodilianPenis.label>新增鱷魚陰莖</addCrocodilianPenis.label>
+  <addCrocodilianPenis.description>為女性新增選定大小的陰莖。</addCrocodilianPenis.description>
+  <addCrocodilianPenis.jobString>新增鱷魚陰莖。</addCrocodilianPenis.jobString>
+
+  <AddNeedlePenis.label>新增針陰莖</AddNeedlePenis.label>
+  <AddNeedlePenis.description>給雌性增加一個針陰莖，使她們成為雌雄同體。</AddNeedlePenis.description>
+  <AddNeedlePenis.jobString>新增針陰莖。</AddNeedlePenis.jobString>
+
+  <AddCloacalPenis.label>新增泄殖腔陰莖</AddCloacalPenis.label>
+  <AddCloacalPenis.description>給雌性增加一個泄殖腔陰莖，使她們成為雌雄同體。</AddCloacalPenis.description>
+  <AddCloacalPenis.jobString>新增泄殖腔陰莖。</AddCloacalPenis.jobString>
+
+  <AddRodentPenis.label>新增齧齒動物陰莖</AddRodentPenis.label>
+  <AddRodentPenis.description>給雌性增加一個齧齒動物陰莖，使她們成為雌雄同體。</AddRodentPenis.description>
+  <AddRodentPenis.jobString>新增齧齒動物陰莖。</AddRodentPenis.jobString>
+
+
+  <!-- hydraulic penis -->
+
+  <addHydraulicPenis.label>新增液壓陰莖</addHydraulicPenis.label>
+  <addHydraulicPenis.description>為女性新增選定大小的陰莖。</addHydraulicPenis.description>
+  <addHydraulicPenis.jobString>新增液壓陰莖。</addHydraulicPenis.jobString>
+
+
+  <!-- bionic penis -->
+
+  <addBionicPenis.label>新增仿生陰莖</addBionicPenis.label>
+  <addBionicPenis.description>為女性新增選定大小的陰莖。</addBionicPenis.description>
+  <addBionicPenis.jobString>新增仿生陰莖。</addBionicPenis.jobString>
+
+
+  <!-- Archotech -->
+
+  <addArchotechPenis.label>新增遠古陰莖</addArchotechPenis.label>
+  <addArchotechPenis.description>為女性新增選定大小的陰莖。</addArchotechPenis.description>
+  <addArchotechPenis.jobString>新增遠古陰莖。</addArchotechPenis.jobString>
+
+
+</LanguageData>

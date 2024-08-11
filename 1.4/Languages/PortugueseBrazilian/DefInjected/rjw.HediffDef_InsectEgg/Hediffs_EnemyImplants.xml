@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawns with ovi's plant egg. -->
+
+  <RJW_InsectEgg.label>ovo</RJW_InsectEgg.label>
+  <RJW_InsectEgg.description>Ovo(s) parasita(s) que são depositados em um hospedeiro e se alimenta de seus nutrientes até estarem prontos para chocar. Pelo menos eles não chocam se estourando pra fora do peito. .</RJW_InsectEgg.description>
+
+
+  <!-- Placeholder egg/unsupported/any races -->
+
+  <RJW_UnknownEgg.label>ovo</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>Ovo(s) parasita(s) que são depositados em um hospedeiro e se alimenta de seus nutrientes até estarem prontos para chocar. Pelo menos eles não chocam se estourando pra fora do peito. .</RJW_UnknownEgg.description>
+
+
+  <!-- vanilla insects, can fertilize each other -->
+
+  <RJW_InsectHiveEgg.label>ovo</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>Ovo(s) parasita(s) que são depositados em um hospedeiro e se alimenta de seus nutrientes até estarem prontos para chocar. Pelo menos eles não chocam se estourando pra fora do peito. .</RJW_InsectHiveEgg.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHololock.label>Schmiede Holoschloss</MakeHololock.label>
+  <MakeHololock.description>Stelle Holoschloss her.</MakeHololock.description>
+  <MakeHololock.jobString>Baut Holoschloss.</MakeHololock.jobString>
+
+  <MakePrisonerChains.label>Schmiede Ketten</MakePrisonerChains.label>
+  <MakePrisonerChains.description>Stellt einschränkende Ketten her.</MakePrisonerChains.description>
+  <MakePrisonerChains.jobString>Schmiedet Ketten.</MakePrisonerChains.jobString>
+
+
+</LanguageData>

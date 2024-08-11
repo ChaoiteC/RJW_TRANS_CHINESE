@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Rape_Handjob.label>핸드잡</Rape_Handjob.label>
+	<Rape_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 자지를 손으로 만지게 강요함.</Rape_Handjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 자지를 손으로 만지도록 강요당함.</Rape_Handjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Handjob.modExtensions.0.RMBLabelM>손으로 능욕당함.</Rape_Handjob.modExtensions.0.RMBLabelM>
+
+	<Rape_Fingering.label>핑거링</Rape_Fingering.label>
+	<Rape_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 손가락으로 성기를 만지게 강요함.</Rape_Fingering.logRulesInitiator.rulesStrings.0>
+	<Rape_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 손가락으로 성기를 만지도록 강요당함.</Rape_Fingering.logRulesRecipient.rulesStrings.0>
+	<Rape_Fingering.modExtensions.0.RMBLabel>손가락으로 능욕당함.</Rape_Fingering.modExtensions.0.RMBLabel>
+
+	<Rape_Fisting.label>피스팅</Rape_Fisting.label>
+	<Rape_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지를 주먹으로 능욕함.</Rape_Fisting.logRulesInitiator.rulesStrings.0>
+	<Rape_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 주먹으로 보지를 능욕당함.</Rape_Fisting.logRulesRecipient.rulesStrings.0>
+	<Rape_Fisting.modExtensions.0.RMBLabel>주먹이 항문에 박힘.</Rape_Fisting.modExtensions.0.RMBLabel>
+
+	<Rape_Footjob.label>풋잡</Rape_Footjob.label>
+	<Rape_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 자지를 발로 애무하도록 강요함.</Rape_Footjob.logRulesInitiator.rulesStrings.0>
+	<Rape_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 자지를 발로 애무하도록 강요당함.</Rape_Footjob.logRulesRecipient.rulesStrings.0>
+	<Rape_Footjob.modExtensions.0.RMBLabel>발로 능욕당함.</Rape_Footjob.modExtensions.0.RMBLabel>
+
+</LanguageData>

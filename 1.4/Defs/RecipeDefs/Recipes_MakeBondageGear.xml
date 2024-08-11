@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<RecipeDef Abstract="True" Name="MakeBondageGear">
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<workSkill>Crafting</workSkill>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeCrudeBondageGear" ParentName="MakeBondageGear">
+		<recipeUsers>
+			<li>CraftingSpot</li>
+			<li>TableMachining</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeStandardBondageGear" ParentName="MakeBondageGear">
+		<soundWorking>Recipe_Machining</soundWorking>
+		<recipeUsers>
+			<li>TableMachining</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeAdvancedBondageGear" ParentName="MakeBondageGear">
+		<soundWorking>Recipe_Machining</soundWorking>
+		<recipeUsers>
+			<li>FabricationBench</li>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeAdvancedBondageGear">
+		<defName>MakeHololock</defName>
+		<label>make hololock</label>
+		<description>Make a hololock.</description>
+		<jobString>Making hololock.</jobString>
+		<effectWorking>Cook</effectWorking>
+		<workAmount>9000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentIndustrial</li>
+					</thingDefs>
+				</filter>
+				<count>4</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Jade</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Plasteel</li>
+				<li>ComponentIndustrial</li>
+				<li>Jade</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Hololock>1</Hololock>
+		</products>
+		<skillRequirements>
+			<Crafting>6</Crafting>
+		</skillRequirements>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeStandardBondageGear">
+		<defName>MakePrisonerChains</defName>
+		<label>make chains</label>
+		<description>Make a restricvive chains.</description>
+		<jobString>Making chains.</jobString>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<effectWorking>Smith</effectWorking>
+		<workAmount>4000</workAmount>
+		<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>ResourcesRaw</li>
+					</categories>
+				</filter>
+				<count>50</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hololock</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Silver</li>
+				<li>Gold</li>
+				<li>Steel</li>
+				<li>Plasteel</li>
+				<li>Hololock</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<PrisonerChains>1</PrisonerChains>
+		</products>
+		<skillRequirements>
+			<Crafting>5</Crafting>
+		</skillRequirements>
+	</RecipeDef>
+</Defs>

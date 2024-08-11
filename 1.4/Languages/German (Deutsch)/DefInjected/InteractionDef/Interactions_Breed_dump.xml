@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForcedFellatioBreeding.label>Orale Paarung</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Fickte Maul von [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Wurde in den Mund gefickt.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>Erbetene Paarung</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] präsentierte sich [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Präsentierte sich [INITIATOR_nameDef].</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

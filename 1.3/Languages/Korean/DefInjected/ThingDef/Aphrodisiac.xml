@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Aphrodisiac.label>최음제</Aphrodisiac.label>
+	<Aphrodisiac.description>최음버섯으로 만든 흡연 마약</Aphrodisiac.description>
+	<Aphrodisiac.ingestible.ingestCommandString>{0}을 흡연</Aphrodisiac.ingestible.ingestCommandString>
+	<Aphrodisiac.ingestible.ingestReportString>{0}을 흡연하는 중</Aphrodisiac.ingestible.ingestReportString>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IUD.label>Внутриматочная спираль</RJW_IUD.label>
+  <RJW_IUD.description>Маленькая металлическая спираль, которую помещают внутрь матки во избежание беременности.</RJW_IUD.description>
+
+  <IncreasedFertility.label>Повышенная фертильность</IncreasedFertility.label>
+  <IncreasedFertility.description>Повышенная фертильность. Пора делать детей.</IncreasedFertility.description>
+
+  <DecreasedFertility.label>Низкая фертильность</DecreasedFertility.label>
+  <DecreasedFertility.description>Плохо это, или нет решать вам.</DecreasedFertility.description>
+
+  <ImpregnationBlocker.label>Архо-тек блокиратор</ImpregnationBlocker.label>
+  <ImpregnationBlocker.description>Продвинутое устройство, блокирующее производство яйцеклеток яичниками.</ImpregnationBlocker.description>
+
+  <FertilityEnhancer.label>Архо-тек усилитель фертильности</FertilityEnhancer.label>
+  <FertilityEnhancer.description>Продвинутое устройство, повышающее шанс беременности.</FertilityEnhancer.description>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Breeding/rape -->
+<AnalBreeding.label>Анальне розмноження</AnalBreeding.label>
+<AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Спробував злучитися в анус з [RECIPIENT_nameDef].</AnalBreeding.logRulesInitiator.rulesStrings.0>
+<AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Анально злучився з [INITIATOR_nameDef].</AnalBreeding.logRulesRecipient.rulesStrings.0>
+<VaginalBreeding.label>Вагінальне розмноження</VaginalBreeding.label>
+<VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Злучився з [RECIPIENT_nameDef] вагінально.</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+<VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Лягла під [INITIATOR_nameDef].</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+<OralBreeding.label>Оральне розмноження</OralBreeding.label>
+<OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Змушує [RECIPIENT_nameDef] відлизувати.</OralBreeding.logRulesInitiator.rulesStrings.0>
+<OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Відлизує у [INITIATOR_nameDef].</OralBreeding.logRulesRecipient.rulesStrings.0>
+<!-- Another rare one, but needed to get the icons working right. -->
+<FingeringBreeding.label>Фінгерінг</FingeringBreeding.label>
+<FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Вставляє свої пальці в [RECIPIENT_nameDef].</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+<FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->В ній побешкетували пальці [INITIATOR_nameDef].</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+<ForcedOralBreeding.label>Примусове оральне розмноження</ForcedOralBreeding.label>
+<ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Змусив [RECIPIENT_nameDef] взяти в рот.</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+<ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Змусили взяти в рот.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+<!-- invitation "Female" breeding -->
+<RequestVaginalBreeding.label>Вагінальне розмноження</RequestVaginalBreeding.label>
+<RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] показує свою вагіну [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+<RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] бачить вагіну.</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+<RequestAnalBreeding.label>Анальне розмноження</RequestAnalBreeding.label>
+<RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] показує свій анус [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+<RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] бачить анус.</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+</LanguageData>

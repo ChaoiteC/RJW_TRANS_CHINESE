@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef>	<!-- not used? -->
+		<defName>ForcedFellatioBreeding</defName>
+		<label>Service oraly</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>UI/Commands/Breeding_Animal_off</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Face fucked [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was face fucked.</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed anally</RMBLabelM>
+				<RMBLabelF>request anal breeding</RMBLabelF>
+				<tags>
+					<li>Oral</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Oral</li>
+				</r_tags>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef>
+		<defName>RequestBreeding</defName>
+		<label>vaginal breeding</label>
+		<workerClass>rjw.InteractionWorker_VaginalSexAttempt</workerClass>
+		<symbol>UI/Commands/Breeding_Animal_off</symbol>
+		<socialFightBaseChance>0.0</socialFightBaseChance>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed anally</RMBLabelM>
+				<RMBLabelF>request anal breeding</RMBLabelF>
+				<tags>
+					<li>Vaginal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

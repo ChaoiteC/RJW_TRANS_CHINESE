@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_pregnancy.label>임신</RJW_pregnancy.label>
+	<RJW_pregnancy.description>배에 아기가 있습니다.</RJW_pregnancy.description>
+	<RJW_pregnancy.stages.0.label>초기(1/4)</RJW_pregnancy.stages.0.label>
+	<RJW_pregnancy.stages.1.label>중기(2/4)</RJW_pregnancy.stages.1.label>
+	<RJW_pregnancy.stages.2.label>후기(3/4)</RJW_pregnancy.stages.2.label>
+	<RJW_pregnancy.stages.3.label>만삭(4/4)</RJW_pregnancy.stages.3.label>
+
+	<RJW_pregnancy_beast.label>임신</RJW_pregnancy_beast.label>
+	<RJW_pregnancy_beast.description>배에 아기가 있습니다.</RJW_pregnancy_beast.description>
+	<RJW_pregnancy_beast.stages.0.label>초기(1/4)</RJW_pregnancy_beast.stages.0.label>
+	<RJW_pregnancy_beast.stages.1.label>중기(2/4)</RJW_pregnancy_beast.stages.1.label>
+	<RJW_pregnancy_beast.stages.2.label>후기(3/4)</RJW_pregnancy_beast.stages.2.label>
+	<RJW_pregnancy_beast.stages.3.label>만삭(4/4)</RJW_pregnancy_beast.stages.3.label>
+
+	<RJW_pregnancy_mech.label>임신</RJW_pregnancy_mech.label>
+	<RJW_pregnancy_mech.description>배에 아기가 있습니다.</RJW_pregnancy_mech.description>
+	<RJW_pregnancy_mech.stages.0.label>초기(1/4)</RJW_pregnancy_mech.stages.0.label>
+	<RJW_pregnancy_mech.stages.1.label>중기(2/4)</RJW_pregnancy_mech.stages.1.label>
+	<RJW_pregnancy_mech.stages.2.label>후기(3/4)</RJW_pregnancy_mech.stages.2.label>
+	<RJW_pregnancy_mech.stages.3.label>만삭(4/4)</RJW_pregnancy_mech.stages.3.label>
+
+</LanguageData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--Sexuality card-->
+	<SexcardTooltip>Show sexuality</SexcardTooltip>
+	<Quirks>Quirks: </Quirks>
+	<NoQuirks>No Quirks, vanilla.</NoQuirks>
+	<MessyQuirk><![CDATA[
+{pawn} not only produces copious amounts of fluid during sex but {pawn_pronoun} rarely bothers to clean {pawn_possessive}self afterwards.
+]]></MessyQuirk>
+	<PodophileQuirk><![CDATA[
+{pawn} really likes feet and prefers foot-related sex acts.
+]]></PodophileQuirk>
+	<CumslutQuirk><![CDATA[
+{pawn} really likes cum and prefers fellatio sex acts.
+]]></CumslutQuirk>
+	<ButtslutQuirk><![CDATA[
+{pawn} really likes getting fucked in the butt and prefers anal sex acts.
+]]></ButtslutQuirk>
+	<TeratophileQuirk><![CDATA[
+{pawn} prefers ugly partners. {pawn_pronoun} would also prefer larger and wilder animals if {pawn_pronoun} were into that sort of thing...
+]]></TeratophileQuirk>
+	<EndytophileQuirk><![CDATA[
+{pawn} prefers to keep {pawn_possessive} clothes on during sex.
+]]></EndytophileQuirk>
+	<ExhibitionistQuirk><![CDATA[
+{pawn} enjoys having sex where others can see.
+]]></ExhibitionistQuirk>
+	<GerontophileQuirk><![CDATA[
+{pawn} prefers older partners (55+ on a human scale).
+]]></GerontophileQuirk>
+	<SomnophileQuirk><![CDATA[
+{pawn} prefers {pawn_possessive} partners to be asleep
+]]></SomnophileQuirk>
+	<SapiosexualQuirk><![CDATA[
+{pawn} prefers smart partners.
+]]></SapiosexualQuirk>
+	<FertileQuirk><![CDATA[
+{pawn} has unusually high fertility and so is more likely to have children.
+]]></FertileQuirk>
+	<InfertileQuirk><![CDATA[
+{pawn} has unusually low fertility and so is unlikely to have children.
+]]></InfertileQuirk>
+	<ImpregnationFetishQuirk><![CDATA[
+{pawn} really likes the idea of someone becoming pregnant. {pawn_pronoun} prefers partners and sex positions where there is a possibility of pregnancy. {pawn_pronoun} doesn't care if {pawn_pronoun} is getting pregnant or {pawn_possessive} partner is as long as babby is formed.
+]]></ImpregnationFetishQuirk>
+	<PregnancyFetishQuirk><![CDATA[
+{pawn} prefers partners who are visibly pregnant.
+]]></PregnancyFetishQuirk>
+	<IncubatorQuirk><![CDATA[
+{pawn} has birthed so many eggs that {pawn_possessive} body has adapted to handling them. {pawn_possessive} egg incubation speed has increased.
+]]></IncubatorQuirk>
+	<BreederQuirk><![CDATA[
+{pawn} has given birth so many times that {pawn_possessive} body has adapted to breeding. {pawn_possessive} pregnancies are shorter and produce more offspring.
+]]></BreederQuirk>
+	<VigorousQuirk><![CDATA[
+{pawn} is invigorated by sex. {pawn_pronoun} does not get tired as much during sex.
+]]></VigorousQuirk>
+	<ChitinLoverQuirk><![CDATA[
+{pawn} enjoys the smooth strength of a chitinous exoskeleton. {pawn_pronoun} prefers arachnoid or insectoid partners.
+]]></ChitinLoverQuirk>
+	<DemonLoverQuirk><![CDATA[
+{pawn} is after the naughty ones. {pawn_pronoun} prefers {pawn_possessive} partners to come from the literal depths of hell, or at least look the part.
+]]></DemonLoverQuirk>
+	<FeatherLoverQuirk><![CDATA[
+{pawn} loves that downy fluff. {pawn_pronoun} prefers avian or dinosaur partners. Because dinosaurs are birds and have feathers, as {pawn_pronoun} will explain at great length if given a chance.
+]]></FeatherLoverQuirk>
+	<FurLoverQuirk><![CDATA[
+{pawn} prefers a partner with a thick, luxurious, snuggly-soft coat of fur.
+]]></FurLoverQuirk>
+	<PlantLoverQuirk><![CDATA[
+{pawn} likes watering plants. If you know what I mean.
+]]></PlantLoverQuirk>
+	<RobotLoverQuirk><![CDATA[
+Which is better, 2D or 3D? {pawn} knows that 3D-printed gives you the best of both worlds.
+]]></RobotLoverQuirk>
+	<ScaleLoverQuirk><![CDATA[
+Who wouldn't want to fuck a dragon? Definitely not {pawn}. {pawn} wants to fuck a dragon.
+]]></ScaleLoverQuirk>
+	<SkinLoverQuirk><![CDATA[
+{pawn} prefers {pawn_possessive} partners to have smooth sensitive skin without fur or scales getting in the way. Lucky for {pawn_objective} humans are all over the place.
+]]></SkinLoverQuirk>
+	<SlimeLoverQuirk><![CDATA[
+Because of their slippery and malleable nature slimes are very, very good at sex. As you will hear over and over if you listen to {pawn} talk for any length of time.
+]]></SlimeLoverQuirk>
+	<SexPartWants>Wants to be: </SexPartWants>
+</LanguageData>

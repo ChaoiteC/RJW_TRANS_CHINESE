@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- THese are all the same, the flavor text is different -->
+
+  <hediff_male2trap.label>male2trap</hediff_male2trap.label>
+  <hediff_male2trap.description>Your description could be here.</hediff_male2trap.description>
+  <hediff_male2trap.stages.0.label>ignorância</hediff_male2trap.stages.0.label>
+  <hediff_male2trap.stages.1.label>aceitação</hediff_male2trap.stages.1.label>
+  <hediff_male2trap.stages.2.label>tristeza</hediff_male2trap.stages.2.label>
+  <hediff_male2trap.stages.3.label>fúria</hediff_male2trap.stages.3.label>
+  <hediff_male2trap.stages.4.label>rejeição</hediff_male2trap.stages.4.label>
+
+  <hediff_male2female.label>male2female</hediff_male2female.label>
+  <hediff_male2female.description>Your description could be here.</hediff_male2female.description>
+  <hediff_male2female.stages.0.label>ignorância</hediff_male2female.stages.0.label>
+  <hediff_male2female.stages.1.label>aceitação</hediff_male2female.stages.1.label>
+  <hediff_male2female.stages.2.label>tristeza</hediff_male2female.stages.2.label>
+  <hediff_male2female.stages.3.label>fúria</hediff_male2female.stages.3.label>
+  <hediff_male2female.stages.4.label>rejeição</hediff_male2female.stages.4.label>
+
+  <hediff_male2futa.label>male2futa</hediff_male2futa.label>
+  <hediff_male2futa.description>Your description could be here.</hediff_male2futa.description>
+  <hediff_male2futa.stages.0.label>ignorância</hediff_male2futa.stages.0.label>
+  <hediff_male2futa.stages.1.label>aceitação</hediff_male2futa.stages.1.label>
+  <hediff_male2futa.stages.2.label>tristeza</hediff_male2futa.stages.2.label>
+  <hediff_male2futa.stages.3.label>fúria</hediff_male2futa.stages.3.label>
+  <hediff_male2futa.stages.4.label>rejeição</hediff_male2futa.stages.4.label>
+
+  <hediff_female2trap.label>female2trap</hediff_female2trap.label>
+  <hediff_female2trap.description>Your description could be here.</hediff_female2trap.description>
+  <hediff_female2trap.stages.0.label>ignorância</hediff_female2trap.stages.0.label>
+  <hediff_female2trap.stages.1.label>aceitação</hediff_female2trap.stages.1.label>
+  <hediff_female2trap.stages.2.label>tristeza</hediff_female2trap.stages.2.label>
+  <hediff_female2trap.stages.3.label>fúria</hediff_female2trap.stages.3.label>
+  <hediff_female2trap.stages.4.label>rejeição</hediff_female2trap.stages.4.label>
+
+  <hediff_female2male.label>female2male</hediff_female2male.label>
+  <hediff_female2male.description>Your description could be here.</hediff_female2male.description>
+  <hediff_female2male.stages.0.label>ignorância</hediff_female2male.stages.0.label>
+  <hediff_female2male.stages.1.label>aceitação</hediff_female2male.stages.1.label>
+  <hediff_female2male.stages.2.label>tristeza</hediff_female2male.stages.2.label>
+  <hediff_female2male.stages.3.label>fúria</hediff_female2male.stages.3.label>
+  <hediff_female2male.stages.4.label>rejeição</hediff_female2male.stages.4.label>
+
+  <hediff_female2futa.label>female2futa</hediff_female2futa.label>
+  <hediff_female2futa.description>Your description could be here.</hediff_female2futa.description>
+  <hediff_female2futa.stages.0.label>ignorância</hediff_female2futa.stages.0.label>
+  <hediff_female2futa.stages.1.label>aceitação</hediff_female2futa.stages.1.label>
+  <hediff_female2futa.stages.2.label>tristeza</hediff_female2futa.stages.2.label>
+  <hediff_female2futa.stages.3.label>fúria</hediff_female2futa.stages.3.label>
+  <hediff_female2futa.stages.4.label>rejeição</hediff_female2futa.stages.4.label>
+
+  <hediff_futa2trap.label>futa2trap</hediff_futa2trap.label>
+  <hediff_futa2trap.description>Your description could be here.</hediff_futa2trap.description>
+  <hediff_futa2trap.stages.0.label>ignorância</hediff_futa2trap.stages.0.label>
+  <hediff_futa2trap.stages.1.label>aceitação</hediff_futa2trap.stages.1.label>
+  <hediff_futa2trap.stages.2.label>tristeza</hediff_futa2trap.stages.2.label>
+  <hediff_futa2trap.stages.3.label>fúria</hediff_futa2trap.stages.3.label>
+  <hediff_futa2trap.stages.4.label>rejeição</hediff_futa2trap.stages.4.label>
+
+  <hediff_futa2male.label>futa2male</hediff_futa2male.label>
+  <hediff_futa2male.description>Your description could be here.</hediff_futa2male.description>
+  <hediff_futa2male.stages.0.label>ignorância</hediff_futa2male.stages.0.label>
+  <hediff_futa2male.stages.1.label>aceitação</hediff_futa2male.stages.1.label>
+  <hediff_futa2male.stages.2.label>tristeza</hediff_futa2male.stages.2.label>
+  <hediff_futa2male.stages.3.label>fúria</hediff_futa2male.stages.3.label>
+  <hediff_futa2male.stages.4.label>rejeição</hediff_futa2male.stages.4.label>
+
+  <hediff_futa2female.label>futa2female</hediff_futa2female.label>
+  <hediff_futa2female.description>Your description could be here.</hediff_futa2female.description>
+  <hediff_futa2female.stages.0.label>ignorância</hediff_futa2female.stages.0.label>
+  <hediff_futa2female.stages.1.label>aceitação</hediff_futa2female.stages.1.label>
+  <hediff_futa2female.stages.2.label>tristeza</hediff_futa2female.stages.2.label>
+  <hediff_futa2female.stages.3.label>fúria</hediff_futa2female.stages.3.label>
+  <hediff_futa2female.stages.4.label>rejeição</hediff_futa2female.stages.4.label>
+
+  <hediff_trap2futa.label>trap2futa</hediff_trap2futa.label>
+  <hediff_trap2futa.description>Your description could be here.</hediff_trap2futa.description>
+  <hediff_trap2futa.stages.0.label>ignorância</hediff_trap2futa.stages.0.label>
+  <hediff_trap2futa.stages.1.label>aceitação</hediff_trap2futa.stages.1.label>
+  <hediff_trap2futa.stages.2.label>tristeza</hediff_trap2futa.stages.2.label>
+  <hediff_trap2futa.stages.3.label>fúria</hediff_trap2futa.stages.3.label>
+  <hediff_trap2futa.stages.4.label>rejeição</hediff_trap2futa.stages.4.label>
+
+  <hediff_trap2male.label>trap2male</hediff_trap2male.label>
+  <hediff_trap2male.description>Your description could be here.</hediff_trap2male.description>
+  <hediff_trap2male.stages.0.label>ignorância</hediff_trap2male.stages.0.label>
+  <hediff_trap2male.stages.1.label>aceitação</hediff_trap2male.stages.1.label>
+  <hediff_trap2male.stages.2.label>tristeza</hediff_trap2male.stages.2.label>
+  <hediff_trap2male.stages.3.label>fúria</hediff_trap2male.stages.3.label>
+  <hediff_trap2male.stages.4.label>rejeição</hediff_trap2male.stages.4.label>
+
+  <hediff_trap2female.label>trap2female</hediff_trap2female.label>
+  <hediff_trap2female.description>Your description could be here.</hediff_trap2female.description>
+  <hediff_trap2female.stages.0.label>ignorância</hediff_trap2female.stages.0.label>
+  <hediff_trap2female.stages.1.label>aceitação</hediff_trap2female.stages.1.label>
+  <hediff_trap2female.stages.2.label>tristeza</hediff_trap2female.stages.2.label>
+  <hediff_trap2female.stages.3.label>fúria</hediff_trap2female.stages.3.label>
+  <hediff_trap2female.stages.4.label>rejeição</hediff_trap2female.stages.4.label>
+
+
+  <!-- hidden hediffs to track original sex -->
+
+  <hediff_was_boy.label>was_boy</hediff_was_boy.label>
+  <hediff_was_boy.description>Mudou sexo</hediff_was_boy.description>
+
+  <hediff_was_girl.label>was_girl</hediff_was_girl.label>
+  <hediff_was_girl.description>Mudou sexo</hediff_was_girl.description>
+
+
+  <!-- whatever this may mean: -->
+
+  <hediff_was_futa.label>was_futa</hediff_was_futa.label>
+  <hediff_was_futa.description>Mudou sexo</hediff_was_futa.description>
+
+  <hediff_was_trap.label>was_trap</hediff_was_trap.label>
+  <hediff_was_trap.description>Mudou sexo</hediff_was_trap.description>
+
+
+</LanguageData>

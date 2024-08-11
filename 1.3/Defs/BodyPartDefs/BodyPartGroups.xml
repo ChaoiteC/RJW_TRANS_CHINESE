@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <BodyPartGroupDef>
+    <defName>ChestBPG</defName>
+    <label>chest</label>
+    <listOrder>99</listOrder>
+  </BodyPartGroupDef>
+
+  <BodyPartGroupDef>
+    <defName>FlankBPG</defName>
+    <label>flank</label>
+    <listOrder>98</listOrder>
+  </BodyPartGroupDef>
+
+  <BodyPartGroupDef>
+    <defName>GenitalsBPG</defName>
+    <label>genitals</label>
+    <listOrder>49</listOrder>
+  </BodyPartGroupDef>
+
+  <BodyPartGroupDef>
+    <defName>AnusBPG</defName>
+    <label>anus</label>
+    <listOrder>48</listOrder>
+  </BodyPartGroupDef>
+
+</Defs>

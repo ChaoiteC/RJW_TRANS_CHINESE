@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Aphrodisiac.label>Наркотик-афродизіак</Aphrodisiac.label>
+<Aphrodisiac.description>Курильний наркотик, зроблений з особливого гриба.</Aphrodisiac.description>
+<Aphrodisiac.ingestible.ingestCommandString>Викурити {0}</Aphrodisiac.ingestible.ingestCommandString>
+<Aphrodisiac.ingestible.ingestReportString>Курить {0}.</Aphrodisiac.ingestible.ingestReportString>
+</LanguageData>

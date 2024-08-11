@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawns with ovi's plant egg. -->
+
+  <RJW_InsectEgg.label>Ei</RJW_InsectEgg.label>
+  <RJW_InsectEgg.description>Parasitische(s) Ei(er) welches in seinen Wirt ausbrütet und sich von dessen Nährstoffen nährt. Sei nur froh das es nicht deinen Oberkörper zerstört wenn es schlüpft.</RJW_InsectEgg.description>
+
+
+  <!-- Placeholder egg/unsupported/any races -->
+
+  <RJW_UnknownEgg.label>Ei</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>Parasitische(s) Ei(er) welches in seinen Wirt ausbrütet und sich von dessen Nährstoffen nährt. Sei nur froh das es nicht deinen Oberkörper zerstört wenn es schlüpft.</RJW_UnknownEgg.description>
+
+
+  <!-- vanilla insects, can fertilize each other -->
+
+  <RJW_InsectHiveEgg.label>Ei</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>Parasitische(s) Ei(er) welches in seinen Wirt ausbrütet und sich von dessen Nährstoffen nährt. Sei nur froh das es nicht deinen Oberkörper zerstört wenn es schlüpft.</RJW_InsectHiveEgg.description>
+
+
+</LanguageData>

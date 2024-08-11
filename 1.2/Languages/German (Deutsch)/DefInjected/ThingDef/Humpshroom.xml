@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <PlantHumpShroom.label>Bumspilz</PlantHumpShroom.label>
+  <PlantHumpShroom.description>Dicker Pilz mit hartem fleisch, dickem Saft und weicher, glatter Haut. Setzt bei Konsum potenzsteigernde Wirkungen frei.</PlantHumpShroom.description>
+
+
+  <!-- Consumable item -->
+
+  <HumpShroom.label>Bumspilz</HumpShroom.label>
+  <HumpShroom.description>Dicker Pilz mit hartem fleisch, dickem Saft und weicher, glatter Haut. Setzt bei Konsum potenzsteigernde Wirkungen frei.</HumpShroom.description>
+
+
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+	<!-- Mechanoids, maybe even modded -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BodyDef/corePart[def = "MechanicalThorax"]/parts</xpath>
+		<value>
+			<li>
+				<def>MechGenitals</def>
+				<coverage>0.001</coverage>
+				<depth>Inside</depth>
+			</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BodyDef/corePart[def = "MechanicalThoraxCanManipulate"]/parts</xpath>
+		<value>
+			<li>
+				<def>MechGenitals</def>
+				<coverage>0.001</coverage>
+				<depth>Inside</depth>
+			</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BodyDef/corePart[def = "MechanicalCentipedeBodyFirstRing"]/parts/li[def = "MechanicalCentipedeBodySecondRing"]/parts</xpath>
+		<value>
+			<li>
+				<def>MechGenitals</def>
+				<coverage>0.001</coverage>
+				<depth>Inside</depth>
+			</li>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BodyDef/corePart[def = "MechanicalTermiteBodyFirstRing"]/parts/li[def = "MechanicalTermiteBodySecondRing"]/parts</xpath>
+		<value>
+			<li>
+				<def>MechGenitals</def>
+				<coverage>0.001</coverage>
+				<depth>Inside</depth>
+			</li>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/BodyDef/corePart[def = "MechanicalDiabolusBodyFirstRing"]/parts</xpath>
+			<value>
+				<li>
+					<def>MechGenitals</def>
+					<coverage>0.001</coverage>
+					<depth>Inside</depth>
+				</li>
+			</value>
+		</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/BodyDef/corePart[def = "MechanicalWarqueenBodyFirstRing"]/parts/li[def = "MechanicalWarqueenBodySecondRing"]/parts</xpath>
+			<value>
+				<li>
+					<def>MechGenitals</def>
+					<coverage>0.001</coverage>
+					<depth>Inside</depth>
+				</li>
+			</value>
+		</match>
+	</Operation>
+</Patch>

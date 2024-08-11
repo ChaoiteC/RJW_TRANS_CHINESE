@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-model href="RJW_Interaction.xsd"?>	<!-- < Use Visual Studio Code + XML Extension(redhat.vscode-xml) for validation > -->
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>rjw_interaction_template</defName>
+		<label>rjw_interaction_template</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->had sex with [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->had sex with [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>template</RMBLabel>
+				<rjwSextype>None</rjwSextype>	<!-- < None - not selectable > -->
+				<rulepack_defs>	<!-- < select random > -->
+					<li>VaginalSexRP</li>
+					<li>AnalSexRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>Whoring</li>
+					<li>Consensual</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+						<li>Unconscious</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

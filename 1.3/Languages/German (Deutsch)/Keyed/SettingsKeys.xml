@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings-->
+  <RJWSettingsOne>RimJobWorld - Grundeinstellungen</RJWSettingsOne>
+  <NymphTamed>Nymphoman tritt bei</NymphTamed>
+  <NymphTamed_desc>Jemand der die Hypersexuell Eigenschaft besitzt tritt der Kolonie bei.</NymphTamed_desc>
+  <NymphWild>Wilder Nymphoman</NymphWild>
+  <NymphWild_desc>Event: Wilde Hyperseuelle können die Kolonie angreifen.</NymphWild_desc>
+  <NymphRaidEasy>Nymphomanen Angriff (leicht)</NymphRaidEasy>
+  <NymphRaidEasy_desc>Ein paar Nymphomanen haben sich entschieden die Kolonie zu besuchen.\nnormale Wahrscheinlichkeit: 0,1</NymphRaidEasy_desc>
+  <NymphRaidHard>Nymphomanen Angriff (schwer)</NymphRaidHard>
+  <NymphRaidHard_desc>Ein paar Nymphomanen wollen die Kolonie übernehmen.\n(Game Over).\nnormale Wahrscheinlichkeit: 0,01</NymphRaidHard_desc>
+  <NymphPermanentManhunter>Permanente Menschenjäger</NymphPermanentManhunter>
+  <NymphPermanentManhunter_desc>Ein Angriff von permanenten Menschenjägern.</NymphPermanentManhunter_desc>
+
+  <FemaleFuta>Aktiviere Futas</FemaleFuta>
+  <FemaleFuta_desc>Weibchen erscheinen als Futas (+ Penis)</FemaleFuta_desc>
+  <MaleTrap>Aktiviere Traps</MaleTrap>
+  <MaleTrap_desc>Männchen erscheinen als Femboys (+ Brüste)</MaleTrap_desc>
+  <male_nymph_chance>Häufigkeit männl. Nymphs</male_nymph_chance>
+  <male_nymph_chance_desc>Wahrscheinlichkeit, die ein Nymph männlich ist. \nMöglicher Bereich: 1 - 100\nGrundeinstellung: 0\nHöherer Wert: höhere Wahrscheinlichkeit</male_nymph_chance_desc>
+  <futa_nymph_chance>Häufigkeit Futa-Nymphs</futa_nymph_chance>
+  <futa_nymph_chance_desc>Wahrscheinlichkeit, die ein Nymph eine Futa ist. \n\nMöglicher Bereich: 0 - 100\nGrundeinstellung: 0</futa_nymph_chance_desc>
+  <futa_natives_chance>Häufigkeit Futa Ureinwohner</futa_natives_chance>
+  <futa_natives_chance_desc>Wahrscheinlichkeit, die ein Ureinwohner eine Futa ist.\n(Industielle Technologie oder niedriger)\n\nMöglicher Bereich: 0 - 100\nGrundeinstellung: 0</futa_natives_chance_desc>
+  <futa_spacers_chance>Häufigkeit Futa Spacer</futa_spacers_chance>
+  <futa_spacers_chance_desc>Wahrscheinlichkeit, die ein Spacer eine Futa ist.\n\nMöglicher Bereich: 0 - 100\nGrundeinstellung: 50</futa_spacers_chance_desc>
+
+  <sexneed_decay_rate_name>Sex Bedürfnisverfall (%)</sexneed_decay_rate_name>
+  <sexneed_decay_rate_desc>Modifiziert die Geschwindigkeit mit der das Bedürfnis für Sex sinkt. Bei 0% sinkt Sexbedürfnis gar nicht.</sexneed_decay_rate_desc>
+  <SexMinimumAge>Mindestalter für Sex</SexMinimumAge>
+  <SexMinimumAge_desc>Nur Leute älter als hier festgelegt können Sex haben.</SexMinimumAge_desc>
+  <SexFreeForAllAge>Schutzalter</SexFreeForAllAge>
+  <SexFreeForAllAge_desc>Leute jünger als hier festgelegt können nur mit Leuten mit maximal 2 Jahren Altersunterschied verkehren.</SexFreeForAllAge_desc>
+
+  <bestiality_enabled>Aktiviere Bestiality</bestiality_enabled>
+  <bestiality_enabled_desc>Aktiviere Verkehr mit Tieren. Die einen lieben es, die anderen nicht.</bestiality_enabled_desc>
+  <animal_on_animal_enabled>Aktiviere Tier-zu-Tier.</animal_on_animal_enabled>
+  <animal_on_animal_enabled_desc>Aktiviert Artübergreifenden Sex zwischen Tieren, was in Schwangerschafen enden kann. Tiere werden mit artgleichen Partnern verkehren, unabhängig von dieser Einstellung.</animal_on_animal_enabled_desc>
+  <necrophilia_enabled>Aktiviere Nekrophilie</necrophilia_enabled>
+  <necrophilia_enabled_desc>Aktiviert Sex mit Leichen. Nur möglich für Leute mit der Necrophil oder Psychopat Eigenschaft.</necrophilia_enabled_desc>
+  <sounds_enabled>Aktiviere RJW Töne</sounds_enabled>
+  <sounds_enabled_desc>Aktiviert RJW-spezifische Soundeffekte. Nutzlos wenn RimWorld Toneinstellungen stumm sind.</sounds_enabled_desc>
+  <sounds_sex_volume>Sex Lautstärke</sounds_sex_volume>
+  <sounds_sex_volume_desc>Ändere Sex Lautstärke</sounds_sex_volume_desc>
+  <sounds_cum_volume>Cum Lautstärke</sounds_cum_volume>
+  <sounds_cum_volume_desc>Ändere Cum Lautstärke</sounds_cum_volume_desc>
+  <sounds_voice_volume>Stimme Lautstärke</sounds_voice_volume>
+  <sounds_voice_volume_desc>Ändere Stimme Lautstärke</sounds_voice_volume_desc>
+  <sounds_orgasm_volume>Orgasmus Lautstärke</sounds_orgasm_volume>
+  <sounds_orgasm_volume_desc>Ändere Orgasmus Lautstärke</sounds_orgasm_volume_desc>
+
+  <cum_filth>Aktiviere Ejakulat</cum_filth>
+  <cum_filth_desc>Aktiviert Spritzer von Masturbation als neuen Schmutztyp, welcher bei erotischem Verkehr produziert wird.</cum_filth_desc>
+  <cum_on_body>Ejakulat auf dem Körper</cum_on_body>
+  <cum_on_body_desc>Aktiviert Ejakulat als Hediff zusammen mit den zugehörigen Grafiken.</cum_on_body_desc>
+  <cum_on_body_amount_adjust>Ejakulatsmenge am Körper</cum_on_body_amount_adjust>
+  <cum_on_body_amount_adjust_desc>Sämtliches Ejakulat auf Körpern wird um diese Menge multipliziert.</cum_on_body_amount_adjust_desc>
+  <cum_overlays>Ejakulat Sichtbarkeit</cum_overlays>
+  <cum_overlays_desc>Aktiviert sichtbares Ejakulat.</cum_overlays_desc>
+
+  <STD_enabled>Aktiviere STDs</STD_enabled>
+  <STD_enabled_desc>Aktiviert sexuell übertragbare Krankheiten.</STD_enabled_desc>
+  <STD_FromFloors>STDs von Umgebung</STD_FromFloors>
+  <STD_FromFloors_desc>Leute können sich Geschlechtskrankheiten von schmuziger Umgebung einfangen.</STD_FromFloors_desc>
+
+  <RPG_hero_control_name>Helden Modus</RPG_hero_control_name>
+  <RPG_hero_control_desc>Der Spieler kann einen Colonisten als seinen Avatar wählen und bekommt direkte, unbeschränkte Kontrolle über ihn.</RPG_hero_control_desc>
+  <RPG_hero_control_HC_name>Helden Modus (HC)</RPG_hero_control_HC_name>
+  <RPG_hero_control_HC_desc>HARDCORE: Spieler kann nur einen Helden kontrolieren, hol dir Gleitmittel, du wirst einiges brauchen./n(intended for multiplayer)</RPG_hero_control_HC_desc>
+  <RPG_hero_control_Ironman_name>Heldenmodus (Mann aus Stahl)</RPG_hero_control_Ironman_name>
+  <RPG_hero_control_Ironman_desc>HARDCORE: Der Spieler kann nur einen einzigen Helden in diesem Spielstand wählen</RPG_hero_control_Ironman_desc>
+
+  <!-- Rape stuff-->
+  <designated_freewill>Freier Wille für CPs</designated_freewill>
+  <designated_freewill_desc>Leute welche für CP festgelegt wurden können von sich aus Sex initiieren.</designated_freewill_desc>
+  <rape_enabled>Aktiviere Vergewaltigungen</rape_enabled>
+  <rape_enabled_desc>Aktiviert Vergewaltigungen und macht RJW damit um einiges realistischer.</rape_enabled_desc>
+  <PrisonersBeating>Vergewaltiger Prügeln</PrisonersBeating>
+  <PrisonersBeating_desc>Vergewaltiger werden ihre Opfer während dem Akt verletzen.</PrisonersBeating_desc>
+  <GentlePrisonersBeating>Senpai! Bitte, sei nicht zu grob!</GentlePrisonersBeating>
+  <GentlePrisonersBeating_desc>Verringert Prügelschaden auf ~0-1.</GentlePrisonersBeating_desc>
+  <rape_stripping>Entkleide Opfer</rape_stripping>
+  <rape_stripping_desc>Ziehe Vergewaltigungsopfer aus</rape_stripping_desc>
+  <ColonistCanCP>Aktiviere CP Vergewaltigungen durch Colonisten</ColonistCanCP>
+  <ColonistCanCP_desc>Kolonisten ist es erlaubt die festgelegten Personen zu benutzen.</ColonistCanCP_desc>
+  <VisitorsCanCP>CP Vergewaltigungen durch Besucher</VisitorsCanCP>
+  <VisitorsCanCP_desc>Besuchern wird die Vergewaltigung von, dafür vorgesehenen, Gefangenen gestattet.</VisitorsCanCP_desc>
+  <AnimalsCanCP>Aktiviere CP Vergewaltigungen durch Tiere</AnimalsCanCP>
+  <AnimalsCanCP_desc>Tieren wird die Vergewaltigung von festgelegten Gefangenen gestattet. Benötigt Zoophilie aktiviert.</AnimalsCanCP_desc>
+  <NonFutaWomenRaping_MaxVulnerability>Frauen vergewaltigen (%)</NonFutaWomenRaping_MaxVulnerability>
+  <NonFutaWomenRaping_MaxVulnerability_desc>Nur Frauen mit weniger Anfälligkeit als eingestellt können vergewaltigen.<br /><br />Zur Überprüfung der Anfälligkeit einer Person sehen sie in dessen Statistiken im Informationstab nach. Valider Bereich: 0 - 300%</NonFutaWomenRaping_MaxVulnerability_desc>
+  <Rapee_MinVulnerability_human>Anfälligkeit Mensch (%)</Rapee_MinVulnerability_human>
+  <Rapee_MinVulnerability_human_desc>Menschen mit einer größeren Anfälligkeit als das können vergewaltigt werden. Den genauen Wert jeder Kreatur können sie in deren Statistiken im Informationstab einsehen. Valider Bereich: 0 - 300%</Rapee_MinVulnerability_human_desc>
+  <Rapee_MinVulnerability_animals>Anfälligkeit Tier (%)</Rapee_MinVulnerability_animals>
+  <Rapee_MinVulnerability_animals_desc>Tiere mit einer größeren Anfälligkeit als das können von Zoophilen vergewaltigt werden.<br /><br />Den genauen Wert jeder Kreatur können sie in deren Statistiken im Informationstab einsehen. Valider Bereich: 0 - 300%</Rapee_MinVulnerability_animals_desc>
+
+
+  <RJWSettingsFour>RimJobWorld - Gelegeheitssex Einstellungen</RJWSettingsFour>
+  <SettingHookupsEnabled>Aktiviere Hookups (generell)</SettingHookupsEnabled>
+  <SettingHookupsEnabled_desc>Wenn aktiviert können Singles One-Night-Stands mit anderen Singles haben</SettingHookupsEnabled_desc>
+  <SettingQuickHookupsEnabled>Aktiviere Quickies.</SettingQuickHookupsEnabled>
+  <SettingQuickHookupsEnabled_desc>Steuere ob Singles mit anderen Singles Quickies haben dürfen.\nWarnung: dies kann zu häufigen unterbrechungen für arbeitende Leute führen.</SettingQuickHookupsEnabled_desc>
+  <SettingNoHookupsDuringWorkHours>Deaktiviere Hookups in der Arbeitszeit</SettingNoHookupsDuringWorkHours>
+  <SettingNoHookupsDuringWorkHours_desc>Beeinflusst ob Leute während der Arbeitszeit nach Sexpartnern suchen dürfen.\nNyphomanen ignorieren das.</SettingNoHookupsDuringWorkHours_desc>
+  <SettingColonistsCanHookup>Hookups für Kolonisten</SettingColonistsCanHookup>
+  <SettingColonistsCanHookup_desc>Steuere ob es Kolonisten möglich sein soll Gelegenheitssex zu haben</SettingColonistsCanHookup_desc>
+  <SettingColonistsCanHookupWithVisitor>Kolonisten dürfen mit Besuchern anbandeln</SettingColonistsCanHookupWithVisitor>
+  <SettingColonistsCanHookupWithVisitor_desc>Steuere ob Kolonisten mit Besuchern einvernehmlichen Sex haben dürfen.</SettingColonistsCanHookupWithVisitor_desc>
+  <SettingCanHookupWithPrisoner>Nicht-Gefangene dürfen mit Gefangenen</SettingCanHookupWithPrisoner>
+  <SettingCanHookupWithPrisoner_desc>Steuere ob Nicht-Häftlinge einvernehmlichen Sex mit Gefangenen haben dürfen, unabhängig vom "Nutze zur Befriedigung"s-Schaltfläche</SettingCanHookupWithPrisoner_desc>
+  <SettingVisitorsCanHookupWithColonists>Besucher dürfen mit Kolonisten</SettingVisitorsCanHookupWithColonists>
+  <SettingVisitorsCanHookupWithColonists_desc>Steuere ob Besucher auch Kolonisten für Gelegenheitssex aufsuchen dürfen.</SettingVisitorsCanHookupWithColonists_desc>
+  <SettingVisitorsCanHookupWithVisitors>Besucher dürfen mit anderen Besuchern</SettingVisitorsCanHookupWithVisitors>
+  <SettingVisitorsCanHookupWithVisitors_desc>Steuere ob Besucher andere Besucher für Gelegenheitssex aufsuchen dürfen.</SettingVisitorsCanHookupWithVisitors_desc>
+  <SettingPrisonersCanHookupWithNonPrisoner>Gefangene dürfen mit Kolonisten</SettingPrisonersCanHookupWithNonPrisoner>
+  <SettingPrisonersCanHookupWithNonPrisoner_desc>Steuere ob Gefangene auch Nicht-Gefangene als potenzielle Gelegenheitssexpartner aussuchen dürfen.\nNatürlich nur wenn jemand in Reichweite (in ihrer Zelle) ist.</SettingPrisonersCanHookupWithNonPrisoner_desc>
+  <SettingPrisonersCanHookupWithPrisoner>Gefangene dürfen mit Gefangenen</SettingPrisonersCanHookupWithPrisoner>
+  <SettingPrisonersCanHookupWithPrisoner_desc>Steuere ob Gefangene auch andere Gefangene als potenzielle Gelegenheitssexpartner aussuchen dürfen.\nNatürlich nur wenn sie in einander Reichweite (in der gleichen Zelle) sind.</SettingPrisonersCanHookupWithPrisoner_desc>
+  <SettingNymphosCanPickAnyone>Nymphomanen können jeden aussuchen</SettingNymphosCanPickAnyone>
+  <SettingNymphosCanPickAnyone_desc>Steuere ob Hypersexuelle alle Leute als potenzielle Gelegenheitssex-Partner betrachten sollen.\nDie folgenden Einstellungen für Untreue gelten jedoch unabhängig davon.</SettingNymphosCanPickAnyone_desc>
+  <SettingNymphosCanCheat>Nymphos können Fremdgehen</SettingNymphosCanCheat>
+  <SettingNymphosCanCheat_desc>Steuere ob Hypersexuelle Leute ihre Partner betrügen können, wenn sie Sexuell unbefriedigt sind.</SettingNymphosCanCheat_desc>
+  <SettingNymphosCanHomewreck>Nymphos können mit vergebenen Partnern</SettingNymphosCanHomewreck>
+  <SettingNymphosCanHomewreck_desc>Steuere ob Hypersexuelle andere Leute ficken dürfen, welche einen festen Partner haben.</SettingNymphosCanHomewreck_desc>
+  <SettingNymphosCanHomewreckReverse>Nymphos können auch wenn vergeben</SettingNymphosCanHomewreckReverse>
+  <SettingNymphosCanHomewreckReverse_desc>Steuere ob Hypersexuelle Gelegenheitssex akzeptieren auch wenn sie einen festen Partner haben.</SettingNymphosCanHomewreckReverse_desc>
+  <SettingHookupChanceForNonNymphos>Gelegeheitssex Wahrscheinlichkeit pro Stunde (%)</SettingHookupChanceForNonNymphos>
+  <SettingHookupChanceForNonNymphos_desc>Die Wahrscheinlichkeit in welcher ein unbefriedigter Gelegenheitssex sucht.\nWir nur einmal pro Stunde und wenn die Person ZEit hat geprüft. Grundeinstellung: 30%</SettingHookupChanceForNonNymphos_desc>
+  <SettingMinimumFuckabilityToHookup>Minimales Sexgeschick für Hookups</SettingMinimumFuckabilityToHookup>
+  <SettingMinimumFuckabilityToHookup_desc>Legt fest wie attraktiv(RJW) beide Partner sein müssen um Gelegenheitssex in Erwägung zu ziehen.\n Default is 10%.</SettingMinimumFuckabilityToHookup_desc>
+  <SettingMinimumAttractivenessToHookup>Gelegenheitssex minimale Attraktivität</SettingMinimumAttractivenessToHookup>
+  <SettingMinimumAttractivenessToHookup_desc>Steuert wie attraktiv sich zwei Leute gegenseitig finden müssen, um Gelegenheitssex zu akzeptieren. Grundeinstellung: 10%\nAttraktivität ist momentan nur dur "Debug Looging" Sichtbar, es wird Sexuelle Orientierung, gegenseitige Meinung, Eigenschaften, Eigenheiten und Sex Bedürfnis zur Berechnung genutzt.</SettingMinimumAttractivenessToHookup_desc>
+  <SettingMinimumRelationshipToHookup>Gelegenheitssex minimale Zuneigung</SettingMinimumRelationshipToHookup>
+  <SettingMinimumRelationshipToHookup_desc>Steuert wie sehr sich zwei Leute leiden müssen, um Gelegenheitssex zu versuchen. Grundeinstellung: 20\n\n Hypersexuelle &gt; 0.</SettingMinimumRelationshipToHookup_desc>
+
+
+  <RJWDebugSettings>RimJobWorld - Debug</RJWDebugSettings>
+  <!-- debug stuff-->
+  <whoringtab_enabled>Aktiviere Huren Tab</whoringtab_enabled>
+  <submit_button_enabled>"Aufgeben"-Taste bei Leuten im Kampfmodus</submit_button_enabled>
+  <submit_button_enabled_desc>Die "Aufgeben"-Taste lässt Sie den gefährlicheren Teil überspringen und direkt zum erniedrigenden übergehen. Deaktivieren wenn Ihnen Ehre wichtiger ist als Leben.</submit_button_enabled_desc>
+  <RJW_designation_box>Zeige RJW Schaltflächen</RJW_designation_box>
+  <RJW_designation_box_desc>Aktiviert die Sichtbarkeit der RJW Schaltflächen in der Steuerungs GUI.</RJW_designation_box_desc>
+  <StackRjwParts_name>RJW Körperteile stapeln</StackRjwParts_name>
+  <StackRjwParts_desc>Fasst gleichartige RJW Genitalien in der Gesundheitsübersicht zusammen.\n(Name x Anzahl)</StackRjwParts_desc>
+  <maxDistancetowalk_name>Sex maximale Entfernung</maxDistancetowalk_name>
+  <maxDistancetowalk_desc>Legt fest wie viel Aufwand die AI aufweden soll um ein Ziel zu erreichen (PawnPath). Es wird beeinflusst von Hindernissen, Geschwindigkeit und Boden.\n Grundeinstellung 250 ~20 Blöcke.\n\nWenn es kleiner als 100, dann wird Blockentfernung (DistanceToSquared) genutzt. Wahrscheinlich weniger aufwendig als das andere, aber ignoriert Hindernisse (z.B. Wände, Berge), was zu Laufwegen über die halbe Karte führen kann.</maxDistancetowalk_desc>
+
+  <!-- cheat stuff-->
+  <override_RJW_designation_checks_name>Schaltflächen immer nutzbar</override_RJW_designation_checks_name>
+  <override_RJW_designation_checks_desc>Erlaubt es alle Schaltflächen für alle Kolonisten zu nutzen, ignoriert sämtliche übliche Bedingungen\nCHEATER</override_RJW_designation_checks_desc>
+  <override_control>Direkte Kontrolle</override_control>
+  <override_control_desc>Hiermit können den Kolonisten sexuelle Aktionen manuell befehligt werden.\n YOU CHEATER</override_control_desc>
+  <AddTrait_Rapist>Vergewaltiger-Merkmal erwerbbar</AddTrait_Rapist>
+  <AddTrait_Rapist_desc>Wahrscheinlichkeit die Vergewaltigungs Eigenschaft nach 10 Sexakten zu erhalten, &gt;12% Vergewaltigungen.</AddTrait_Rapist_desc>
+  <AddTrait_Masocist>Masochist-Merkmal erwerbbar</AddTrait_Masocist>
+  <AddTrait_Masocist_desc>Wahrscheinlichkeit Masochist zu werden nach einer Vergewaltigung.</AddTrait_Masocist_desc>
+  <AddTrait_Nymphomaniac>Hypersexuell-Merkmal erwerbbar</AddTrait_Nymphomaniac>
+  <AddTrait_Nymphomaniac_desc>Wahrscheinlichkeit Hypersexuell zu werden nach 10 Sexakten mit Bumspilzsucht zu erhalten.</AddTrait_Nymphomaniac_desc>
+  <AddTrait_Necrophiliac>Nekrophil-Merkmal erwerbbar</AddTrait_Necrophiliac>
+  <AddTrait_Necrophiliac_desc>Wahrscheinlichkeit Nekrophil zu werden nach 10 Sexakten zu erhalten, &gt;50% mit Leichen.</AddTrait_Necrophiliac_desc>
+  <AddTrait_Nerves>Nerven-Merkmale erwerbbar</AddTrait_Nerves>
+  <AddTrait_Nerves_desc>Wahrscheinlichkeit ein Nerven-Merkmal nach einer Vergewaltigung zu erhalten.</AddTrait_Nerves_desc>
+  <AddTrait_Zoophiliac>Zoophil-Merkmal erwerbbar</AddTrait_Zoophiliac>
+  <AddTrait_Zoophiliac_desc>Wahrscheinlichkeit Zoophil zu werden nach 10 Sexakten zu erhalten, &gt;50% mit Tieren.</AddTrait_Zoophiliac_desc>
+
+  <!-- debug stuff-->
+  <ForbidKidnap>Verbiete Entführen</ForbidKidnap>
+  <ForbidKidnap_desc>Keine Entführungen.</ForbidKidnap_desc>
+  <override_lovin>Überschreiben Vanilla Sex</override_lovin>
+  <override_lovin_desc>Nutze RJWs Sexsystem anstatt des des Grundspiels.</override_lovin_desc>
+  <override_matin>Überschreibe Vanilla Paarungen</override_matin>
+  <override_matin_desc>Nutze RJWs Paarungen anstatt der des Grundspiels.</override_matin_desc>
+  <WildMode_name>Wildmode</WildMode_name>
+  <WildMode_desc>FÜR TESTS - BUG MELDUNGEN WERDEN IGNORIERT, WENN DU DIESE OPTION AKTIVIERT HAST. \n\nRegelloser Verkehr. Sämtliche Regeln sind ausser Kraft. Viel Spaß mit der vollen dröhnung RJW!</WildMode_desc>
+  <GenderlessAsFuta_name>statt Geschlechtslos Futa</GenderlessAsFuta_name>
+  <GenderlessAsFuta_desc>NUTZUNG AUF EIGENE GEFAHR.\n\nGeschlechslose Kreaturen werden weiblich und bekommen Genitalien beider Geschlechter.</GenderlessAsFuta_desc>
+  <DevMode_name>Entwicklermodus</DevMode_name>
+  <DevMode_desc>Aktiviert RimJobWorld logging. Wird normalerweise nicht benötigt.</DevMode_desc>
+  <DebugLogJoinInBed>Debug log Gelegenheitssex Info</DebugLogJoinInBed>
+  <DebugLogJoinInBed_desc>Aktiviert Debug spam um bugs im JoinInBed zu finden.\nNur für Programmierer auf Fehlersuche empfohlen.</DebugLogJoinInBed_desc>
+  <DebugWhoring>Debug Hureninfo aufzeichnen</DebugWhoring>
+  <DebugWhoring_desc>Aktiviert nervige Nachrichten um Bugs bei Huren leichter zu finden.\nNur für Programmierer empfohlen.</DebugWhoring_desc>
+  <DebugRape>Debug log rape info</DebugRape>
+  <DebugRape_desc>Aktiviert sehr lange und häufige debug logs um Fehler bei Vergewaltigungen leichter zu findenl. Nur für Entwickler sollten dies aktivieren.</DebugRape_desc>
+
+
+  <!-- Pregnancy stuff-->
+  <RJWSettingsTwo>RimJobWorld - Schwangerschaftseinstellungen</RJWSettingsTwo>
+  <RJWH_pregnancy>Aktiviere menschliche RJW Schwangerschaften</RJWH_pregnancy>
+  <RJWH_pregnancy_desc>Nutze RJWs Schwangerschaftssystem für Mensch-zu-Mensch Schwangerschaften.</RJWH_pregnancy_desc>
+  <PregnantCoeffecientForHuman>Emfängniswahrscheinlichkeit Mensch (%)</PregnantCoeffecientForHuman>
+  <PregnantCoeffecientForHuman_desc>Wahrscheinlichkeit einer zwischenmenschlichen Schwangerschaft in Prozent. Valider Bereich: 0 - 100%</PregnantCoeffecientForHuman_desc>
+  <RJWB_pregnancy>Aktiviere RJW Tierschwangerschaften</RJWB_pregnancy>
+  <RJWB_pregnancy_desc>Nutze RJW Schwangerschaft für Schwangerschaften zwischen Mensch und Tier.</RJWB_pregnancy_desc>
+  <PregnantCoeffecientForAnimals>Emfängniswahrscheinlichkeit Tier (%)</PregnantCoeffecientForAnimals>
+  <PregnantCoeffecientForAnimals_desc>Wahrscheinlichkeit mit der ein Tier nach dem Akt Schwanger wird, in Prozent. Valider Bereich: 0 - 100%</PregnantCoeffecientForAnimals_desc>
+  <InterspeciesImpregnantionModifier>Interspezies Schwängerungsmodifikator (%)</InterspeciesImpregnantionModifier>
+  <InterspeciesImpregnantionModifier_desc>Modifikator für die Wahrscheinlichkeit von Schwängerungen zwischen verschiedenen Rassen/Arten/Spezies. z.B.: bei 20% ist die Wahrscheinlichkeit nur noch 1/5 von normalen Schwangerschaften zwischen 2 Partnern der gleichen Spezies.\n\nMöglicher Bereich: 0 - 100%</InterspeciesImpregnantionModifier_desc>
+  <UseParentMethod>DNA Vererbung</UseParentMethod>
+  <UseParentMethod_desc>AN: Babies haben zufällige DNA ihrer Eltern.\nAUS: Babies sind wie ihre Mütter.</UseParentMethod_desc>
+  <OffspringLookLikeTheirMother>Menschliche DNA Vererbung</OffspringLookLikeTheirMother>
+  <OffspringLookLikeTheirMother_desc>Verwaltet menschliche Schwangerschaften.\nBei 100% sind alle Babies die Rasse (Hautfarbe) ihrer Mutter.\nBei 0% sind alle Babies die Rasse (Hautfarbe) ihres Vaters.\n\nValider Bereich: 0 - 100%</OffspringLookLikeTheirMother_desc>
+  <OffspringIsHuman>Bestiality DNA Vererbung</OffspringIsHuman>
+  <OffspringIsHuman_desc>Verwaltet menschlich-Tier und Tier-zu-menschlich Schwangerschaften.\nBei 100% sind alle Babies die Rasse ihrer Mutter.\nBei 0% sind alle Babies die Rasse ihres Vaters.\n\nValider Bereich: 0 - 100%</OffspringIsHuman_desc>
+  <OffspringIsHuman2>Bestiality DNA Vererbung</OffspringIsHuman2>
+  <OffspringIsHuman2_desc>Verwaltet menschlich-Tier Schwangerschaften.\n\nlinks: geborene Babies sind die Rasse des Tieres.\n\nrechts: geborene Babies sind die Rasse des Menschlichen Elternteils.</OffspringIsHuman2_desc>
+  <RJWA_pregnancy>Aktiviere RJW Tierschwangerschaften</RJWA_pregnancy>
+  <RJWA_pregnancy_desc>Aktiviere Tier-zu-Tier Schwangerschaften (Rasse egal).</RJWA_pregnancy_desc>
+  <RJWI_pregnancy>Aktiviere RJW Insektenschwangerschaften</RJWI_pregnancy>
+  <RJWI_pregnancy_desc>Aktiviert menschlich-Insekt Schwangerschaften.</RJWI_pregnancy_desc>
+  <egg_pregnancy_implant_anyone>Ei-Implantierungsfilter</egg_pregnancy_implant_anyone>
+  <egg_pregnancy_implant_anyone_desc>AN: Jeder mit mindestens einem weiblichen Ovipositor kann Eier implantieren.\nAUS: Nur vordefinierte Elterntypen können Eier implantieren.</egg_pregnancy_implant_anyone_desc>
+  <egg_pregnancy_fertilize_anyone>Ei Befruchtungs-Filter</egg_pregnancy_fertilize_anyone>
+  <egg_pregnancy_fertilize_anyone_desc>AN: Jeder mit mindestens einem männlichen Ovipositor kann Eier befruchten.\nAUS: Nur vordefinierte Elterntypen können Eier implantieren.</egg_pregnancy_fertilize_anyone_desc>
+  <egg_pregnancy_eggs_size>Ei Größe Modifikator</egg_pregnancy_eggs_size>
+  <egg_pregnancy_eggs_size_desc>0 - bedeutet unendlich Ei Kapazität.</egg_pregnancy_eggs_size_desc>
+
+  <MechanoidImplanting>Aktiviere Mechanoid-Implantate</MechanoidImplanting>
+  <MechanoidImplanting_desc>Erlaubt Implantate durch Mechanoide.</MechanoidImplanting_desc>
+
+  <CP_pregnancy>Nutze RimWorldChildren für Schwangerschaften zwischen Menschen</CP_pregnancy>
+  <CP_pregnancy_desc>Steuert ob RJWs Mensch-Mensch Schwangerschaften durch die von RimWorldChildren ersetzt werden.</CP_pregnancy_desc>
+  <genetic_trait_filter>Zu vererbende Eigenschaften filtern</genetic_trait_filter>
+  <genetic_trait_filter_desc>Wenn aktiviert wird rjw/Defs/NonInheritedTraits.xml zur Filterung der Merkmale, die nicht an die nächste Generation weitergegeben werden sollten, genutzt. Macht das Spiel fairer.</genetic_trait_filter_desc>
+
+  <RJW_fertility_endAge_male>Männliches Unfruchtbarkeitsalter</RJW_fertility_endAge_male>
+  <RJW_fertility_endAge_male_desc>Wird bei Alienrassen für deren Lebensspanne angepasst. Tiere und Menschliche nutzen gleiche Skala.</RJW_fertility_endAge_male_desc>
+  <RJW_fertility_endAge_female_humanlike>Weibliches Unfruchtbarkeitsalter (menschlich)</RJW_fertility_endAge_female_humanlike>
+  <RJW_fertility_endAge_female_humanlike_desc>Im Gegensatz zu vielen Tieren werden menschliche Frauen schon relativ früh Unfruchtbar. Gleiches Verhältnis wird für alle Alien Rassen genutzt.</RJW_fertility_endAge_female_humanlike_desc>
+  <RJW_fertility_endAge_female_animal>Weibliches Unfruchtbarkeitsalter (Tiere)</RJW_fertility_endAge_female_animal>
+  <RJW_fertility_endAge_female_animal_desc>Im Gegensatz zu Menschen bleiben die meisten weibliche Tiere fruchtbar, bis zum Tod.</RJW_fertility_endAge_female_animal_desc>
+  <In_human_years> in Menschenjahren</In_human_years>
+  <XofLifeExpectancy>% der Lebenserwartung</XofLifeExpectancy>
+
+  <InterspeciesDisabled>Interspezies deaktiviert.</InterspeciesDisabled>
+  <InterspeciesMaximum>Gleich der, zwischen 2 Partnern der selben Art.</InterspeciesMaximum>
+  <AlwaysMother>Immer die Rasse der Mutter</AlwaysMother>
+  <AlwaysFather>Immer die Rasse des Vaters</AlwaysFather>
+  <AlwaysBeast>Tierrasse.</AlwaysBeast>
+  <AlwaysHumanlike>Menschliche Rasse.</AlwaysHumanlike>
+  <ComplexImpregnation>Komplexe Schwangerschaftswahrscheinlichkeiten</ComplexImpregnation>
+  <ComplexImpregnation_desc>Wenn aktiviert, ist die Schwangerschaftswahrscheinlichkeit abhängig von Unterschieden der Körperstruktur und Größe beider Partner.
+Beispiele:
+  Mensch/geflügelter Mensch : ~95%
+  Mensch/Harpye : ~75%
+  Mensch/Hund : ~30%
+  Mensch/Huhn : ~5%
+  Wolf/Hund : ~95%
+  Wolf/Huhn : ~5%
+  Hahn/Harpye : ~30%
+  
+Die tatsächliche Wahrscheinlichkeit wird zusätzlich noch beeinflusst von den Wahrscheinlichkeitseinstellungen der menschlichen und tierischen Einstellungen.
+</ComplexImpregnation_desc>
+
+  <!-- sex types -->
+  <RJWSettingsThree>RimJobWorld - Sex Einstellungen</RJWSettingsThree>
+  <SexTypeFrequency>Sexart Häufigkeit:\n[Größer = Wahrscheinlicher]</SexTypeFrequency>
+  <vaginal>Vaginal Häufigkeit</vaginal>
+  <vaginal_desc>Die Häufigkeit für vaginalen Sex. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 100\nHöherer Wert: höhere Wahrscheinlichkeit</vaginal_desc>
+  <cunnilingus>Cunnilingus Häufigkeit</cunnilingus>
+  <cunnilingus_desc>Häufigkeit von oraler Stimulation der Vagina. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 80\nHöherer Wert: höhere Wahrscheinlichkeit</cunnilingus_desc>
+  <anal>Anal Häufigkeit</anal>
+  <anal_desc>Häufigkeit von analer Penetration. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 80\nHöherer Wert: höhere Wahrscheinlichkeit</anal_desc>
+  <rimming>Rimjob Häufigkeit</rimming>
+  <rimming_desc>Häufigkeit von oraler Stimulation des Anuses. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 50\nHöherer Wert: höhere Wahrscheinlichkeit</rimming_desc>
+  <fellatio>Fellatio Häufigkeit</fellatio>
+  <fellatio_desc>Häufigkeit von fellatio, auch bekannt als Blowjob. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 80\nHöherer Wert: höhere Wahrscheinlichkeit</fellatio_desc>
+  <handjob>Handjob Häufigkeit</handjob>
+  <handjob_desc>Häufigkeit von Handjobs. Benötigt funktionierende Hände. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 60\nHöherer Wert: höhere Wahrscheinlichkeit</handjob_desc>
+  <mutual_masturbation>Gegenseitige Masturbation Häufigkeit</mutual_masturbation>
+  <mutual_masturbation_desc>Häufigkeit von gegenseitiger Masturbation (Zwei Leute masturbieren sich gegeseitig). Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 70\nHöherer Wert: höhere Wahrscheinlichkeit</mutual_masturbation_desc>
+  <double_penetration>Doppelte Penetration Häufigkeit</double_penetration>
+  <double_penetration_desc>Häufigkeit von Doppelpenetrationen, anal und vaginal gleichzeitig. Es wird ein "Multi-penis" benötigt, z.B. ein Hemipenis. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie verfügbare Körperöffnungen, oä beeinflusst, etc.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung:50\nHöherer Wert: höhere Wahrscheinlichkeit</double_penetration_desc>
+  <breastjob>Titjob Häufigkeit</breastjob>
+  <breastjob_desc>Häufigkeit von Titjobs. Benötigt eine Person mit Brüsten und eine andere mit Penis. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 50\nHöherer Wert: höhere Wahrscheinlichkeit</breastjob_desc>
+  <fingering>Vaginale Befingerung Häufigkeit</fingering>
+  <fingering_desc>Häufigkeit von vaginaler befingerung. Benötigt eine Person mit Vagina und eine andere mit funktionierender Hand. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 50\nHöherer Wert: höhere Wahrscheinlichkeit</fingering_desc>
+  <scissoring>Scissoring Häufigkeit</scissoring>
+  <scissoring_desc>Häufigkeit von scissoring (Partner reiben ihre Vulvas aneinander). Benötigt zwei Personen mit Vaginas.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 50\nHöherer Wert: höhere Wahrscheinlichkeit</scissoring_desc>
+  <footjob>Footjob Häufigkeit</footjob>
+  <footjob_desc>Häufigkeit von Footjobs (Stimulation mit dem Fuß). Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 30\nHöherer Wert: höhere Wahrscheinlichkeit</footjob_desc>
+  <fisting>Analfisting Häufigkeit</fisting>
+  <fisting_desc>Häufigkeit von Analfisting (Vaginal noch nicht vorhanden). Benötigt eine Person mit funktionierender Hand. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 30\nHöherer Wert: höhere Wahrscheinlichkeit</fisting_desc>
+  <sixtynine>Häufigkeit von 69</sixtynine>
+  <sixtynine_desc>Häufigkeit von 69 (gegenseitiger Oralverkehr). Beide Partner benötigen Genitalien. Anm: die tatsächliche Häufigkeit wird auch durch Faktoren wie Art des Sexes, oä beeinflusst.\n\nMöglicher Bereich: 1 - 200\nGrundeinstellung: 60\nHöherer Wert: höhere Wahrscheinlichkeit</sixtynine_desc>
+  <FapEverywhere>Überall Masturbieren</FapEverywhere>
+  <FapEverywhere_desc>Jeder wird masturbieren wo er will.</FapEverywhere_desc>
+  <FapInBed>Im Bett Masturbieren</FapInBed>
+  <FapInBed_desc>Leute werden im eigenen Bett msturbieren.</FapInBed_desc>
+
+  <Malesex>Erlaubter Sex für Männer: </Malesex>
+  <FeMalesex>Erlaubter Sex für Frauen: </FeMalesex>
+  <AllowedSex.All>Alles</AllowedSex.All>
+  <AllowedSex.Homo>Homo</AllowedSex.Homo>
+  <AllowedSex.Nohomo>Hetero</AllowedSex.Nohomo>
+
+  <SexClothing>Bevorzugte Bekleidung beim Sex: </SexClothing>
+  <SexClothingNude>Nackt</SexClothingNude>
+  <SexClothingHeadwear>nur Kopfbedeckungen</SexClothingHeadwear>
+  <SexClothingFull>vollständig bekleided</SexClothingFull>
+
+  <RapeAttemptAlert>Vergewaltigungsversuch Alarmton: </RapeAttemptAlert>
+  <RapeAttemptAlertAlways>Immer aktiv</RapeAttemptAlertAlways>
+  <RapeAttemptAlertHumanlike>Nur wenn das Opfer menschlich ist</RapeAttemptAlertHumanlike>
+  <RapeAttemptAlertColonist>Nur wenn das Opfer ein Kolonist ist</RapeAttemptAlertColonist>
+  <RapeAttemptAlertSilent>Zeige nur die Nachricht</RapeAttemptAlertSilent>
+  <RapeAttemptAlertDisabled>Deaktiviert</RapeAttemptAlertDisabled>
+
+  <RapeAlert>Vergewaltigungs Alarm: </RapeAlert>
+  <RapeAlertAlways>Immer</RapeAlertAlways>
+  <RapeAlertHumanlike>Nur wenn das Opfer menschlich ist</RapeAlertHumanlike>
+  <RapeAlertColonist>Nur wenn das Opfer ein Kolonist ist</RapeAlertColonist>
+  <RapeAlertSilent>Zeige nur die Nachricht</RapeAlertSilent>
+  <RapeAlertDisabled>Deaktiviert</RapeAlertDisabled>
+
+  <RapeAlertCP>Zeige für CP</RapeAlertCP>
+  <RapeAlertCP_desc>Zeige Alarm wenn jemand mit deaktiviertem freien Willen vergewaltigt wird</RapeAlertCP_desc>
+  <RapeAlertBreeding>Zeige für Begattung</RapeAlertBreeding>
+  <RapeAlertBreeding_desc>Zeige Alarm wenn zu Begattender vergewaltigt wird.</RapeAlertBreeding_desc>
+
+  <SexualitySpread1>Sexualitätsverteilung: </SexualitySpread1>
+  <SexualitySpread2>Sexualität Generierungsverteilung für RJW.</SexualitySpread2>
+  <SexualitySpreadVanilla>[Importiert von Rational Romance]</SexualitySpreadVanilla>
+  <SexualitySpreadPsychology>[Importiert von Psychology]</SexualitySpreadPsychology>
+  <SexualitySpreadIndividuality>[Importiert von [SYR]Individuality]</SexualitySpreadIndividuality>
+
+  <SexualityAsexual>  Asexuell: </SexualityAsexual>
+  <SexualityPansexual>  Pansexuell: </SexualityPansexual>
+  <SexualityHeterosexual>  Heterosexuell: </SexualityHeterosexual>
+  <SexualityBisexual>  Bisexuell: </SexualityBisexual>
+  <SexualityGay>  Homosexuell: </SexualityGay>
+
+  <SexualityAsexual_desc>Niedriger oder kein Sextrieb, im allgemeinen nicht an Sex interressiert.</SexualityAsexual_desc>
+  <SexualityPansexual_desc>Pansexuelle ignorieren Geschlecht bei ihrer Partnersuche.</SexualityPansexual_desc>
+  <SexualityHeterosexual_desc>Heterosexuelle finden das andere Geschlecht anziehend.</SexualityHeterosexual_desc>
+  <SexualityBisexual_desc>Bisexuelle finden beide Geschlechter anziehend.</SexualityBisexual_desc>
+  <SexualityGay_desc>Homosexuelle finden das gleiche Geschlecht anziehend.</SexualityGay_desc>
+
+  <MaxQuirks>Maximale Eigenheiten</MaxQuirks>
+  <MaxQuirks_desc>Höchste Anzahl von Eigenheiten die jemand, bei der Erstellung, zufällig zugewiesen bekommen kann.</MaxQuirks_desc>
+
+</LanguageData>

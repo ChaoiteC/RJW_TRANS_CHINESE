@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<!-- Love Enhancer -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/HediffDef[defName="LoveEnhancer"]</xpath>
+			<value>
+				<stages>
+					<li>
+						<statOffsets>
+							<SexAbility>0.1</SexAbility>
+							<SexSatisfaction>0.15</SexSatisfaction>
+						</statOffsets>
+					</li>
+				</stages>
+			</value>
+		</match>
+	</Operation>
+	
+	<!-- Aesthetic shaper -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/HediffDef[defName="AestheticShaper"]/stages/li/statOffsets</xpath>
+			<value>
+				<SexAbility>0.05</SexAbility>
+			</value>
+		</match>
+	</Operation>
+	
+	<!-- Psychic reader -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/HediffDef[defName="PsychicReader"]/stages/li/statOffsets</xpath>
+			<value>
+				<SexAbility>0.1</SexAbility>
+			</value>
+		</match>
+	</Operation>
+</Patch>

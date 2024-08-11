@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_FertPill.label>píldora de fertilidad</RJW_FertPill.label>
+  <RJW_FertPill.description>Mejora la fertilidad. Un afrodisíaco suave.</RJW_FertPill.description>
+  <RJW_FertPill.stages.0.label>Hiperfertilidad</RJW_FertPill.stages.0.label>
+
+
+</LanguageData>

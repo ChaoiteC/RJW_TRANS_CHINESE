@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <PlantHumpShroom.label>Гриб-афродизиак</PlantHumpShroom.label>
+  <PlantHumpShroom.description>Плотный твёрдый гриб с густым соком. Вызывает эффект афродизиака при употреблении.</PlantHumpShroom.description>
+
+
+  <!-- Consumable item -->
+
+  <HumpShroom.label>Гриб-афродизиак</HumpShroom.label>
+  <HumpShroom.description>Плотный твёрдый гриб с густым соком. Вызывает эффект афродизиака при употреблении.</HumpShroom.description>
+
+
+</LanguageData>

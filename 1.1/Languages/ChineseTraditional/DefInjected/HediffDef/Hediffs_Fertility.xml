@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RJW_IUD.label>節育環</RJW_IUD.label>
+  <RJW_IUD.description>插入子宮防止懷孕的加銅的小裝置。</RJW_IUD.description>
+
+	<IncreasedFertility.label>高生育能力</IncreasedFertility.label>
+  <IncreasedFertility.description>增加生育能力，用於生產嬰兒。</IncreasedFertility.description>
+
+	<DecreasedFertility.label>低生育能力</DecreasedFertility.label>
+  <DecreasedFertility.description>低生育能力。</DecreasedFertility.description>
+
+	<ImpregnationBlocker.label>遠古絕育器</ImpregnationBlocker.label>
+  <ImpregnationBlocker.description>防止卵巢產卵的複雜裝置。</ImpregnationBlocker.description>
+
+	<FertilityEnhancer.label>遠古生育增強器</FertilityEnhancer.label>
+  <FertilityEnhancer.description>增加懷孕可能性的複雜裝置。</FertilityEnhancer.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>Противозачаточное</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>Наносит сокрушительный удар по фертильности пациента.</RJW_Contraceptive.description>
+  <RJW_Contraceptive.stages.0.label>Контрацепция</RJW_Contraceptive.stages.0.label>
+
+
+</LanguageData>

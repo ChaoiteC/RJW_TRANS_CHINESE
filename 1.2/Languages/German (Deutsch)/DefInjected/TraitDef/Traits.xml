@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rapist.degreeDatas.0.label>Vergewaltiger</Rapist.degreeDatas.0.label>
+  <Rapist.degreeDatas.0.description>Für [PAWN_nameDef] ist "Nein!" keine akzeptable Antwort.</Rapist.degreeDatas.0.description>
+
+  <Necrophiliac.degreeDatas.0.label>Nekrophil</Necrophiliac.degreeDatas.0.label>
+  <Necrophiliac.degreeDatas.0.description>Tote können nicht nein sagen...</Necrophiliac.degreeDatas.0.description>
+
+  <Zoophile.degreeDatas.0.label>Zoophil</Zoophile.degreeDatas.0.label>
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef] liebt die Tierwelt.</Zoophile.degreeDatas.0.description>
+
+
+</LanguageData>

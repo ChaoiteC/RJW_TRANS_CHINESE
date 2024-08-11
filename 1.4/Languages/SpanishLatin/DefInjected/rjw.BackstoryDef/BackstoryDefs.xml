@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_childC.baseDescription>[PAWN_nameDef] nació en este campamento civil.</rjw_childC.baseDescription>
+  <rjw_childC.title>Niño</rjw_childC.title>
+  <rjw_childC.titleShort>Niño</rjw_childC.titleShort>
+
+  <rjw_childT.baseDescription>[PAWN_nameDef] nació en esta tribu.</rjw_childT.baseDescription>
+  <rjw_childT.title>Niño</rjw_childT.title>
+  <rjw_childT.titleShort>Niño</rjw_childT.titleShort>
+
+
+</LanguageData>

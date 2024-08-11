@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimmingRape.label>強行舔肛</RimmingRape.label>
+  <RimmingRape.logRulesInitiator.rulesStrings.0>r_logentry->強行舔了[RECIPIENT_nameDef]的肛門。</RimmingRape.logRulesInitiator.rulesStrings.0>
+  <RimmingRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行舔了肛門。</RimmingRape.logRulesRecipient.rulesStrings.0>
+
+  <CunnilingusRape.label>強行舔陰</CunnilingusRape.label>
+  <CunnilingusRape.logRulesInitiator.rulesStrings.0>r_logentry->強行舔了[RECIPIENT_nameDef]的陰部。</CunnilingusRape.logRulesInitiator.rulesStrings.0>
+  <CunnilingusRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行舔了陰部。</CunnilingusRape.logRulesRecipient.rulesStrings.0>
+
+  <FellatioRape.label>強行吮吸陰莖</FellatioRape.label>
+  <FellatioRape.logRulesInitiator.rulesStrings.0>r_logentry->強行吮吸了[RECIPIENT_nameDef]的陰莖。</FellatioRape.logRulesInitiator.rulesStrings.0>
+  <FellatioRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行吮吸了陰莖。</FellatioRape.logRulesRecipient.rulesStrings.0>
+
+  <BeakjobRape.label>深喉強姦</BeakjobRape.label>
+  <BeakjobRape.logRulesInitiator.rulesStrings.0>r_logentry->強行插入了[RECIPIENT_nameDef]的喉嚨。</BeakjobRape.logRulesInitiator.rulesStrings.0>
+  <BeakjobRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行插入了喉嚨。</BeakjobRape.logRulesRecipient.rulesStrings.0>
+
+  <SixtynineRape.label>強行69</SixtynineRape.label>
+  <SixtynineRape.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]和自己69了。</SixtynineRape.logRulesInitiator.rulesStrings.0>
+  <SixtynineRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行69了。</SixtynineRape.logRulesRecipient.rulesStrings.0>
+
+  <Rimming.label>口交（舔肛）</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->舔了[RECIPIENT_nameDef]的肛門。</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]舔了肛門。</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>口交（舔陰）</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->舔了[RECIPIENT_nameDef]的陰部。</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]舔了陰部。</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>吮吸陰莖</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->吮吸了[RECIPIENT_nameDef]的陰莖。</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]吮吸了陰莖。</Fellatio.logRulesRecipient.rulesStrings.0>
+
+  <Beakjob.label>深喉</Beakjob.label>
+  <Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->將[RECIPIENT_nameDef]的陰莖吞進了嘴裡。</Beakjob.logRulesInitiator.rulesStrings.0>
+  <Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]深喉了。</Beakjob.logRulesRecipient.rulesStrings.0>
+
+  <Sixtynine.label>69</Sixtynine.label>
+  <Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]69了。</Sixtynine.logRulesInitiator.rulesStrings.0>
+  <Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]69了。</Sixtynine.logRulesRecipient.rulesStrings.0>
+</LanguageData>

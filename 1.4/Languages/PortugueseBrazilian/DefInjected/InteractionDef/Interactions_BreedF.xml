@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation "Female" breeding -->
+
+  <RequestVaginalBreeding.label>tribadismo</RequestVaginalBreeding.label>
+  <RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expos a vagina para [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Se expos para [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestAnalBreeding.label>tribadismo</RequestAnalBreeding.label>
+  <RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] expos o ânus para [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Se expos para [INITIATOR_nameDef].</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

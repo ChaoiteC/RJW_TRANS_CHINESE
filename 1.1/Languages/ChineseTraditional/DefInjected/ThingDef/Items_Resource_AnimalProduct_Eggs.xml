@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- generic/fallback eggs -->
+
+  <RJW_EggUnfertilized.label>卵（未受精）</RJW_EggUnfertilized.label>
+  <RJW_EggUnfertilized.description>未受精的卵。</RJW_EggUnfertilized.description>
+
+  <RJW_EggFertilized.label>卵（受精）</RJW_EggFertilized.label>
+  <RJW_EggFertilized.description>受精的卵。</RJW_EggFertilized.description>
+
+  <!-- Insect eggs / enemy implant -->
+
+  <RJW_EggInsectUnfertilized.label>蟲卵（未受精）</RJW_EggInsectUnfertilized.label>
+  <RJW_EggInsectUnfertilized.description>未受精的蟲卵。</RJW_EggInsectUnfertilized.description>
+
+  <RJW_EggInsectFertilized.label>蟲卵（受精）</RJW_EggInsectFertilized.label>
+  <RJW_EggInsectFertilized.description>受精的蟲卵。</RJW_EggInsectFertilized.description>
+
+  <!-- lul / enemy implant -->
+
+  <RJW_EggOrassanFertilized.label>Orassan貓人卵（受精）</RJW_EggOrassanFertilized.label>
+  <RJW_EggOrassanFertilized.description>一種被毛皮覆蓋的受精的卵。</RJW_EggOrassanFertilized.description>
+</LanguageData>

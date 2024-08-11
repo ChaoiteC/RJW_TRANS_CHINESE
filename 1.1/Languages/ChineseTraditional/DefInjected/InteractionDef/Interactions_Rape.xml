@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnalRape.label>強姦（肛門）</AnalRape.label>
+  <AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]陰道發生了性關係。</AnalRape.logRulesInitiator.rulesStrings.0>
+  <AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強姦了。</AnalRape.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRape.label>強姦（陰道）</VaginalRape.label>
+  <VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]陰道發生了性關係。</VaginalRape.logRulesInitiator.rulesStrings.0>
+  <VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]插入陰道強姦了。</VaginalRape.logRulesRecipient.rulesStrings.0>
+
+  <HandjobRape.label>強行手交</HandjobRape.label>
+  <HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->強行給[RECIPIENT_nameDef]擼管。</HandjobRape.logRulesInitiator.rulesStrings.0>
+  <HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry-被[INITIATOR_nameDef]擼了管。</HandjobRape.logRulesRecipient.rulesStrings.0>
+
+  <FingeringRape.label>強行指交</FingeringRape.label>
+  <FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->強行給[RECIPIENT_nameDef]指交。</FingeringRape.logRulesInitiator.rulesStrings.0>
+  <FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行指交。</FingeringRape.logRulesRecipient.rulesStrings.0>
+
+  <ViolateCorpse.label>姦屍</ViolateCorpse.label>
+  <ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->玷污了[RECIPIENT_nameDef]的屍體。</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+  <ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]玷污了。</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+
+  <MechImplant.label>機械體突入</MechImplant.label>
+  <MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->突襲了[RECIPIENT_nameDef]。</MechImplant.logRulesInitiator.rulesStrings.0>
+  <MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]突襲了。</MechImplant.logRulesRecipient.rulesStrings.0>
+
+  <OtherRape.label>強姦</OtherRape.label>
+  <OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->強姦了[RECIPIENT_nameDef]。</OtherRape.logRulesInitiator.rulesStrings.0>
+  <OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強姦了。</OtherRape.logRulesRecipient.rulesStrings.0>
+</LanguageData>

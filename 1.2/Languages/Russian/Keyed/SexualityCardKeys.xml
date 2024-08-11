@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Sexuality card-->
+  <SexcardTooltip>Show sexuality</SexcardTooltip>
+  <WhorePrice>Whoring price range: </WhorePrice>
+  <Quirks>Quirks: </Quirks>
+  <NoQuirks>No Quirks, vanilla.</NoQuirks>
+  <MessyQuirk><![CDATA[
+{pawn} производит гораздо больше жидкостей при сексе и {pawn_pronoun} редко решает убрать {pawn_possessive} грязь с пола.
+]]></MessyQuirk>
+  <PodophileQuirk><![CDATA[
+{pawn} очень любит ноги и более склонен к сексу с участием ног.
+]]></PodophileQuirk>
+  <TeratophileQuirk><![CDATA[
+{pawn} предпочитает уродов. {pawn_pronoun} так же предпочитает зверей побольше и пострашнее, если {pawn_pronoun}, конечно, любит такое...
+]]></TeratophileQuirk>
+  <EndytophileQuirk><![CDATA[
+{pawn} предпочитает оставлять {pawn_possessive} одежду на себе во время секса.
+]]></EndytophileQuirk>
+  <ExhibitionistQuirk><![CDATA[
+{pawn} любит заниматься сексом на глазах у других.
+]]></ExhibitionistQuirk>
+  <GerontophileQuirk><![CDATA[
+{pawn} любит партнёров постарже (55+ по человеческим меркам).
+]]></GerontophileQuirk>
+  <SomnophileQuirk><![CDATA[
+{pawn} предпочитает видеть {pawn_possessive} партнёров спящими во время секса.
+]]></SomnophileQuirk>
+  <SapiosexualQuirk><![CDATA[
+{pawn} предпочитает умных партнёров.
+]]></SapiosexualQuirk>
+  <FertileQuirk><![CDATA[
+{pawn} имеет невероятно высокий уровень фертильности.
+]]></FertileQuirk>
+  <InfertileQuirk><![CDATA[
+{pawn} имеет невероятно низкий уровень фертильности.
+]]></InfertileQuirk>
+  <ImpregnationFetishQuirk><![CDATA[
+{pawn} возбуждается лишь от одной мысли о беременности. {pawn_pronoun} предпочитает позы, которые могут закончится беременностью.{pawn} вообще боится того что {pawn_pronoun} или {pawn_possessive} партнёр забеременнеет . 
+]]></ImpregnationFetishQuirk>
+  <PregnancyFetishQuirk><![CDATA[
+{pawn} предпочитает партнёров "в положении".
+]]></PregnancyFetishQuirk>
+  <IncubatorQuirk><![CDATA[
+{pawn} успевает выносить в себе такое количество яиц, что {pawn_possessive} тело приспособилось к их вынашиванию. {pawn_possessive} скорость инкубации яиц повышена.
+]]></IncubatorQuirk>
+  <BreederQuirk><![CDATA[
+{pawn} успевает выносить в себе столько детей, что {pawn_possessive} тело приспособилось к их вынашиванию. {pawn_possessive} беременности теперь короче и дают больше потомства.
+]]></BreederQuirk>
+  <VigorousQuirk><![CDATA[
+{pawn} словно набирается сил от секса! {pawn_pronoun} практически не устаёт им заниматься.
+]]></VigorousQuirk>
+  <ChitinLoverQuirk><![CDATA[
+{pawn} возбуждается от плавных изгибов и жёсткости хитинового покрова. {pawn_pronoun} предпочитает насекомых в качестве партнёров.
+]]></ChitinLoverQuirk>
+  <DemonLoverQuirk><![CDATA[
+{pawn} любитель непослушных. {pawn_pronoun} предпочитает чтобы {pawn_possessive} партнёры выглядели словно исчадия ада. Или хотя бы некоторые их части.
+]]></DemonLoverQuirk>
+  <FeatherLoverQuirk><![CDATA[
+{pawn} любит чтобы снизу было попушистее. {pawn_pronoun} предпочитает птиц и динозавров. Потому что и у птиц и у динозавров есть перья, как объясняет {pawn}.
+]]></FeatherLoverQuirk>
+  <FurLoverQuirk><![CDATA[
+{pawn} предпочитает партнёров с густым и шелковистым словноем шерсти.
+]]></FurLoverQuirk>
+  <PlantLoverQuirk><![CDATA[
+{pawn} любит поливать цветы. Если вы понимаете о чём я.
+]]></PlantLoverQuirk>
+  <RobotLoverQuirk><![CDATA[
+Что лучше, 2D или 3D? {pawn} знает что 3D-печать может дать тебе лучшее от обоих миров.
+]]></RobotLoverQuirk>
+  <ScaleLoverQuirk><![CDATA[
+Кто бы не хотел отыметь дракона? {pawn} точно не откажется. {pawn} определённо хочет отыметь дракона.
+]]></ScaleLoverQuirk>
+  <SkinLoverQuirk><![CDATA[
+{pawn} предпочитает чтобы у {pawn_possessive} партнёров была гладкая и упругая кожа без каких либо помех вроде чешуи или шерсти. К {pawn_objective} счастью людей в этом мире полно.
+]]></SkinLoverQuirk>
+  <SlimeLoverQuirk><![CDATA[
+Из-за того что слизь очень скользкая и легко деформируется, слизни очень хороши для секса. И ты услышишь это не раз, пока {pawn} будет про них распинаться.
+]]></SlimeLoverQuirk>
+  <SexPartWants>Хочет быть: </SexPartWants>
+
+</LanguageData>

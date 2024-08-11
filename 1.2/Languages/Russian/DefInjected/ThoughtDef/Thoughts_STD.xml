@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ItchyCrotch.stages.0.label>Зуд в паху</ItchyCrotch.stages.0.label>
+  <ItchyCrotch.stages.0.description>Никто не смотрит? Дай-ка я...</ItchyCrotch.stages.0.description>
+  <ItchyCrotch.stages.1.label>Невыносимый зуд в паху</ItchyCrotch.stages.1.label>
+  <ItchyCrotch.stages.1.description>И самое ужасное: чем больше чешу, тем больше чешется!</ItchyCrotch.stages.1.description>
+
+  <SyphiliticThoughts.stages.0.label>Нарушенное мышление</SyphiliticThoughts.stages.0.label>
+  <SyphiliticThoughts.stages.0.description>Я даже не знаю, что меня сейчас не раздражает. Мысли путаются в голове.</SyphiliticThoughts.stages.0.description>
+  <SyphiliticThoughts.stages.1.label>Критически нарушенное мышление</SyphiliticThoughts.stages.1.label>
+  <SyphiliticThoughts.stages.1.description>Так... мне просто надо... о чём я сейчас думал? А, точно! КАК ЖЕ ВЫ МЕНЯ ВСЕ ЗАДРАЛИ.</SyphiliticThoughts.stages.1.description>
+
+  <WastingAway.stages.0.label>Бессилие</WastingAway.stages.0.label>
+  <WastingAway.stages.0.description>Каждый день я чувствую себя всё хуже. Словно что-то высасывает из меня все соки.</WastingAway.stages.0.description>
+
+  <SawDiseasedPrivates1.stages.0.label>видел ужасную сыпь на паху {0}</SawDiseasedPrivates1.stages.0.label>
+  <SawDiseasedPrivates2.stages.0.label>видел противные бородавки на паху {0}</SawDiseasedPrivates2.stages.0.label>
+  <SawDiseasedPrivates3.stages.0.label>тошнит от вида паха {0}</SawDiseasedPrivates3.stages.0.label>
+
+
+</LanguageData>

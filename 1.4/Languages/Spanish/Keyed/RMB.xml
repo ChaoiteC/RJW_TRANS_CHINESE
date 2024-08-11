@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RJW_RMB>RJW</RJW_RMB>
+	<RJW_RMB_Social>Socializar</RJW_RMB_Social>
+	<RJW_RMB_Masturbate>Masturbar</RJW_RMB_Masturbate>
+	<RJW_RMB_Sex>Tener sexo con </RJW_RMB_Sex>
+	<RJW_RMB_Rape>Violar </RJW_RMB_Rape>
+	
+	<!--Social-->
+	<RJW_RMB_Insult>Insultar</RJW_RMB_Insult>
+	<RJW_RMB_SocialFight>Iniciar pelea</RJW_RMB_SocialFight>
+	<RJW_RMB_Chat>Chat</RJW_RMB_Chat>
+	<RJW_RMB_DeepTalk>Charla profunda</RJW_RMB_DeepTalk>
+	<RJW_RMB_RomanceAttempt>Intento de romance</RJW_RMB_RomanceAttempt>
+	<RJW_RMB_MarriageProposal>Hacer propuesta de matrimonio</RJW_RMB_MarriageProposal>
+	
+	<!--Masturbate-->
+	<RJW_RMB_Masturbate_Bed>Masturbarse en una silla o en la cama.</RJW_RMB_Masturbate_Bed>
+	<RJW_RMB_Masturbate_At>Masturbarse en</RJW_RMB_Masturbate_At>
+	<RJW_RMB_Masturbate_Here>Masturbarse aqui</RJW_RMB_Masturbate_Here>
+	<RJW_RMB_Masturbate_With>Masturbarse con</RJW_RMB_Masturbate_With> <!-- dildoes or something like that -->
+
+	<!--Flavor text until this would actually be implemented some day if ever-->
+	<RJW_RMB_Masturbate_Fap>Fap con pene</RJW_RMB_Masturbate_Fap>
+	<RJW_RMB_Masturbate_Schlic>Schlick con vagina</RJW_RMB_Masturbate_Schlic>
+	<RJW_RMB_Masturbate_Breasts>Jugar con los senos</RJW_RMB_Masturbate_Breasts>
+	<RJW_RMB_Masturbate_Anal>Jugar con el ano</RJW_RMB_Masturbate_Anal>
+	<RJW_RMB_Masturbate_AF>Auto-felación</RJW_RMB_Masturbate_AF>
+	<RJW_RMB_Masturbate_BJ>Trabajo de mama</RJW_RMB_Masturbate_BJ>
+	<RJW_RMB_Masturbate_TJV>Coger con el rabo la vagina</RJW_RMB_Masturbate_TJV>
+	<RJW_RMB_Masturbate_TJA>Coger con el rabo el ano</RJW_RMB_Masturbate_TJA>
+	
+	
+	<!--Have sex-->
+	
+	<!--Rape-->
+	<RJW_RMB_RapeCP>Usar para comfortarse </RJW_RMB_RapeCP>
+	<RJW_RMB_RapeEnemy>Violar </RJW_RMB_RapeEnemy>
+	<RJW_RMB_RapeCorpse>Violar cuerpo de </RJW_RMB_RapeCorpse>
+	<RJW_RMB_RapeAnimal>Violar </RJW_RMB_RapeAnimal>
+	
+	<!--Poses/parts?-->
+	
+</LanguageData>

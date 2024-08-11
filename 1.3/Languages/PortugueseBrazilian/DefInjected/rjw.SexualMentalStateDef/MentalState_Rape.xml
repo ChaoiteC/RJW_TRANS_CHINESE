@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomRape.label>estrupro aleatório</RandomRape.label>
+  <RandomRape.beginLetterLabel>estrupro aleatório</RandomRape.beginLetterLabel>
+  <RandomRape.beginLetter>{0} está sexualmente frustrado e está em busca de alguém para estuprar.</RandomRape.beginLetter>
+  <RandomRape.recoveryMessage>{0} ficou sexualmente satisfeito e parou de estuprar aleatóriamente.</RandomRape.recoveryMessage>
+  <RandomRape.baseInspectLine>Estado mental: Estrupro aleatório</RandomRape.baseInspectLine>
+
+
+</LanguageData>

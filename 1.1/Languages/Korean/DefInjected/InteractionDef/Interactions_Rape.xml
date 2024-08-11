@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnalRape.label>항문 강간</AnalRape.label>
+	<AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 항문에 자지를 밀어넣음.</AnalRape.logRulesInitiator.rulesStrings.0>
+	<AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 항문을 능욕당함.</AnalRape.logRulesRecipient.rulesStrings.0>
+	<VaginalRape.label>삽입 강간</VaginalRape.label>
+	<VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지에 자지를 밀어넣음.</VaginalRape.logRulesInitiator.rulesStrings.0>
+	<VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 보지를 능욕당함.</VaginalRape.logRulesRecipient.rulesStrings.0>
+	<HandjobRape.label>핸드잡</HandjobRape.label>
+	<HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 자지를 손가락으로 능욕함.</HandjobRape.logRulesInitiator.rulesStrings.0>
+	<HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 자지를 능욕당함.</HandjobRape.logRulesRecipient.rulesStrings.0>
+	<FingeringRape.label>핑거링</FingeringRape.label>
+	<FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 보지를 손가락으로 능욕함.</FingeringRape.logRulesInitiator.rulesStrings.0>
+	<FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 보지를 능욕당함.</FingeringRape.logRulesRecipient.rulesStrings.0>
+
+	<ViolateCorpse.label>시체 능욕</ViolateCorpse.label>
+	<ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->식어버린 [RECIPIENT_nameDef]의 몸을 마음껏 능욕함.</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+	<ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에 의해 시체조차 능욕당함.</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+
+	<MechImplant.label>메카노이드 칩 이식</MechImplant.label>
+	<MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->기계적으로 [RECIPIENT_nameDef]의 몸을 능욕함.</MechImplant.logRulesInitiator.rulesStrings.0>
+	<MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에 의해 기계적으로 능욕당함.</MechImplant.logRulesRecipient.rulesStrings.0>
+
+	<OtherRape.label>강간</OtherRape.label>
+	<OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->강압적으로 [RECIPIENT_nameDef]의 전신을 능욕함.</OtherRape.logRulesInitiator.rulesStrings.0>
+	<OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->굴욕적으로 [INITIATOR_nameDef]에게 능욕당함.</OtherRape.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

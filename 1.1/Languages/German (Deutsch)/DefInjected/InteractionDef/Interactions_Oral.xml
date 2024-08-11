@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rimming.label>Rimjob</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Leckte Anus von [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Wurde der Anus geleckt.</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>Cunnilingus</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Leckte die Vagina von [RECIPIENT_nameDef].</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Bekam die Vagina geleckt.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>Blowjob</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Blies [RECIPIENT_nameDef]s Penis.</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Bekam einen geblasen.</Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

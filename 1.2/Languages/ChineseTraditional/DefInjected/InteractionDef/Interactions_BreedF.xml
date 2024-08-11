@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- invitation "Female" breeding -->
+
+  <RequestVaginalBreeding.label>請求陰道配種</RequestVaginalBreeding.label>
+  <RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]被獻給了[INITIATOR_nameDef]。</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被獻給[INITIATOR_nameDef]了。</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestAnalBreeding.label>請求肛門配種</RequestAnalBreeding.label>
+  <RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]被獻給了[INITIATOR_nameDef]。</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->被獻給[INITIATOR_nameDef]了。</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+</LanguageData>

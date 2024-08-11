@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">	<!-- not used?, keep for saves? -->
+		<defName>ForcedFellatioBreeding</defName>
+		<label>Service oraly</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Face fucked [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was face fucked.</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed oraly</RMBLabelM>
+				<RMBLabelF>request oral breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Fellatio</rjwSextype>
+				<tags>
+					<li>Oral</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+					<li>Rape</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Oral</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>RequestBreeding</defName>
+		<label>vaginal breeding</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Presented to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabelM>breed vaginally</RMBLabelM>
+				<RMBLabelF>request vaginal breeding</RMBLabelF>
+				<sextype1>Bestiality</sextype1>
+				<rjwSextype>Vaginal</rjwSextype>
+				<tags>
+					<li>Vaginal</li>
+					<li>Bestiality</li>
+					<li>AnimalOnAnimal</li>
+				</tags>
+				<i_tags>
+					<li>Animal</li>
+					<li>Penis</li>
+					<li>Tentacle</li>
+					<li>Ovi</li>
+				</i_tags>
+				<r_tags>
+					<li>Vaginal</li>
+				</r_tags>
+				<rulepack_defs>
+					<li>OtherRapeRP</li>
+				</rulepack_defs>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

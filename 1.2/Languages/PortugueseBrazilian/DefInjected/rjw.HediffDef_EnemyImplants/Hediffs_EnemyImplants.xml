@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
+
+  <Parasite.label>pregnant</Parasite.label>
+  <Parasite.description>A organism that lives inside a host and feeds off its nutrients, giving the host 
+severe discomfort.</Parasite.description>
+  <Parasite.comps.0.discoverLetterLabel>{0} Parasited</Parasite.comps.0.discoverLetterLabel>
+  <Parasite.comps.0.discoverLetterText>{0} is parasited!</Parasite.comps.0.discoverLetterText>
+  <Parasite.stages.0.label>early-stage-hidden</Parasite.stages.0.label>
+  <Parasite.stages.1.label>middle-stage</Parasite.stages.1.label>
+  <Parasite.stages.2.label>late-stage</Parasite.stages.2.label>
+
+
+</LanguageData>

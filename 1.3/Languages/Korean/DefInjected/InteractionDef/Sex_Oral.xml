@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Rimming.label>리밍</Sex_Rimming.label>
+	<Sex_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 항문을 핥아짐.</Sex_Rimming.logRulesInitiator.rulesStrings.0>
+	<Sex_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 항문을 입과 혀로 핥음.</Sex_Rimming.logRulesRecipient.rulesStrings.0>
+	<Sex_Rimming.modExtensions.0.RMBLabel>혀로 항문을 핥아짐.</Sex_Rimming.modExtensions.0.RMBLabel>
+
+	<Sex_Cunnilingus.label>커닐링구스</Sex_Cunnilingus.label>
+	<Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 보지를 애무당함.</Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>
+	<Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 보지를 입과 혀로 애무함.</Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>
+	<Sex_Cunnilingus.modExtensions.0.RMBLabel>혀로 보지를 애무당함.</Sex_Cunnilingus.modExtensions.0.RMBLabel>
+
+	<Sex_Fellatio.label>펠라치오</Sex_Fellatio.label>
+	<Sex_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 자지를 빨림.</Sex_Fellatio.logRulesInitiator.rulesStrings.0>
+	<Sex_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 자지를 입과 혀로 빰.</Sex_Fellatio.logRulesRecipient.rulesStrings.0>
+	<Sex_Fellatio.modExtensions.0.RMBLabel>입으로 자지를 빨림.</Sex_Fellatio.modExtensions.0.RMBLabel>
+
+	<Sex_Beakjob.label>펠라치오</Sex_Beakjob.label>
+	<Sex_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 부리로 자지를 애무당함.</Sex_Beakjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 자지를 부리로 애무함.</Sex_Beakjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Beakjob.modExtensions.0.RMBLabel>부리로 자지를 애무당함.</Sex_Beakjob.modExtensions.0.RMBLabel>
+
+</LanguageData>

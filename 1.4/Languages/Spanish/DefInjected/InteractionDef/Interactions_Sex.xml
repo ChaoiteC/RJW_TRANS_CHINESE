@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalSex.label>sexo anal</AnalSex.label>
+  <AnalSex.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo sexo anal con [RECIPIENT_nameDef].</AnalSex.logRulesInitiator.rulesStrings.0>
+  <AnalSex.logRulesRecipient.rulesStrings.0>r_logentry->Él hizo sexo anal con [INITIATOR_nameDef].</AnalSex.logRulesRecipient.rulesStrings.0>
+
+  <VaginalSex.label>sexo vaginal</VaginalSex.label>
+  <VaginalSex.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo sexo con [RECIPIENT_nameDef].</VaginalSex.logRulesInitiator.rulesStrings.0>
+  <VaginalSex.logRulesRecipient.rulesStrings.0>r_logentry->Él hizo sexo con [INITIATOR_nameDef].</VaginalSex.logRulesRecipient.rulesStrings.0>
+
+  <DoublePenetration.label>doble penetración</DoublePenetration.label>
+  <DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->Doblemente penetrado [RECIPIENT_nameDef].</DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->Fue doblemente penetrado.</DoublePenetration.logRulesRecipient.rulesStrings.0>
+
+  <Breastjob.label>turca</Breastjob.label>
+  <Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo una turca a [RECIPIENT_nameDef].</Breastjob.logRulesInitiator.rulesStrings.0>
+  <Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->Recibió una turca.</Breastjob.logRulesRecipient.rulesStrings.0>
+
+  <Handjob.label>paja</Handjob.label>
+  <Handjob.logRulesInitiator.rulesStrings.0>r_logentry->Masturbó [RECIPIENT_nameDef].</Handjob.logRulesInitiator.rulesStrings.0>
+  <Handjob.logRulesRecipient.rulesStrings.0>r_logentry->Recibió una paja.</Handjob.logRulesRecipient.rulesStrings.0>
+
+  <Footjob.label>masturbación con los pies</Footjob.label>
+  <Footjob.logRulesInitiator.rulesStrings.0>r_logentry->Masturbó [RECIPIENT_nameDef] con os pés.</Footjob.logRulesInitiator.rulesStrings.0>
+  <Footjob.logRulesRecipient.rulesStrings.0>r_logentry->Recibió un trabajo de pies.</Footjob.logRulesRecipient.rulesStrings.0>
+
+  <Beakjob.label>picotear</Beakjob.label>
+  <Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->usó su pico en [RECIPIENT_nameDef].</Beakjob.logRulesInitiator.rulesStrings.0>
+  <Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->Recibió un oral con pico.</Beakjob.logRulesRecipient.rulesStrings.0>
+
+  <Fingering.label>dedada</Fingering.label>
+  <Fingering.logRulesInitiator.rulesStrings.0>r_logentry->Dedeo [RECIPIENT_nameDef].</Fingering.logRulesInitiator.rulesStrings.0>
+  <Fingering.logRulesRecipient.rulesStrings.0>r_logentry->Fue dedeada.</Fingering.logRulesRecipient.rulesStrings.0>
+
+  <Scissoring.label>tribadismo</Scissoring.label>
+  <Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo tribadismo con [RECIPIENT_nameDef].</Scissoring.logRulesInitiator.rulesStrings.0>
+  <Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->Él hizo tribadismo con [INITIATOR_nameDef].</Scissoring.logRulesRecipient.rulesStrings.0>
+
+  <MutualMasturbation.label>mutual masturbation</MutualMasturbation.label>
+  <MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo masturbaçión mútua.</MutualMasturbation.logRulesInitiator.rulesStrings.0>
+  <MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->Él hizo masturbación mútua.</MutualMasturbation.logRulesRecipient.rulesStrings.0>
+
+  <Fisting.label>puño</Fisting.label>
+  <Fisting.logRulesInitiator.rulesStrings.0>r_logentry->penetró su puño en [RECIPIENT_nameDef].</Fisting.logRulesInitiator.rulesStrings.0>
+  <Fisting.logRulesRecipient.rulesStrings.0>r_logentry->Recibió penetración de puño.</Fisting.logRulesRecipient.rulesStrings.0>
+
+  <Sixtynine.label>69</Sixtynine.label>
+  <Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->Él hizo 69 con [RECIPIENT_nameDef].</Sixtynine.logRulesInitiator.rulesStrings.0>
+  <Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->Él hizo 69 con [INITIATOR_nameDef].</Sixtynine.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Experimenting with sex dialogue. This was easiest to add, but the same method could be used to add pillow talk, etc. -->
+
+  <AnimalSexChat.label>animal chat</AnimalSexChat.label>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.0>r_logentry(p=20)->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.0>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] se sentó cerca de(a) [RECIPIENT_nameDef] a conversado con [INITIATOR_objective] sobre [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.1>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] se sentó cerca de(a) [RECIPIENT_nameDef] a conversado con [INITIATOR_objective] sobre [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.2>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] se acercó de(a) [RECIPIENT_nameDef] mientras susurra con [INITIATOR_objective] sobre [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.3>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] se acercó de(a) [RECIPIENT_nameDef] mientras susurra con [INITIATOR_objective] sobre [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.4>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.5>r_logentry(p=2)->[INITIATOR_nameDef] se acercó de(a) [RECIPIENT_nameDef] mientras habla con [INITIATOR_objective] sobre [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.5>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] se acercó de(a) [RECIPIENT_nameDef] mientras habla con [INITIATOR_objective] sobre [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.6>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] traté de hacer [RECIPIENT_nameDef] sentar.</AnimalSexChat.logRulesInitiator.rulesStrings.7>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] traté de sostener [RECIPIENT_nameDef] quieto.</AnimalSexChat.logRulesInitiator.rulesStrings.8>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] pegar [RECIPIENT_nameDef] en una demostración de dominio.</AnimalSexChat.logRulesInitiator.rulesStrings.9>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] acarició suavemente los genitales de [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.10>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] agarró una parte vulnerable del cuerpo de [RECIPIENT_nameDef], demandando obediencia.</AnimalSexChat.logRulesInitiator.rulesStrings.11>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.12>zooact->exigió obediencia de</AnimalSexChat.logRulesInitiator.rulesStrings.12>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.13>zooact->hizo ruidos relajantes para</AnimalSexChat.logRulesInitiator.rulesStrings.13>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.14>zooact->ofreció gestos lentos y amables a</AnimalSexChat.logRulesInitiator.rulesStrings.14>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.15>zooact->hizo ruidos bajos para</AnimalSexChat.logRulesInitiator.rulesStrings.15>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.16>zooact->hizo felices ruidos de clic para</AnimalSexChat.logRulesInitiator.rulesStrings.16>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.17>zooact->gesticuló gentilmente y se acercó</AnimalSexChat.logRulesInitiator.rulesStrings.17>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.18>zooact->se acercó lentamente</AnimalSexChat.logRulesInitiator.rulesStrings.18>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.19>zooact->tocado suavemente</AnimalSexChat.logRulesInitiator.rulesStrings.19>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.20>zooact->acariciado suavemente</AnimalSexChat.logRulesInitiator.rulesStrings.20>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.21>zooact->acariciado firmemente</AnimalSexChat.logRulesInitiator.rulesStrings.21>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.22>zooact->calmado y animado</AnimalSexChat.logRulesInitiator.rulesStrings.22>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.23>zooact->respiración combinada con</AnimalSexChat.logRulesInitiator.rulesStrings.23>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.24>zooact->tomó una posición baja mientras se acercaba</AnimalSexChat.logRulesInitiator.rulesStrings.24>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.25>zooact->no mostró miedo o enojo a</AnimalSexChat.logRulesInitiator.rulesStrings.25>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.26>zooact->tocado con firmeza pero con suavidad</AnimalSexChat.logRulesInitiator.rulesStrings.26>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.27>zooact->mostró una actitud relajada para</AnimalSexChat.logRulesInitiator.rulesStrings.27>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.28>zooact->mostró [INITIATOR_possessive] genitales para</AnimalSexChat.logRulesInitiator.rulesStrings.28>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.29>zooact->exposisionó [INITIATOR_possessive] genitales para</AnimalSexChat.logRulesInitiator.rulesStrings.29>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.30>zooact->susurro una história sobre [TalkTopicAny] para</AnimalSexChat.logRulesInitiator.rulesStrings.30>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.31>zooact->susurro una história sobre [TalkTopicSex] para</AnimalSexChat.logRulesInitiator.rulesStrings.31>
+
+
+</LanguageData>

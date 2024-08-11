@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Remove privates -->
+
+  <RemoveGenitals.label>Удалить гениталии</RemoveGenitals.label>
+  <RemoveGenitals.description>Удаляет половые органы.</RemoveGenitals.description>
+  <RemoveGenitals.jobString>Удаляет гениталии.</RemoveGenitals.jobString>
+
+
+  <!-- <RecipeDef ParentName="SexReassignmentP">
+		<defName>RemovePenis</defName>
+		<label>remove genitals</label>
+		<description>Removes penis.</description>
+		<workerClass>rjw.Recipe_RemovePenis</workerClass>
+		<jobString>Removing penis.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SexReassignmentV">
+		<defName>RemoveVagina</defName>
+		<label>remove vagina</label>
+		<description>Removes vagina.</description>
+		<workerClass>rjw.Recipe_RemoveVagina</workerClass>
+		<jobString>Removing vagina.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef> -->
+
+  <RemoveBreasts.label>Удалить грудь</RemoveBreasts.label>
+  <RemoveBreasts.description>Удаляет грудь.</RemoveBreasts.description>
+  <RemoveBreasts.jobString>Удаляет грудь.</RemoveBreasts.jobString>
+
+  <RemoveAnus.label>Удалить anus</RemoveAnus.label>
+  <RemoveAnus.description>Удаляет анус.</RemoveAnus.description>
+  <RemoveAnus.jobString>Удаляет анус.</RemoveAnus.jobString>
+
+
+</LanguageData>

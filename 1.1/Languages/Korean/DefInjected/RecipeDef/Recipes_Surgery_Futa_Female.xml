@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AddPenis.label>자지 이식</AddPenis.label>
+	<AddPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</AddPenis.description>
+	<AddPenis.jobString>이식 중.</AddPenis.jobString>
+	<addHorsePenis.label>말 자지 이식</addHorsePenis.label>
+	<addHorsePenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addHorsePenis.description>
+	<addHorsePenis.jobString>이식 중.</addHorsePenis.jobString>
+	<addCatPenis.label>고양이 자지 이식</addCatPenis.label>
+	<addCatPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addCatPenis.description>
+	<addCatPenis.jobString>이식 중.</addCatPenis.jobString>
+	<addDogPenis.label>개 자지 이식</addDogPenis.label>
+	<addDogPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addDogPenis.description>
+	<addDogPenis.jobString>이식 중.</addDogPenis.jobString>
+	<addDragonPenis.label>용 자지 이식</addDragonPenis.label>
+	<addDragonPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addDragonPenis.description>
+	<addDragonPenis.jobString>이식 중.</addDragonPenis.jobString>
+	<addOvipositorM.label>벌레 정낭 이식</addOvipositorM.label>
+	<addOvipositorM.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addOvipositorM.description>
+	<addOvipositorM.jobString>정낭 이식 중.</addOvipositorM.jobString>
+	<addRaccoonPenis.label>너구리 자지 이식</addRaccoonPenis.label>
+	<addRaccoonPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addRaccoonPenis.description>
+	<addRaccoonPenis.jobString>이식 중.</addRaccoonPenis.jobString>
+	<addHemiPenis.label>뱀 자지 이식</addHemiPenis.label>
+	<addHemiPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addHemiPenis.description>
+	<addHemiPenis.jobString>이식 중.</addHemiPenis.jobString>
+	<addCrocodilianPenis.label>악어 자지 이식</addCrocodilianPenis.label>
+	<addCrocodilianPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addCrocodilianPenis.description>
+	<addCrocodilianPenis.jobString>이식 중.</addCrocodilianPenis.jobString>
+	<AddNeedlePenis.label>바늘 자지 이식</AddNeedlePenis.label>
+	<AddNeedlePenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</AddNeedlePenis.description>
+	<AddNeedlePenis.jobString>이식 중.</AddNeedlePenis.jobString>
+	<AddCloacalPenis.label>총배설강 자지 이식</AddCloacalPenis.label>
+	<AddCloacalPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</AddCloacalPenis.description>
+	<AddCloacalPenis.jobString>이식 중.</AddCloacalPenis.jobString>
+	<AddRodentPenis.label>설치류 자지 이식</AddRodentPenis.label>
+	<AddRodentPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</AddRodentPenis.description>
+	<AddRodentPenis.jobString>이식 중.</AddRodentPenis.jobString>
+
+	<addHydraulicPenis.label>유압 자지 이식</addHydraulicPenis.label>
+	<addHydraulicPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addHydraulicPenis.description>
+	<addHydraulicPenis.jobString>이식 중.</addHydraulicPenis.jobString>
+	<addBionicPenis.label>생체공학 자지 이식</addBionicPenis.label>
+	<addBionicPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addBionicPenis.description>
+	<addBionicPenis.jobString>이식 중.</addBionicPenis.jobString>
+	<addArchotechPenis.label>초월공학 자지 이식</addArchotechPenis.label>
+	<addArchotechPenis.description>해당 여성에게 선택한 종류의 자지를 추가합니다.</addArchotechPenis.description>
+	<addArchotechPenis.jobString>이식 중.</addArchotechPenis.jobString>
+
+</LanguageData>

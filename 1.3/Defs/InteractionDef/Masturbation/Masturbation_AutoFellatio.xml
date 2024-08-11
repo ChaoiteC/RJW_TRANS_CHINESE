@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Masturbation_AutoFellatio</defName>
+		<label>masturbation_autofellatio</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Masturbated.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Masturbated.</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>AutoFellatio</RMBLabel>
+				<rjwSextype>Masturbation</rjwSextype>
+				<rulepack_defs>
+					<li>Masturbation_AutoFellatioRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Masturbation</li>
+				</tags>
+				<dominantRequirement>
+					<minimumSeverity>0.75</minimumSeverity>					
+					<families>
+						<li>Penis</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<mouthORbeak>true</mouthORbeak>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

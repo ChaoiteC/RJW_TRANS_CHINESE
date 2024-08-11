@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chains.label>correntes</Chains.label>
+  <Chains.description>Uma série de correntes que restringem o usuário.</Chains.description>
+  <Chains.labelNoun>correntes</Chains.labelNoun>
+
+  <BoundHands.label>mãos atadas</BoundHands.label>
+  <BoundHands.description>Mãos atadas.</BoundHands.description>
+  <BoundHands.labelNoun>mãos atadas</BoundHands.labelNoun>
+
+  <BoundLegs.label>pernas atadas</BoundLegs.label>
+  <BoundLegs.description>Pernas atadas.</BoundLegs.description>
+  <BoundLegs.labelNoun>pernas atadas</BoundLegs.labelNoun>
+
+  <RJW_Restraints.label>restrições</RJW_Restraints.label>
+  <RJW_Restraints.description>Uma série de restrições.</RJW_Restraints.description>
+  <RJW_Restraints.labelNoun>restrições</RJW_Restraints.labelNoun>
+
+
+  <!-- insect restraints -->
+
+  <RJW_Cocoon.label>casulo</RJW_Cocoon.label>
+  <RJW_Cocoon.description>Um casulo que cuida do hospedeiro até estar pronto para procrear.</RJW_Cocoon.description>
+  <RJW_Cocoon.labelNoun>Um casulo</RJW_Cocoon.labelNoun>
+
+
+</LanguageData>

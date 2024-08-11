@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PawnColumnWorker_RJWGender_IsHerm>Гермафродит</PawnColumnWorker_RJWGender_IsHerm>
+<!-- todo? -->
+<!-- or not todo? -->
+<PawnColumnWorker_IsSlave>Чи є рабом?</PawnColumnWorker_IsSlave>
+<PawnColumnWorker_IsPrisoner>Чи є в'язнем?</PawnColumnWorker_IsPrisoner>
+<PawnColumnWorker_IsComfort>Чи є комфорт-півнем?</PawnColumnWorker_IsComfort>
+<PawnColumnWorker_IsBreeder>Чи є розплідником?</PawnColumnWorker_IsBreeder>
+<MainTabWindow_Designators>Позначення</MainTabWindow_Designators>
+</LanguageData>

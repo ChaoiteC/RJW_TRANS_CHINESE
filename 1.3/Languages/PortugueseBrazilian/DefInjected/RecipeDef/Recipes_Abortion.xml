@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_AbortionHuman.label>abortar gravidez</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>Remove uma gravidez indesejada.</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>Fazendo aborto.</RJW_AbortionHuman.jobString>
+
+  <RJW_AbortionBeast.label>abortar gravidez</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>Remove uma gravidez indesejada.</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>Fazendo aborto.</RJW_AbortionBeast.jobString>
+
+  <RJW_AbortionMech.label>neutralizar mecanóide</RJW_AbortionMech.label>
+  <RJW_AbortionMech.description>Neutraliza com segurança mecanitos mecanóides.</RJW_AbortionMech.description>
+  <RJW_AbortionMech.jobString>Fazendo aborto.</RJW_AbortionMech.jobString>
+
+  <RJW_HackMech.label>hackear mecanóide</RJW_HackMech.label>
+  <RJW_HackMech.description>Hackear a IA mecanóide, separando ele da IA mecanóide global, resulta em um mecanóide dócil (até ser provocado).</RJW_HackMech.description>
+  <RJW_HackMech.jobString>Hackeando mecanóide.</RJW_HackMech.jobString>
+
+
+</LanguageData>

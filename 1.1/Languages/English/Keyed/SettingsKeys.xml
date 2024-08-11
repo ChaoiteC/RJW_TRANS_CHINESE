@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Settings-->
+	<RJWSettingsOne>RimJobWorld - Basic Settings</RJWSettingsOne>
+		<NymphTamed>Nymphomaniac Join</NymphTamed>
+		<NymphTamed_desc>Spawns pawn with ('Hypersexual' trait) to join the colony.</NymphTamed_desc>
+		<NymphWild>Nymphomaniac Wild</NymphWild>
+		<NymphWild_desc>Spawns wild pawn with ('Hypersexual' trait) to attack the colony.</NymphWild_desc>
+		<NymphRaidEasy>Nymphomaniacs raid(easy)</NymphRaidEasy>
+		<NymphRaidEasy_desc>Nymphomaniacs decided to visit your colony.\nbaseChance is 0.1.</NymphRaidEasy_desc>
+		<NymphRaidHard>Nymphomaniacs raid(hard)</NymphRaidHard>
+		<NymphRaidHard_desc>Nymphomaniacs decided it is now their colony.\n(Game Over).\nbaseChance is 0.01.</NymphRaidHard_desc>
+		<NymphPermanentManhunter>Permanent manhunter</NymphPermanentManhunter>
+		<NymphPermanentManhunter_desc>Permanent manhunter raid.</NymphPermanentManhunter_desc>
+
+		<FemaleFuta>Enable futas</FemaleFuta>
+		<FemaleFuta_desc>Spawn females as futas(+ penis)</FemaleFuta_desc>
+		<MaleTrap>Enable traps</MaleTrap>
+		<MaleTrap_desc>Spawn males as traps(+ breasts)</MaleTrap_desc>
+		<male_nymph_chance>Male nymph spawn chance</male_nymph_chance>
+		<male_nymph_chance_desc>Male nymph spawn chance \n\nValid range: 0 - 100\nDefault: 0</male_nymph_chance_desc>
+		<futa_nymph_chance>Futa/Trap nymph spawn chance</futa_nymph_chance>
+		<futa_nymph_chance_desc>Futa/Trap nymph spawn chance \n\nValid range: 0 - 100\nDefault: 0</futa_nymph_chance_desc>
+		<futa_natives_chance>Futa/Trap natives spawn chance</futa_natives_chance>
+		<futa_natives_chance_desc>Futa/Trap natives spawn chance \n(industrial techlevel and below) \n\nValid range: 0 - 100\nDefault: 0</futa_natives_chance_desc>
+		<futa_spacers_chance>Futa/Trap spacers spawn chance</futa_spacers_chance>
+		<futa_spacers_chance_desc>Futa/Trap spacers spawn chance \n\nValid range: 0 - 100\nDefault: 5</futa_spacers_chance_desc>
+
+		<sexneed_decay_rate_name>Sex need decay rate (%)</sexneed_decay_rate_name>
+		<sexneed_decay_rate_desc>0% for no decay.\n1000000% for Rapeturnus Planet. Recommended range: 50% to 200%.</sexneed_decay_rate_desc>
+		<SexMinimumAge>Sex min. age</SexMinimumAge>
+		<SexMinimumAge_desc>Humanlike Pawns younger than this will not have sex at all.</SexMinimumAge_desc>
+		<SexFreeForAllAge>Age of consent</SexFreeForAllAge>
+		<SexFreeForAllAge_desc>Humanlike Pawns younger than this will only have sex with pawns with 2 years age difference.</SexFreeForAllAge_desc>
+
+		<bestiality_enabled>Enable bestiality</bestiality_enabled>
+		<bestiality_enabled_desc>Enable acts of bestiality. Desired and not so much.</bestiality_enabled_desc>
+		<animal_on_animal_enabled>Enable animal-on-animal</animal_on_animal_enabled>
+		<animal_on_animal_enabled_desc>Enable wild animals mating. Tamed animals will mate within their own species regardless of this setting(vanilla behavior).\nEnable interspecies sex between (designated) animals, which may result in pregnancy.</animal_on_animal_enabled_desc>
+		<necrophilia_enabled>Enable necrophilia</necrophilia_enabled>
+		<necrophilia_enabled_desc>Enable sex with corpses. Usually limited to pawns with Necrophiliac trait, but others can sometimes do it if they are sexually frustrated.</necrophilia_enabled_desc>
+		<sounds_enabled>Enable RJW sounds</sounds_enabled>
+		<sounds_enabled_desc>Enables RJW-specific sounds. Note that this has no effect on core settings: if you have sound completely disabled, this does nothing.</sounds_enabled_desc>
+		<sounds_sex_volume>Sex volume</sounds_sex_volume>
+		<sounds_sex_volume_desc>Change sex volume</sounds_sex_volume_desc>
+		<sounds_cum_volume>Cum volume</sounds_cum_volume>
+		<sounds_cum_volume_desc>Change cum volume</sounds_cum_volume_desc>
+		<sounds_voice_volume>Voice volume</sounds_voice_volume>
+		<sounds_voice_volume_desc>Change voice volume</sounds_voice_volume_desc>
+		<sounds_orgasm_volume>Orgasm volume</sounds_orgasm_volume>
+		<sounds_orgasm_volume_desc>Change orgasm volume</sounds_orgasm_volume_desc>
+
+		<cum_filth>Enable cum filth</cum_filth>
+		<cum_filth_desc>Enables cum filth after sex. Note that disabling this will make the game easier, because of the lack of filth and need for cleaning.</cum_filth_desc>
+		<cum_on_body>Enable cum splatters on body</cum_on_body>
+		<cum_on_body_desc>Enables cum as health differential.</cum_on_body_desc>
+		<cum_on_body_amount_adjust>Adjust cum amount on body</cum_on_body_amount_adjust>
+		<cum_on_body_amount_adjust_desc>All cum applied to pawn bodies will be multiplied by this amount. </cum_on_body_amount_adjust_desc>
+		<cum_overlays>Enable cum overlays</cum_overlays>
+		<cum_overlays_desc>Enables cum overlay(may have conflicts with mods that change pawn appearance).</cum_overlays_desc>
+
+		<STD_enabled>Enable STDs</STD_enabled>
+		<STD_enabled_desc>Enables sexually transmitted diseases.</STD_enabled_desc>
+		<STD_FromFloors>STDs from environment</STD_FromFloors>
+		<STD_FromFloors_desc>Pawns will catch STDs from dirty environment.</STD_FromFloors_desc>
+
+		<RPG_hero_control_name>Hero mode</RPG_hero_control_name>
+		<RPG_hero_control_desc>Player can set 1 pawn as a player character and have direct unconditional control</RPG_hero_control_desc>
+		<RPG_hero_control_HC_name>Hero mode (HC)</RPG_hero_control_HC_name>
+		<RPG_hero_control_HC_desc>HARDCORE: Player can only control hero, get some lube, you'll need a lot of it.\n(intended for multiplayer)</RPG_hero_control_HC_desc>
+		<RPG_hero_control_Ironman_name>Hero mode (Ironman)</RPG_hero_control_Ironman_name>
+		<RPG_hero_control_Ironman_desc>HARDCORE: Player can set hero only once</RPG_hero_control_Ironman_desc>
+
+		<!-- Rape stuff-->
+		<designated_freewill>Designated pawn freewill</designated_freewill>
+		<designated_freewill_desc>Pawn designated for comfort or mating can initiate sex.</designated_freewill_desc>
+		<rape_enabled>Enable rape</rape_enabled>
+		<rape_enabled_desc>See what you like? Take it by force, you can make a hat out of it later.</rape_enabled_desc>
+		<PrisonersBeating>Spank me daddy!</PrisonersBeating>
+		<PrisonersBeating_desc>Beat the hell out of victims while raping them.</PrisonersBeating_desc>
+		<GentlePrisonersBeating>Senpai! Please, be gentle!</GentlePrisonersBeating>
+		<GentlePrisonersBeating_desc>Reduce beating damage to ~0-1.</GentlePrisonersBeating_desc>
+		<rape_stripping>Strip victims</rape_stripping>
+		<rape_stripping_desc>Strip rape victims (Non comfort rape - bestiality, enemies, etc. will strip victims)</rape_stripping_desc>
+		<ColonistCanCP>Enable comfort rape by colonists</ColonistCanCP>
+		<ColonistCanCP_desc>Colonists are allowed to rape comfort pawns.</ColonistCanCP_desc>
+		<VisitorsCanCP>Enable comfort rape by visitors</VisitorsCanCP>
+		<VisitorsCanCP_desc>Visitors are allowed to rape comfort pawns.</VisitorsCanCP_desc>
+		<AnimalsCanCP>Enable comfort rape by animals</AnimalsCanCP>
+		<AnimalsCanCP_desc>Animals are allowed to rape comfort pawns. Requires zoophilia to be enabled.</AnimalsCanCP_desc>
+		<NonFutaWomenRaping_MaxVulnerability>Girls go rapin' (%)</NonFutaWomenRaping_MaxVulnerability>
+		<NonFutaWomenRaping_MaxVulnerability_desc>Only women with vulnerability lower than this will ever rape others. \nAnimals vulnerability is always 100%. \nTo check 'vulnerability' status, go to 'view information about this object' > stats.\n\nValid range: 0 - 300%</NonFutaWomenRaping_MaxVulnerability_desc>
+		<Rapee_MinVulnerability_human>'To-be raped' vulnerability (%)</Rapee_MinVulnerability_human>
+		<Rapee_MinVulnerability_human_desc>Human pawns with vulnerability higher than this will be raping targets. \nTo check 'vulnerability' status, go to 'view information about this object' > stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_human_desc>
+		<Rapee_MinVulnerability_animals>Animals' to-be-raped vulnerability (%)</Rapee_MinVulnerability_animals>
+		<Rapee_MinVulnerability_animals_desc>Animals with vulnerability higher than this will be raping targets for zoophiles. \nTo check 'vulnerability' status, go to 'view information about this object' > stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_animals_desc>
+
+
+	<RJWSettingsFour>RimJobWorld - Casual Sex Settings</RJWSettingsFour>
+		<SettingHookupsEnabled>Enable hookups (overall)</SettingHookupsEnabled>
+		<SettingHookupsEnabled_desc>Controls whether single pawns can have casual sex with other single pawns</SettingHookupsEnabled_desc>
+		<SettingQuickHookupsEnabled>Enable quickies.</SettingQuickHookupsEnabled>
+		<SettingQuickHookupsEnabled_desc>Controls whether single pawns can have casual quick sex with other single pawns\nWarning: This can interrupt working pawns.</SettingQuickHookupsEnabled_desc>
+		<SettingNoHookupsDuringWorkHours>Disable hookups during work hours</SettingNoHookupsDuringWorkHours>
+		<SettingNoHookupsDuringWorkHours_desc>Controls whether pawns can seek casual sex during work hours.\nNymphomaniacs ignore this.</SettingNoHookupsDuringWorkHours_desc>
+		<SettingColonistsCanHookup>Colonists can hookup</SettingColonistsCanHookup>
+		<SettingColonistsCanHookup_desc>Controls whether colonists are allowed to look for casual sex.</SettingColonistsCanHookup_desc>
+		<SettingColonistsCanHookupWithVisitor>Colonists can hookup with visitors</SettingColonistsCanHookupWithVisitor>
+		<SettingColonistsCanHookupWithVisitor_desc>Controls whether pawns can have casual sex with visitors to the colony.</SettingColonistsCanHookupWithVisitor_desc>
+		<SettingCanHookupWithPrisoner>Non-prisoners can hookup with prisoners</SettingCanHookupWithPrisoner>
+		<SettingCanHookupWithPrisoner_desc>Controls whether non-prisoner pawns can look for consensual sex with prisoners.\nThis is unaffected by the Comfort Prisoner designation and is considered consensual by both parties.</SettingCanHookupWithPrisoner_desc>
+		<SettingVisitorsCanHookupWithColonists>Visitors can hookup with colonists</SettingVisitorsCanHookupWithColonists>
+		<SettingVisitorsCanHookupWithColonists_desc>Controls whether visiting pawns include colonists as potential partners for casual sex.</SettingVisitorsCanHookupWithColonists_desc>
+		<SettingVisitorsCanHookupWithVisitors>Visitors can hookup with other visitors</SettingVisitorsCanHookupWithVisitors>
+		<SettingVisitorsCanHookupWithVisitors_desc>Controls whether visiting pawns include other visitors as potential partners for casual sex.</SettingVisitorsCanHookupWithVisitors_desc>
+		<SettingPrisonersCanHookupWithNonPrisoner>Prisoners can hookup with colonists</SettingPrisonersCanHookupWithNonPrisoner>
+		<SettingPrisonersCanHookupWithNonPrisoner_desc>Controls whether prisoners include non-prisoners as potential partners for casual sex.\nPawns, including prisoners, can only have sex with someone they can reach, so if the prisoner can't leave their cell this is moot.</SettingPrisonersCanHookupWithNonPrisoner_desc>
+		<SettingPrisonersCanHookupWithPrisoner>Prisoners can hookup with prisoners</SettingPrisonersCanHookupWithPrisoner>
+		<SettingPrisonersCanHookupWithPrisoner_desc>Controls whether prisoners include other prisoners as potential partners for casual sex.\nPawns, including prisoners, can only have sex with someone they can reach, so if the prisoner can't leave their cell this is moot.</SettingPrisonersCanHookupWithPrisoner_desc>
+		<SettingNymphosCanPickAnyone>Nymphos can pick anyone</SettingNymphosCanPickAnyone>
+		<SettingNymphosCanPickAnyone_desc>Controls whether nymphomaniac ('Hypersexual' trait) pawns will pick anyone available.\nThey still obey the cheating and homewrecking settings below.</SettingNymphosCanPickAnyone_desc>
+		<SettingNymphosCanCheat>Nymphos can cheat</SettingNymphosCanCheat>
+		<SettingNymphosCanCheat_desc>Controls whether nymphomaniac ('Hypersexual' trait) pawns can cheat if they're sexually frustrated.</SettingNymphosCanCheat_desc>
+		<SettingNymphosCanHomewreck>Nymphos can homewreck</SettingNymphosCanHomewreck>
+		<SettingNymphosCanHomewreck_desc>Controls whether nymphomaniac ('Hypersexual' trait) pawns will bang people who already have partners.</SettingNymphosCanHomewreck_desc>
+		<SettingNymphosCanHomewreckReverse>Nymphos can homewreck(Reverse)</SettingNymphosCanHomewreckReverse>
+		<SettingNymphosCanHomewreckReverse_desc>Controls whether nymphomaniac ('Hypersexual' trait) pawns will accept sex even if they have partner.</SettingNymphosCanHomewreckReverse_desc>
+		<SettingHookupChanceForNonNymphos>Hookup % chance per hour</SettingHookupChanceForNonNymphos>
+		<SettingHookupChanceForNonNymphos_desc>The chance that a horny pawn will look for casual sex.\nOnly checked once per hour and only when the pawn finishes their current task. Default is 30%</SettingHookupChanceForNonNymphos_desc>
+		<SettingMinimumFuckabilityToHookup>Hookup minimum fuckability</SettingMinimumFuckabilityToHookup>
+		<SettingMinimumFuckabilityToHookup_desc>Controls how attractive(RJW) both pawns must be other to consider a hookup.\n Default is 10%.</SettingMinimumFuckabilityToHookup_desc>
+		<SettingMinimumAttractivenessToHookup>Hookup minimum attractiveness</SettingMinimumAttractivenessToHookup>
+		<SettingMinimumAttractivenessToHookup_desc>Controls how attractive(Rimworld) pawns to each other to consider a hookup.\n Default is 50%.\n Nymphomaniac > 0.</SettingMinimumAttractivenessToHookup_desc>
+		<SettingMinimumRelationshipToHookup>Hookup minimum opinion </SettingMinimumRelationshipToHookup>
+		<SettingMinimumRelationshipToHookup_desc>Controls minimum pawns opinion for each other to consider a hookup.\n Default is 20.\n Nymphomaniac > 0.</SettingMinimumRelationshipToHookup_desc>
+
+
+	<RJWDebugSettings>RimJobWorld - Debug</RJWDebugSettings>
+		<!-- debug stuff-->
+		<whoringtab_enabled>Enable whoring tab</whoringtab_enabled>
+		<submit_button_enabled>Enable "submit" button on drafted pawns</submit_button_enabled>
+		<submit_button_enabled_desc>Submit button allows you to skip more deadly part and get right to more humiliating one. \nDisable this if honor comes before life for you. \nRemember, if you change your mind, it will always be here, waiting for you.</submit_button_enabled_desc>
+		<RJW_designation_box>Show RJW designations</RJW_designation_box>
+		<RJW_designation_box_desc>Toggles showing RJW group of buttons in the pawn control GUI.</RJW_designation_box_desc>
+		<StackRjwParts_name>Rjw parts stacking</StackRjwParts_name>
+		<StackRjwParts_desc>Stack rjw parts in pawn health tab \n(Label x count)</StackRjwParts_desc>
+		<maxDistanceCellsCasual_name>Sex distance(Cells)</maxDistanceCellsCasual_name>
+		<maxDistanceCellsCasual_desc>Max distance in Cells AI willing to go to reach destination/target.\n\nFast distance check - ignores obstacles (e.g. walls, mountains).\nDefault 100 cells.</maxDistanceCellsCasual_desc>
+		<maxDistanceCellsRape_name>Rape distance(Cells)</maxDistanceCellsRape_name>
+		<maxDistanceCellsRape_desc>Max distance in Cells AI willing to go to reach destination/target.\n\nFast distance check - ignores obstacles (e.g. walls, mountains).\nDefault 100 cells.</maxDistanceCellsRape_desc>
+		<maxDistancePathCost_name>Sex distance(PawnPath)</maxDistancePathCost_name>
+		<maxDistancePathCost_desc>Max distance AI pather considers in order to reach sex destination/target. Slow complex calculation affected by obstacles, pawn speed and ground modifiers.\nDefault 1000.\n0 - disable check.</maxDistancePathCost_desc>
+
+		<!-- cheat stuff-->
+		<override_RJW_designation_checks_name>Override designation checks</override_RJW_designation_checks_name>
+		<override_RJW_designation_checks_desc>Allows to set designations on all colonists ignoring conditions.\n YOU CHEATER</override_RJW_designation_checks_desc>
+		<override_control>Direct control</override_control>
+		<override_control_desc>Player can manually tell pawns to do sex related activities.\n YOU CHEATER</override_control_desc>
+		<AddTrait_Rapist>Gain Rapist trait</AddTrait_Rapist>
+		<AddTrait_Rapist_desc>Chance to gain rapist trait after 10 sex acts, >12% of which are rapes\n YOU CHEATER</AddTrait_Rapist_desc>
+		<AddTrait_Masocist>Gain Masochist trait</AddTrait_Masocist>
+		<AddTrait_Masocist_desc>Chance to gain masochist trait after being raped, 5% after feeling broken stage\n YOU CHEATER</AddTrait_Masocist_desc>
+		<AddTrait_Nymphomaniac>Gain Hypersexual trait</AddTrait_Nymphomaniac>
+		<AddTrait_Nymphomaniac_desc>Chance to gain hypersexual trait after 10 sex acts, while under HumpShroom addiction\n YOU CHEATER</AddTrait_Nymphomaniac_desc>
+		<AddTrait_Necrophiliac>Gain Necrophiliac trait</AddTrait_Necrophiliac>
+		<AddTrait_Necrophiliac_desc>Chance to gain necrophiliac trait after 10 sex acts, >50% of which with corpses\n YOU CHEATER</AddTrait_Necrophiliac_desc>
+		<AddTrait_Nerves>Gain Nerves trait</AddTrait_Nerves>
+		<AddTrait_Nerves_desc>Gain nerves trait after being raped\n YOU CHEATER</AddTrait_Nerves_desc>
+		<AddTrait_Zoophiliac>Gain Zoophiliac trait</AddTrait_Zoophiliac>
+		<AddTrait_Zoophiliac_desc>Chance to gain zoophiliac trait after 10 sex acts, >50% of which with animals\n YOU CHEATER</AddTrait_Zoophiliac_desc>
+
+		<!-- debug stuff-->
+		<ForbidKidnap>Forbid kidnap</ForbidKidnap>
+		<ForbidKidnap_desc>No kidnaping.</ForbidKidnap_desc>
+		<override_lovin>Override vanila lovin</override_lovin>
+		<override_lovin_desc>Use casual sex instead of vanila lovin</override_lovin_desc>
+		<override_matin>Override vanila matin</override_matin>
+		<override_matin_desc>Use breeding instead of vanila matin</override_matin_desc>
+		<WildMode_name>Wild mode</WildMode_name>
+		<WildMode_desc>EXPERIMENTAL - DO NOT REPORT BUGS IF THIS IS ENABLED. \n\nNo rules for sex. Most limiting requirements are turned off. Enjoy the wildest side of Rimworld.</WildMode_desc>
+		<GenderlessAsFuta_name>GenderlessAsFuta</GenderlessAsFuta_name>
+		<GenderlessAsFuta_desc>USEATYOUROWNRISK. \n\nGenderless Pawns will be set as Female and have both sets of genitals.</GenderlessAsFuta_desc>
+		<DevMode_name>Development mode</DevMode_name>
+		<DevMode_desc>Enables RimJobWorld logging and stuff. You don't usually want this enabled.</DevMode_desc>
+		<DebugLogJoinInBed>Debug log hookup search info</DebugLogJoinInBed>
+		<DebugLogJoinInBed_desc>Enables some very spamming debug logs to help find bugs in JoinInBed operations. \nOnly devs (or someone helping them find a bug) should enable this.</DebugLogJoinInBed_desc>
+		<DebugWhoring>Debug log whoring info</DebugWhoring>
+		<DebugWhoring_desc>Enables some very spamming debug logs to help find bugs in Whoring solicitation operations. \nOnly devs (or someone helping them find a bug) should enable this.</DebugWhoring_desc>
+		<DebugRape>Debug log rape info</DebugRape>
+		<DebugRape_desc>Enables some very spamming debug logs to help find bugs in rape operations.\nOnly devs (or someone helping them find a bug) should enable this.</DebugRape_desc>
+
+
+	<!-- Pregnancy stuff-->
+	<RJWSettingsTwo>RimJobWorld - Pregnancy Settings</RJWSettingsTwo>
+		<RJWH_pregnancy>Enable humanlike pregnancies</RJWH_pregnancy>
+		<RJWH_pregnancy_desc>Use RJW pregnancy for human-human pregnancies.</RJWH_pregnancy_desc>
+		<PregnantCoeffecientForHuman>Human Pregnancy chances (%)</PregnantCoeffecientForHuman>
+		<PregnantCoeffecientForHuman_desc>Human pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForHuman_desc>
+		<RJWB_pregnancy>Enable bestiality pregnancies</RJWB_pregnancy>
+		<RJWB_pregnancy_desc>Use RJW pregnancy for human-animal pregnancies.</RJWB_pregnancy_desc>
+		<PregnantCoeffecientForAnimals>Animal pregnancy chances (%)</PregnantCoeffecientForAnimals>
+		<PregnantCoeffecientForAnimals_desc>Animal pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForAnimals_desc>
+		<InterspeciesImpregnantionModifier>Interspecies impregnation modifier (%)</InterspeciesImpregnantionModifier>
+		<InterspeciesImpregnantionModifier_desc>Interspecies impregnation modifier in percent. At 20% this cuts the normal chance to fifth of same-species, and so on.\n\nValid range: 0 - 100%</InterspeciesImpregnantionModifier_desc>
+		<UseParentMethod>DNA inheritance</UseParentMethod>
+		<UseParentMethod_desc>ON:Babies have random parent dna.\nOFF:Babies are like mothers.</UseParentMethod_desc>
+		<OffspringLookLikeTheirMother>Humanlike DNA inheritance</OffspringLookLikeTheirMother>
+		<OffspringLookLikeTheirMother_desc>Governs humanlike pregnancies. \n100% means born babies will be of mothers race. \nAt 0% means born babies will be of father race.\n\nValid range: 0 - 100%</OffspringLookLikeTheirMother_desc>
+		<OffspringIsHuman>Bestiality DNA inheritance</OffspringIsHuman>
+		<OffspringIsHuman_desc>Governs Humanlike-Animal and Animal-Animal pregnancies.\n100% means born babies will be of "mother" race. \nAt 0% means born babies will be of "father" race.\n\nValid range: 0 - 100%</OffspringIsHuman_desc>
+		<OffspringIsHuman2>Bestiality DNA inheritance</OffspringIsHuman2>
+		<OffspringIsHuman2_desc>Governs Humanlike-Animal pregnancies.\n\n left - born babies will be of beast race. \n\n right - born babies will be of humanlike race.</OffspringIsHuman2_desc>
+		<RJWA_pregnancy>Enable animal pregnancies</RJWA_pregnancy>
+		<RJWA_pregnancy_desc>Use RJW pregnancy for animal-animal pregnancies.</RJWA_pregnancy_desc>
+		<RJWI_pregnancy>Enable egg pregnancies</RJWI_pregnancy>
+		<RJWI_pregnancy_desc>Use RJW pregnancy for ovipositor egg pregnancies.</RJWI_pregnancy_desc>
+		<egg_pregnancy_implant_anyone>Egg implanting filter</egg_pregnancy_implant_anyone>
+		<egg_pregnancy_implant_anyone_desc>ON:Anyone with female ovipositor can implant eggs.\nOFF:Only predefined parent type can implant eggs.</egg_pregnancy_implant_anyone_desc>
+		<egg_pregnancy_fertilize_anyone>Egg fertilizing filter</egg_pregnancy_fertilize_anyone>
+		<egg_pregnancy_fertilize_anyone_desc>ON:Anyone with male ovipositor can fertilize eggs.\nOFF:Only predefined parent type or same as implanter can fertilize eggs.</egg_pregnancy_fertilize_anyone_desc>
+		<egg_pregnancy_eggs_size>Egg size modifier</egg_pregnancy_eggs_size>
+		<egg_pregnancy_eggs_size_desc>0 - can be implanted with unlimited eggs.</egg_pregnancy_eggs_size_desc>
+
+		<MechanoidImplanting>Enable mechanoid implants</MechanoidImplanting>
+		<MechanoidImplanting_desc>Allow probing and implanting by mechanoids.</MechanoidImplanting_desc>
+
+		<CP_pregnancy>Use RimWorldChildren pregnancy for pregnancies between humanlikes</CP_pregnancy>
+		<CP_pregnancy_desc>Controlls whether RJW should use own pregnancy or RimWorldChildren for human-human pregnancies.</CP_pregnancy_desc>
+		<genetic_trait_filter>Filter inherited traits</genetic_trait_filter>
+		<genetic_trait_filter_desc>If enabled, it will use the rjw/Defs/NonInheritedTraits.xml to filter out the traits that should not be passed to next generation. If disabled, everything is a fair game.</genetic_trait_filter_desc>
+
+		<RJW_fertility_endAge_male>Male infertility age </RJW_fertility_endAge_male>
+		<RJW_fertility_endAge_male_desc>Adjusted by lifespan for alien races. Same scale is used for animals and humanlikes.</RJW_fertility_endAge_male_desc>
+		<RJW_fertility_endAge_female_humanlike>Female infertility age (humanlikes)</RJW_fertility_endAge_female_humanlike>
+		<RJW_fertility_endAge_female_humanlike_desc>Unlike most animals, human females become infertile at early age. Same ratio is used for all alien races, for balance.</RJW_fertility_endAge_female_humanlike_desc>
+		<RJW_fertility_endAge_female_animal>Female infertility age (animals)</RJW_fertility_endAge_female_animal>
+		<RJW_fertility_endAge_female_animal_desc>Unlike humans, most female animals remain fertile until death.</RJW_fertility_endAge_female_animal_desc>
+		<In_human_years> in human years</In_human_years>
+		<XofLifeExpectancy>% of life expectancy</XofLifeExpectancy>
+
+		<InterspeciesDisabled>Interspecies disabled.</InterspeciesDisabled>
+		<InterspeciesMaximum>Equal to same-species.</InterspeciesMaximum>
+		<AlwaysMother>Always mother's species.</AlwaysMother>
+		<AlwaysFather>Always father's species.</AlwaysFather>
+		<AlwaysBeast>Beast species.</AlwaysBeast>
+		<AlwaysHumanlike>Humanlike species.</AlwaysHumanlike>
+		<ComplexImpregnation>Enable complex interspecies impregnation calculation</ComplexImpregnation>
+		<ComplexImpregnation_desc><![CDATA[When enabled, the impregnation chance between species depends on the difference in the body structure and size.
+Examples:
+  Human/Winged humanoid : ~95%
+  Human/Harpy : ~75%
+  Human/Dog : ~30%
+  Human/Chicken : ~5%
+  Wolf/Dog : ~95%
+  Wolf/Chicken : ~5%
+  Rooster/Harpy : ~30%
+
+Note that the chance is further lowered by the base animal and human pregnancy sliders.
+]]></ComplexImpregnation_desc>
+		<phantasy_pregnancy>Phantasy pregnancy</phantasy_pregnancy>
+		<phantasy_pregnancy_desc>World is filled with wicked nanomachines that accelerate children growth until they reach reproductive lifestage.\n\nHas no effect on non humans and non reproductive races.\n\nLikely doesnt work with other pregnacy mods.</phantasy_pregnancy_desc>
+		<normal_pregnancy_duration>Pregnancy duration modifier.</normal_pregnancy_duration>
+		<normal_pregnancy_duration_desc>Bigger -> Longer</normal_pregnancy_duration_desc>
+		<egg_pregnancy_duration>Egg pregnancy duration modifier.</egg_pregnancy_duration>
+		<egg_pregnancy_duration_desc>Bigger -> Longer.</egg_pregnancy_duration_desc>
+
+	<!-- sex types -->
+	<RJWSettingsThree>RimJobWorld - Sex Settings</RJWSettingsThree>
+		<SexTypeFrequency>Sex type frequency:\n[Higher = more common]</SexTypeFrequency>
+		<vaginal>Vaginal penetration frequency</vaginal>
+		<vaginal_desc>Frequency of vaginal sex. Note that this frequency is further adjusted by factors such as available orifices, etc.\n\nValid range: 1 - 200\nDefault: 120</vaginal_desc>
+		<cunnilingus>Cunnilingus frequency</cunnilingus>
+		<cunnilingus_desc>Frequency of oral stimulation of vagina. Note that this frequency is further adjusted by factors such as available orifices, rape, etc.\n\nValid range: 1 - 200\nDefault: 80</cunnilingus_desc>
+		<anal>Anal penetration frequency</anal>
+		<anal_desc>Frequency of anal penetration (penile). Note that this frequency is further adjusted by factors such as available orifices, rape, etc.\n\nValid range: 1 - 200\nDefault: 80</anal_desc>
+		<rimming>Rimming frequency</rimming>
+		<rimming_desc>Frequency of oral stimulation of anus. Note that this frequency is further adjusted by factors such as available orifices, etc.\n\nValid range: 1 - 200\nDefault: 40</rimming_desc>
+		<fellatio>Fellatio frequency</fellatio>
+		<fellatio_desc>Frequency of fellatio, also known as blowjob. Note that this frequency is further adjusted by factors such as available orifices, etc.\n\nValid range: 1 - 200\nDefault: 80</fellatio_desc>
+		<handjob>Handjob frequency</handjob>
+		<handjob_desc>Frequency of handjobs. Requires working hands. Note that this frequency is further adjusted by factors such as whoring, etc.\n\nValid range: 1 - 200\nDefault: 80</handjob_desc>
+		<mutual_masturbation>Mutual masturbation frequency</mutual_masturbation>
+		<mutual_masturbation_desc>Frequency of mutual masturbation (two colonists masturbating each other). Note that this frequency is further adjusted by factors such as rape, etc.\n\nValid range: 1 - 200\nDefault: 70</mutual_masturbation_desc>
+		<double_penetration>Double-penetration frequency</double_penetration>
+		<double_penetration_desc>Frequency of double-penetration, simultaneous anal and vaginal. Requires a multi-penis, such as a hemipenis. Note that this frequency is further adjusted by factors such as available orifices, etc.\n\nValid range: 1 - 200\nDefault:60</double_penetration_desc>
+		<breastjob>Breastjob frequency</breastjob>
+		<breastjob_desc>Frequency of breastjobs. Requires one pawn to have breasts, and the other to have a penis. Note that this frequency is further adjusted by factors such as whoring, rape, etc.\n\nValid range: 1 - 200\nDefault: 50</breastjob_desc>
+		<fingering>Vaginal fingering frequency</fingering>
+		<fingering_desc>Frequency of vaginal fingering. Requires one pawn to have a vagina, and the other to have a working hand. Note that this frequency is further adjusted by factors such as whoring, rape, etc.\n\nValid range: 1 - 200\nDefault: 50</fingering_desc>
+		<scissoring>Scissoring frequency</scissoring>
+		<scissoring_desc>Frequency of scissoring (type of tribadism where partners interlock their legs and grind their vulvae together). Requires both pawns to have vaginas.\n\nValid range: 1 - 200\nDefault: 50</scissoring_desc>
+		<footjob>Footjob frequency</footjob>
+		<footjob_desc>Frequency of footjobs (stimulation of penis by foot). Note that this frequency is further adjusted by factors such as whoring, rape, etc.\n\nValid range: 1 - 200\nDefault: 30</footjob_desc>
+		<fisting>Anal fisting frequency</fisting>
+		<fisting_desc>Frequency of anal fisting (vaginal not yet implemented). Requires one partner to have a working hand. Note that this frequency is further adjusted by factors such as whoring, rape, etc.\n\nValid range: 1 - 200\nDefault: 30</fisting_desc>
+		<sixtynine>69 frequency</sixtynine>
+		<sixtynine_desc>Frequency of 69 (mutual oral). Requires both partners to have genitalia. Note that this frequency is further adjusted by factors such as whoring, rape, etc.\n\nValid range: 1 - 200\nDefault: 69</sixtynine_desc>
+		<FapEverywhere>Fapping everywhere</FapEverywhere>
+		<FapEverywhere_desc>Pawn will masturbate where it wants.</FapEverywhere_desc>
+		<FapInBed>Fapping in bed</FapInBed>
+		<FapInBed_desc>Pawn will masturbate in its bed.</FapInBed_desc>
+
+		<Malesex>Allowed male sex: </Malesex>
+		<FeMalesex>Allowed female sex: </FeMalesex>
+		<AllowedSex.All>All</AllowedSex.All>
+		<AllowedSex.Homo>Gay</AllowedSex.Homo>
+		<AllowedSex.Nohomo>Straight</AllowedSex.Nohomo>
+
+		<SexClothing>Preferred clothing for sex: </SexClothing>
+		<SexClothingNude>Nude</SexClothingNude>
+		<SexClothingHeadwear>Headwear only</SexClothingHeadwear>
+		<SexClothingFull>Fully clothed</SexClothingFull>
+
+		<RapeAttemptAlert>Rape attempt alert: </RapeAttemptAlert>
+		<RapeAttemptAlertAlways>Always enabled</RapeAttemptAlertAlways>
+		<RapeAttemptAlertHumanlike>Only if target is humanlike</RapeAttemptAlertHumanlike>
+		<RapeAttemptAlertColonist>Only if target is colonist</RapeAttemptAlertColonist>
+		<RapeAttemptAlertSilent>Only show notification</RapeAttemptAlertSilent>
+		<RapeAttemptAlertDisabled>Disabled</RapeAttemptAlertDisabled>
+
+		<RapeAlert>Rape alert: </RapeAlert>
+		<RapeAlertAlways>Always enabled</RapeAlertAlways>
+		<RapeAlertHumanlike>Only if target is humanlike</RapeAlertHumanlike>
+		<RapeAlertColonist>Only if target is colonist</RapeAlertColonist>
+		<RapeAlertSilent>Only show notification</RapeAlertSilent>
+		<RapeAlertDisabled>Disabled</RapeAlertDisabled>
+
+		<RapeAlertCP>Show for CP</RapeAlertCP>
+		<RapeAlertCP_desc>Show alert when pawn designated for comforting is getting raped.</RapeAlertCP_desc>
+		<RapeAlertBreeding>Show for Breeding</RapeAlertBreeding>
+		<RapeAlertBreeding_desc>Show alert when pawn designated for breeding is getting raped.</RapeAlertBreeding_desc>
+
+		<SexualitySpread1>Sexuality spread source: </SexualitySpread1>
+		<SexualitySpread2>Sexuality generation spread for RJW.\nTHIS IS FOR SEX ONLY\nHAS NO EFFECT ON RELATIONSHIP</SexualitySpread2>
+		<SexualitySpreadVanilla>[Imported from Vanilla Rimworld]</SexualitySpreadVanilla>
+		<SexualitySpreadPsychology>[Imported from Psychology]</SexualitySpreadPsychology>
+		<SexualitySpreadIndividuality>[imported from [SYR]Individuality]</SexualitySpreadIndividuality>
+
+		<SexualityAsexual>  Asexual: </SexualityAsexual>
+		<SexualityPansexual>  Pansexual: </SexualityPansexual>
+		<SexualityHeterosexual>  Heterosexual: </SexualityHeterosexual>
+		<SexualityBisexual>  Bisexual: </SexualityBisexual>
+		<SexualityGay>  Gay: </SexualityGay>
+
+		<SexualityAsexual_desc>Low or non-existent sex drive, generally not interested in sex.</SexualityAsexual_desc>
+		<SexualityPansexual_desc>Pansexuals disregard gender entirely.</SexualityPansexual_desc>
+		<SexualityHeterosexual_desc>Heterosexuals are attracted to 'opposite' sex.</SexualityHeterosexual_desc>
+		<SexualityBisexual_desc>Bisexuals are attracted to both males and females.</SexualityBisexual_desc>
+		<SexualityGay_desc>Homosexuals are attracted to same sex.</SexualityGay_desc>
+
+		<MaxQuirks>Max quirks</MaxQuirks>
+		<MaxQuirks_desc>Max quirks pawn can get when created.</MaxQuirks_desc>
+</LanguageData>

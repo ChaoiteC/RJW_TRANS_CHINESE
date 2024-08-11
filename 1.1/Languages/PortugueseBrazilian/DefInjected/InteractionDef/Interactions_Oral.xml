@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rimming.label>Beijo grego</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Lambeu o ânus de [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Foi lambido(a).</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>cunilíngua</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Fez cunilíngua.</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu cunilíngua.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>Fellatio</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Chupou [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Foi chupado.</Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

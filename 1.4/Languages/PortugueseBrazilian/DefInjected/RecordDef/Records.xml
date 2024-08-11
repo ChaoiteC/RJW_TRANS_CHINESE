@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts masturbation -->
+
+  <CountOfFappin.label>masturbações feitas</CountOfFappin.label>
+  <CountOfFappin.description>O número de vezes que me masturbei.</CountOfFappin.description>
+
+
+  <!-- Counts all sex excluding masturbation -->
+
+  <CountOfSex.label>total de sexo feito</CountOfSex.label>
+  <CountOfSex.description>O número de vezes que fiz sexo.</CountOfSex.description>
+
+
+  <!-- Counts all sex + rapes -->
+
+  <CountOfSexWithHumanlikes.label>sexo com humanóides</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>O número de vezes que fiz sexo com humanóides.</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>sexo com animais</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>O número de vezes que fiz sexo com animais.</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>sexo com insetos</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>O número de vezes que fiz sexo com insetos.</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>sexo com outros</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>O número de vezes que fiz sexo com coisas estranhas.</CountOfSexWithOthers.description>
+
+
+  <!-- Counts rapes -->
+
+  <CountOfRapedHumanlikes.label>estuprou humanóides</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>O número de vezes que estuprei humanóides.</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>estuprou animais</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>O número de vezes que estuprei animais.</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>estuprou insetos</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>O número de vezes que estuprei insetos.</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>estuprou outros</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>O número de vezes que estuprei coisas estranhas.</CountOfRapedOthers.description>
+
+  <CountOfSexWithCorpse.label>estuprou corpses</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>O número de vezes que estuprei corpses.</CountOfSexWithCorpse.description>
+
+  <CountOfBeenRapedByHumanlikes.label>estuprado por humanóides</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>O número de vezes que fui estuprado por humanóides.</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>estuprado por animais</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>O número de vezes que fui estuprado por animais.</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>estuprado por insetos</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>O número de vezes que fui estuprado por insetos.</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>estuprado por outros</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>O número de vezes que fui estuprado por coisas estranhas.</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>estuprou as a comfort</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>The number of times I was used to comfort someone.</GetRapedAsComfortPrisoner.description>
+
+
+  <!-- Counts whoring stuff -->
+
+  <CountOfWhore.label>vezes prostituido(a)</CountOfWhore.label>
+  <CountOfWhore.description>O número de vezes que me prostituí.</CountOfWhore.description>
+
+  <EarnedMoneyByWhore.label>prata conseguida por prostituição</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.description>A quantidade de prata que consegui me prostituindo.</EarnedMoneyByWhore.description>
+
+
+  <!-- Counts birthing -->
+
+  <CountOfBirthHuman.label>filhos humanóides</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>Quantos humanóides nasceram de mim.</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>filhos animais</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>Quantos animais nasceram de mim.</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>filhos ovos</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>Quantos ovos nasceram de mim.</CountOfBirthEgg.description>
+
+  <CountOfCondomsUsed.label>preservativos usados</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>O número de preservativos que eu usei.</CountOfCondomsUsed.description>
+
+
+</LanguageData>

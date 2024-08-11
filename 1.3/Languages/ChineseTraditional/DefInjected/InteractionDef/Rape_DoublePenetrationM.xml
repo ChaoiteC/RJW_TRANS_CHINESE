@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_DoublePenetrationM.label>雙洞齊插強姦M</Rape_DoublePenetrationM.label>
+  <Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]粗暴地雙洞齊插。M</Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]以雙洞齊插的方式強姦了。M</Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

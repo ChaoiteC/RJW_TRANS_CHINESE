@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RemoveUnknownEgg.label>알 수 없는 알 제거</RemoveUnknownEgg.label>
+	<RemoveUnknownEgg.description>알 수 없는 알을 제거합니다</RemoveUnknownEgg.description>
+	<RemoveUnknownEgg.jobString>알 수 없는 알 제거 중</RemoveUnknownEgg.jobString>
+	<RemoveInsectHiveEgg.label>곤충의 알 제거</RemoveInsectHiveEgg.label>
+	<RemoveInsectHiveEgg.description>곤충의 알을 제거합니다</RemoveInsectHiveEgg.description>
+	<RemoveInsectHiveEgg.jobString>곤충의 알 제거 중</RemoveInsectHiveEgg.jobString>
+	<RemoveMicroComputer.label>마이크로컴퓨터 제거</RemoveMicroComputer.label>
+	<RemoveMicroComputer.description>마이크로컴퓨터를 제거합니다</RemoveMicroComputer.description>
+	<RemoveMicroComputer.jobString>마이크로컴퓨터 제거 중</RemoveMicroComputer.jobString>
+	<RJW_RemoveRestraints.label>구속 제거</RJW_RemoveRestraints.label>
+	<RJW_RemoveRestraints.description>구속을 제거합니다</RJW_RemoveRestraints.description>
+	<RJW_RemoveRestraints.jobString>구속 제거 중</RJW_RemoveRestraints.jobString>
+	<RJW_RemoveCocoon.label>곤충고치 제거</RJW_RemoveCocoon.label>
+	<RJW_RemoveCocoon.description>곤충고치를 제거합니다</RJW_RemoveCocoon.description>
+	<RJW_RemoveCocoon.jobString>곤충고치 제거 중</RJW_RemoveCocoon.jobString>
+
+</LanguageData>

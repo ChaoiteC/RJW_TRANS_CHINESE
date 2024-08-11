@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<JobDef>
+		<defName>RJW_Masturbate</defName>
+		<driverClass>rjw.JobDriver_Masturbate</driverClass>
+		<reportString>masturbatin'.</reportString>
+		<casualInterruptible>false</casualInterruptible>
+	</JobDef>
+</Defs>

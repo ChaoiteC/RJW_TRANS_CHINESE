@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural Penises -->
+
+  <Penis.label>Penis</Penis.label>
+  <Penis.description>Ein Penis.</Penis.description>
+
+
+  <!-- Natural Vaginas -->
+
+  <Vagina.label>Vagina</Vagina.label>
+  <Vagina.description>Eine Vagina.</Vagina.description>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>Brüste</Breasts.label>
+  <Breasts.description>Ein paar Brüste.</Breasts.description>
+
+
+  <!-- Natural Anuses -->
+
+  <Anus.label>Anus</Anus.label>
+  <Anus.description>Ein Anus.</Anus.description>
+
+  <FeaturelessChest.label>Merkmallose Brust</FeaturelessChest.label>
+  <FeaturelessChest.description>Glatte, ungewölbte Brust. Hauptsächlich bei Nicht-Säugetieren anzutreffen.</FeaturelessChest.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation for breeding -->
+
+  <Bestiality_Reverse_Handjob.label>動物手交</Bestiality_Reverse_Handjob.label>
+  <Bestiality_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->給[RECIPIENT_nameDef]提供了手交服務。</Bestiality_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->從[INITIATOR_nameDef]那裡得到了手交服務。</Bestiality_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

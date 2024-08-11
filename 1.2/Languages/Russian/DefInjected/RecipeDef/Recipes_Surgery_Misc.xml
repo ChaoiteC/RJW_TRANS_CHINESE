@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- targetsBodyPart>true</targetsBodyPart -->
+
+  <Sterilization.label>Стерелизовать</Sterilization.label>
+  <Sterilization.description>Предотвратить размножение без удаления гениталий.</Sterilization.description>
+  <Sterilization.jobString>Стерелизует.</Sterilization.jobString>
+
+
+  <!-- IUD Sergery -->
+
+  <RJW_InstallIUD.label>Установить внутриматочную спираль</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>Предотвратить размножение на время. Всегда можно удалить.</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>installing внутриматочную спираль.</RJW_InstallIUD.jobString>
+
+  <RJW_RemovelIUD.label>Удалить внутриматочную спираль</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>Предотвратить размножение на время. Всегда можно удалить.</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>Удаляет внутриматочную спираль.</RJW_RemovelIUD.jobString>
+
+  <InstallPegArm.label>Установить руку-деревяшку</InstallPegArm.label>
+  <InstallPegArm.description>Устанавливает руку-деревяшку.</InstallPegArm.description>
+  <InstallPegArm.jobString>Устанавливает руку-деревяшку.</InstallPegArm.jobString>
+
+
+</LanguageData>

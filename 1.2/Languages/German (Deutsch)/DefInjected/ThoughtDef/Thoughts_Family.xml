@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Death thoughts -->
+
+  <MyPupDied.stages.0.label>Mein Sohn {0} ist gestorben</MyPupDied.stages.0.label>
+  <MyPupDied.stages.0.description>Mein Sohn ist gestorben. Mein eigen Fleisch und Blut...</MyPupDied.stages.0.description>
+
+  <MyPupDiedFemale.stages.0.label>Meine Tochter {0} ist gestorben</MyPupDiedFemale.stages.0.label>
+  <MyPupDiedFemale.stages.0.description>Meine Tochter ist gestorben. Mein eigen Fleisch und Blut...</MyPupDiedFemale.stages.0.description>
+
+
+  <!-- Killed opinion thoughts -->
+
+  <KilledMyPup.stages.0.label>tötete meinen Sohn</KilledMyPup.stages.0.label>
+  <KilledMyPupFemale.stages.0.label>tötete meine Tochter</KilledMyPupFemale.stages.0.label>
+
+
+  <!-- sold thought -->
+
+  <SoldMyPup.stages.0.label>Kind wurde verkauft</SoldMyPup.stages.0.label>
+  <SoldMyPup.stages.0.description>Mein Kind wurde verkauft!</SoldMyPup.stages.0.description>
+
+
+</LanguageData>

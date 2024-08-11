@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Mod strings -->
+<!-- Notifications on right-clicking CP -->
+<PawnCantRapeCP>Ціль недостатньо здорова або знаходиться в забороненому місці.</PawnCantRapeCP>
+<PawnCantRapeCP0>Пешка не потребує сексу, нездорова або не може насильно займатися сексом.</PawnCantRapeCP0>
+<PawnCantRapeCP1>Пешка не є одинокою або має партнера поруч.</PawnCantRapeCP1>
+<PawnCantRapeCP2>Пешка не зоофіл, тому не може насильно займатися сексом з тваринами.</PawnCantRapeCP2>
+<!--Submit button-->
+<CommandSubmit>Підтвердити</CommandSubmit>
+<CommandSubmitDesc>Лягти і прийняти все, що має настати.</CommandSubmitDesc>
+<!--Pregnancy messages-->
+<RJW_PregnantTitle>{0} вагітна.</RJW_PregnantTitle>
+<RJW_PregnantText>{0} вагітна і скоро стане матір'ю! Але будьте обачні, голод та травми можуть призвести до втрати дитини.</RJW_PregnantText>
+<RJW_Contractions>{0} має скорочення! Дитина(діти) на шляху!</RJW_Contractions>
+<RJW_GaveBirthTitle>Народження відбулося.</RJW_GaveBirthTitle>
+<RJW_GaveBirthText>{0} успішно народила</RJW_GaveBirthText>
+<RJW_ABaby>свою дитину.</RJW_ABaby>
+<RJW_NBabies>її {0} дітей.</RJW_NBabies>
+<RJW_PregnantNormal>Маєте здорову дитину...</RJW_PregnantNormal>
+<RJW_PregnantStrange>Щось незвичайне з дитиною...</RJW_PregnantStrange>
+<RJW_PregnantMechStrange>Щось дуже дивне з дитиною...</RJW_PregnantMechStrange>
+<RJW_GaveBirthEggTitle>Відкладення яйця.</RJW_GaveBirthEggTitle>
+<RJW_GaveBirthEggText>{0} відклала яйця</RJW_GaveBirthEggText>
+<RJW_EggContractions>{0} має скорочення! Яйця на шляху!</RJW_EggContractions>
+<GoToModSettings>Це місце призначене для необов'язкових функцій RJW, які вимкнені або недоступні для вибраної пішки/тварини. \nПеревірте параметри моду "fuck" та перестаньте запитувати, чи це нормально.</GoToModSettings>
+<!--Comfort designation-->
+<ForComfort>Використовувати для комфорту</ForComfort>
+<ForComfortDesc>Позначити для "комфортного" сексу</ForComfortDesc>
+<ForComfortRefuseDesc>Не згодна бути використовуваною для комфорту \nПотрібна черта мазохізму</ForComfortRefuseDesc>
+<!--Whore-->
+<ForService>Призначити для проституції</ForService><!-- This field is not visible -->
+<ForServiceDesc><![CDATA[Позначити для проституції
+Буде намагатися знайти клієнтів-відвідувачів.
+Розважає інших колоністів, якщо не зайнята.
+Намагається утримуватися від мастурбації під час роботи, що може викликати стрес.
+]]></ForServiceDesc>
+<ForServiceRefuseDesc>Не згодна бути проституткою</ForServiceRefuseDesc>
+<!--Breeding designations-->
+<ForBreeding>Для тварин</ForBreeding>
+<ForBreedingDesc>Позначити для розмноження тварин</ForBreedingDesc>
+<ForBreedingRefuseDesc>Не згодна бути обкочуваною тваринами \nПотрібна черта зоофілії</ForBreedingRefuseDesc>
+<ForBreedingAnimalDesc>Дозволити цій тварині обкочувати позначених розплідників</ForBreedingAnimalDesc>
+<BreedMessage>намагається розмножитися з</BreedMessage>
+<!--Доїння-->
+<ForMilking>Позначити як доїльне</ForMilking>
+<ForMilkingDesc>Збирання біологічного матеріалу з цього істоти</ForMilkingDesc>
+<!--Герой-->
+<ForHero>Позначити як Герой</ForHero>
+<ForHeroDesc><![CDATA[Встановіть піона як персонажа гравця
+-Можна встановити лише один раз.
+-Не можна вимкнути.
+]]></ForHeroDesc>
+<ForHeroRefuse1Desc>Це герой іншого гравця</ForHeroRefuse1Desc>
+<ForHeroRefuse2Desc>Ви не маєте права змінювати призначення</ForHeroRefuse2Desc>
+<ForHeroRefuseHCDesc>Не геройський колоніст у режимі HC</ForHeroRefuseHCDesc>
+<!-- Підказки до hediff -->
+<RJW_hediff_braCup>Розмір бюстгальтера: {0}</RJW_hediff_braCup>
+<RJW_hediff_braSizeNone>Розмір бюстгальтера: -</RJW_hediff_braSizeNone>
+<RJW_hediff_eggs>Яйця: {0}</RJW_hediff_eggs>
+<RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+<RJW_hediff_girth>Обхват: {0}</RJW_hediff_girth>
+<RJW_hediff_length>Довжина: {0}</RJW_hediff_length>
+<RJW_hediff_maxGirth>Макс. обхват: {0}</RJW_hediff_maxGirth>
+<RJW_hediff_maxLength>Макс. довжина: {0}</RJW_hediff_maxLength>
+<RJW_hediff_braSize>Розмір бюстгальтера: {0}:{1}</RJW_hediff_braSize>
+<RJW_hediff_overbust>Надгрудний обхват: {0}</RJW_hediff_overbust>
+<RJW_hediff_underbust>Підгрудний обхват: {0}</RJW_hediff_underbust>
+<RJW_hediff_unknownSpecies>Невідомий вид</RJW_hediff_unknownSpecies>
+<RJW_hediff_weight>Вага: {0}</RJW_hediff_weight>
+<!-- Підказка RJW fertility -->
+<AgeImpactor>Вік:</AgeImpactor>
+<VanillaFertilityImpactor>Стан плідності: {VALUE}%</VanillaFertilityImpactor>
+<!-- Німфи!!! -->
+<RJW_nymph_incident_raid_title>Німфи!!!</RJW_nymph_incident_raid_title>
+<RJW_nymph_incident_raid_description>Група німф забрела в ваше поселення.</RJW_nymph_incident_raid_description>
+<RJW_nymph_incident_wander_title>Німфа!</RJW_nymph_incident_wander_title>
+<RJW_nymph_incident_wander_description>Блукавша німфа вирішила відвідати ваше поселення.</RJW_nymph_incident_wander_description>
+<RJW_nymph_incident_join_title>Німфа приєднується</RJW_nymph_incident_join_title>
+<RJW_nymph_incident_join_description>Блукавша німфа вирішила приєднатися до вашого поселення.</RJW_nymph_incident_join_description>
+<!-- Інтеграція біотехнологій -->
+<PawnLacksFunctionalGenitals>{PAWN} не має робочих статевих органів.</PawnLacksFunctionalGenitals>
+<PawnLacksVagina>{PAWN} не має вагіни.</PawnLacksVagina>
+<PawnLacksFunctionalPenis>{PAWN} не має працюючого пеніса.</PawnLacksFunctionalPenis>
+<VaginalWeight>шанс на вагінальний секс</VaginalWeight>
+<!-- Отримання рис -->
+<!-- Порада: Ви можете легко додати версії цих двох для кожної окремої риси, додавши до її назви defname та, опціонально, її ступінь. -->
+<LetterLabelGainedTraitFromSex>Отримана риса: {PAWN}</LetterLabelGainedTraitFromSex>
+<GainedTraitFromSex>Сексуальний досвід спричинив отримання риси {TRAIT} для {PAWN}.</GainedTraitFromSex>
+<GainedTraitFromSexNymphomaniac>Підсилювач афродизіаку переповнює мозок {PAWN} відчуттями насиченості. {PAWN} отримала рису {TRAIT}.</GainedTraitFromSexNymphomaniac>
+<GainedTraitFromSexFootSlut>Увага до ступнів живить фетиш у {PAWN}. {PAWN} тепер {TRAIT}.</GainedTraitFromSexFootSlut>
+<LetterLabelGainedMultipleTraitsFromSex>Отримані риси: {PAWN}</LetterLabelGainedMultipleTraitsFromSex>
+<GainedMultipleTraitsFromSex > Сильний сексуальний досвід призвів до того, що {PAWN} здобув(ла) наступні риси:</GainedMultipleTraitsFromSex>
+<GainedMultipleTraitsFromSexListItem > - {0}</GainedMultipleTraitsFromSexListItem>
+</LanguageData>

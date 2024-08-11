@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<GettinRaped.reportString>강간당하는 중.</GettinRaped.reportString>
+	<RapeComfortPawn.reportString>성노예 강간 중.</RapeComfortPawn.reportString>
+	<RandomRape.reportString>강간 중.</RandomRape.reportString>
+
+	<RapeEnemy.reportString>적 강간 중.</RapeEnemy.reportString>
+	<RapeEnemyByInsect.reportString>교미 중.</RapeEnemyByInsect.reportString>
+	<RapeEnemyByAnimal.reportString>교미 중.</RapeEnemyByAnimal.reportString>
+	<RapeEnemyByMech.reportString>이식 중.</RapeEnemyByMech.reportString>
+	<RapeEnemyToParasite.reportString>산란 중.</RapeEnemyToParasite.reportString>
+
+</LanguageData>

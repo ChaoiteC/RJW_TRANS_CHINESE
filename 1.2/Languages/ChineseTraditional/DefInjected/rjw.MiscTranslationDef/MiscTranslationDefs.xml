@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<rjw_vatgrown_sex_slave.label>克隆人性奴</rjw_vatgrown_sex_slave.label>
+	<rjw_vatgrown_sex_slave.description>[PAWN_nameDef]被當做性愛機器而不是人類撫養長大。在[PAWN_possessive]長大的工廠里，[PAWN_pronoun]被傳授了各種社交技巧與性交技巧，以滿足各種各樣的性需求。</rjw_vatgrown_sex_slave.description>
+
+	<rjw_feisty.label>活潑流鶯</rjw_feisty.label>
+	<rjw_feisty.description>[PAWN_nameDef]像征服者一樣在殖民地周圍昂首闊步地檢視新的領土。你試圖專注於你的工作，但[PAWN_pronoun]不會讓你如願。\n「我聽到你對我說的那些話了！」[PAWN_pronoun]說道。其實你什麼也沒說，[PAWN_pronoun]也知道這一點。「想打一炮嗎？」[PAWN_objective]邀請道。你已經知道[PAWN_pronoun]的意思了——玩一會兒「摔♂跤♀」你可以選擇帶[PAWN_objective]去玩，或者，如果你猶豫，則是[PAWN_pronoun]拖著你去玩。\n雖然[PAWN_nameDef]可能很難相處，但你已經意識到[PAWN_pronoun]比其他流鶯更實用。\n你向[PAWN_objective]解釋「看到這些東西了嗎？它們需要搬去那裡」或是「那些人想幹掉我們，所以我們得先幹掉他們。」[PAWN_pronoun]聽進去了，並且會做該做的事。</rjw_feisty.description>
+
+	<rjw_curious.label>好奇流鶯</rjw_curious.label>
+	<rjw_curious.description>將蓋板固定在後面並將執行器安裝槽C中，向上拉拉桿，不，還不夠，還需要更完美。現在，彈出JC-444晶片已就位。\n把橙色線焊到了16號位，把帶條紋的線焊在了5號位。\n突然一抬頭，看到了[PAWN_nameDef]在我面前。我倒是不驚訝見到[PAWN_pronoun]，只是沒聽到[PAWN_pronoun]接近的聲音，不過也已經習慣了。\n我繼續著默默地工作，而[PAWN_nameDef]的手則徘徊在我的身上，大大的眼睛一直注視著我雙手的快速、準確且謹慎的操作。</rjw_curious.description>
+
+	<rjw_tender.label>溫婉流鶯</rjw_tender.label>
+	<rjw_tender.description>[PAWN_nameDef]的眼神總是帶著似水的柔情，聲音柔美而動聽。由於有過護士的經歷，因此照顧人也很貼心到位。\n[PAWN_nameDef]正蜷縮在角落，手捂著[PAWN_pronoun]的耳朵，眼中閃過一道淚光。\n你一開始並不明白這是怎麼了，但之後便注意到了：那是遠處殺豬的慘叫聲。</rjw_tender.description>
+
+	<rjw_chatty.label>健談流鶯</rjw_chatty.label>
+	<rjw_chatty.description>沒有人比[PAWN_nameDef]更健談。[PAWN_pronoun]有著靈活的舌頭，敏銳的頭腦和性感的熱唇。</rjw_chatty.description>
+
+	<rjw_broken.label>崩壞流鶯</rjw_broken.label>
+	<rjw_broken.description>也許是由於[PAWN_nameDef]以前遇到過一些可怕的事情,現在的[PAWN_pronoun]看上去很憔悴。沒人願意搭理[PAWN_pronoun]。\n[PAWN_pronoun]時常盯著棒狀物，只有在這時[PAWN_pronoun]看上去才有點活力。</rjw_broken.description>
+</LanguageData>

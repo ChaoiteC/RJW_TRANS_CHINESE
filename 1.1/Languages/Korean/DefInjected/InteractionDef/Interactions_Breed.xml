@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnalBreeding.label>항문 교미</AnalBreeding.label>
+	<AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 항문이 꿰뚫림.</AnalBreeding.logRulesInitiator.rulesStrings.0>
+	<AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 항문을 꿰뚫림.</AnalBreeding.logRulesRecipient.rulesStrings.0>
+	<VaginalBreeding.label>삽입 교미</VaginalBreeding.label>
+	<VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지가 꿰뚫림.</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+	<VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 보지를 꿰뚫림.</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+	<OralBreeding.label>핥아짐</OralBreeding.label>
+	<OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]가 핥아짐.</OralBreeding.logRulesInitiator.rulesStrings.0>
+	<OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 핥아짐.</OralBreeding.logRulesRecipient.rulesStrings.0>
+	<FingeringBreeding.label>손가락 애무</FingeringBreeding.label>
+	<FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]에게 손가락이 집어넣어짐.</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+	<FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 손가락을 받아들임.</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+	<ForcedOralBreeding.label>핥아짐</ForcedOralBreeding.label>
+	<ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 입에 자지가 강제로 삽입됨.</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+	<ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->입에 자지를 강제로 삽입당함.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+
+	<RequestVaginalBreeding.label>삽입 교미</RequestVaginalBreeding.label>
+	<RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 섹스를 요구함.</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 섹스를 요구받음.</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+	<RequestAnalBreeding.label>항문 교미</RequestAnalBreeding.label>
+	<RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]는 [INITIATOR_nameDef]에게 항문 섹스를 요구함.</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+	<RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]에게 항문 섹스를 요구받음.</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

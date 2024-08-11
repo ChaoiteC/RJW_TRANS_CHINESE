@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GettinRaped.reportString>siendo violado(a).</GettinRaped.reportString>
+  <RapeComfortPawn.reportString>violando prisionero(a) de alívio</RapeComfortPawn.reportString>
+  <RandomRape.reportString>Violando</RandomRape.reportString>
+  <RapeEnemy.reportString>Violando Enemigo</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>Violando Enemigo</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>Violando Enemigo</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>Violando Enemigo</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>Violando Enemigo</RapeEnemyToParasite.reportString>
+
+
+</LanguageData>

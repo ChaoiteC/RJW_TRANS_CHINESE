@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chains.label>Ketten</Chains.label>
+  <Chains.labelNoun>Ketten</Chains.labelNoun>
+  <Chains.description>Eine Menge Ketten, welche den Träger einschränken.</Chains.description>
+
+  <BoundHands.label>gefesselte Hände</BoundHands.label>
+  <BoundHands.labelNoun>Gefesselte Hände</BoundHands.labelNoun>
+  <BoundHands.description>Die Hände sind gebunden.</BoundHands.description>
+
+  <BoundLegs.label>gefesselte Beine</BoundLegs.label>
+  <BoundLegs.labelNoun>gefesselte Beine</BoundLegs.labelNoun>
+  <BoundLegs.description>Die Beine sind gebunden.</BoundLegs.description>
+
+  <RJW_Restraints.label>Fesseln</RJW_Restraints.label>
+  <RJW_Restraints.labelNoun>Fesseln</RJW_Restraints.labelNoun>
+  <RJW_Restraints.description>Eine Reihe Fesseln.</RJW_Restraints.description>
+
+
+  <!-- insect restraints -->
+
+  <RJW_Cocoon.label>Kokon</RJW_Cocoon.label>
+  <RJW_Cocoon.labelNoun>ein Kokon</RJW_Cocoon.labelNoun>
+  <RJW_Cocoon.description>Ein Kokon welcher den Insassen versorgt und ihn am entkommen hindert.</RJW_Cocoon.description>
+
+
+</LanguageData>

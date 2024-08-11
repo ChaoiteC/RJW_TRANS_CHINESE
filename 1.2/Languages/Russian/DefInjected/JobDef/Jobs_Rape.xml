@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GettinRaped.reportString>подвергается изнасилованию.</GettinRaped.reportString>
+  <RapeComfortPawn.reportString>Насилует</RapeComfortPawn.reportString>
+  <RandomRape.reportString>Насилует</RandomRape.reportString>
+  <RapeEnemy.reportString>Насилует врага</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>Насилует врага</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>Насилует врага</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>Насилует врага</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>Насилует врага</RapeEnemyToParasite.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Condom.label>Презерватив</Condom.label>
+  <Condom.description>Единоразово предотвращает беременность. Автоматически используется из инвентаря или из клетки рядом с кроватью.</Condom.description>
+
+  <UsedCondom.label>Использованный презерватив</UsedCondom.label>
+  <UsedCondom.description>Едва ли внутри сгущёнка</UsedCondom.description>
+
+
+</LanguageData>

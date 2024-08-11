@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Pawns with ovi's plant egg. -->
+<RJW_InsectEgg.label>Яйце</RJW_InsectEgg.label>
+<RJW_InsectEgg.description>Яйце(а)-паразит(и), які харчуються за допомогою господаря аж до вилуплення.
+Просто скажіть спасибі, що вони не будуть прогризати вам груди.</RJW_InsectEgg.description>
+<!-- Placeholder egg/unsupported/any races -->
+<RJW_UnknownEgg.label>Яйце</RJW_UnknownEgg.label>
+<RJW_UnknownEgg.description>Яйце(а)-паразит(и), які харчуються за допомогою господаря аж до вилуплення.
+Просто скажіть спасибі, що вони не будуть прогризати вам груди.</RJW_UnknownEgg.description>
+<!-- ванільні комахи, можуть запліднювати одна одну -->
+<RJW_InsectHiveEgg.label>Яйце</RJW_InsectHiveEgg.label>
+<RJW_InsectHiveEgg.description>Яйце(а)-паразит(и), які харчуються за допомогою господаря аж до вилуплення.
+Просто скажіть спасибі, що вони не будуть прогризати вам груди.</RJW_InsectHiveEgg.description>
+</LanguageData>

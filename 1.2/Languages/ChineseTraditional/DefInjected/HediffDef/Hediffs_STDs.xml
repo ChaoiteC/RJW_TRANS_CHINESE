@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcuteHIV.label>急性艾滋病</AcuteHIV.label>
+  <AcuteHIV.description>通過性接觸傳播的免疫缺陷病毒。</AcuteHIV.description>
+  <AcuteHIV.stages.0.label>微度</AcuteHIV.stages.0.label>
+  <AcuteHIV.stages.1.label>輕度</AcuteHIV.stages.1.label>
+  <AcuteHIV.stages.2.label>輕度</AcuteHIV.stages.2.label>
+  <AcuteHIV.stages.3.label>輕度</AcuteHIV.stages.3.label>
+  <AcuteHIV.stages.4.label>中度</AcuteHIV.stages.4.label>
+  <AcuteHIV.stages.5.label>嚴重</AcuteHIV.stages.5.label>
+  <AcuteHIV.stages.6.label>嚴重</AcuteHIV.stages.6.label>
+  <AcuteHIV.stages.7.label>嚴重</AcuteHIV.stages.7.label>
+  <AcuteHIV.stages.8.label>極重</AcuteHIV.stages.8.label>
+  <AcuteHIV.stages.9.label>極重</AcuteHIV.stages.9.label>
+
+  <ChronicHIV.label>慢性艾滋病</ChronicHIV.label>
+  <ChronicHIV.description>通過性接觸傳播的免疫缺陷病毒。</ChronicHIV.description>
+  <ChronicHIV.stages.0.label>微度</ChronicHIV.stages.0.label>
+  <ChronicHIV.stages.1.label>輕度</ChronicHIV.stages.1.label>
+  <ChronicHIV.stages.2.label>輕度</ChronicHIV.stages.2.label>
+  <ChronicHIV.stages.3.label>輕度</ChronicHIV.stages.3.label>
+  <ChronicHIV.stages.4.label>中度</ChronicHIV.stages.4.label>
+  <ChronicHIV.stages.5.label>嚴重</ChronicHIV.stages.5.label>
+  <ChronicHIV.stages.6.label>嚴重</ChronicHIV.stages.6.label>
+  <ChronicHIV.stages.7.label>嚴重</ChronicHIV.stages.7.label>
+  <ChronicHIV.stages.8.label>極重</ChronicHIV.stages.8.label>
+  <ChronicHIV.stages.9.label>極重</ChronicHIV.stages.9.label>
+
+  <Herpes.label>皰疹</Herpes.label>
+  <Herpes.description>通過性接觸傳播的生殖器感染，會疼痛。</Herpes.description>
+  <Herpes.stages.0.label>輕度</Herpes.stages.0.label>
+  <Herpes.stages.1.label>中度</Herpes.stages.1.label>
+  <Herpes.stages.2.label>嚴重</Herpes.stages.2.label>
+
+  <Warts.label>菜花病</Warts.label>
+  <Warts.description>通過性接觸傳播的生殖器菜花型濕疣。</Warts.description>
+  <Warts.stages.0.label>輕度</Warts.stages.0.label>
+  <Warts.stages.1.label>嚴重</Warts.stages.1.label>
+
+  <Syphilis.label>梅毒</Syphilis.label>
+  <Syphilis.description>通過性接觸傳播的細菌感染。</Syphilis.description>
+  <Syphilis.stages.0.label>輕度</Syphilis.stages.0.label>
+  <Syphilis.stages.1.label>中度</Syphilis.stages.1.label>
+  <Syphilis.stages.2.label>嚴重</Syphilis.stages.2.label>
+  <Syphilis.stages.3.label>極重</Syphilis.stages.3.label>
+  <Syphilis.stages.4.label>極重</Syphilis.stages.4.label>
+  <Syphilis.stages.5.label>極重</Syphilis.stages.5.label>
+
+  <Boobitis.label>乳房機械感染</Boobitis.label>
+  <Boobitis.description>乳房機械感染是一種高度傳染性的機械瘟疫，如果不加以治療，會導致乳房永久生長。它最初是一種無害的閃耀科技「娛樂藥物」但後來發生變異並傳播到每個人類殖民地。</Boobitis.description>
+  <Boobitis.stages.0.label>輕微腫脹</Boobitis.stages.0.label>
+  <Boobitis.stages.1.label>明顯腫脹</Boobitis.stages.1.label>
+  <Boobitis.stages.2.label>壯觀的腫脹</Boobitis.stages.2.label>
+</LanguageData>

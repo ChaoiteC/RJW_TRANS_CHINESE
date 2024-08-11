@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallVagina.label>평범한 보지 이식</InstallVagina.label>
+	<InstallVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallVagina.description>
+	<InstallVagina.jobString>이식 중.</InstallVagina.jobString>
+	<InstallCatVagina.label>고양이 보지 이식</InstallCatVagina.label>
+	<InstallCatVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallCatVagina.description>
+	<InstallCatVagina.jobString>이식 중.</InstallCatVagina.jobString>
+	<InstallDogVagina.label>개 보지 이식</InstallDogVagina.label>
+	<InstallDogVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallDogVagina.description>
+	<InstallDogVagina.jobString>이식 중.</InstallDogVagina.jobString>
+	<InstallHorseVagina.label>말 보지 이식</InstallHorseVagina.label>
+	<InstallHorseVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallHorseVagina.description>
+	<InstallHorseVagina.jobString>이식 중.</InstallHorseVagina.jobString>
+	<InstallDragonVagina.label>용 보지 이식</InstallDragonVagina.label>
+	<InstallDragonVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallDragonVagina.description>
+	<InstallDragonVagina.jobString>이식 중.</InstallDragonVagina.jobString>
+	<InstallNarrowVagina.label>좁은 보지 이식</InstallNarrowVagina.label>
+	<InstallNarrowVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallNarrowVagina.description>
+	<InstallNarrowVagina.jobString>이식 중.</InstallNarrowVagina.jobString>
+	<InstallCloacalVagina.label>총배설강 보지 이식</InstallCloacalVagina.label>
+	<InstallCloacalVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallCloacalVagina.description>
+	<InstallCloacalVagina.jobString>이식 중.</InstallCloacalVagina.jobString>
+	<InstallRodentVagina.label>설치류 보지 이식</InstallRodentVagina.label>
+	<InstallRodentVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallRodentVagina.description>
+	<InstallRodentVagina.jobString>이식 중.</InstallRodentVagina.jobString>
+	<InstallOvipositorF.label>벌레 산란관 이식</InstallOvipositorF.label>
+	<InstallOvipositorF.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallOvipositorF.description>
+	<InstallOvipositorF.jobString>이식 중.</InstallOvipositorF.jobString>
+
+	<AttachPenis.label>평범한 자지 이식</AttachPenis.label>
+	<AttachPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachPenis.description>
+	<AttachPenis.jobString>이식 중.</AttachPenis.jobString>
+	<AttachHorsePenis.label>말 자지 이식</AttachHorsePenis.label>
+	<AttachHorsePenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachHorsePenis.description>
+	<AttachHorsePenis.jobString>이식 중.</AttachHorsePenis.jobString>
+	<AttachRaccoonPenis.label>너구리 자지 이식</AttachRaccoonPenis.label>
+	<AttachRaccoonPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachRaccoonPenis.description>
+	<AttachRaccoonPenis.jobString>이식 중.</AttachRaccoonPenis.jobString>
+	<AttachCatPenis.label>고양이 자지 이식</AttachCatPenis.label>
+	<AttachCatPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachCatPenis.description>
+	<AttachCatPenis.jobString>이식 중.</AttachCatPenis.jobString>
+	<AttachDogPenis.label>개 자지 이식</AttachDogPenis.label>
+	<AttachDogPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachDogPenis.description>
+	<AttachDogPenis.jobString>이식 중.</AttachDogPenis.jobString>
+	<AttachDragonPenis.label>용 자지 이식</AttachDragonPenis.label>
+	<AttachDragonPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachDragonPenis.description>
+	<AttachDragonPenis.jobString>이식 중.</AttachDragonPenis.jobString>
+	<AttachHemiPenis.label>뱀 자지 이식</AttachHemiPenis.label>
+	<AttachHemiPenis.description>양쪽으로 갈라진 자지를 이식합니다.</AttachHemiPenis.description>
+	<AttachHemiPenis.jobString>이식 중.</AttachHemiPenis.jobString>
+	<AttachCrocodilianPenis.label>악어 자지 이식</AttachCrocodilianPenis.label>
+	<AttachCrocodilianPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachCrocodilianPenis.description>
+	<AttachCrocodilianPenis.jobString>이식 중.</AttachCrocodilianPenis.jobString>
+	<AttachNeedlePenis.label>바늘 자지 이식</AttachNeedlePenis.label>
+	<AttachNeedlePenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachNeedlePenis.description>
+	<AttachNeedlePenis.jobString>이식 중.</AttachNeedlePenis.jobString>
+	<AttachCloacalPenis.label>총배설강 자지 이식</AttachCloacalPenis.label>
+	<AttachCloacalPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachCloacalPenis.description>
+	<AttachCloacalPenis.jobString>이식 중.</AttachCloacalPenis.jobString>
+	<AttachRodentPenis.label>설치류 자지 이식</AttachRodentPenis.label>
+	<AttachRodentPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachRodentPenis.description>
+	<AttachRodentPenis.jobString>이식 중.</AttachRodentPenis.jobString>
+	<AttachOvipositorM.label>벌레 정낭 이식</AttachOvipositorM.label>
+	<AttachOvipositorM.description>지금의 성기 대신, 벌레 정낭을 이식합니다.</AttachOvipositorM.description>
+	<AttachOvipositorM.jobString>이식 중.</AttachOvipositorM.jobString>
+
+	<AttachBreasts.label>가슴 이식</AttachBreasts.label>
+	<AttachBreasts.description>지금의 가슴을 대체하는 부위를 이식합니다.</AttachBreasts.description>
+	<AttachBreasts.jobString>이식 중.</AttachBreasts.jobString>
+	<AttachUdderBreasts.label>젖통 이식</AttachUdderBreasts.label>
+	<AttachUdderBreasts.description>지금의 가슴을 대체하는 부위를 이식합니다.</AttachUdderBreasts.description>
+	<AttachUdderBreasts.jobString>젖통 이식중.</AttachUdderBreasts.jobString>
+	<AttachFeaturelesschest.label>밋밋한 가슴 이식</AttachFeaturelesschest.label>
+	<AttachFeaturelesschest.description>지금의 가슴을 대체하는 부위를 이식합니다.</AttachFeaturelesschest.description>
+	<AttachFeaturelesschest.jobString>이식 중.</AttachFeaturelesschest.jobString>
+
+	<InstallAnus.label>평범한 항문 이식</InstallAnus.label>
+	<InstallAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallAnus.description>
+	<InstallAnus.jobString>이식 중.</InstallAnus.jobString>
+	<InstallCloacalAnus.label>총배설강 항문 이식</InstallCloacalAnus.label>
+	<InstallCloacalAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallCloacalAnus.description>
+	<InstallCloacalAnus.jobString>이식 중.</InstallCloacalAnus.jobString>
+	<InstallInsectAnus.label>벌레 배설강 이식</InstallInsectAnus.label>
+	<InstallInsectAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallInsectAnus.description>
+	<InstallInsectAnus.jobString>이식 중.</InstallInsectAnus.jobString>
+
+	<InstallHydraulicPenis.label>유압 자지 이식</InstallHydraulicPenis.label>
+	<InstallHydraulicPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallHydraulicPenis.description>
+	<InstallHydraulicPenis.jobString>이식 중.</InstallHydraulicPenis.jobString>
+	<InstallHydraulicVagina.label>유압 보지 이식</InstallHydraulicVagina.label>
+	<InstallHydraulicVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallHydraulicVagina.description>
+	<InstallHydraulicVagina.jobString>이식 중.</InstallHydraulicVagina.jobString>
+	<InstallHydraulicBreasts.label>유압 가슴 이식</InstallHydraulicBreasts.label>
+	<InstallHydraulicBreasts.description>지금의 가슴을 대체하는 부위를 이식합니다.</InstallHydraulicBreasts.description>
+	<InstallHydraulicBreasts.jobString>이식 중.</InstallHydraulicBreasts.jobString>
+	<InstallHydraulicAnus.label>유압 항문 이식</InstallHydraulicAnus.label>
+	<InstallHydraulicAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallHydraulicAnus.description>
+	<InstallHydraulicAnus.jobString>이식 중.</InstallHydraulicAnus.jobString>
+
+	<AttachPegDick.label>딜도 설치</AttachPegDick.label>
+	<AttachPegDick.description>지금의 성기를 대체하는 부위를 이식합니다.</AttachPegDick.description>
+	<AttachPegDick.jobString>설치 중.</AttachPegDick.jobString>
+
+	<InstallBionicVagina.label>생체공학 보지 이식</InstallBionicVagina.label>
+	<InstallBionicVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallBionicVagina.description>
+	<InstallBionicVagina.jobString>이식 중.</InstallBionicVagina.jobString>
+	<InstallBionicPenis.label>생체공학 자지 이식</InstallBionicPenis.label>
+	<InstallBionicPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallBionicPenis.description>
+	<InstallBionicPenis.jobString>이식 중.</InstallBionicPenis.jobString>
+	<InstallBionicBreasts.label>생체공학 가슴 이식</InstallBionicBreasts.label>
+	<InstallBionicBreasts.description>지금의 가슴을 대체하는 부위를 이식합니다.</InstallBionicBreasts.description>
+	<InstallBionicBreasts.jobString>이식 중.</InstallBionicBreasts.jobString>
+	<InstallBionicAnus.label>생체공학 항문 이식</InstallBionicAnus.label>
+	<InstallBionicAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallBionicAnus.description>
+	<InstallBionicAnus.jobString>이식 중.</InstallBionicAnus.jobString>
+
+	<InstallArchotechPenis.label>초월공학 자지 이식</InstallArchotechPenis.label>
+	<InstallArchotechPenis.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallArchotechPenis.description>
+	<InstallArchotechPenis.jobString>이식 중.</InstallArchotechPenis.jobString>
+	<InstallArchotechVagina.label>초월공학 보지 이식</InstallArchotechVagina.label>
+	<InstallArchotechVagina.description>지금의 성기를 대체하는 부위를 이식합니다.</InstallArchotechVagina.description>
+	<InstallArchotechVagina.jobString>이식 중.</InstallArchotechVagina.jobString>
+	<InstallArchotechAnus.label>초월공학 항문 이식</InstallArchotechAnus.label>
+	<InstallArchotechAnus.description>지금의 항문을 대체하는 부위를 이식합니다.</InstallArchotechAnus.description>
+	<InstallArchotechAnus.jobString>이식 중.</InstallArchotechAnus.jobString>
+	<InstallArchotechBreasts.label>초월공학 가슴 이식</InstallArchotechBreasts.label>
+	<InstallArchotechBreasts.description>지금의 가슴을 대체하는 부위를 이식합니다.</InstallArchotechBreasts.description>
+	<InstallArchotechBreasts.jobString>이식 중.</InstallArchotechBreasts.jobString>
+
+</LanguageData>

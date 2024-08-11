@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Remove privates -->
+
+  <RemoveGenitals.label>remover genitais</RemoveGenitals.label>
+  <RemoveGenitals.description>Remove os órgãos sexuais.</RemoveGenitals.description>
+  <RemoveGenitals.jobString>Removendo genitais.</RemoveGenitals.jobString>
+
+
+  <!-- <RecipeDef ParentName="SexReassignmentP">
+		<defName>RemovePenis</defName>
+		<label>remover penis</label>
+		<description>Remove o pênis.</description>
+		<workerClass>rjw.Recipe_RemovePenis</workerClass>
+		<jobString>Removendo penis.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SexReassignmentV">
+		<defName>RemoveVagina</defName>
+		<label>remover vagina</label>
+		<description>Remove a vagina.</description>
+		<workerClass>rjw.Recipe_RemoveVagina</workerClass>
+		<jobString>Removendo vagina.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef> -->
+
+  <RemoveBreasts.label>remover seios</RemoveBreasts.label>
+  <RemoveBreasts.description>Remove os seios.</RemoveBreasts.description>
+  <RemoveBreasts.jobString>Removendo seios.</RemoveBreasts.jobString>
+
+  <RemoveAnus.label>remover ânus</RemoveAnus.label>
+  <RemoveAnus.description>Remove o ânus.</RemoveAnus.description>
+  <RemoveAnus.jobString>Removendo ânus.</RemoveAnus.jobString>
+
+  <RemoveUdder.label>remover tetas</RemoveUdder.label>
+  <RemoveUdder.description>Remove as tetas.</RemoveUdder.description>
+  <RemoveUdder.jobString>Removendo tetas.</RemoveUdder.jobString>
+
+
+</LanguageData>

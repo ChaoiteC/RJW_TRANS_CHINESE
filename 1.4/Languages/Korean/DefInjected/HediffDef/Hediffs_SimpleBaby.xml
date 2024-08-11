@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RJW_BabyState.label>성장기</RJW_BabyState.label>
+	<RJW_BabyState.description>성장중인 아이입니다.</RJW_BabyState.description>
+	<RJW_BabyState.stages.0.label>영아기(1/3)</RJW_BabyState.stages.0.label>
+	<RJW_BabyState.stages.1.label>유아기(2/3)</RJW_BabyState.stages.1.label>
+	<RJW_BabyState.stages.2.label>아동기(3/3)</RJW_BabyState.stages.2.label>
+
+	<RJW_NoManipulationFlag.label>어려서 활동이 제한됨</RJW_NoManipulationFlag.label>
+	<RJW_NoManipulationFlag.description>어려서 활동이 제한됨</RJW_NoManipulationFlag.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Death thoughts -->
+
+  <MyPupDied.stages.0.label>Мой сын {0} умер</MyPupDied.stages.0.label>
+  <MyPupDied.stages.0.description>Мой сын умер. А вместе с ним и я...</MyPupDied.stages.0.description>
+
+  <MyPupDiedFemale.stages.0.label>Моя дочь {0} умерла</MyPupDiedFemale.stages.0.label>
+  <MyPupDiedFemale.stages.0.description>Моя дочь умерла. А вместе с ним и я...</MyPupDiedFemale.stages.0.description>
+
+
+  <!-- Killed opinion thoughts -->
+
+  <KilledMyPup.stages.0.label>Убийца моего сына</KilledMyPup.stages.0.label>
+  <KilledMyPupFemale.stages.0.label>Убийца моей дочери</KilledMyPupFemale.stages.0.label>
+
+
+  <!-- sold thought -->
+
+  <SoldMyPup.stages.0.label>Продажа любимого человека</SoldMyPup.stages.0.label>
+  <SoldMyPup.stages.0.description>Да как они посмели!</SoldMyPup.stages.0.description>
+
+
+</LanguageData>

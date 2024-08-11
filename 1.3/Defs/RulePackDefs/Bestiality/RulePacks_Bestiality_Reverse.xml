@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<RulePackDef>
+		<defName>Bestiality_Reverse_AnalRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into mounting [INITIATOR_nameDef] anally.</li>
+				<li>sent-> [INITIATOR_nameDef] presented to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Bestiality_Reverse_VaginalRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into mounting [INITIATOR_nameDef] vaginally.</li>
+				<li>sent-> [INITIATOR_nameDef] presented to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Bestiality_Reverse_OralRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into mounting [INITIATOR_nameDef] vaginally.</li>
+				<li>sent-> [INITIATOR_nameDef] presented to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Bestiality_Reverse_Double_Penetration</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] teased [RECIPIENT_nameDef] into double penetrating [INITIATOR_nameDef].</li>
+				<li>sent-> [INITIATOR_nameDef] presented to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+</Defs>

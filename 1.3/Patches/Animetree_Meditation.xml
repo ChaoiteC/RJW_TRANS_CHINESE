@@ -1,0 +1,22 @@
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationFindMod">
+				<mods>
+					<li>Royalty</li>
+				</mods>
+				<match Class="PatchOperationFindMod">
+					<mods>
+						<li>Anime Tree</li>
+					</mods>
+					<match Class="PatchOperationAdd">
+						<xpath>/Defs/ThingDef[defName="Plant_TreeAnima"]/comps/li[@Class="CompProperties_MeditationFocus"]/focusTypes</xpath>
+						<value>
+							<li>Sex</li>
+						</value>
+					</match>
+				</match>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

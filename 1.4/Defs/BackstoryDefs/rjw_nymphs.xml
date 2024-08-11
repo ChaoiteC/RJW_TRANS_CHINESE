@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<BackstoryDef>
+		<defName>rjw_vatgrown_sex_slave</defName>
+		<baseDesc>[PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.</baseDesc>
+		<title>Vat-Grown Sex Slave</title>
+		<titleShort>Sex Slave</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_vatgrown_sex_slave</identifier>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Social</key>
+				<value>8</value>
+			</li>
+		</skillGains>
+		<workDisables>Intellectual</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_feisty</defName>
+		<baseDesc>[PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.</baseDesc>
+		<title>Feisty Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_feisty</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>Pirate</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Social</key>
+				<value>-3</value>
+			</li>
+			<li>
+				<key>Shooting</key>
+				<value>2</value>
+			</li>
+			<li>
+				<key>Melee</key>
+				<value>8</value>
+			</li>
+		</skillGains>
+		<workDisables>Cleaning, Animals, Caring, Artistic, ManualSkilled</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_curious</defName>
+		<baseDesc>[PAWN_nameDef] loves crafting various things, especially things that provide new experiences.</baseDesc>
+		<title>Curious Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_curious</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Construction</key>
+				<value>2</value>
+			</li>
+			<li>
+				<key>Crafting</key>
+				<value>6</value>
+			</li>
+		</skillGains>
+		<workDisables>Animals, Artistic, Caring, Cooking, Mining, PlantWork, Violent, ManualDumb</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+ 	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_tender</defName>
+		<baseDesc>[PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.</baseDesc>
+		<title>Tender Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_tender</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Medicine</key>
+				<value>8</value>
+			</li>
+		</skillGains>
+		<workDisables>Animals, Artistic, Hauling, Violent, ManualSkilled</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_chatty</defName>
+		<baseDesc>No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.</baseDesc>
+		<title>Chatty Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_chatty</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Social</key>
+				<value>8</value>
+			</li>
+		</skillGains>
+		<workDisables>Animals, Artistic, Caring, Violent, ManualDumb, ManualSkilled</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_broken</defName>
+		<baseDesc>[PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.</baseDesc>
+		<title>Broken Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_broken</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Social</key>
+				<value>-4</value>
+			</li>
+			<li>
+				<key>Intellectual</key>
+				<value>4</value>
+			</li>
+			<li>
+				<key>Artistic</key>
+				<value>4</value>
+			</li>
+		</skillGains>
+		<workDisables>Cleaning, Animals, Caring, Violent, ManualSkilled</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+	<BackstoryDef>
+		<defName>rjw_homekeeper</defName>
+		<baseDesc>[PAWN_nameDef] was trained to be a housekeeper. Would you like dinner? A bath? Or perhaps...[PAWN_possessive]?.</baseDesc>
+		<title>Homekeeper Nymph</title>
+		<titleShort>Nymph</titleShort>
+		<ignoreIllegalLabelCharacterConfigError>False</ignoreIllegalLabelCharacterConfigError>
+		<identifier>rjw_homekeeper</identifier>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Nymph</li>
+			<li>Slave</li>
+			<li>rjw_nymphsCategory</li>
+		</spawnCategories>
+		<skillGains>
+			<li>
+				<key>Cooking</key>
+				<value>4</value>
+			</li>
+		</skillGains>
+		<workDisables>Animals, Violent, Artistic, Crafting, PlantWork, Mining</workDisables>
+		<requiredWorkTags>None</requiredWorkTags>
+		<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<forcedTraits>
+			<Nymphomaniac>0</Nymphomaniac>
+		</forcedTraits>
+	</BackstoryDef>
+
+</Defs>

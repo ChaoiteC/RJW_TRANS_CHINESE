@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Aphrodisiac.label>aphrodisiac drug</Aphrodisiac.label>
-  <Aphrodisiac.description>A smokable drug made from humpshroom.</Aphrodisiac.description>
-  <Aphrodisiac.ingestible.ingestCommandString>Smoke {0}</Aphrodisiac.ingestible.ingestCommandString>
-  <Aphrodisiac.ingestible.ingestReportString>Smoking {0}.</Aphrodisiac.ingestible.ingestReportString>
+  <Aphrodisiac.label>壮阳药</Aphrodisiac.label>
+  <Aphrodisiac.description>一种由驼峰菇制成的可吸食药品。</Aphrodisiac.description>
+  <Aphrodisiac.ingestible.ingestCommandString>吸{0}</Aphrodisiac.ingestible.ingestCommandString>
+  <Aphrodisiac.ingestible.ingestReportString>吸了{0}。</Aphrodisiac.ingestible.ingestReportString>
 
 
 </LanguageData>

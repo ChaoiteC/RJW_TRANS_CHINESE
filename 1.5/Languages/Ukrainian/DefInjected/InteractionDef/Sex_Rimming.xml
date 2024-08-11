@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Rimming.label>анілінгус</Sex_Rimming.label>
+  <Sex_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Вилизаний анус [RECIPIENT_nameDef].</Sex_Rimming.logRulesInitiator.rulesStrings.0>
+  <Sex_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Вилизує анус [INITIATOR_nameDef].</Sex_Rimming.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

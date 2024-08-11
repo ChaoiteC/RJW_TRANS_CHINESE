@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_vatgrown_sex_slave.label>Künstlicher Sex-Sklave</rjw_vatgrown_sex_slave.label>
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef] wurde in einem Labor als lebendiges Sexspielzeug herangezüchtet. [PAWN_possessive] gesamte Wachstumsphase über wurden [PAWN_objective] viele Sex und Unterhaltungsfertigkeiten beigebracht.</rjw_vatgrown_sex_slave.description>
+
+  <rjw_feisty.label>Hitziger Nymphoman</rjw_feisty.label>
+  <rjw_feisty.description>[PAWN_nameDef] ist recht agressiv, [PAWN_pronoun] wird häufig versuchen seinen Willen mit Gewalt durchzusetzen.</rjw_feisty.description>
+
+  <rjw_curious.label>Neugieriger Nymphoman</rjw_curious.label>
+  <rjw_curious.description>[PAWN_nameDef] liebt es Dinge herzustellen.</rjw_curious.description>
+
+  <rjw_tender.label>Liebevoller Nymphoman</rjw_tender.label>
+  <rjw_tender.description>[PAWN_nameDef] hat ein Paar charmanter Augen und [PAWN_possessive] Stimme ist weich und süß. Durch [PAWN_possessive] ehemaligen Job als Krankenpfleger kann [PAWN_pronoun] Leute gut pflegen.</rjw_tender.description>
+
+  <rjw_chatty.label>Geschwätziger Nymphoman</rjw_chatty.label>
+  <rjw_chatty.description>Niemand kann mehr palavern als [PAWN_nameDef]. [PAWN_pronoun] hat eine flexible Zunge, einen scharfen Verstand und heiße Lippen.</rjw_chatty.description>
+
+  <rjw_broken.label>Gebrochener Nymphoman</rjw_broken.label>
+  <rjw_broken.description>[PAWN_nameDef] hat einige schreckliche Dinge erlitten, [PAWN_pronoun] sieht ziemlich abgemagert aus.</rjw_broken.description>
+
+
+</LanguageData>

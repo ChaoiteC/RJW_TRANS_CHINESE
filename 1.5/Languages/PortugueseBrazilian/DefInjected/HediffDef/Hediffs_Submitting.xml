@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_Submitting.label>rendendo-se</Hediff_Submitting.label>
+  <Hediff_Submitting.description>Rendido.</Hediff_Submitting.description>
+
+
+  <!-- prevents 10 job stacks error, also improves perfomance since we dont do all the rape checks -->
+
+  <Hediff_RapeEnemyCD.label>tempo de proximo estupro inimigo</Hediff_RapeEnemyCD.label>
+  <Hediff_RapeEnemyCD.description>"Quem é o próximo?"</Hediff_RapeEnemyCD.description>
+
+
+</LanguageData>

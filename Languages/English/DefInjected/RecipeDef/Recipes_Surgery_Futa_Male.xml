@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddVagina.label>add average vagina</AddVagina.label>
+  <AddVagina.description>Adds a vagina to a male, making them a hermaphrodite.</AddVagina.description>
+  <AddVagina.jobString>Installing vagina.</AddVagina.jobString>
+
+  <addHorseVagina.label>add equine vagina</addHorseVagina.label>
+  <addHorseVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addHorseVagina.description>
+  <addHorseVagina.jobString>Installing vagina.</addHorseVagina.jobString>
+
+  <addCatVagina.label>add feline vagina</addCatVagina.label>
+  <addCatVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addCatVagina.description>
+  <addCatVagina.jobString>Installing vagina.</addCatVagina.jobString>
+
+  <addDogVagina.label>add canine vagina</addDogVagina.label>
+  <addDogVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addDogVagina.description>
+  <addDogVagina.jobString>Installing vagina.</addDogVagina.jobString>
+
+  <addDragonVagina.label>add dragon vagina</addDragonVagina.label>
+  <addDragonVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addDragonVagina.description>
+  <addDragonVagina.jobString>Installing vagina.</addDragonVagina.jobString>
+
+  <AddNarrowVagina.label>add narrow vagina</AddNarrowVagina.label>
+  <AddNarrowVagina.description>Adds a vagina to a male, making them a hermaphrodite.</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>Installing vagina.</AddNarrowVagina.jobString>
+
+  <AddCloacalVagina.label>add cloacal vagina</AddCloacalVagina.label>
+  <AddCloacalVagina.description>Adds a vagina to a male, making them a hermaphrodite.</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>Installing vagina.</AddCloacalVagina.jobString>
+
+  <AddRodentVagina.label>add rodent vagina</AddRodentVagina.label>
+  <AddRodentVagina.description>Adds a vagina to a male, making them a hermaphrodite.</AddRodentVagina.description>
+  <AddRodentVagina.jobString>Installing vagina.</AddRodentVagina.jobString>
+
+  <addOvipositorF.label>add female ovipositor</addOvipositorF.label>
+  <addOvipositorF.description>Adds a vagina to a male, making them a hermaphrodite.</addOvipositorF.description>
+  <addOvipositorF.jobString>adding Ovipositor.</addOvipositorF.jobString>
+
+
+  <!-- hydraulic vagina -->
+
+  <addHydraulicVagina.label>add hydraulic vagina</addHydraulicVagina.label>
+  <addHydraulicVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>adding hydraulic vagina.</addHydraulicVagina.jobString>
+
+
+  <!-- bionic vagina -->
+
+  <addBionicVagina.label>add bionic vagina</addBionicVagina.label>
+  <addBionicVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addBionicVagina.description>
+  <addBionicVagina.jobString>adding bionic vagina.</addBionicVagina.jobString>
+
+
+  <!-- archotech vagina -->
+
+  <addArchotechVagina.label>add archotech vagina</addArchotechVagina.label>
+  <addArchotechVagina.description>Adds a vagina to a male, making them a hermaphrodite.</addArchotechVagina.description>
+  <addArchotechVagina.jobString>adding archotech vagina.</addArchotechVagina.jobString>
+
+
+</LanguageData>

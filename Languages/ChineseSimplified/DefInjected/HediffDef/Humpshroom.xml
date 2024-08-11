@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.label>induced libido</HumpShroomEffect.label>
+  <HumpShroomEffect.description>Hump shroom aphrodisiac effects.</HumpShroomEffect.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomTolerance.label>humpshroom tolerance</HumpShroomTolerance.label>
+  <HumpShroomTolerance.description>Hump shroom effects tolerance.</HumpShroomTolerance.description>
+
+  <HumpShroomAddiction.label>humpshroom addiction</HumpShroomAddiction.label>
+  <HumpShroomAddiction.description>Hump shroom effects addiction.</HumpShroomAddiction.description>
+  <HumpShroomAddiction.stages.1.label>withdrawal</HumpShroomAddiction.stages.1.label>
+
+
+</LanguageData>

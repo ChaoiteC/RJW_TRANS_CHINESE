@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PawnColumnWorker_RJWGender_IsHerm>扶她</PawnColumnWorker_RJWGender_IsHerm>
+
+	<!-- todo? -->
+	<!-- or not todo? -->
+	<PawnColumnWorker_IsSlave>这个人是奴隶吗？</PawnColumnWorker_IsSlave>
+	<PawnColumnWorker_IsPrisoner>这个人是囚犯吗？</PawnColumnWorker_IsPrisoner>
+	<PawnColumnWorker_IsComfort>这个人是泄欲对象吗？</PawnColumnWorker_IsComfort>
+	<PawnColumnWorker_IsBreeder>这个人是配种对象吗？</PawnColumnWorker_IsBreeder>
+
+	<MainTabWindow_Designators>选择对象</MainTabWindow_Designators>
+
+</LanguageData>

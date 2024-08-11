@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hediff_Submitting.label>Віддає всю себе</Hediff_Submitting.label>
+	<Hediff_Submitting.description>Віддається.</Hediff_Submitting.description>
+
+  <!-- prevents 10 job stacks error, also improves performance since we don't do all the rape checks -->
+	<Hediff_RapeEnemyCD.label>Перерва між зґвалтуванням</Hediff_RapeEnemyCD.label>
+	<Hediff_RapeEnemyCD.description>"Ну, хто наступний?"</Hediff_RapeEnemyCD.description>
+
+</LanguageData>

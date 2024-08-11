@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RJW_Sire.label>батько</RJW_Sire.label>
+<RJW_Sire.labelFemale>мати</RJW_Sire.labelFemale>
+<RJW_Pup.label>син</RJW_Pup.label>
+<RJW_Pup.labelFemale>дочка</RJW_Pup.labelFemale>
+  <!-- close family -->
+
+  <Child_Beast.label>син</Child_Beast.label>
+  <Child_Beast.labelFemale>дочка</Child_Beast.labelFemale>
+
+  <Sibling_Beast.label>брат</Sibling_Beast.label>
+  <Sibling_Beast.labelFemale>сестра</Sibling_Beast.labelFemale>
+
+  <HalfSibling_Beast.label>брат</HalfSibling_Beast.label>
+  <HalfSibling_Beast.labelFemale>сестра</HalfSibling_Beast.labelFemale>
+
+  <Grandparent_Beast.label>дідусь</Grandparent_Beast.label>
+  <Grandparent_Beast.labelFemale>бабуся</Grandparent_Beast.labelFemale>
+
+  <Grandchild_Beast.label>внук</Grandchild_Beast.label>
+  <Grandchild_Beast.labelFemale>внучка</Grandchild_Beast.labelFemale>
+
+  <NephewOrNiece_Beast.label>племінник</NephewOrNiece_Beast.label>
+  <NephewOrNiece_Beast.labelFemale>племінниця</NephewOrNiece_Beast.labelFemale>
+
+  <UncleOrAunt_Beast.label>дядько</UncleOrAunt_Beast.label>
+  <UncleOrAunt_Beast.labelFemale>тітка</UncleOrAunt_Beast.labelFemale>
+
+  <Cousin_Beast.label>двоюрідний брат</Cousin_Beast.label>
+  <Cousin_Beast.labelFemale>двоюрідна сестра</Cousin_Beast.labelFemale>
+
+
+  <!-- distant family -->
+
+  <GreatGrandparent_Beast.label>прадідусь</GreatGrandparent_Beast.label>
+  <GreatGrandparent_Beast.labelFemale>прабабуся</GreatGrandparent_Beast.labelFemale>
+
+  <GreatGrandchild_Beast.label>правнук</GreatGrandchild_Beast.label>
+  <GreatGrandchild_Beast.labelFemale>правнучка</GreatGrandchild_Beast.labelFemale>
+
+  <GranduncleOrGrandaunt_Beast.label>прадядько</GranduncleOrGrandaunt_Beast.label>
+  <GranduncleOrGrandaunt_Beast.labelFemale>пратітка</GranduncleOrGrandaunt_Beast.labelFemale>
+
+  <GrandnephewOrGrandniece_Beast.label>праплемінник</GrandnephewOrGrandniece_Beast.label>
+  <GrandnephewOrGrandniece_Beast.labelFemale>праплемінниця</GrandnephewOrGrandniece_Beast.labelFemale>
+
+  <CousinOnceRemoved_Beast.label>двоюрідний брат, якого колись вигнали</CousinOnceRemoved_Beast.label>
+  <CousinOnceRemoved_Beast.labelFemale>двоюрідна сестра, яку колись вигнали</CousinOnceRemoved_Beast.labelFemale>
+
+  <SecondCousin_Beast.label>троюрідний брат</SecondCousin_Beast.label>
+  <SecondCousin_Beast.labelFemale>троюрідна сестра</SecondCousin_Beast.labelFemale>
+</LanguageData>

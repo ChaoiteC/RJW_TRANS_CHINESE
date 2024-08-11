@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_MechImplant</defName>
+		<label>mechanoid implanting</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Assaulted [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was violated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Implant chip</RMBLabel>
+				<rjwSextype>MechImplant</rjwSextype>
+				<rulepack_defs>
+					<li>MechImplantingRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>MechImplant</li>
+				</tags>
+				<dominantRequirement>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanBePenetrated</li>
+					</tags>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+						<li>Unconscious</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

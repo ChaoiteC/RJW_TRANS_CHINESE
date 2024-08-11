@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--삽입-->
+	<Sex_Anal.label>항문 성교</Sex_Anal.label>
+	<Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 항문에 자지를 밀어넣음.</Sex_Anal.logRulesInitiator.rulesStrings.0>
+	<Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 격렬한 허리놀림에 몸을 맡김.</Sex_Anal.logRulesRecipient.rulesStrings.0>
+	<Sex_Anal.modExtensions.0.RMBLabel>항문 성교를 시작함.</Sex_Anal.modExtensions.0.RMBLabel>
+	
+	<Sex_Vaginal.label>보지 성교</Sex_Vaginal.label>
+	<Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->자지로 [RECIPIENT_nameDef]의 보지를 꿰뚫음.</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
+	<Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]의 격렬한 허리놀림에 몸을 맡김.</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
+	<Sex_Vaginal.modExtensions.0.RMBLabel>성교를 시작함.</Sex_Vaginal.modExtensions.0.RMBLabel>
+	
+	<Sex_DoublePenetration.label>동시 삽입</Sex_DoublePenetration.label>
+	<Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 보지와 항문에 자지를 동시에 찔러넣음.</Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>
+	<Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 보지와 항문에서 같이 느껴지는 쾌감에 몸을 맡김.</Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>
+	<Sex_DoublePenetration.modExtensions.0.RMBLabel>동시 삽입 성교를 시작함.</Sex_DoublePenetration.modExtensions.0.RMBLabel>
+	<Sex_DoublePenetrationM.label>동시 삽입(남성)</Sex_DoublePenetrationM.label>
+	<Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 자지와 항문에 동시에 찔러넣음.</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+	<Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 자지와 항문에서 같이 느껴지는 쾌감에 몸을 맡김.</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+	<Sex_DoublePenetrationM.modExtensions.0.RMBLabel>동시 삽입 성교를 시작함.</Sex_DoublePenetrationM.modExtensions.0.RMBLabel>
+
+	<Sex_Breastjob.label>파이즈리</Sex_Breastjob.label>
+	<Sex_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]의 부드러운 품에 몸을 맡김.</Sex_Breastjob.logRulesInitiator.rulesStrings.0>
+	<Sex_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->양 가슴 사이에 [INITIATOR_nameDef]의 자지를 끼워넣고 비벼줌.</Sex_Breastjob.logRulesRecipient.rulesStrings.0>
+	<Sex_Breastjob.modExtensions.0.RMBLabel>가슴에 안김.</Sex_Breastjob.modExtensions.0.RMBLabel>
+	
+	<Sex_Scissoring.label>가위치기</Sex_Scissoring.label>
+	<Sex_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]와 보지를 서로 맞대고 격렬히 비빔.</Sex_Scissoring.logRulesInitiator.rulesStrings.0>
+	<Sex_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef]와 보지를 서로 맞대고 격렬히 비빔.</Sex_Scissoring.logRulesRecipient.rulesStrings.0>
+	<Sex_Scissoring.modExtensions.0.RMBLabel>가위치기를 시작함.</Sex_Scissoring.modExtensions.0.RMBLabel>
+
+</LanguageData>

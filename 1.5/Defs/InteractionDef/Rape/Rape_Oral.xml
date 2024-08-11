@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Oral</defName>
+		<label>MouthFuck</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Deepthroated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was deepthroated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Fuck orally</RMBLabel>
+				<rjwSextype>Oral</rjwSextype>
+				<rulepack_defs>
+					<li>DeepthroatRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanEgg</li>
+						<li>CanFertilizeEgg</li>
+					</tags>
+					<families>
+						<li>FemaleOvipositor</li>
+						<li>MaleOvipositor</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<mouthORbeak>true</mouthORbeak>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+						<li>Unconscious</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

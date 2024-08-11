@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_Beakjob</defName>
+		<label>beakjob</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Received a beakjob from [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Gave a beakjob to [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Receive beakjob</RMBLabel>
+				<rjwSextype>Fellatio</rjwSextype>
+				<rulepack_defs>
+					<li>BeakjobRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<beak>true</beak>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<rjw_childC.title>Дитина</rjw_childC.title>
+	<rjw_childC.titleShort>Дитина</rjw_childC.titleShort>
+	<rjw_childC.baseDesc>[PAWN_nameDef] народився(-лась) в цивільному поселенні.</rjw_childC.baseDesc>
+	<rjw_childC.description>[PAWN_nameDef] народився(-лась) в цивільному поселенні.</rjw_childC.description>
+
+	<rjw_childT.title>Дитина</rjw_childT.title>
+	<rjw_childT.titleShort>Дитина</rjw_childT.titleShort>
+	<rjw_childT.baseDesc>[PAWN_nameDef] народився(-лась) в племені.</rjw_childT.baseDesc>
+	<rjw_childT.description>[PAWN_nameDef] народився(-лась) в племені.</rjw_childT.description>
+
+</LanguageData>

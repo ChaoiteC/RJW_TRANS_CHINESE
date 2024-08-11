@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef Abstract="True" Name="MakePrivates">
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<workSkill>Crafting</workSkill>
+		<unfinishedThingDef>UnfinishedHealthItemProsthetic</unfinishedThingDef>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeCrudePrivates" ParentName="MakePrivates">
+		<recipeUsers>
+			<li>CraftingSpot</li>
+			<li>TableMachining</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeStandardPrivates" ParentName="MakePrivates">
+		<researchPrerequisite>Prosthetics</researchPrerequisite>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<skillRequirements>
+			<Crafting>8</Crafting>
+		</skillRequirements>
+		<recipeUsers>
+			<li>TableMachining</li>
+		</recipeUsers>
+	</RecipeDef>
+	
+	<RecipeDef Abstract="True" Name="MakeAdvancedPrivates" ParentName="MakePrivates">
+		<researchPrerequisite>Bionics</researchPrerequisite>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<skillRequirements>
+			<Crafting>14</Crafting>
+		</skillRequirements>
+		<recipeUsers>
+			<li>FabricationBench</li>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeCrudePrivates">
+		<defName>MakePegDick</defName>
+		<label>carve peg dick</label>
+		<description>Carves a dildo from a piece of wood.</description>
+		<jobString>Carving peg dick.</jobString>
+		<soundWorking>Recipe_MakeWoodPlanks_Hand</soundWorking>
+		<workAmount>1200</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<PegDick>1</PegDick>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeStandardPrivates">
+		<defName>MakeHydraulicPenis</defName>
+		<label>craft hydraulic penis</label>
+		<description>Crafts a hydraulic penis from steel and components.</description>
+		<jobString>Crafting hydraulic penis.</jobString>
+		<workAmount>3000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentIndustrial</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Steel</li>
+				<li>ComponentIndustrial</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<HydraulicPenis>1</HydraulicPenis>
+		</products>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="MakeAdvancedPrivates">
+		<defName>MakeBionicPenis</defName>
+		<label>craft bionic penis</label>
+		<description>Crafts a bionic penis from hyperweave, plasteel, and components.</description>
+		<jobString>Crafting bionic penis.</jobString>
+		<workAmount>7000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hyperweave</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>35</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentSpacer</li>
+					</thingDefs>
+				</filter>
+				<count>4</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Hyperweave</li>
+				<li>Plasteel</li>
+				<li>ComponentSpacer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BionicPenis>1</BionicPenis>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeStandardPrivates">
+		<defName>MakeHydraulicVagina</defName>
+		<label>craft hydraulic vagina</label>
+		<description>Crafts a hydraulic vagina from steel and components.</description>
+		<jobString>Crafting hydraulic vagina.</jobString>
+		<workAmount>4000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentIndustrial</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Steel</li>
+				<li>ComponentIndustrial</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<HydraulicVagina>1</HydraulicVagina>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeAdvancedPrivates">
+		<defName>MakeBionicVagina</defName>
+		<label>craft bionic vagina</label>
+		<description>Crafts a bionic vagina from hyperweave, plasteel, and components.</description>
+		<jobString>Crafting bionic vagina.</jobString>
+		<workAmount>11000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hyperweave</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentSpacer</li>
+					</thingDefs>
+				</filter>
+				<count>5</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Hyperweave</li>
+				<li>Plasteel</li>
+				<li>ComponentSpacer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BionicVagina>1</BionicVagina>
+		</products>
+	</RecipeDef>
+
+
+	<RecipeDef ParentName="MakeStandardPrivates">
+		<defName>MakeHydraulicBreasts</defName>
+		<label>craft hydraulic breasts</label>
+		<description>Crafts a pair of hydraulic breasts from steel and components.</description>
+		<jobString>Crafting hydraulic breasts.</jobString>
+		<workAmount>4000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentIndustrial</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Steel</li>
+				<li>ComponentIndustrial</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<HydraulicBreasts>1</HydraulicBreasts>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeAdvancedPrivates">
+		<defName>MakeBionicBreasts</defName>
+		<label>craft bionic breasts</label>
+		<description>Crafts a pair of bionic breasts from hyperweave, plasteel, and components.</description>
+		<jobString>Crafting bionic breasts.</jobString>
+		<workAmount>11000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hyperweave</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentSpacer</li>
+					</thingDefs>
+				</filter>
+				<count>5</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Hyperweave</li>
+				<li>Plasteel</li>
+				<li>ComponentSpacer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BionicBreasts>1</BionicBreasts>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeStandardPrivates">
+		<defName>MakeHydraulicAnus</defName>
+		<label>craft hydraulic anus</label>
+		<description>Crafts a hydraulic anus from steel and components.</description>
+		<jobString>Crafting hydraulic anus.</jobString>
+		<workAmount>4000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentIndustrial</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Steel</li>
+				<li>ComponentIndustrial</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<HydraulicAnus>1</HydraulicAnus>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakeAdvancedPrivates">
+		<defName>MakeBionicAnus</defName>
+		<label>craft bionic anus</label>
+		<description>Crafts a bionic anus from hyperweave, plasteel, and components.</description>
+		<jobString>Crafting bionic anus.</jobString>
+		<workAmount>11000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hyperweave</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Plasteel</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ComponentSpacer</li>
+					</thingDefs>
+				</filter>
+				<count>5</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Hyperweave</li>
+				<li>Plasteel</li>
+				<li>ComponentSpacer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BionicAnus>1</BionicAnus>
+		</products>
+	</RecipeDef>
+</Defs>

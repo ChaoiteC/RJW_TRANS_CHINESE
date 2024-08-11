@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Necro_Vaginal.label>陰道性交</Necro_Vaginal.label>
+    <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;強行插入[RECIPIENT_nameDef]的陰道。</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
+    <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]強行插入陰道。</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
+</LanguageData>

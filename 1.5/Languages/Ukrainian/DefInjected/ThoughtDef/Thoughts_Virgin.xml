@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Added by Hoge. -->
+	<FortunateGaveVirginity.stages.0.label>Втрата цнотливості</FortunateGaveVirginity.stages.0.label>
+	<FortunateGaveVirginity.stages.0.description>Я віддала свою невинність.</FortunateGaveVirginity.stages.0.description>
+	<UnfortunateLostVirginity.stages.0.label>Втрата цнотливості</UnfortunateLostVirginity.stages.0.label>
+	<UnfortunateLostVirginity.stages.0.description>Я втратила цноту і ніколи її не поверну.</UnfortunateLostVirginity.stages.0.description>
+	<TookVirginity.stages.0.label>Позбавив цноти</TookVirginity.stages.0.label>
+	<TookVirginity.stages.0.description>Я позбавив когось цноти.</TookVirginity.stages.0.description>
+</LanguageData>

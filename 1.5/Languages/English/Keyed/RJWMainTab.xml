@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PawnColumnWorker_RJWGender_IsHerm>Herm</PawnColumnWorker_RJWGender_IsHerm>
+
+	<!-- todo? -->
+	<!-- or not todo? -->
+	<PawnColumnWorker_IsSlave>Is pawn Slave?</PawnColumnWorker_IsSlave>
+	<PawnColumnWorker_IsPrisoner>Is pawn Prisoner?</PawnColumnWorker_IsPrisoner>
+	<PawnColumnWorker_IsComfort>Is pawn Comfort Pawn?</PawnColumnWorker_IsComfort>
+	<PawnColumnWorker_IsBreeder>Is pawn Breeder?</PawnColumnWorker_IsBreeder>
+	
+	<MainTabWindow_Designators>Designators</MainTabWindow_Designators>
+	
+</LanguageData>

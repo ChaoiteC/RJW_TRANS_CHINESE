@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Scissoring.label>ножниці</Sex_Scissoring.label>
+  <Sex_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->Ножниці з [RECIPIENT_nameDef].</Sex_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Sex_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->Ножниці з [INITIATOR_nameDef].</Sex_Scissoring.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

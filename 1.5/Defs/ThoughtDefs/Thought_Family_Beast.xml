@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Family Died Thoughts -->
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MySonDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my son {0} died</label>
+        <description>My son is dead. My own flesh and blood...</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyDaughterDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my daughter {0} died</label>
+        <description>My daughter is dead. My own flesh and blood...</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyBrotherDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my brother {0} died</label>
+        <description>My brother died. My own flesh and blood...</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MySisterDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my sister {0} died</label>
+        <description>My sister died. My own flesh and blood...</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyGrandchildDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my grandchild {0} died</label>
+        <description>My grandchild died. My own flesh and blood...</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyNieceDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my niece {0} died</label>
+        <description>My niece died. Such a wonderful child.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyNephewDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my nephew {0} died</label>
+        <description>My nephew died. Such a wonderful child.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyHalfSiblingDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my half-sibling {0} died</label>
+        <description>My half-sibling died. My own flesh and blood...</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyAuntDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my aunt {0} died</label>
+        <description>My aunt died.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyUncleDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my uncle {0} died</label>
+        <description>My uncle died.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyGrandparentDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my grandparent {0} died</label>
+        <description>My grandparent died.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyCousinDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my cousin {0} died</label>
+        <description>My cousin died. My own flesh and blood...</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="RJW_DeathMemoryFamily">
+    <defName>MyKinDied_Beast</defName>
+    <stages>
+      <li>
+        <label>my kin {0} died</label>
+        <description>My kin died.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <!-- Family Lost Thoughts -->
+
+  <ThoughtDef Name="LostMemoryFamily_Beast" ParentName="LostMemory" Abstract="True">
+    <durationDays>7.0</durationDays>
+    <stackLimit>10</stackLimit>
+    <showBubble>true</showBubble>
+    <stackLimitForSameOtherPawn>1</stackLimitForSameOtherPawn>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MySonLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my son {0} lost</label>
+        <description>My son has gone lost. I hope he will get back to us someday.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyDaughterLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my daughter {0} lost</label>
+        <description>My daughter has gone lost. I hope she will get back to us someday.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyBrotherLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my brother {0} lost</label>
+        <description>My brother has gone lost. I hope he will get back to us someday.</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MySisterLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my sister {0} lost</label>
+        <description>My sister has gone lost. I hope she will get back to us someday.</description>
+        <baseMoodEffect>-4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyGrandchildLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my grandchild {0} lost</label>
+        <description>My grandchild has gone lost. I hope they will get back to us someday.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyNieceLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my niece {0} lost</label>
+        <description>My niece has gone lost. I hope she will get back to us someday.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyNephewLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my nephew {0} lost</label>
+        <description>My nephew has gone lost. I hope he will get back to us someday.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyHalfSiblingLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my half-sibling {0} lost</label>
+        <description>My half-sibling has gone lost.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyAuntLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my aunt {0} lost</label>
+        <description>My aunt has gone lost. I hope she will get back to us someday.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyUncleLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my uncle {0} lost</label>
+        <description>My uncle has gone lost. I hope he will get back to us someday.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyGrandparentLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my grandparent {0} lost</label>
+        <description>My grandparent has gone lost.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyCousinLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my cousin {0} lost</label>
+        <description>My cousin has gone lost.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef ParentName="LostMemoryFamily_Beast">
+    <defName>MyKinLost_Beast</defName>
+    <stages>
+      <li>
+        <label>my kin {0} lost</label>
+        <description>My kin has gone lost.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <!-- Family Social Memories -->
+
+  <ThoughtDef>
+    <defName>KilledMyFather_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my father</label>
+        <baseOpinionOffset>-25</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMyMother_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my mother</label>
+        <baseOpinionOffset>-25</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMySon_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my son</label>
+        <baseOpinionOffset>-50</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMyDaughter_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my daughter</label>
+        <baseOpinionOffset>-50</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMyBrother_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my brother</label>
+        <baseOpinionOffset>-30</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMySister_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my sister</label>
+        <baseOpinionOffset>-30</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KilledMyKin_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>30</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my kin</label>
+        <baseOpinionOffset>-10</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>SoldMyLovedOne_Beast</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>30</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>5</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>sold my kin</label>
+        <baseOpinionOffset>-10</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

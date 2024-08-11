@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomRape.label>隨意強姦</RandomRape.label>
+  <RandomRape.beginLetterLabel>隨意強姦</RandomRape.beginLetterLabel>
+  <RandomRape.beginLetter>{0}性飢渴了，[PAWN_pronoun]正打算隨機尋找一個目標強姦。</RandomRape.beginLetter>
+  <RandomRape.recoveryMessage>{0}性滿足了，不再隨意強姦他人了。</RandomRape.recoveryMessage>
+  <RandomRape.baseInspectLine>精神狀態：隨意強姦</RandomRape.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<RulePackDef>
+		<defName>Masturbation_HandjobPRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] released some tension using [INITIATOR_possessive] penis.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Masturbation_HandjobVRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] released some tension using [INITIATOR_possessive] vagina.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Masturbation_HandjobARP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] released some tension using [INITIATOR_possessive] anus.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Masturbation_HandjobBRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] released some tension using [INITIATOR_possessive] breasts.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Masturbation_AutoFellatioRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] autofellated [INITIATOR_possessive] penis.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	
+	<RulePackDef>
+		<defName>Masturbation_AutoBreastjobRP</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>sent-> [INITIATOR_nameDef] stroked [INITIATOR_possessive] penis with [INITIATOR_possessive] breasts.</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+</Defs>

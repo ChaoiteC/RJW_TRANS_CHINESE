@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <JobDef>
+    <defName>RJW_HackMechPregnancy</defName>
+    <driverClass>rjw.JobDriver_HackMechPregnancy</driverClass>
+    <reportString>hacking implanted mech of TargetA.</reportString>
+  </JobDef>
+  <!--
+  <JobDef>
+    <defName>RJW_AbortMechPregnancy</defName>
+    <driverClass>rjw.JobDriver_AbortMechPregnancy</driverClass>
+    <reportString>neutralizing implanted mech of TargetA.</reportString>
+  </JobDef>
+  -->
+</Defs>

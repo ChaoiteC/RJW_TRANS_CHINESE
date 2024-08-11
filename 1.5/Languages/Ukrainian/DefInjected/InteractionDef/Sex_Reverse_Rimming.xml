@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sex_Reverse_Rimming.label>анілінгус</Sex_Reverse_Rimming.label>
+	<Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Робить анілінгус [RECIPIENT_nameDef].</Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>
+	<Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Отримує анілінгус від [INITIATOR_nameDef].</Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_DoublePenetrationM</defName>
+		<label>double-penetration</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Double-penetrated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was double-penetrated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Double-penetrate</RMBLabel>
+				<rjwSextype>DoublePenetration</rjwSextype>
+				<rulepack_defs>
+					<li>DoubleRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Fertilization</li>
+					<li>EggFertilization</li>
+					<li>EggLaying</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<partProps>
+						<li>Multiple</li>	
+					</partProps>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<minimumCount>2</minimumCount>
+					<tags>
+						<li>CanBePenetrated</li>
+					</tags>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+						<li>Unconscious</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

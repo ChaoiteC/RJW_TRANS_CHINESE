@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_Sire.label>Отец</RJW_Sire.label>
+  <RJW_Sire.labelFemale>Мать</RJW_Sire.labelFemale>
+
+  <RJW_Pup.label>Сын</RJW_Pup.label>
+  <RJW_Pup.labelFemale>Дочь</RJW_Pup.labelFemale>
+
+
+</LanguageData>

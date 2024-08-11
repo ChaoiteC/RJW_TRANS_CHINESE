@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_vatgrown_sex_slave.label>Вырощенный секс-раб</rjw_vatgrown_sex_slave.label>
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef] создавали как игрушку, нежели как человека. Во время [PAWN_possessive] периода развития, [PAWN_pronoun] учится социальным и связаным с сексом навыкам чтобы удволетворять все потребности своих будущих хозяев.</rjw_vatgrown_sex_slave.description>
+
+  <rjw_feisty.label>Агрессивная нимфоманка Nymph</rjw_feisty.label>
+  <rjw_feisty.description>[PAWN_nameDef] завоеватель по своей натуре и запросто тебя изобьёт, если ты рискнёшь откатаься от [PAWN_possessive] предложения.</rjw_feisty.description>
+
+  <rjw_curious.label>Любознательная Нимфоманка</rjw_curious.label>
+  <rjw_curious.description>[PAWN_nameDef] любит создавать разные штуки, особенно те, которые дарят новые ощущения.</rjw_curious.description>
+
+  <rjw_tender.label>Ласковая Нимфоманка</rjw_tender.label>
+  <rjw_tender.description>У [PAWN_nameDef] прекрасные глаза и [PAWN_possessive] голос мягок и приятен на слух. Благодаря [PAWN_possessive] работе медсестрой, [PAWN_pronoun] крайне хорошо обходится с людьми.</rjw_tender.description>
+
+  <rjw_chatty.label>Болтливая Нимфоманка</rjw_chatty.label>
+  <rjw_chatty.description>Вы не найдёте на этой планете никого более шумного чем [PAWN_nameDef]. [PAWN_pronoun] обладает хорошо подвешенным языком, острым умом, и прекрасными губами.</rjw_chatty.description>
+
+  <rjw_broken.label>Сломленная Нимфоманка</rjw_broken.label>
+  <rjw_broken.description>[PAWN_nameDef] пришлось пережить ужасные вещи, [PAWN_pronoun] выглядит довольно истощённо.</rjw_broken.description>
+
+
+</LanguageData>

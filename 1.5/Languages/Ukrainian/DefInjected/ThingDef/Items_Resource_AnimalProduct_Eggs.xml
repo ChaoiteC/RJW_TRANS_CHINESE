@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- left for save compatibility(for now), use glowy ones -->
+
+  <RJW_EggUnfertilized.label>яйце (незап.)</RJW_EggUnfertilized.label>
+  <RJW_EggUnfertilized.description>Незапліднене яйце.</RJW_EggUnfertilized.description>
+
+  <RJW_EggFertilized.label>яйце (зап.)</RJW_EggFertilized.label>
+  <RJW_EggFertilized.description>Запліднене яйце.</RJW_EggFertilized.description>
+
+
+  <!-- Insect eggs / enemy implant -->
+
+  <RJW_EggInsectUnfertilized.label>яйце (незап.)</RJW_EggInsectUnfertilized.label>
+  <RJW_EggInsectUnfertilized.description>Незапліднене яйце жука.</RJW_EggInsectUnfertilized.description>
+
+  <RJW_EggInsectFertilized.label>яйце (зап.)</RJW_EggInsectFertilized.label>
+  <RJW_EggInsectFertilized.description>Запліднене яйце жука.</RJW_EggInsectFertilized.description>
+
+
+</LanguageData>

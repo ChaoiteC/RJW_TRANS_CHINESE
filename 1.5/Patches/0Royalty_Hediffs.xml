@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<!-- Love Enhancer -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/HediffDef[defName="LoveEnhancer"]</xpath>
+			<value>
+				<stages>
+					<li>
+						<statOffsets>
+							<SexSatisfaction>0.15</SexSatisfaction>
+						</statOffsets>
+					</li>
+				</stages>
+			</value>
+		</match>
+	</Operation>
+</Patch>

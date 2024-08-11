@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Rimming</defName>
+		<label>rimming</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forced [RECIPIENT_nameDef] to give anal rimming.</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forced to rimm anus of [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Get anal rimming</RMBLabel>
+				<rjwSextype>Rimming</rjwSextype>
+				<rulepack_defs>
+					<li>ForcedRimmingRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<families>
+						<li>Anus</li>
+					</families>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tongue>true</tongue>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

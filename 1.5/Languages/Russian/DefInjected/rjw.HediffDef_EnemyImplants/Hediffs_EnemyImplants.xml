@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
+
+  <Parasite.label>Беременность</Parasite.label>
+  <Parasite.description>Организм, который живет внутри хозяина и питается его питательными веществами, доставляя хозяину сильный дискомфорт.</Parasite.description>
+  <Parasite.comps.0.discoverLetterLabel>{0} паразитирует</Parasite.comps.0.discoverLetterLabel>
+  <Parasite.comps.0.discoverLetterText>{0} - паразит!</Parasite.comps.0.discoverLetterText>
+  <Parasite.stages.0.label>ранняя стадия скрытая</Parasite.stages.0.label>
+  <Parasite.stages.1.label>средняя стадия</Parasite.stages.1.label>
+  <Parasite.stages.2.label>поздняя стадия</Parasite.stages.2.label>
+
+
+</LanguageData>

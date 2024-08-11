@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_DoublePenetrationM.label>double-penetration</Sex_DoublePenetrationM.label>
+  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->Double-penetrated [RECIPIENT_nameDef].</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->Was double-penetrated by [INITIATOR_nameDef].</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

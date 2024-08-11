@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--Sexuality card-->
+	<SexcardTooltip>Показати сексуальність</SexcardTooltip>
+	<Quirks>Особливості: </Quirks>
+	<NoQuirks>Немає особливостей.</NoQuirks>
+	<MessyQuirk><![CDATA[
+{pawn} не тільки виробляє велику кількість рідини під час сексу, але й {pawn_pronoun} рідко турбується про те, щоб почистити {pawn_possessive} після себе.
+]]></MessyQuirk>
+	<PodophileQuirk><![CDATA[
+{pawn} дуже любить ноги і віддає перевагу сексу, пов'язаному з ногами.
+]]></PodophileQuirk>
+	<CumslutQuirk><![CDATA[
+{pawn} дуже любить сперму і віддає перевагу мінету.
+]]></CumslutQuirk>
+	<ButtslutQuirk><![CDATA[
+{pawn} дуже любить анал і віддає перевагу анальному сексу.
+]]></ButtslutQuirk>
+	<TeratophileQuirk><![CDATA[
+{pawn} віддає перевагу потворним партнерам. {pawn_pronoun} також віддає перевагу більшим та диким тваринам, якби {pawn_pronoun} був на це налаштований...
+]]></TeratophileQuirk>
+	<EndytophileQuirk><![CDATA[
+{pawn} воліє не знімати одяг {pawn_possessive} під час сексу.
+]]></EndytophileQuirk>
+	<ExhibitionistQuirk><![CDATA[
+{pawn} любить займатися сексом там, де інші можуть побачити.
+]]></ExhibitionistQuirk>
+	<GerontophileQuirk><![CDATA[
+{pawn} віддає перевагу старшим партнерам (55+ за людськими мірками).
+]]></GerontophileQuirk>
+	<SomnophileQuirk><![CDATA[
+{pawn} вважає за краще, щоб {pawn_possessive} партнери спали під час сексу.
+]]></SomnophileQuirk>
+	<SapiosexualQuirk><![CDATA[
+{pawn} віддає перевагу розумним партнерам.
+]]></SapiosexualQuirk>
+	<FertileQuirk><![CDATA[
+{pawn} має надзвичайно високу народжуваність, а отже, більше шансів мати дітей.
+]]></FertileQuirk>
+	<InfertileQuirk><![CDATA[
+{pawn} має незвично низьку народжуваність і тому навряд чи матиме дітей.
+]]></InfertileQuirk>
+	<ImpregnationFetishQuirk><![CDATA[
+{pawn} дійсно любить ідею коли хтось вагітний. {pawn_pronoun} віддає перевагу партнерам і позиціям під час сексу, де є можливість вагітності. {pawn_pronoun} не цікавиться тим, чи сам {pawn_pronoun} стає вагітним, чи {pawn_possessive} партнер, головне, щоб народився малюк.
+]]></ImpregnationFetishQuirk>
+	<PregnancyFetishQuirk><![CDATA[
+{pawn} віддає перевагу партнерам, які мають видиму вагітність.
+]]></PregnancyFetishQuirk>
+	<IncubatorQuirk><![CDATA[
+{pawn} висидів(-ла) стільки яєць, що її організм адаптувався до них. Швидкість інкубації яєць у {pawn_possessive} збільшилась.
+]]></IncubatorQuirk>
+	<BreederQuirk><![CDATA[
+{pawn} народив(-ла) стільки разів, що її організм адаптувався до розмноження. Вагітності у {pawn_possessive} стають коротшими та приносять більше нащадків.
+]]></BreederQuirk>
+	<VigorousQuirk><![CDATA[
+{pawn} підбадьорюється сексом. {pawn_pronoun} не так сильно втомлюється під час сексу.
+]]></VigorousQuirk>
+	<ChitinLoverQuirk><![CDATA[
+{pawn} насолоджується гладкою міцністю хітинового екзоскелету. {pawn_pronoun} віддає перевагу павукоподібним або комахоподібним партнерам.
+]]></ChitinLoverQuirk>
+	<DemonLoverQuirk><![CDATA[
+{pawn} пристрастився(-лась) до забороненого. {pawn_pronoun} віддає перевагу тим партнерам, які приходять з буквальної глибини пекла, або принаймні мають відповідний зовнішній вигляд.
+]]></DemonLoverQuirk>
+	<FeatherLoverQuirk><![CDATA[
+{pawn} любить пухнасту пір'яну шерсть. {pawn_pronoun} віддає перевагу партнерам-птахам або динозаврам. Бо динозаври - це птахи, як {pawn_pronoun} пояснить дуже докладно, якщо буде можливість.
+]]></FeatherLoverQuirk>
+	<FurLoverQuirk><![CDATA[
+{pawn} віддає перевагу партнерам з густою, розкішною, м'якою і пухнастою шерстю.
+]]></FurLoverQuirk>
+	<PlantLoverQuirk><![CDATA[
+{pawn} любить поливати рослини. Якщо ви знаєте, про що я.
+]]></PlantLoverQuirk>
+	<RobotLoverQuirk><![CDATA[
+Що краще - 2D або 3D? {pawn} знає, що 3D-друк дає вам кращі можливості обох світів.
+]]></RobotLoverQuirk>
+	<ScaleLoverQuirk><![CDATA[
+Хто не хоче трахнути дракона? Однозначно не {pawn}. {pawn} хоче трахнути дракона.
+]]></ScaleLoverQuirk>
+	<SkinLoverQuirk><![CDATA[
+{pawn} віддає перевагу {pawn_possessive} партнерам що мають гладеньку чутливу шкіру без шерсті та лусочок, що заважають. На щастя для {pawn_objective} люди повсюди.
+]]></SkinLoverQuirk>
+	<SlimeLoverQuirk><![CDATA[
+Завдяки своїй слизькій і податливій природі слимаки дуже, дуже гарні в сексі. У цьому ви зможете переконатися, якщо будете слухати розмови {pawn} протягом тривалого часу.
+]]></SlimeLoverQuirk>
+	<SexPartWants>Хоче бути: </SexPartWants>
+
+</LanguageData>

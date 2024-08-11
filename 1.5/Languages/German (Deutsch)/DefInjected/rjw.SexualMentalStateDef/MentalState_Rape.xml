@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomRape.label>Zufällige Vergewaltigung</RandomRape.label>
+  <RandomRape.beginLetterLabel>Zufällige Vergewaltigung</RandomRape.beginLetterLabel>
+  <RandomRape.beginLetter>{0} ist sexuell unbefriedigt und auf der Suche nach einem geeigneten Ziel.</RandomRape.beginLetter>
+  <RandomRape.recoveryMessage>{0} ist befriedigt und wird nicht Länger nach Opfern suchen.</RandomRape.recoveryMessage>
+  <RandomRape.baseInspectLine>Mentaler Zustand: vergewaltigt Zufälligen</RandomRape.baseInspectLine>
+
+
+</LanguageData>

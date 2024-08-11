@@ -1,0 +1,80 @@
+CORE:
+
+add nymph lord ai, so nymphs can behave as visitors
+add sex addiction to demonic parts?
+add insects dragging pawns to hives
+gene inheritance for insect ovis
+
+workgivers(aka manual control):
+-workgiver for sex with humpshrooms, increasing their growth by 1 day, causing addiction, temp? humpshroom-penis futa?
+-workgiver(auto, cleaning) to collect cum
+
+add recipe to make food from cum?
+add female cum?
+
+add some sort of right clicking sub menu:
+-designate breeding pair(through relations?)
+
+rework genital system, so it only have vag,penis,breast,anus (with comp?) storing name, severity(size?) of part
+probably also rework surgeries to support those
+rework sex satisfaction system(based on parts size/difference? traits/quirks etc)
+
+integrate milkable colonists with sizes support and operations? to change milk type(w gitterworld med?)
+
+BDSM:
+-make ropes and other generic gear, that is "locked" but not with hololock unique keys - normal keys made of steel, etc
+-piercing?
+-blindfolds?
+-vibrators?
+
+Multiplayer:
+-figure out predictable seeds instead of syncmethod's
+
+maybe:
+add support for other pregnancy mods
+more sex related incidents?
+backstories: cowgirl, etc
+
+whoring:
+-add whoring zone( esp for prisoners)
+-limit whoring to zone
+-whore in zone does most checks but instead of going after client- client comes to whore and they do stuff
+or merge quickies with whoring
+or idk invent something new
+and maybe while at it make toggles for whores to service colonists, oh and defying whores will count toward rape and accepted whores - con sex
+
+
+never?
+-make interactive COC like sex/stories
+RatherNot (Code)
+We need Pawn Sexualization Request: like Pawn Generation Request, but for generating RJW things
+Current approach missing any kind of flexibility
+In can be useful for race support to: instead placing checks directly in generator you can place limitations on generator in request
+
+
+older stuff
+TO DO:
+Add new body part groups for the bondage gear (specifically a genitals group for the CB and a jaw or mouth group for the gag, the mouth group that's already in the game won't work I'm pretty sure)
+Once that (^^^) is done make it so that the groups are automatically blocked by the gear, like a more robust version of the blocks_genitals flag
+Add more thoughts after sex about e.g. partner's dick size and sex skill
+Add chance for sex/fap with a peg dick to produce splinters
+
+TO DO EVENTUALLY (AKA NEVER):
+Improve detection of genital harvest vs amputation
+  - (Maybe) Make it so that downgrading a pawn is considered harvesting
+
+OTHER RANDOM/HALF-BAKED IDEAS:
+Add some random dialogues for rapes, lovins, etc. 
+Strap prisoners to their beds
+Sex addiction
+  - Reduces satisfaction from sex
+  - Should only affect nymphomaniacs?
+
+Traits?:
+Low Self Esteem (just another pessimist trait)
+
+Dom/Sub
+
+Mindbroken (raped so much that they are at a permanent max happiness, but are worth nothing more than just hauling and cleaning)
+ 
+Branded, this pawn is branded a cow/animal fucker/prostitute/rapist, whatever his/her extra curricular is comes with a negative opinions so they are pretty much never liked?

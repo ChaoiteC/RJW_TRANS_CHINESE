@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.stages.0.label>Humpshroom aftertaste</HumpShroomEffect.stages.0.label>
+  <HumpShroomEffect.stages.0.description>Tastes funny.</HumpShroomEffect.stages.0.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomWithdrawal.stages.1.label>humpshroom withdrawal</HumpShroomWithdrawal.stages.1.label>
+  <HumpShroomWithdrawal.stages.1.description>I just feel nothing down there.</HumpShroomWithdrawal.stages.1.description>
+
+
+</LanguageData>

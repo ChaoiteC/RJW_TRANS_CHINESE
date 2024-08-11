@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseSex">
+		<defName>Sex_Reverse_Fellatio</defName>
+		<label>fellatio</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Fellated [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was fellated by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Give fellatio</RMBLabel>
+				<rjwSextype>Fellatio</rjwSextype>
+				<rulepack_defs>
+					<li>FellatioReverseRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Whoring</li>
+					<li>Consensual</li>
+				</tags>
+				<dominantRequirement>
+					<mouth>true</mouth>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanPenetrate</li>
+					</tags>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

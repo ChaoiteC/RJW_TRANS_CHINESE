@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakePegDick.label>carve peg dick</MakePegDick.label>
+  <MakePegDick.description>Carves a dildo from a piece of wood.</MakePegDick.description>
+  <MakePegDick.jobString>Carving peg dick.</MakePegDick.jobString>
+
+  <MakeHydraulicPenis.label>craft hydraulic penis</MakeHydraulicPenis.label>
+  <MakeHydraulicPenis.description>Crafts a hydraulic penis from steel and components.</MakeHydraulicPenis.description>
+  <MakeHydraulicPenis.jobString>Crafting hydraulic penis.</MakeHydraulicPenis.jobString>
+
+  <MakeBionicPenis.label>craft bionic penis</MakeBionicPenis.label>
+  <MakeBionicPenis.description>Crafts a bionic penis from hyperweave, plasteel, and components.</MakeBionicPenis.description>
+  <MakeBionicPenis.jobString>Crafting bionic penis.</MakeBionicPenis.jobString>
+
+  <MakeHydraulicVagina.label>craft hydraulic vagina</MakeHydraulicVagina.label>
+  <MakeHydraulicVagina.description>Crafts a hydraulic vagina from steel and components.</MakeHydraulicVagina.description>
+  <MakeHydraulicVagina.jobString>Crafting hydraulic vagina.</MakeHydraulicVagina.jobString>
+
+  <MakeBionicVagina.label>craft bionic vagina</MakeBionicVagina.label>
+  <MakeBionicVagina.description>Crafts a bionic vagina from hyperweave, plasteel, and components.</MakeBionicVagina.description>
+  <MakeBionicVagina.jobString>Crafting bionic vagina.</MakeBionicVagina.jobString>
+
+  <MakeHydraulicBreasts.label>craft hydraulic breasts</MakeHydraulicBreasts.label>
+  <MakeHydraulicBreasts.description>Crafts a pair of hydraulic breasts from steel and components.</MakeHydraulicBreasts.description>
+  <MakeHydraulicBreasts.jobString>Crafting hydraulic breasts.</MakeHydraulicBreasts.jobString>
+
+  <MakeBionicBreasts.label>craft bionic breasts</MakeBionicBreasts.label>
+  <MakeBionicBreasts.description>Crafts a pair of bionic breasts from hyperweave, plasteel, and components.</MakeBionicBreasts.description>
+  <MakeBionicBreasts.jobString>Crafting bionic breasts.</MakeBionicBreasts.jobString>
+
+  <MakeHydraulicAnus.label>craft hydraulic anus</MakeHydraulicAnus.label>
+  <MakeHydraulicAnus.description>Crafts a hydraulic anus from steel and components.</MakeHydraulicAnus.description>
+  <MakeHydraulicAnus.jobString>Crafting hydraulic anus.</MakeHydraulicAnus.jobString>
+
+  <MakeBionicAnus.label>craft bionic anus</MakeBionicAnus.label>
+  <MakeBionicAnus.description>Crafts a bionic anus from hyperweave, plasteel, and components.</MakeBionicAnus.description>
+  <MakeBionicAnus.jobString>Crafting bionic anus.</MakeBionicAnus.jobString>
+
+
+</LanguageData>

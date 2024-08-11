@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Penis.label>자지</Penis.label>
+	<Penis.labelNoun>자지</Penis.labelNoun>
+	<Penis.description>자지입니다.</Penis.description>
+	<Penis.stages.0.label>왜소한</Penis.stages.0.label>
+	<Penis.stages.1.label>작은</Penis.stages.1.label>
+	<Penis.stages.2.label>평범한</Penis.stages.2.label>
+	<Penis.stages.3.label>큰</Penis.stages.3.label>
+	<Penis.stages.4.label>대물</Penis.stages.4.label>
+	<Penis.stages.5.label>초대물</Penis.stages.5.label>
+
+	<Vagina.label>보지</Vagina.label>
+	<Vagina.labelNoun>보지</Vagina.labelNoun>
+	<Vagina.description>보지입니다.</Vagina.description>
+	<Vagina.stages.0.label>매우 좁은</Vagina.stages.0.label>
+	<Vagina.stages.1.label>조이는</Vagina.stages.1.label>
+	<Vagina.stages.2.label>평범한</Vagina.stages.2.label>
+	<Vagina.stages.3.label>수용적인</Vagina.stages.3.label>
+	<Vagina.stages.4.label>동굴같은</Vagina.stages.4.label>
+	<Vagina.stages.5.label>심연같은</Vagina.stages.5.label>
+
+	<Anus.label>항문</Anus.label>
+	<Anus.labelNoun>항문</Anus.labelNoun>
+	<Anus.description>항문입니다.</Anus.description>
+	<Anus.stages.0.label>매우 좁은</Anus.stages.0.label>
+	<Anus.stages.1.label>조이는</Anus.stages.1.label>
+	<Anus.stages.2.label>평범한</Anus.stages.2.label>
+	<Anus.stages.3.label>수용적인</Anus.stages.3.label>
+	<Anus.stages.4.label>동굴같은</Anus.stages.4.label>
+	<Anus.stages.5.label>심연같은</Anus.stages.5.label>
+
+	<Breasts.label>가슴</Breasts.label>
+	<Breasts.labelNoun>가슴</Breasts.labelNoun>
+	<Breasts.description>가슴입니다.</Breasts.description>
+	<Breasts.stages.0.label>무유</Breasts.stages.0.label>
+	<Breasts.stages.1.label>미유</Breasts.stages.1.label>
+	<Breasts.stages.2.label>빈유</Breasts.stages.2.label>
+	<Breasts.stages.3.label>평유</Breasts.stages.3.label>
+	<Breasts.stages.4.label>풍유</Breasts.stages.4.label>
+	<Breasts.stages.5.label>거유</Breasts.stages.5.label>
+	<Breasts.stages.6.label>폭유</Breasts.stages.6.label>
+	<Breasts.stages.7.label>초거유</Breasts.stages.7.label>
+	<Breasts.stages.8.label>초폭유</Breasts.stages.8.label>
+	<Breasts.stages.9.label>초초폭유</Breasts.stages.9.label>
+	<Breasts.stages.10.label>핵유</Breasts.stages.10.label>
+	<FeaturelessChest.label>밋밋한 가슴</FeaturelessChest.label>
+	<FeaturelessChest.labelNoun>밋밋한 가슴</FeaturelessChest.labelNoun>
+	<FeaturelessChest.description>젖꼭지 조차 보이지 않는 평평한 가슴입니다.</FeaturelessChest.description>
+
+</LanguageData>

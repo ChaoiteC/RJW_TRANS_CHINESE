@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>pênis de madeira</PegDick.label>
+  <PegDick.labelNoun>um pênis de madeira</PegDick.labelNoun>
+  <PegDick.description>Um simples consolo de madeira feito para substituir um pênis perdido. Melhor do que nada.</PegDick.description>
+  <PegDick.stages.0.label>Micro</PegDick.stages.0.label>
+  <PegDick.stages.1.label>Pequeno</PegDick.stages.1.label>
+  <PegDick.stages.2.label>Médio</PegDick.stages.2.label>
+  <PegDick.stages.3.label>Big</PegDick.stages.3.label>
+  <PegDick.stages.4.label>Gigante</PegDick.stages.4.label>
+  <PegDick.stages.5.label>Grandioso</PegDick.stages.5.label>
+
+  <HydraulicPenis.label>pênis hidráulico</HydraulicPenis.label>
+  <HydraulicPenis.labelNoun>um pênis hidráulico</HydraulicPenis.labelNoun>
+  <HydraulicPenis.description>Um gélido pistão de metal, capaz de simular uma ereção através de hidráulica. Possui um sistema interno de entrega de fluidos.</HydraulicPenis.description>
+  <HydraulicPenis.stages.0.label>Micro</HydraulicPenis.stages.0.label>
+  <HydraulicPenis.stages.1.label>Pequeno</HydraulicPenis.stages.1.label>
+  <HydraulicPenis.stages.2.label>Médio</HydraulicPenis.stages.2.label>
+  <HydraulicPenis.stages.3.label>Big</HydraulicPenis.stages.3.label>
+  <HydraulicPenis.stages.4.label>Gigante</HydraulicPenis.stages.4.label>
+  <HydraulicPenis.stages.5.label>Grandioso</HydraulicPenis.stages.5.label>
+
+  <HydraulicVagina.label>vagina hidráulica</HydraulicVagina.label>
+  <HydraulicVagina.labelNoun>uma vagina hidráulica</HydraulicVagina.labelNoun>
+  <HydraulicVagina.description>Uma vagina prostética de metal. Utilizando de hidráulica simples ela consegue simular as contrações de uma vagina real. Clitóris apenas demonstrativo.</HydraulicVagina.description>
+  <HydraulicVagina.stages.0.label>Micro</HydraulicVagina.stages.0.label>
+  <HydraulicVagina.stages.1.label>Apertada</HydraulicVagina.stages.1.label>
+  <HydraulicVagina.stages.2.label>Média</HydraulicVagina.stages.2.label>
+  <HydraulicVagina.stages.3.label>Confortável</HydraulicVagina.stages.3.label>
+  <HydraulicVagina.stages.4.label>Folgada</HydraulicVagina.stages.4.label>
+  <HydraulicVagina.stages.5.label>Cavernosa</HydraulicVagina.stages.5.label>
+
+  <HydraulicAnus.label>ânus hidráulico</HydraulicAnus.label>
+  <HydraulicAnus.labelNoun>um ânus hidráulico</HydraulicAnus.labelNoun>
+  <HydraulicAnus.description>Um ânus prostético de metal. Seu toque gélido é desconfortável.</HydraulicAnus.description>
+  <HydraulicAnus.stages.0.label>Micro</HydraulicAnus.stages.0.label>
+  <HydraulicAnus.stages.1.label>Apertado</HydraulicAnus.stages.1.label>
+  <HydraulicAnus.stages.2.label>Médio</HydraulicAnus.stages.2.label>
+  <HydraulicAnus.stages.3.label>Confortável</HydraulicAnus.stages.3.label>
+  <HydraulicAnus.stages.4.label>Folgado</HydraulicAnus.stages.4.label>
+  <HydraulicAnus.stages.5.label>Cavernoso</HydraulicAnus.stages.5.label>
+
+  <HydraulicBreasts.label>seios hidráulicos</HydraulicBreasts.label>
+  <HydraulicBreasts.labelNoun>um par de seios hidráulicos</HydraulicBreasts.labelNoun>
+  <HydraulicBreasts.description>Um par de cônicos seios de metal. São obviamente falsos.</HydraulicBreasts.description>
+  <HydraulicBreasts.stages.0.label>Mamilos</HydraulicBreasts.stages.0.label>
+  <HydraulicBreasts.stages.1.label>Minúculos</HydraulicBreasts.stages.1.label>
+  <HydraulicBreasts.stages.2.label>Pequenos</HydraulicBreasts.stages.2.label>
+  <HydraulicBreasts.stages.3.label>Médios</HydraulicBreasts.stages.3.label>
+  <HydraulicBreasts.stages.4.label>Grandes</HydraulicBreasts.stages.4.label>
+  <HydraulicBreasts.stages.5.label>Gigantes</HydraulicBreasts.stages.5.label>
+  <HydraulicBreasts.stages.6.label>Gigantescos</HydraulicBreasts.stages.6.label>
+  <HydraulicBreasts.stages.7.label>Imensos</HydraulicBreasts.stages.7.label>
+  <HydraulicBreasts.stages.8.label>Descomunais</HydraulicBreasts.stages.8.label>
+  <HydraulicBreasts.stages.9.label>Colossais</HydraulicBreasts.stages.9.label>
+  <HydraulicBreasts.stages.10.label>Titanic</HydraulicBreasts.stages.10.label>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>pênis biônico</BionicPenis.label>
+  <BionicPenis.labelNoun>um pênis biônico</BionicPenis.labelNoun>
+  <BionicPenis.description>Um avançado pênis artificial. Utiliza sensores de pressão afiados e um controlador PID para analizar as contrações durante a relação. Diversos modelos de pênis intercambiáveis foram fabricados, podendo adaptar-se facilmente as preferencias do(a) parceiro(a).</BionicPenis.description>
+  <BionicPenis.stages.0.label>Micro</BionicPenis.stages.0.label>
+  <BionicPenis.stages.1.label>Pequeno</BionicPenis.stages.1.label>
+  <BionicPenis.stages.2.label>Médio</BionicPenis.stages.2.label>
+  <BionicPenis.stages.3.label>Big</BionicPenis.stages.3.label>
+  <BionicPenis.stages.4.label>Gigante</BionicPenis.stages.4.label>
+  <BionicPenis.stages.5.label>Grandioso</BionicPenis.stages.5.label>
+
+  <BionicVagina.label>vagina biônica</BionicVagina.label>
+  <BionicVagina.labelNoun>uma vagina biônica</BionicVagina.labelNoun>
+  <BionicVagina.description>Uma avançada vagina artificial. Utiliza sensores de pressão internos e controladores dinâmicos de lubrificação, ela consegue criar uma experiência muito mais prazeroza para o(a) parceira(a). Diversos texturas de vagina intercambiáveis foram fabricados, podendo adaptar-se facilmente as preferencias do(a) parceiro(a).</BionicVagina.description>
+  <BionicVagina.stages.0.label>Micro</BionicVagina.stages.0.label>
+  <BionicVagina.stages.1.label>Apertada</BionicVagina.stages.1.label>
+  <BionicVagina.stages.2.label>Média</BionicVagina.stages.2.label>
+  <BionicVagina.stages.3.label>Confortável</BionicVagina.stages.3.label>
+  <BionicVagina.stages.4.label>Folgada</BionicVagina.stages.4.label>
+  <BionicVagina.stages.5.label>Cavernosa</BionicVagina.stages.5.label>
+
+  <BionicAnus.label>ânus biônico</BionicAnus.label>
+  <BionicAnus.labelNoun>um ânus biônico</BionicAnus.labelNoun>
+  <BionicAnus.description>Um avançado ânus artificial. Seu material elástico e resistente, junto da suas capacidades lubrificantes e sistema de auto-limpeza de ponta, proveem a melhor esperiencia no dia a dia. Perfeito para sexo anal!</BionicAnus.description>
+  <BionicAnus.stages.0.label>Micro</BionicAnus.stages.0.label>
+  <BionicAnus.stages.1.label>Apertado</BionicAnus.stages.1.label>
+  <BionicAnus.stages.2.label>Médio</BionicAnus.stages.2.label>
+  <BionicAnus.stages.3.label>Confortável</BionicAnus.stages.3.label>
+  <BionicAnus.stages.4.label>Folgado</BionicAnus.stages.4.label>
+  <BionicAnus.stages.5.label>Cavernoso</BionicAnus.stages.5.label>
+
+  <BionicBreasts.label>seios biônicos</BionicBreasts.label>
+  <BionicBreasts.labelNoun>um par de seios biônico</BionicBreasts.labelNoun>
+  <BionicBreasts.description>Um par de avançados seios biônicos. Seus mamilos possuem sensibilidade de até cinco vezes maior que um seio normal, controladas por um medidor de estímulo neural, dando ao usuário a mesma capacidade de amamentar que um seio comum, enquanto também aprimora sua a esperiencia sexual.</BionicBreasts.description>
+  <BionicBreasts.stages.0.label>Mamilos</BionicBreasts.stages.0.label>
+  <BionicBreasts.stages.1.label>Minúculos</BionicBreasts.stages.1.label>
+  <BionicBreasts.stages.2.label>Pequenos</BionicBreasts.stages.2.label>
+  <BionicBreasts.stages.3.label>Médios</BionicBreasts.stages.3.label>
+  <BionicBreasts.stages.4.label>Grandes</BionicBreasts.stages.4.label>
+  <BionicBreasts.stages.5.label>Gigantes</BionicBreasts.stages.5.label>
+  <BionicBreasts.stages.6.label>Gigantescos</BionicBreasts.stages.6.label>
+  <BionicBreasts.stages.7.label>Imensos</BionicBreasts.stages.7.label>
+  <BionicBreasts.stages.8.label>Descomunais</BionicBreasts.stages.8.label>
+  <BionicBreasts.stages.9.label>Colossais</BionicBreasts.stages.9.label>
+  <BionicBreasts.stages.10.label>Titanic</BionicBreasts.stages.10.label>
+
+
+  <!-- Archotech -->
+
+  <ArchotechPenis.label>pênis arquotecnológico</ArchotechPenis.label>
+  <ArchotechPenis.description>Um pênis artificial construído por um arquotech. Suas capacidades estimulantes são incomparáveis em qualquer situação sexual. Ele provê o melhor estímulo para cada tipo de orifício e também é mais resistente do que plastiaço e se auto repara. Ele se conecta perfeitamente ao corpo e se liga diretamente ao sistema nervoso para melhorar muito o vigor e virilidade para que o prazer dure o maior tempo possível. Vibrações controladas por IA, feromônios customizados e a capacidade de trocar de cor livremente se certificam que cada ato sexual seja uma experiência inesquecível. Seus funcionamentos internos são um mistério a todas a mentes humanas.</ArchotechPenis.description>
+  <ArchotechPenis.stages.0.label>Micro</ArchotechPenis.stages.0.label>
+  <ArchotechPenis.stages.1.label>Pequeno</ArchotechPenis.stages.1.label>
+  <ArchotechPenis.stages.2.label>Médio</ArchotechPenis.stages.2.label>
+  <ArchotechPenis.stages.3.label>Big</ArchotechPenis.stages.3.label>
+  <ArchotechPenis.stages.4.label>Gigante</ArchotechPenis.stages.4.label>
+  <ArchotechPenis.stages.5.label>Grandioso</ArchotechPenis.stages.5.label>
+
+  <ArchotechVagina.label>vagina arquotecnológica</ArchotechVagina.label>
+  <ArchotechVagina.description>Uma vagina artificial construída por um arquotech. Se parece exatamente com uma vagina comum por fora, mas sua lubrificação avançada, flexibilidade, além de seus mecanismos de auto reparos permitem que ela aguente qualquer tipo de objeto inserido com facilidade e permite que qualquer tipo de bebê possa passam sem complicações. Ela se conecta com perfeição ao corpo e mantém uma imunidade contra as mais conhecidas DSTs. Sua sensibilidade excepcional, regulação de temperatura e sua capacidade de trocar de cor livremente são capazes de satisfazer qualquer tipo de parceiro.Seus funcionamentos internos são um mistério a todas a mentes humanas.</ArchotechVagina.description>
+  <ArchotechVagina.stages.0.label>Micro</ArchotechVagina.stages.0.label>
+  <ArchotechVagina.stages.1.label>Apertada</ArchotechVagina.stages.1.label>
+  <ArchotechVagina.stages.2.label>Média</ArchotechVagina.stages.2.label>
+  <ArchotechVagina.stages.3.label>Confortável</ArchotechVagina.stages.3.label>
+  <ArchotechVagina.stages.4.label>Folgada</ArchotechVagina.stages.4.label>
+  <ArchotechVagina.stages.5.label>Cavernosa</ArchotechVagina.stages.5.label>
+
+  <ArchotechAnus.label>ânus arquotecnológico</ArchotechAnus.label>
+  <ArchotechAnus.description>Um ânus artificial construído por um arquotech. É indistinguível de um ânus normal, com a exceção de ser capaz de trocar de cor livremente. Suas propriedades de auto reparos e sua resistência fazem ele ser quase impossivel de destruir. Seu funcionamento interno é um mistério para todas as mentes humanas.</ArchotechAnus.description>
+  <ArchotechAnus.stages.0.label>Micro</ArchotechAnus.stages.0.label>
+  <ArchotechAnus.stages.1.label>Apertado</ArchotechAnus.stages.1.label>
+  <ArchotechAnus.stages.2.label>Médio</ArchotechAnus.stages.2.label>
+  <ArchotechAnus.stages.3.label>Confortável</ArchotechAnus.stages.3.label>
+  <ArchotechAnus.stages.4.label>Folgado</ArchotechAnus.stages.4.label>
+  <ArchotechAnus.stages.5.label>Cavernoso</ArchotechAnus.stages.5.label>
+
+  <ArchotechBreasts.label>seios arquotecnológicos</ArchotechBreasts.label>
+  <ArchotechBreasts.description>Um par de seios artificiais construídos por um arquotech. São capazes de alterar suas cores livremente, e são tão leves que não interferem com as atividades do cotidiano. Sua superfície é mais macia do que qualquer pele natural, sendo também mais resistentes do que plastiaço e podendo se auto reparar. Seu funcionamento interno é um mistério para todas as mentes humanas.</ArchotechBreasts.description>
+  <ArchotechBreasts.stages.0.label>Mamilos</ArchotechBreasts.stages.0.label>
+  <ArchotechBreasts.stages.1.label>Minúculos</ArchotechBreasts.stages.1.label>
+  <ArchotechBreasts.stages.2.label>Pequenos</ArchotechBreasts.stages.2.label>
+  <ArchotechBreasts.stages.3.label>Médios</ArchotechBreasts.stages.3.label>
+  <ArchotechBreasts.stages.4.label>Grandes</ArchotechBreasts.stages.4.label>
+  <ArchotechBreasts.stages.5.label>Gigantes</ArchotechBreasts.stages.5.label>
+  <ArchotechBreasts.stages.6.label>Gigantescos</ArchotechBreasts.stages.6.label>
+  <ArchotechBreasts.stages.7.label>Imensos</ArchotechBreasts.stages.7.label>
+  <ArchotechBreasts.stages.8.label>Descomunais</ArchotechBreasts.stages.8.label>
+  <ArchotechBreasts.stages.9.label>Colossais</ArchotechBreasts.stages.9.label>
+  <ArchotechBreasts.stages.10.label>Titanic</ArchotechBreasts.stages.10.label>
+
+
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddVagina.label>Vagina einsetzen</AddVagina.label>
+  <AddVagina.description>Fügt einem Mann eine Vagina in gewählter Größe hinzu.</AddVagina.description>
+  <AddVagina.jobString>Setzt Vagina ein.</AddVagina.jobString>
+
+  <addHorseVagina.label>Pferdevagina einsetzen</addHorseVagina.label>
+  <addHorseVagina.description>Fügt einem Mann eine Pferdevagina hinzu.</addHorseVagina.description>
+  <addHorseVagina.jobString>Setzt Pferdevagina ein.</addHorseVagina.jobString>
+
+  <addCatVagina.label>Katzenvagina einsetzen</addCatVagina.label>
+  <addCatVagina.description>Fügt einem Mann eine Katzenvagina hinzu.</addCatVagina.description>
+  <addCatVagina.jobString>Setzt Katzenvagina ein.</addCatVagina.jobString>
+
+  <addDogVagina.label>Hundevagina einsetzen</addDogVagina.label>
+  <addDogVagina.description>Fügt einem Mann eine Hundevagina hinzu.</addDogVagina.description>
+  <addDogVagina.jobString>Setzt Hundevagina ein.</addDogVagina.jobString>
+
+  <addDragonVagina.label>Drachenvagina einsetzen</addDragonVagina.label>
+  <addDragonVagina.description>Fügt einem Mann eine Drachenvagina hinzu.</addDragonVagina.description>
+  <addDragonVagina.jobString>Setzt Drachenvagina ein.</addDragonVagina.jobString>
+
+  <AddNarrowVagina.label>Schmale Vagina einsetzen</AddNarrowVagina.label>
+  <AddNarrowVagina.description>Fügt einem Mann eine Vagina hinzu.</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>Setzt Vagina ein.</AddNarrowVagina.jobString>
+
+  <AddCloacalVagina.label>Kloakenvagina einsetzen</AddCloacalVagina.label>
+  <AddCloacalVagina.description>Fügt einem Mann eine Vagina hinzu.</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>Setzt Vagina ein.</AddCloacalVagina.jobString>
+
+  <AddRodentVagina.label>Nagetiervagina einsetzen</AddRodentVagina.label>
+  <AddRodentVagina.description>Fügt einem Mann eine Vagina hinzu.</AddRodentVagina.description>
+  <AddRodentVagina.jobString>Setzt Vagina ein.</AddRodentVagina.jobString>
+
+  <addOvipositorF.label>Ovipositor einsetzen</addOvipositorF.label>
+  <addOvipositorF.description>Fügt einem Mann einen weiblichen Ovipositor hinzu.</addOvipositorF.description>
+  <addOvipositorF.jobString>Setzt Ovipositor ein.</addOvipositorF.jobString>
+
+
+  <!-- hydraulic vagina -->
+
+  <addHydraulicVagina.label>Hydraulische Vagina einsetzen</addHydraulicVagina.label>
+  <addHydraulicVagina.description>Fügt einem Mann eine Vagina in gewählter Größe hinzu.</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>Installiert hydraulische Vagina.</addHydraulicVagina.jobString>
+
+
+  <!-- bionic vagina -->
+
+  <addBionicVagina.label>Bionische Vagina einsetzen</addBionicVagina.label>
+  <addBionicVagina.description>Fügt einem Mann eine bionische Vagina hinzu.</addBionicVagina.description>
+  <addBionicVagina.jobString>Installiert bionische Vagina.</addBionicVagina.jobString>
+
+
+  <!-- archotech vagina -->
+
+  <addArchotechVagina.label>Archotech Vagina einsetzen</addArchotechVagina.label>
+  <addArchotechVagina.description>Fügt einem Mann eine archotech Vagina hinzu.</addArchotechVagina.description>
+  <addArchotechVagina.jobString>Installiert archotech Vagina.</addArchotechVagina.jobString>
+
+
+</LanguageData>

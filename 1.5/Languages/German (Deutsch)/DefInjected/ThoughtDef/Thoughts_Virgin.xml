@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added by Hoge. -->
+
+  <FortunateGaveVirginity.stages.0.label>gab meine Jungfräulichkeit</FortunateGaveVirginity.stages.0.label>
+  <FortunateGaveVirginity.stages.0.description>Ich habe meine Unschuld vergeben.</FortunateGaveVirginity.stages.0.description>
+
+  <UnfortunateLostVirginity.stages.0.label>verlor Jungfräulichkeit</UnfortunateLostVirginity.stages.0.label>
+  <UnfortunateLostVirginity.stages.0.description>Ich habe meine Unschuld unwiderbringlich verloren.</UnfortunateLostVirginity.stages.0.description>
+
+  <TookVirginity.stages.0.label>Nahm Jungfräulichkeit</TookVirginity.stages.0.label>
+  <TookVirginity.stages.0.description>Ich nahm jemandes Jungfräulichkeit.</TookVirginity.stages.0.description>
+
+
+</LanguageData>

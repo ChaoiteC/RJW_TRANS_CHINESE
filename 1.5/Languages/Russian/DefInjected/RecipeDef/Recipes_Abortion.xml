@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_AbortionHuman.label>Сделать аборт</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>Прерывает нежелательную беременность.</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>Производит аборт.</RJW_AbortionHuman.jobString>
+
+  <RJW_AbortionBeast.label>Сделать аборт</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>Прерывает нежелательную беременность.</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>Производит аборт.</RJW_AbortionBeast.jobString>
+
+  <RJW_AbortionMech.label>Нейтрализация мезаноидов</RJW_AbortionMech.label>
+  <RJW_AbortionMech.description>Безопасное выведение механоидов из организма.</RJW_AbortionMech.description>
+  <RJW_AbortionMech.jobString>Нейтрализует механоидов.</RJW_AbortionMech.jobString>
+
+  <RJW_HackMech.label>Взломать механоида</RJW_HackMech.label>
+  <RJW_HackMech.description>Взломать ИИ механоида и отрезать его от Сети. В результате даёт покорного (если его не провоцировать) механоида.</RJW_HackMech.description>
+  <RJW_HackMech.jobString>Взламывает механоида.</RJW_HackMech.jobString>
+
+
+</LanguageData>

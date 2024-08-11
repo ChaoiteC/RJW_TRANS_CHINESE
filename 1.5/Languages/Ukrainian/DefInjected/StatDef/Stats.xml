@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SexSatisfaction.label>сексуальне задоволення</SexSatisfaction.label>
+	<SexSatisfaction.description>Визначає, наскільки пішак отримує задоволення від сексу.</SexSatisfaction.description>
+
+	<Vulnerability.label>вразливість</Vulnerability.label>
+	<Vulnerability.description>Чим вище, тим більший шанс пасивної ролі в сексі</Vulnerability.description>
+
+	<SexFrequency.label>інтерес до сексу</SexFrequency.label>
+	<SexFrequency.description>Показує наскільки сексуально активна дана пішак.</SexFrequency.description>
+</LanguageData>

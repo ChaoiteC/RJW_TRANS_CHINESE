@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Attach natural privates -->
+
+  <AttachPenis.label>Installiere normalgroßen Penis</AttachPenis.label>
+  <AttachPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachPenis.description>
+  <AttachPenis.jobString>Installiert Penis.</AttachPenis.jobString>
+
+  <InstallVagina.label>Installiere Vagina</InstallVagina.label>
+  <InstallVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallVagina.description>
+  <InstallVagina.jobString>Installiert Vagina.</InstallVagina.jobString>
+
+  <InstallCatVagina.label>Installiere Katzenvagina</InstallCatVagina.label>
+  <InstallCatVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallCatVagina.description>
+  <InstallCatVagina.jobString>Installiert Vagina.</InstallCatVagina.jobString>
+
+  <InstallDogVagina.label>Installiere Hundevagina</InstallDogVagina.label>
+  <InstallDogVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallDogVagina.description>
+  <InstallDogVagina.jobString>Installiert Vagina.</InstallDogVagina.jobString>
+
+  <InstallHorseVagina.label>Installiere Pferdevagina</InstallHorseVagina.label>
+  <InstallHorseVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallHorseVagina.description>
+  <InstallHorseVagina.jobString>Installiert Vagina.</InstallHorseVagina.jobString>
+
+  <InstallDragonVagina.label>Installiere Drachenvagina</InstallDragonVagina.label>
+  <InstallDragonVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallDragonVagina.description>
+  <InstallDragonVagina.jobString>Installiert Vagina.</InstallDragonVagina.jobString>
+
+  <InstallNarrowVagina.label>Installiere schmale Vagina</InstallNarrowVagina.label>
+  <InstallNarrowVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallNarrowVagina.description>
+  <InstallNarrowVagina.jobString>Installiert Vagina.</InstallNarrowVagina.jobString>
+
+  <InstallCloacalVagina.label>Installiere Kloakenvagina</InstallCloacalVagina.label>
+  <InstallCloacalVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallCloacalVagina.description>
+  <InstallCloacalVagina.jobString>Installiert Vagina.</InstallCloacalVagina.jobString>
+
+  <InstallRodentVagina.label>Installiere Nagetiervagina</InstallRodentVagina.label>
+  <InstallRodentVagina.description>Installiert eine Vagina und ersetzt andere Körperteile, wenn vorhanden.</InstallRodentVagina.description>
+  <InstallRodentVagina.jobString>Installiert Vagina.</InstallRodentVagina.jobString>
+
+  <InstallOvipositorF.label>Installiere F. Ovipositor</InstallOvipositorF.label>
+  <InstallOvipositorF.description>Installiert einen weiblichen Ovipositor ersetzt andere Körperteile, wenn vorhanden.</InstallOvipositorF.description>
+  <InstallOvipositorF.jobString>Installiert W. Ovipositor.</InstallOvipositorF.jobString>
+
+  <AttachHorsePenis.label>Installiere Pferdepenis</AttachHorsePenis.label>
+  <AttachHorsePenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachHorsePenis.description>
+  <AttachHorsePenis.jobString>Installiert Penis.</AttachHorsePenis.jobString>
+
+  <AttachRaccoonPenis.label>Installiere Waschbärpenis</AttachRaccoonPenis.label>
+  <AttachRaccoonPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachRaccoonPenis.description>
+  <AttachRaccoonPenis.jobString>Installiert Penis.</AttachRaccoonPenis.jobString>
+
+  <AttachCatPenis.label>Installiere Katzenpenis</AttachCatPenis.label>
+  <AttachCatPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachCatPenis.description>
+  <AttachCatPenis.jobString>Installiert Penis.</AttachCatPenis.jobString>
+
+  <AttachDogPenis.label>Installiere Hundepenis</AttachDogPenis.label>
+  <AttachDogPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachDogPenis.description>
+  <AttachDogPenis.jobString>Installiert Penis.</AttachDogPenis.jobString>
+
+  <AttachDragonPenis.label>Installiere Drachenpenis</AttachDragonPenis.label>
+  <AttachDragonPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachDragonPenis.description>
+  <AttachDragonPenis.jobString>Installiert Penis.</AttachDragonPenis.jobString>
+
+  <AttachHemiPenis.label>Installiere Hemipenis</AttachHemiPenis.label>
+  <AttachHemiPenis.description>Installiere einen doppel-schaftigen Hemipenis.</AttachHemiPenis.description>
+  <AttachHemiPenis.jobString>Installiert Penis.</AttachHemiPenis.jobString>
+
+  <AttachCrocodilianPenis.label>Installiere Krokodilpenis</AttachCrocodilianPenis.label>
+  <AttachCrocodilianPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachCrocodilianPenis.description>
+  <AttachCrocodilianPenis.jobString>Installiert Penis.</AttachCrocodilianPenis.jobString>
+
+  <AttachNeedlePenis.label>Installiere Nadelpenis</AttachNeedlePenis.label>
+  <AttachNeedlePenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachNeedlePenis.description>
+  <AttachNeedlePenis.jobString>Installiert Penis.</AttachNeedlePenis.jobString>
+
+  <AttachCloacalPenis.label>Installiere Kloakenpenis</AttachCloacalPenis.label>
+  <AttachCloacalPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachCloacalPenis.description>
+  <AttachCloacalPenis.jobString>Installiert Penis.</AttachCloacalPenis.jobString>
+
+  <AttachRodentPenis.label>Installiere Nagetierpenis</AttachRodentPenis.label>
+  <AttachRodentPenis.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachRodentPenis.description>
+  <AttachRodentPenis.jobString>Installiert Penis.</AttachRodentPenis.jobString>
+
+  <AttachOvipositorM.label>Installiere M. Ovipositor</AttachOvipositorM.label>
+  <AttachOvipositorM.description>Installiert Penis und ersetzt andere Körperteile, wenn vorhanden.</AttachOvipositorM.description>
+  <AttachOvipositorM.jobString>Installiert M. Ovipositor.</AttachOvipositorM.jobString>
+
+
+  <!-- Breasts -->
+
+  <AttachBreasts.label>Installiere normale Brüste</AttachBreasts.label>
+  <AttachBreasts.description>Installiert ein paar Brüste, ersetzt andere Körperteile, wenn vorhanden.</AttachBreasts.description>
+  <AttachBreasts.jobString>Installiert ein paar Brüste.</AttachBreasts.jobString>
+
+  <AttachUdderBreasts.label>Installiere Euter</AttachUdderBreasts.label>
+  <AttachUdderBreasts.description>Installiert ein großes, kuhähnliches Euter.</AttachUdderBreasts.description>
+  <AttachUdderBreasts.jobString>Installiert Euter.</AttachUdderBreasts.jobString>
+
+  <AttachFeaturelesschest.label>Installiere merkmallose Brüste</AttachFeaturelesschest.label>
+  <AttachFeaturelesschest.description>Installiert eine flache Brust ohne jegliche Wölbungen, ersetzt andere Körperteile, wenn vorhanden.</AttachFeaturelesschest.description>
+  <AttachFeaturelesschest.jobString>Installiert merkmallose Brüste.</AttachFeaturelesschest.jobString>
+
+  <InstallAnus.label>Installiere normalen Anus</InstallAnus.label>
+  <InstallAnus.description>Installiert einen Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallAnus.description>
+  <InstallAnus.jobString>Installiert einen Anus.</InstallAnus.jobString>
+
+  <InstallCloacalAnus.label>Installiere Kloakenanus</InstallCloacalAnus.label>
+  <InstallCloacalAnus.description>Installiert einen Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallCloacalAnus.description>
+  <InstallCloacalAnus.jobString>Installiert einen Anus.</InstallCloacalAnus.jobString>
+
+  <InstallInsectAnus.label>Installiere Insektenanus</InstallInsectAnus.label>
+  <InstallInsectAnus.description>Installiert einen Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallInsectAnus.description>
+  <InstallInsectAnus.jobString>Installiert einen Anus.</InstallInsectAnus.jobString>
+
+
+  <!-- Attach simple prosthetic privates -->
+
+  <InstallHydraulicPenis.label>Installiere hydraulischen Penis</InstallHydraulicPenis.label>
+  <InstallHydraulicPenis.description>Installiert hydraulischen Penis, ersetzt andere Körperteile, wenn vorhanden.</InstallHydraulicPenis.description>
+  <InstallHydraulicPenis.jobString>Installiert hydraulischen Penis.</InstallHydraulicPenis.jobString>
+
+  <InstallHydraulicVagina.label>Installiere hydraulische Vagina</InstallHydraulicVagina.label>
+  <InstallHydraulicVagina.description>Installiert hydraulische Vagina, ersetzt andere Körperteile, wenn vorhanden.</InstallHydraulicVagina.description>
+  <InstallHydraulicVagina.jobString>Installiert hydraulische Vagina.</InstallHydraulicVagina.jobString>
+
+  <InstallHydraulicBreasts.label>Installiere hydraulische Brust</InstallHydraulicBreasts.label>
+  <InstallHydraulicBreasts.description>Installiert hydraulische Brust, ersetzt andere Körperteile, wenn vorhanden.</InstallHydraulicBreasts.description>
+  <InstallHydraulicBreasts.jobString>Installiert hydraulische Brüste.</InstallHydraulicBreasts.jobString>
+
+  <InstallHydraulicAnus.label>Installiere hydraulischen Anus</InstallHydraulicAnus.label>
+  <InstallHydraulicAnus.description>Installiert hydraulischen Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallHydraulicAnus.description>
+  <InstallHydraulicAnus.jobString>Installiert hydraulischen Anus.</InstallHydraulicAnus.jobString>
+
+  <AttachPegDick.label>Installiere hölzernen Penis</AttachPegDick.label>
+  <AttachPegDick.description>Installiert hölzernen Penis, ersetzt andere Körperteile, wenn vorhanden.</AttachPegDick.description>
+  <AttachPegDick.jobString>Installiert hölzernen Penis.</AttachPegDick.jobString>
+
+
+  <!-- Attach bionic privates -->
+
+  <InstallBionicVagina.label>Installiere bionische Vagina</InstallBionicVagina.label>
+  <InstallBionicVagina.description>Installiert bionische Vagina, ersetzt andere Körperteile, wenn vorhanden.</InstallBionicVagina.description>
+  <InstallBionicVagina.jobString>Installiert bionische Vagina.</InstallBionicVagina.jobString>
+
+  <InstallBionicPenis.label>Installiere bionischen Penis</InstallBionicPenis.label>
+  <InstallBionicPenis.description>Installiert bionischen Penis, ersetzt andere Körperteile, wenn vorhanden.</InstallBionicPenis.description>
+  <InstallBionicPenis.jobString>Installiert bionischen Penis.</InstallBionicPenis.jobString>
+
+  <InstallBionicBreasts.label>Installiere bionische Brust</InstallBionicBreasts.label>
+  <InstallBionicBreasts.description>Installiert bionische Brust, ersetzt andere Körperteile, wenn vorhanden.</InstallBionicBreasts.description>
+  <InstallBionicBreasts.jobString>Installiert bionische Brüste.</InstallBionicBreasts.jobString>
+
+  <InstallBionicAnus.label>Installiere bionischen Anus</InstallBionicAnus.label>
+  <InstallBionicAnus.description>Installiert bionischen Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallBionicAnus.description>
+  <InstallBionicAnus.jobString>Installiert bionischen Anus.</InstallBionicAnus.jobString>
+
+
+  <!-- Attach archotech privates -->
+
+  <InstallArchotechPenis.label>Installiere archotech Penis</InstallArchotechPenis.label>
+  <InstallArchotechPenis.description>Installiert archotech Penis, ersetzt andere Körperteile, wenn vorhanden.</InstallArchotechPenis.description>
+  <InstallArchotechPenis.jobString>Installiert archotech Penis.</InstallArchotechPenis.jobString>
+
+  <InstallArchotechVagina.label>Installiere archotech Vagina</InstallArchotechVagina.label>
+  <InstallArchotechVagina.description>Installiert archotech Vagina, ersetzt andere Körperteile, wenn vorhanden.</InstallArchotechVagina.description>
+  <InstallArchotechVagina.jobString>Installiert archotech Vagina.</InstallArchotechVagina.jobString>
+
+  <InstallArchotechAnus.label>Installiere archotech Anus</InstallArchotechAnus.label>
+  <InstallArchotechAnus.description>Installiert archotech Anus, ersetzt andere Körperteile, wenn vorhanden.</InstallArchotechAnus.description>
+  <InstallArchotechAnus.jobString>Installiert archotech Anus.</InstallArchotechAnus.jobString>
+
+  <InstallArchotechBreasts.label>Installiere archotech Brust</InstallArchotechBreasts.label>
+  <InstallArchotechBreasts.description>Installiert archotech Brust, ersetzt andere Körperteile, wenn vorhanden.</InstallArchotechBreasts.description>
+  <InstallArchotechBreasts.jobString>Installiert archotech Brüste.</InstallArchotechBreasts.jobString>
+
+
+</LanguageData>

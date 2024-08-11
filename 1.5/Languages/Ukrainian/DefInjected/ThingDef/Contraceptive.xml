@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- As usual stolen from CnP -->
+	
+	<RJW_Contraceptive.label>протизаплідні таблетки</RJW_Contraceptive.label>
+	<RJW_Contraceptive.description>Наносить нищівний удар по фертильності.</RJW_Contraceptive.description>
+  <RJW_Contraceptive.ingestible.ingestCommandString>Прийняти {0}</RJW_Contraceptive.ingestible.ingestCommandString>
+  <RJW_Contraceptive.ingestible.ingestReportString>Приймає {0}.</RJW_Contraceptive.ingestible.ingestReportString>
+	
+</LanguageData>

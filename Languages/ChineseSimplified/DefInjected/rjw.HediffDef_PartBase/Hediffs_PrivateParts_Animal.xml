@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HorsePenis.label>equine penis</HorsePenis.label>
+  <HorsePenis.labelNoun>an equine penis</HorsePenis.labelNoun>
+  <HorsePenis.description>A large horse penis. Flares out during sex.</HorsePenis.description>
+  <HorsePenis.stages.0.label>Micro</HorsePenis.stages.0.label>
+  <HorsePenis.stages.1.label>Small</HorsePenis.stages.1.label>
+  <HorsePenis.stages.2.label>Average</HorsePenis.stages.2.label>
+  <HorsePenis.stages.3.label>Large</HorsePenis.stages.3.label>
+  <HorsePenis.stages.4.label>Huge</HorsePenis.stages.4.label>
+  <HorsePenis.stages.5.label>Towering</HorsePenis.stages.5.label>
+
+  <HorseVagina.label>equine vagina</HorseVagina.label>
+  <HorseVagina.labelNoun>an equine vagina</HorseVagina.labelNoun>
+  <HorseVagina.description>A mare vagina.</HorseVagina.description>
+  <HorseVagina.stages.0.label>Micro</HorseVagina.stages.0.label>
+  <HorseVagina.stages.1.label>Tight</HorseVagina.stages.1.label>
+  <HorseVagina.stages.2.label>Average</HorseVagina.stages.2.label>
+  <HorseVagina.stages.3.label>Accommodating</HorseVagina.stages.3.label>
+  <HorseVagina.stages.4.label>Cavernous</HorseVagina.stages.4.label>
+  <HorseVagina.stages.5.label>Abyssal</HorseVagina.stages.5.label>
+
+  <CatPenis.label>feline penis</CatPenis.label>
+  <CatPenis.labelNoun>a feline penis</CatPenis.labelNoun>
+  <CatPenis.description>A spine-covered feline penis.</CatPenis.description>
+  <CatPenis.stages.0.label>Micro</CatPenis.stages.0.label>
+  <CatPenis.stages.1.label>Small</CatPenis.stages.1.label>
+  <CatPenis.stages.2.label>Average</CatPenis.stages.2.label>
+  <CatPenis.stages.3.label>Large</CatPenis.stages.3.label>
+  <CatPenis.stages.4.label>Huge</CatPenis.stages.4.label>
+  <CatPenis.stages.5.label>Towering</CatPenis.stages.5.label>
+
+  <CatVagina.label>feline vagina</CatVagina.label>
+  <CatVagina.labelNoun>a feline vagina</CatVagina.labelNoun>
+  <CatVagina.description>A feline vagina.</CatVagina.description>
+  <CatVagina.stages.0.label>Micro</CatVagina.stages.0.label>
+  <CatVagina.stages.1.label>Tight</CatVagina.stages.1.label>
+  <CatVagina.stages.2.label>Average</CatVagina.stages.2.label>
+  <CatVagina.stages.3.label>Accommodating</CatVagina.stages.3.label>
+  <CatVagina.stages.4.label>Cavernous</CatVagina.stages.4.label>
+  <CatVagina.stages.5.label>Abyssal</CatVagina.stages.5.label>
+
+  <DogPenis.label>canine penis</DogPenis.label>
+  <DogPenis.labelNoun>a dog penis</DogPenis.labelNoun>
+  <DogPenis.description>A bright red dog penis. The knot will expand during sex, locking its lover to their partner for a long time.</DogPenis.description>
+  <DogPenis.stages.0.label>Micro</DogPenis.stages.0.label>
+  <DogPenis.stages.1.label>Small</DogPenis.stages.1.label>
+  <DogPenis.stages.2.label>Average</DogPenis.stages.2.label>
+  <DogPenis.stages.3.label>Large</DogPenis.stages.3.label>
+  <DogPenis.stages.4.label>Huge</DogPenis.stages.4.label>
+  <DogPenis.stages.5.label>Towering</DogPenis.stages.5.label>
+
+  <DogVagina.label>canine vagina</DogVagina.label>
+  <DogVagina.labelNoun>a dog vagina</DogVagina.labelNoun>
+  <DogVagina.description>A dog vagina.</DogVagina.description>
+  <DogVagina.stages.0.label>Micro</DogVagina.stages.0.label>
+  <DogVagina.stages.1.label>Tight</DogVagina.stages.1.label>
+  <DogVagina.stages.2.label>Average</DogVagina.stages.2.label>
+  <DogVagina.stages.3.label>Accommodating</DogVagina.stages.3.label>
+  <DogVagina.stages.4.label>Cavernous</DogVagina.stages.4.label>
+  <DogVagina.stages.5.label>Abyssal</DogVagina.stages.5.label>
+
+  <DragonPenis.label>dragon penis</DragonPenis.label>
+  <DragonPenis.labelNoun>a dragon penis</DragonPenis.labelNoun>
+  <DragonPenis.description>A dragon penis. Has a knot that expands similarly to a dog's penis, but the ribbings on both sides takes its lover to greater heights of pleasure.</DragonPenis.description>
+  <DragonPenis.stages.0.label>Micro</DragonPenis.stages.0.label>
+  <DragonPenis.stages.1.label>Small</DragonPenis.stages.1.label>
+  <DragonPenis.stages.2.label>Average</DragonPenis.stages.2.label>
+  <DragonPenis.stages.3.label>Large</DragonPenis.stages.3.label>
+  <DragonPenis.stages.4.label>Huge</DragonPenis.stages.4.label>
+  <DragonPenis.stages.5.label>Towering</DragonPenis.stages.5.label>
+
+  <DragonVagina.label>dragon vagina</DragonVagina.label>
+  <DragonVagina.labelNoun>a dragon vagina</DragonVagina.labelNoun>
+  <DragonVagina.description>A dragon vagina. Has a similar texture to their outer hide.</DragonVagina.description>
+  <DragonVagina.stages.0.label>Micro</DragonVagina.stages.0.label>
+  <DragonVagina.stages.1.label>Tight</DragonVagina.stages.1.label>
+  <DragonVagina.stages.2.label>Average</DragonVagina.stages.2.label>
+  <DragonVagina.stages.3.label>Accommodating</DragonVagina.stages.3.label>
+  <DragonVagina.stages.4.label>Cavernous</DragonVagina.stages.4.label>
+  <DragonVagina.stages.5.label>Abyssal</DragonVagina.stages.5.label>
+
+  <RaccoonPenis.label>procyonine penis</RaccoonPenis.label>
+  <RaccoonPenis.labelNoun>a procyonine penis</RaccoonPenis.labelNoun>
+  <RaccoonPenis.description>A raccoon penis.</RaccoonPenis.description>
+  <RaccoonPenis.stages.0.label>Micro</RaccoonPenis.stages.0.label>
+  <RaccoonPenis.stages.1.label>Small</RaccoonPenis.stages.1.label>
+  <RaccoonPenis.stages.2.label>Average</RaccoonPenis.stages.2.label>
+  <RaccoonPenis.stages.3.label>Large</RaccoonPenis.stages.3.label>
+  <RaccoonPenis.stages.4.label>Huge</RaccoonPenis.stages.4.label>
+  <RaccoonPenis.stages.5.label>Towering</RaccoonPenis.stages.5.label>
+
+  <HemiPenis.label>hemipenis</HemiPenis.label>
+  <HemiPenis.labelNoun>a hemipenis</HemiPenis.labelNoun>
+  <HemiPenis.description>Twice the members for double the fun.</HemiPenis.description>
+  <HemiPenis.stages.0.label>Micro</HemiPenis.stages.0.label>
+  <HemiPenis.stages.1.label>Small</HemiPenis.stages.1.label>
+  <HemiPenis.stages.2.label>Average</HemiPenis.stages.2.label>
+  <HemiPenis.stages.3.label>Large</HemiPenis.stages.3.label>
+  <HemiPenis.stages.4.label>Huge</HemiPenis.stages.4.label>
+  <HemiPenis.stages.5.label>Towering</HemiPenis.stages.5.label>
+
+  <CrocodilianPenis.label>crocodilian penis</CrocodilianPenis.label>
+  <CrocodilianPenis.labelNoun>a crocodilian penis</CrocodilianPenis.labelNoun>
+  <CrocodilianPenis.description>A crocodilian penis. Large and permenantly erect.</CrocodilianPenis.description>
+  <CrocodilianPenis.stages.0.label>Micro</CrocodilianPenis.stages.0.label>
+  <CrocodilianPenis.stages.1.label>Small</CrocodilianPenis.stages.1.label>
+  <CrocodilianPenis.stages.2.label>Average</CrocodilianPenis.stages.2.label>
+  <CrocodilianPenis.stages.3.label>Large</CrocodilianPenis.stages.3.label>
+  <CrocodilianPenis.stages.4.label>Huge</CrocodilianPenis.stages.4.label>
+  <CrocodilianPenis.stages.5.label>Towering</CrocodilianPenis.stages.5.label>
+
+  <UdderBreasts.label>udder</UdderBreasts.label>
+  <UdderBreasts.labelNoun>an udders</UdderBreasts.labelNoun>
+  <UdderBreasts.description>A animal like "breasts" with 4 nipples.</UdderBreasts.description>
+  <UdderBreasts.stages.0.label>Nipples</UdderBreasts.stages.0.label>
+  <UdderBreasts.stages.1.label>Tiny</UdderBreasts.stages.1.label>
+  <UdderBreasts.stages.2.label>Small</UdderBreasts.stages.2.label>
+  <UdderBreasts.stages.3.label>Average</UdderBreasts.stages.3.label>
+  <UdderBreasts.stages.4.label>Large</UdderBreasts.stages.4.label>
+  <UdderBreasts.stages.5.label>Huge</UdderBreasts.stages.5.label>
+  <UdderBreasts.stages.6.label>Enormous</UdderBreasts.stages.6.label>
+  <UdderBreasts.stages.7.label>Massive</UdderBreasts.stages.7.label>
+  <UdderBreasts.stages.8.label>Gargantuan</UdderBreasts.stages.8.label>
+  <UdderBreasts.stages.9.label>Colossal</UdderBreasts.stages.9.label>
+  <UdderBreasts.stages.10.label>Titanic</UdderBreasts.stages.10.label>
+
+  <NarrowVagina.label>narrow vagina</NarrowVagina.label>
+  <NarrowVagina.labelNoun>a narrow vagina</NarrowVagina.labelNoun>
+  <NarrowVagina.description>A tight, narrow vagina.</NarrowVagina.description>
+  <NarrowVagina.stages.0.label>Micro</NarrowVagina.stages.0.label>
+  <NarrowVagina.stages.1.label>Tight</NarrowVagina.stages.1.label>
+  <NarrowVagina.stages.2.label>Average</NarrowVagina.stages.2.label>
+  <NarrowVagina.stages.3.label>Accommodating</NarrowVagina.stages.3.label>
+  <NarrowVagina.stages.4.label>Cavernous</NarrowVagina.stages.4.label>
+  <NarrowVagina.stages.5.label>Abyssal</NarrowVagina.stages.5.label>
+
+  <NeedlePenis.label>needle penis</NeedlePenis.label>
+  <NeedlePenis.labelNoun>a needle penis</NeedlePenis.labelNoun>
+  <NeedlePenis.description>A small and thin penis.</NeedlePenis.description>
+  <NeedlePenis.stages.0.label>Micro</NeedlePenis.stages.0.label>
+  <NeedlePenis.stages.1.label>Small</NeedlePenis.stages.1.label>
+  <NeedlePenis.stages.2.label>Average</NeedlePenis.stages.2.label>
+  <NeedlePenis.stages.3.label>Large</NeedlePenis.stages.3.label>
+  <NeedlePenis.stages.4.label>Huge</NeedlePenis.stages.4.label>
+  <NeedlePenis.stages.5.label>Towering</NeedlePenis.stages.5.label>
+
+  <RodentVagina.label>rodent vagina</RodentVagina.label>
+  <RodentVagina.labelNoun>a rodent vagina</RodentVagina.labelNoun>
+  <RodentVagina.description>A rodent vagina.</RodentVagina.description>
+  <RodentVagina.stages.0.label>Micro</RodentVagina.stages.0.label>
+  <RodentVagina.stages.1.label>Tight</RodentVagina.stages.1.label>
+  <RodentVagina.stages.2.label>Average</RodentVagina.stages.2.label>
+  <RodentVagina.stages.3.label>Accommodating</RodentVagina.stages.3.label>
+  <RodentVagina.stages.4.label>Cavernous</RodentVagina.stages.4.label>
+  <RodentVagina.stages.5.label>Abyssal</RodentVagina.stages.5.label>
+
+  <RodentPenis.label>rodent penis</RodentPenis.label>
+  <RodentPenis.labelNoun>a rodent penis</RodentPenis.labelNoun>
+  <RodentPenis.description>A rodent penis.</RodentPenis.description>
+  <RodentPenis.stages.0.label>Micro</RodentPenis.stages.0.label>
+  <RodentPenis.stages.1.label>Small</RodentPenis.stages.1.label>
+  <RodentPenis.stages.2.label>Average</RodentPenis.stages.2.label>
+  <RodentPenis.stages.3.label>Large</RodentPenis.stages.3.label>
+  <RodentPenis.stages.4.label>Huge</RodentPenis.stages.4.label>
+  <RodentPenis.stages.5.label>Towering</RodentPenis.stages.5.label>
+
+  <CloacalPenis.label>cloacal penis</CloacalPenis.label>
+  <CloacalPenis.labelNoun>a cloacal penis</CloacalPenis.labelNoun>
+  <CloacalPenis.description>A cloacal penis.</CloacalPenis.description>
+  <CloacalPenis.stages.0.label>Micro</CloacalPenis.stages.0.label>
+  <CloacalPenis.stages.1.label>Small</CloacalPenis.stages.1.label>
+  <CloacalPenis.stages.2.label>Average</CloacalPenis.stages.2.label>
+  <CloacalPenis.stages.3.label>Large</CloacalPenis.stages.3.label>
+  <CloacalPenis.stages.4.label>Huge</CloacalPenis.stages.4.label>
+  <CloacalPenis.stages.5.label>Towering</CloacalPenis.stages.5.label>
+
+  <CloacalVagina.label>cloacal vagina</CloacalVagina.label>
+  <CloacalVagina.labelNoun>a cloacal vagina</CloacalVagina.labelNoun>
+  <CloacalVagina.description>A cloacal vagina.</CloacalVagina.description>
+  <CloacalVagina.stages.0.label>Micro</CloacalVagina.stages.0.label>
+  <CloacalVagina.stages.1.label>Tight</CloacalVagina.stages.1.label>
+  <CloacalVagina.stages.2.label>Average</CloacalVagina.stages.2.label>
+  <CloacalVagina.stages.3.label>Accommodating</CloacalVagina.stages.3.label>
+  <CloacalVagina.stages.4.label>Cavernous</CloacalVagina.stages.4.label>
+  <CloacalVagina.stages.5.label>Abyssal</CloacalVagina.stages.5.label>
+
+  <CloacalAnus.label>cloacal anus</CloacalAnus.label>
+  <CloacalAnus.labelNoun>cloacal anus</CloacalAnus.labelNoun>
+  <CloacalAnus.description>A cloacal anus.</CloacalAnus.description>
+  <CloacalAnus.stages.0.label>Micro</CloacalAnus.stages.0.label>
+  <CloacalAnus.stages.1.label>Tight</CloacalAnus.stages.1.label>
+  <CloacalAnus.stages.2.label>Average</CloacalAnus.stages.2.label>
+  <CloacalAnus.stages.3.label>Accommodating</CloacalAnus.stages.3.label>
+  <CloacalAnus.stages.4.label>Cavernous</CloacalAnus.stages.4.label>
+  <CloacalAnus.stages.5.label>Abyssal</CloacalAnus.stages.5.label>
+
+
+</LanguageData>

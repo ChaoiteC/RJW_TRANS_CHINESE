@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_pregnancy.label>Pregnant</RJW_pregnancy.label>
+  <RJW_pregnancy.description>Baby in the oven.</RJW_pregnancy.description>
+  <RJW_pregnancy.stages.0.label>early-stage</RJW_pregnancy.stages.0.label>
+  <RJW_pregnancy.stages.1.label>middle-stage</RJW_pregnancy.stages.1.label>
+  <RJW_pregnancy.stages.2.label>late-stage</RJW_pregnancy.stages.2.label>
+  <RJW_pregnancy.stages.3.label>having contractions</RJW_pregnancy.stages.3.label>
+
+  <RJW_pregnancy_beast.label>Pregnant</RJW_pregnancy_beast.label>
+  <RJW_pregnancy_beast.description>Baby in the oven.</RJW_pregnancy_beast.description>
+  <RJW_pregnancy_beast.stages.0.label>early-stage</RJW_pregnancy_beast.stages.0.label>
+  <RJW_pregnancy_beast.stages.1.label>middle-stage</RJW_pregnancy_beast.stages.1.label>
+  <RJW_pregnancy_beast.stages.2.label>late-stage</RJW_pregnancy_beast.stages.2.label>
+  <RJW_pregnancy_beast.stages.3.label>having contractions</RJW_pregnancy_beast.stages.3.label>
+
+  <RJW_pregnancy_mech.label>Pregnant</RJW_pregnancy_mech.label>
+  <RJW_pregnancy_mech.description>Baby in the oven.</RJW_pregnancy_mech.description>
+  <RJW_pregnancy_mech.stages.0.label>early-stage</RJW_pregnancy_mech.stages.0.label>
+  <RJW_pregnancy_mech.stages.1.label>middle-stage</RJW_pregnancy_mech.stages.1.label>
+  <RJW_pregnancy_mech.stages.2.label>late-stage</RJW_pregnancy_mech.stages.2.label>
+  <RJW_pregnancy_mech.stages.3.label>having contractions</RJW_pregnancy_mech.stages.3.label>
+
+
+</LanguageData>

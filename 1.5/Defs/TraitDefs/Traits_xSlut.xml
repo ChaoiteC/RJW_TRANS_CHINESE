@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<TraitDef>
+		<defName>FootSlut</defName>
+		<commonality>0.1</commonality>
+		<degreeDatas>
+			<li>
+				<label>Footslut</label>
+				<description>[PAWN_nameDef] really likes feet and prefers sex acts involving them.</description>
+				<statOffsets>
+					<Vulnerability>0.1</Vulnerability>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+		<defName>CumSlut</defName>
+		<commonality>0.1</commonality>
+		<degreeDatas>
+			<li>
+				<label>Cumslut</label>
+				<description>[PAWN_nameDef] really likes cum and prefers fellatio sex acts.</description>
+				<statOffsets>
+					<Vulnerability>0.1</Vulnerability>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+		<defName>ButtSlut</defName>
+		<commonality>0.1</commonality>
+		<degreeDatas>
+			<li>
+				<label>Buttslut</label>
+				<description>[PAWN_nameDef] really likes getting fucked in the butt and prefers anal sex acts.</description>
+				<statOffsets>
+					<Vulnerability>0.1</Vulnerability>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

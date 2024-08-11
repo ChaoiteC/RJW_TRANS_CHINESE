@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.label>Verstärkte Libido</HumpShroomEffect.label>
+  <HumpShroomEffect.description>Bumspilz Aphrodisia.</HumpShroomEffect.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomTolerance.label>Bumspilztoleranz</HumpShroomTolerance.label>
+  <HumpShroomTolerance.description>Bumspilztoleranz.</HumpShroomTolerance.description>
+
+  <HumpShroomAddiction.label>Bumspilzsucht</HumpShroomAddiction.label>
+  <HumpShroomAddiction.description>Bumspilzsucht.</HumpShroomAddiction.description>
+  <HumpShroomAddiction.stages.1.label>Enzug</HumpShroomAddiction.stages.1.label>
+
+
+</LanguageData>

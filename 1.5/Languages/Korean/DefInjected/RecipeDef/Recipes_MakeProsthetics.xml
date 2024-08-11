@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakePegDick.label>목재 자지 제작</MakePegDick.label>
+	<MakePegDick.description>나무를 깎아서 실물과 닮은 자지를 제작합니다.</MakePegDick.description>
+	<MakePegDick.jobString>목재 자지 조각 중.</MakePegDick.jobString>
+	<MakeHydraulicPenis.label>유압 자지 제작</MakeHydraulicPenis.label>
+	<MakeHydraulicPenis.description>강철과 부품을 사용하여 유압 자지를 제작합니다.</MakeHydraulicPenis.description>
+	<MakeHydraulicPenis.jobString>유압 자지 제작 중.</MakeHydraulicPenis.jobString>
+	<MakeBionicPenis.label>생체공학 자지 제작</MakeBionicPenis.label>
+	<MakeBionicPenis.description>초경조직 천, 플라스틸, 부품을 사용하여 생체공학 자지를 제작합니다.</MakeBionicPenis.description>
+	<MakeBionicPenis.jobString>생체공학 자지를 제작 중.</MakeBionicPenis.jobString>
+
+	<MakeHydraulicVagina.label>유압 보지 제작</MakeHydraulicVagina.label>
+	<MakeHydraulicVagina.description>강철과 부품을 사용하여 유압 보지 를 제작합니다.</MakeHydraulicVagina.description>
+	<MakeHydraulicVagina.jobString>유압 보지 제작 중.</MakeHydraulicVagina.jobString>
+	<MakeBionicVagina.label>생체공학 보지 제작</MakeBionicVagina.label>
+	<MakeBionicVagina.description>초경조직 천, 플라스틸, 부품을 사용하여 생체공학 보지를 제작합니다.</MakeBionicVagina.description>
+	<MakeBionicVagina.jobString>생체공학 보지 제작 중.</MakeBionicVagina.jobString>
+
+	<MakeHydraulicBreasts.label>유압 가슴 제작</MakeHydraulicBreasts.label>
+	<MakeHydraulicBreasts.description>강철과 부품을 사용하여 유압 가슴을 제작합니다.</MakeHydraulicBreasts.description>
+	<MakeHydraulicBreasts.jobString>유압 가슴 제작 중.</MakeHydraulicBreasts.jobString>
+	<MakeBionicBreasts.label>생체공학 가슴 제작</MakeBionicBreasts.label>
+	<MakeBionicBreasts.description>초경조직 천, 플라스틸, 부품을 사용하여 생체공학 가슴을 제작합니다.</MakeBionicBreasts.description>
+	<MakeBionicBreasts.jobString>생체공학 가슴 제작 중.</MakeBionicBreasts.jobString>
+
+	<MakeHydraulicAnus.label>유압 항문 제작</MakeHydraulicAnus.label>
+	<MakeHydraulicAnus.description>강철과 부품을 사용하여 유압 항문을 제작합니다.</MakeHydraulicAnus.description>
+	<MakeHydraulicAnus.jobString>유압 항문 제작 중.</MakeHydraulicAnus.jobString>
+	<MakeBionicAnus.label>생체공학 항문 제작</MakeBionicAnus.label>
+	<MakeBionicAnus.description>초경조직 천, 플라스틸, 부품을 사용하여 생체공학 항문을 제작합니다.</MakeBionicAnus.description>
+	<MakeBionicAnus.jobString>생체공학 항문 제작 중.</MakeBionicAnus.jobString>
+
+</LanguageData>

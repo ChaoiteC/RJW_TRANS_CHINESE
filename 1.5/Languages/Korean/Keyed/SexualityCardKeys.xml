@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--Sexuality card-->
+	<SexcardTooltip>성적 관심사 보기</SexcardTooltip>
+	<WhorePrice>창부 가격 범위:</WhorePrice>
+	<Quirks>기벽:</Quirks>
+	<NoQuirks>특이사항이 없습니다.</NoQuirks>
+	<MessyQuirk><![CDATA[끈적함
+{pawn}과 성관계를 하면 엄청난 양의 체액이 분비되지만, {pawn_pronoun}은 거의 {pawn_possessive} 스스로 청소하진 않습니다.
+]]></MessyQuirk>
+	<PodophileQuirk><![CDATA[발 페티쉬
+{pawn}은 정말 발을 좋아하고 발과 관련된 체위를 선호합니다.
+]]></PodophileQuirk>
+	<TeratophileQuirk><![CDATA[추물 선호
+{pawn}은 못생긴 상대를 선호합니다. 또한 {pawn_pronoun}는 크고 야생미 넘치는 동물을 선호합니다. {pawn_pronoun}이 그런 쪽에 관심이 있다면 말이죠...
+]]></TeratophileQuirk>
+	<EndytophileQuirk><![CDATA[착의 선호
+{pawn}은 옷을 입은 채로 {pawn_possessive}와 섹스를 하면 좋아합니다.
+]]></EndytophileQuirk>
+	<ExhibitionistQuirk><![CDATA[노출 선호
+{pawn}은 다른 사람들이 볼 수 있는데서 섹스하는 것을 즐깁니다.
+]]></ExhibitionistQuirk>
+	<GerontophileQuirk><![CDATA[노인 선호
+{pawn}은 인간 나이로 55세 이상의 상대를 선호합니다.
+]]></GerontophileQuirk>
+	<SomnophileQuirk><![CDATA[면간 선호
+{pawn}은 자고있는 {pawn_possessive}를 선호합니다.
+]]></SomnophileQuirk>
+	<SapiosexualQuirk><![CDATA[가방끈 선호
+{pawn}은 머리좋은 상대와 섹스하는 것을 선호합니다.
+]]></SapiosexualQuirk>
+	<FertileQuirk><![CDATA[높은 임신률
+{pawn}은 비정상적으로 높은 임신률을 가지며 따라서 아이를 갖기 쉽습니다.
+]]></FertileQuirk>
+	<InfertileQuirk><![CDATA[난임
+{pawn}은 비정상적으로 낮은 임신률을 가지며 따라서 아이를 갖기 힙듭니다.
+]]></InfertileQuirk>
+	<ImpregnationFetishQuirk><![CDATA[임신 선호
+{pawn}은 누군가를 임신시키는 것을 정말 좋아합니다. {pawn_pronoun}은 임신 가능성이 있는 상대와 섹스하는 것을 선호합니다.{pawn_pronoun}은 {pawn_pronoun}이 임신하거나 {pawn_possessive}의 상대가 출산하면 돌보지 않습니다.
+]]></ImpregnationFetishQuirk>
+	<PregnancyFetishQuirk><![CDATA[임산부 선호
+{pawn}은 눈에 띄게 임신한 상대와 섹스하는 것을 선호합니다.
+]]></PregnancyFetishQuirk>
+	<IncubatorQuirk><![CDATA[산란 전문가
+{pawn}은 많은 산란 경험이 있어, {pawn_possessive}의 몸은 이에 적응했습니다. {pawn_possessive}의 알은 숙성 속도가 향상되었습니다.
+]]></IncubatorQuirk>
+	<BreederQuirk><![CDATA[다산왕
+{pawn}은 여러차례의 출산 경험이 있어, {pawn_possessive}의 몸은 출산에 적응했습니다. {pawn_possessive}의 출산은 짧아졌고 더 많은 새끼를 생산합니다.
+]]></BreederQuirk>
+	<VigorousQuirk><![CDATA[정력가
+{pawn}은 혈기왕성하게 섹스합니다. {pawn_pronoun}은 섹스 이전보다 이후에 더더욱 쉬고 싶어합니다.
+]]></VigorousQuirk>
+	<ChitinLoverQuirk><![CDATA[키틴질 선호
+{pawn}은 키틴질 외골격의 부드러운 촉감을 즐깁니다. {pawn_pronoun}은 거미류나 곤충류를 상대로 선호합니다.
+]]></ChitinLoverQuirk>
+	<DemonLoverQuirk><![CDATA[악마 선호
+{pawn}은 장난의 배후입니다. {pawn_pronoun}은 지옥이나 그 일부에서 나온듯한 {pawn_possessive} 상대를 선호합니다.
+]]></DemonLoverQuirk>
+	<FeatherLoverQuirk><![CDATA[깃털 선호
+{pawn}은 폭신한 솜털을 사랑합니다. {pawn_pronoun}는 조류나 공룡류의 상대를 선호합니다. 기회가 주어진다면 공룡이 새이고 깃털이 있다는 사실에 대해 {pawn_pronoun}와 길게 한번 이야기해보고 싶군요.
+]]></FeatherLoverQuirk>
+	<FurLoverQuirk><![CDATA[모피 선호
+{pawn}는 두껍고, 고급스러우며, 아늑하고 부드러운 모피코트를 입은 상대를 선호합니다.
+]]></FurLoverQuirk>
+	<PlantLoverQuirk><![CDATA[식물 선호
+{pawn}는 식물에 물 주는걸 좋아합니다. 대충 무슨 소린지 아시죠?
+]]></PlantLoverQuirk>
+	<RobotLoverQuirk><![CDATA[로봇 선호
+2차원과 3차원중 어느 쪽을 원하세요? 3D 프린터는 양쪽 모두를 충족시킨다는 걸 {pawn}은 알고 있답니다.
+]]></RobotLoverQuirk>
+	<ScaleLoverQuirk><![CDATA[비늘 선호
+용과 섹스하길 원하지 않는다구요? 확실히 {pawn}은 아니군요. {pawn}은 비늘덮인 용과 섹스하는 것을 원합니다.
+]]></ScaleLoverQuirk>
+	<SkinLoverQuirk><![CDATA[피부 선호
+{pawn}은 모피나, 비늘등이 없는 부드럽고 민감한 피부의 {pawn_possessive} 상대를 선호합니다. 다행히도 {pawn_objective} 사람은 도처에 널려있군요.
+]]></SkinLoverQuirk>
+	<SlimeLoverQuirk><![CDATA[슬라임 선호
+왜냐하면 그 미끌거리고 변형 가능한 자연 슬라임은 진짜 진짜로 섹스하기 좋다구요. {pawn}의 이야기를 듣고 있으면 지겹도록 들을 수가 있을 것입니다.
+]]></SlimeLoverQuirk>
+	<SexPartWants>성적 관심사:</SexPartWants>
+</LanguageData>

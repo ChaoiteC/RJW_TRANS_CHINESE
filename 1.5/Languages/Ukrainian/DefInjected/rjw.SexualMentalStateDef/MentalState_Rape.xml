@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RandomRape.label>випадкове зґвалтування</RandomRape.label>
+<RandomRape.beginLetterLabel>випадкове зґвалтування</RandomRape.beginLetterLabel>
+<RandomRape.beginLetter>{0} відчуває гостру сексуальну незадоволеність і шукає кого зґвалтувати.</RandomRape.beginLetter>
+<RandomRape.recoveryMessage>{0} заспокоюється і більше не хоче ґвалтувати.</RandomRape.recoveryMessage>
+<RandomRape.baseInspectLine>Ментальний стан: випадкове зґвалтування</RandomRape.baseInspectLine>
+</LanguageData>

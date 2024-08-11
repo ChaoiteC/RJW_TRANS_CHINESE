@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Attach natural privates -->
+
+  <AttachPenis.label>implantar pênis</AttachPenis.label>
+  <AttachPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachPenis.description>
+  <AttachPenis.jobString>Implantando pênis.</AttachPenis.jobString>
+
+  <InstallVagina.label>implantar vagina</InstallVagina.label>
+  <InstallVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallVagina.description>
+  <InstallVagina.jobString>Implantando vagina.</InstallVagina.jobString>
+
+  <InstallCatVagina.label>implantar felina vagina</InstallCatVagina.label>
+  <InstallCatVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallCatVagina.description>
+  <InstallCatVagina.jobString>Implantando vagina.</InstallCatVagina.jobString>
+
+  <InstallDogVagina.label>implantar vagina canina</InstallDogVagina.label>
+  <InstallDogVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallDogVagina.description>
+  <InstallDogVagina.jobString>Implantando vagina.</InstallDogVagina.jobString>
+
+  <InstallHorseVagina.label>implantar vagina equina</InstallHorseVagina.label>
+  <InstallHorseVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallHorseVagina.description>
+  <InstallHorseVagina.jobString>Implantando vagina.</InstallHorseVagina.jobString>
+
+  <InstallDragonVagina.label>implantar vagina dracônica</InstallDragonVagina.label>
+  <InstallDragonVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallDragonVagina.description>
+  <InstallDragonVagina.jobString>Implantando vagina.</InstallDragonVagina.jobString>
+
+  <InstallNarrowVagina.label>implantar vagina estreita</InstallNarrowVagina.label>
+  <InstallNarrowVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallNarrowVagina.description>
+  <InstallNarrowVagina.jobString>Implantando vagina.</InstallNarrowVagina.jobString>
+
+  <InstallCloacalVagina.label>implantar vagina cloacal</InstallCloacalVagina.label>
+  <InstallCloacalVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallCloacalVagina.description>
+  <InstallCloacalVagina.jobString>Implantando vagina.</InstallCloacalVagina.jobString>
+
+  <InstallRodentVagina.label>implantar vagina de roedor</InstallRodentVagina.label>
+  <InstallRodentVagina.description>Implanta uma vagina, removendo outras partes presentes.</InstallRodentVagina.description>
+  <InstallRodentVagina.jobString>Implantando vagina.</InstallRodentVagina.jobString>
+
+  <InstallOvipositorF.label>implantar ovipositor feminino</InstallOvipositorF.label>
+  <InstallOvipositorF.description>Implanta um ovipositor feminino, removendo outras partes presentes.</InstallOvipositorF.description>
+  <InstallOvipositorF.jobString>Implantando ovipositor feminino.</InstallOvipositorF.jobString>
+
+  <AttachHorsePenis.label>implantar pênis equino</AttachHorsePenis.label>
+  <AttachHorsePenis.description>Implanta um pênis, removendo outras partes presentes.</AttachHorsePenis.description>
+  <AttachHorsePenis.jobString>Implantando pênis.</AttachHorsePenis.jobString>
+
+  <AttachRaccoonPenis.label>implantar pênis procionídeo</AttachRaccoonPenis.label>
+  <AttachRaccoonPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachRaccoonPenis.description>
+  <AttachRaccoonPenis.jobString>Implantando pênis.</AttachRaccoonPenis.jobString>
+
+  <AttachCatPenis.label>implantar pênis felino</AttachCatPenis.label>
+  <AttachCatPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachCatPenis.description>
+  <AttachCatPenis.jobString>Implantando pênis.</AttachCatPenis.jobString>
+
+  <AttachDogPenis.label>implantar pênis canino</AttachDogPenis.label>
+  <AttachDogPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachDogPenis.description>
+  <AttachDogPenis.jobString>Implantando pênis.</AttachDogPenis.jobString>
+
+  <AttachDragonPenis.label>implantar pênis dracônico</AttachDragonPenis.label>
+  <AttachDragonPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachDragonPenis.description>
+  <AttachDragonPenis.jobString>Implantando pênis.</AttachDragonPenis.jobString>
+
+  <AttachHemiPenis.label>implantar hemipênis</AttachHemiPenis.label>
+  <AttachHemiPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachHemiPenis.description>
+  <AttachHemiPenis.jobString>Attaching hemipenes.</AttachHemiPenis.jobString>
+
+  <AttachCrocodilianPenis.label>implantar pênis crocodiliano</AttachCrocodilianPenis.label>
+  <AttachCrocodilianPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachCrocodilianPenis.description>
+  <AttachCrocodilianPenis.jobString>Implantando pênis.</AttachCrocodilianPenis.jobString>
+
+  <AttachNeedlePenis.label>implantar pênis fino</AttachNeedlePenis.label>
+  <AttachNeedlePenis.description>Implanta um pênis, removendo outras partes presentes.</AttachNeedlePenis.description>
+  <AttachNeedlePenis.jobString>Implantando pênis.</AttachNeedlePenis.jobString>
+
+  <AttachCloacalPenis.label>implantar pênis cloacal</AttachCloacalPenis.label>
+  <AttachCloacalPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachCloacalPenis.description>
+  <AttachCloacalPenis.jobString>Implantando pênis.</AttachCloacalPenis.jobString>
+
+  <AttachRodentPenis.label>implantar pênis de roedor</AttachRodentPenis.label>
+  <AttachRodentPenis.description>Implanta um pênis, removendo outras partes presentes.</AttachRodentPenis.description>
+  <AttachRodentPenis.jobString>Implantando pênis.</AttachRodentPenis.jobString>
+
+  <AttachOvipositorM.label>implantar ovipositor masculino</AttachOvipositorM.label>
+  <AttachOvipositorM.description>Implanta um ovipositor masculino, removendo outras partes presentes.</AttachOvipositorM.description>
+  <AttachOvipositorM.jobString>Implantando ovipositor masculino.</AttachOvipositorM.jobString>
+
+
+  <!-- Breasts -->
+
+  <AttachBreasts.label>implantar seios</AttachBreasts.label>
+  <AttachBreasts.description>Implanta um par de seios, removendo outras partes presentes.</AttachBreasts.description>
+  <AttachBreasts.jobString>Implantando seios.</AttachBreasts.jobString>
+
+  <AttachUdderBreasts.label>implantar tetas</AttachUdderBreasts.label>
+  <AttachUdderBreasts.description>Implanta tetas bovinas, removendo outras partes presentes.</AttachUdderBreasts.description>
+  <AttachUdderBreasts.jobString>Implantando tetas.</AttachUdderBreasts.jobString>
+
+  <AttachFeaturelesschest.label>implantar peito descaracterizado</AttachFeaturelesschest.label>
+  <AttachFeaturelesschest.description>Implanta um peito sem seios ou mamilos, removendo outras partes presentes.</AttachFeaturelesschest.description>
+  <AttachFeaturelesschest.jobString>Implantando peito descaracterizado.</AttachFeaturelesschest.jobString>
+
+  <InstallAnus.label>implantar ânus</InstallAnus.label>
+  <InstallAnus.description>Implanta um ânus, removendo outros ânus presentes.</InstallAnus.description>
+  <InstallAnus.jobString>Implantando um ânus.</InstallAnus.jobString>
+
+  <InstallCloacalAnus.label>implantar ânus cloacal</InstallCloacalAnus.label>
+  <InstallCloacalAnus.description>Implanta um ânus, removendo outros ânus presentes.</InstallCloacalAnus.description>
+  <InstallCloacalAnus.jobString>Implantando um ânus.</InstallCloacalAnus.jobString>
+
+  <InstallInsectAnus.label>implantar ânus de inseto</InstallInsectAnus.label>
+  <InstallInsectAnus.description>Implanta um ânus, removendo outros ânus presentes.</InstallInsectAnus.description>
+  <InstallInsectAnus.jobString>Implantando um ânus.</InstallInsectAnus.jobString>
+
+
+  <!-- Attach simple prosthetic privates -->
+
+  <InstallHydraulicPenis.label>implantar pênis hidráulico</InstallHydraulicPenis.label>
+  <InstallHydraulicPenis.description>Implanta um pênis hidráulico, removendo outras partes presentes.</InstallHydraulicPenis.description>
+  <InstallHydraulicPenis.jobString>Implantando pênis hidráulico.</InstallHydraulicPenis.jobString>
+
+  <InstallHydraulicVagina.label>implantar vagina hidráulica</InstallHydraulicVagina.label>
+  <InstallHydraulicVagina.description>Implanta uma vagina hidráulico, removendo outras partes presentes.</InstallHydraulicVagina.description>
+  <InstallHydraulicVagina.jobString>Implantando vagina hidráulica.</InstallHydraulicVagina.jobString>
+
+  <InstallHydraulicBreasts.label>implantar breasts hidráulico</InstallHydraulicBreasts.label>
+  <InstallHydraulicBreasts.description>Implanta um par de seios hidráulico, removendo outras partes presentes.</InstallHydraulicBreasts.description>
+  <InstallHydraulicBreasts.jobString>Implantando hidráulico breasts.</InstallHydraulicBreasts.jobString>
+
+  <InstallHydraulicAnus.label>implantar ânus hidráulico</InstallHydraulicAnus.label>
+  <InstallHydraulicAnus.description>Implanta um ânus hidráulico, removendo outras partes presentes.</InstallHydraulicAnus.description>
+  <InstallHydraulicAnus.jobString>Implantando hidráulico ânus.</InstallHydraulicAnus.jobString>
+
+  <AttachPegDick.label>implantar pênis prostético de madeira</AttachPegDick.label>
+  <AttachPegDick.description>Implanta um pênis prostético de madeira, removendo outras partes presentes.</AttachPegDick.description>
+  <AttachPegDick.jobString>Implantando um pênis prostético de madeira.</AttachPegDick.jobString>
+
+
+  <!-- Attach bionic privates -->
+
+  <InstallBionicVagina.label>implantar bionica vagina</InstallBionicVagina.label>
+  <InstallBionicVagina.description>Implanta uma vagina bionica, removendo outras partes presentes.</InstallBionicVagina.description>
+  <InstallBionicVagina.jobString>Implantando bionico vagina.</InstallBionicVagina.jobString>
+
+  <InstallBionicPenis.label>implantar pênis bionico</InstallBionicPenis.label>
+  <InstallBionicPenis.description>Implanta um pênis bionico, removendo outras partes presentes.</InstallBionicPenis.description>
+  <InstallBionicPenis.jobString>Attaching bionico pênis.</InstallBionicPenis.jobString>
+
+  <InstallBionicBreasts.label>implantar breasts bionico</InstallBionicBreasts.label>
+  <InstallBionicBreasts.description>Implanta um par de seios bionicos, removendo outras partes presentes.</InstallBionicBreasts.description>
+  <InstallBionicBreasts.jobString>Implantando bionico breasts.</InstallBionicBreasts.jobString>
+
+  <InstallBionicAnus.label>implantar ânus bionico</InstallBionicAnus.label>
+  <InstallBionicAnus.description>Implanta um ânus bionico, removendo outras partes presentes.</InstallBionicAnus.description>
+  <InstallBionicAnus.jobString>Implantando bionico ânus.</InstallBionicAnus.jobString>
+
+
+  <!-- Attach archotech privates -->
+
+  <InstallArchotechPenis.label>implantar pênis arquotécnológico</InstallArchotechPenis.label>
+  <InstallArchotechPenis.description>Implanta um pênis arquotécnológico, removendo outras partes presentes.</InstallArchotechPenis.description>
+  <InstallArchotechPenis.jobString>Implantando pênis arquotécnológico.</InstallArchotechPenis.jobString>
+
+  <InstallArchotechVagina.label>implantar vagina arquotécnológico</InstallArchotechVagina.label>
+  <InstallArchotechVagina.description>Implanta uma vagina arquotécnológica, removendo outras partes presentes.</InstallArchotechVagina.description>
+  <InstallArchotechVagina.jobString>Implantando vagina arquotécnológica.</InstallArchotechVagina.jobString>
+
+  <InstallArchotechAnus.label>implantar ânus arquotécnológico</InstallArchotechAnus.label>
+  <InstallArchotechAnus.description>Implanta um ânus arquotécnológico, removendo outras partes presentes.</InstallArchotechAnus.description>
+  <InstallArchotechAnus.jobString>Implantando ânus arquotécnológico.</InstallArchotechAnus.jobString>
+
+  <InstallArchotechBreasts.label>implantar breasts arquotécnológico</InstallArchotechBreasts.label>
+  <InstallArchotechBreasts.description>Implanta um par de seios arquotécnológicos, removendo outras partes presentes.</InstallArchotechBreasts.description>
+  <InstallArchotechBreasts.jobString>Implantando seios arquotécnológicos.</InstallArchotechBreasts.jobString>
+
+
+</LanguageData>

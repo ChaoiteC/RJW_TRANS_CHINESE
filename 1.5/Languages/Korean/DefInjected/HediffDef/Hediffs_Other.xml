@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Immunodeficiency.label>면역결핍증</Immunodeficiency.label>
+	<Immunodeficiency.description>질병에 매우 취약함.</Immunodeficiency.description>
+	<Immunodeficiency.stages.0.label>사소함(1/3)</Immunodeficiency.stages.0.label>
+	<Immunodeficiency.stages.1.label>진행됨(2/3)</Immunodeficiency.stages.1.label>
+	<Immunodeficiency.stages.2.label>극심함(3/3)</Immunodeficiency.stages.2.label>
+	<VirusPerma.label>바이러스 감염</VirusPerma.label>
+	<VirusPerma.description>바이러스 감염</VirusPerma.description>
+	<VirusPerma.injuryProps.destroyedLabel>질병으로 인해 손실됨</VirusPerma.injuryProps.destroyedLabel>
+	<VirusPerma.injuryProps.destroyedOutLabel>질병으로 인해 손실됨</VirusPerma.injuryProps.destroyedOutLabel>
+
+	<PegArm.label>의수</PegArm.label>
+	<PegArm.description>의수.</PegArm.description>
+	<PegArm.labelNoun>의수</PegArm.labelNoun>
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<rjw.StringListDef>
+		<defName>QuickieInterruptibleJobs</defName>
+		<strings>
+			<li>Wait_Wander</li>
+			<li>GotoWander</li>
+			<li>Clean</li>
+			<li>ClearSnow</li>
+			<li>CutPlant</li>
+			<li>HaulToCell</li>
+			<li>Deconstruct</li>
+			<li>LayDown</li>
+			<li>Research</li>
+			<li>SmoothFloor</li>
+			<li>SocialRelax</li>
+			<li>StandAndBeSociallyActive</li>
+			<li>RemoveApparel</li>
+			<li>Strip</li>
+			<li>Wait</li>
+			<li>FillFermentingBarrel</li>
+			<li>Sow</li>
+			<li>Shear</li>
+			<li>DeliverFood</li>
+			<li>Hunt</li>
+			<li>Mine</li>
+			<li>RearmTurret</li>
+			<li>RemoveFloor</li>
+			<li>RemoveRoof</li>
+			<li>Repair</li>
+			<li>TakeBeerOutOfFermentingBarrel</li>
+			<li>Uninstall</li>
+			<li>Meditate</li>
+			<li>OperateDeepDrill</li>
+			<li>OperateScanner</li>
+			<li>Reign</li>
+			<li>Slaughter</li>
+			<li>Play_MusicalInstrument</li>
+			<li>Wait_MaintainPosture</li>
+			<li>Skygaze</li>
+			<li>Play_Horseshoes</li>
+			<li>Play_Poker</li>
+			<li>GoForWalk</li>
+			<li>Clean_Prioritized</li>
+			<li>RJW_Masturbate</li>
+		</strings>
+	</rjw.StringListDef>
+</Defs>
+

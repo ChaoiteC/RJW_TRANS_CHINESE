@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- A plugs -->
+
+  <AnalInsertableBondage.label>insertable</AnalInsertableBondage.label>
+
+
+  <!-- V plugs -->
+
+  <VaginalInsertableBondage.label>insertable</VaginalInsertableBondage.label>
+
+
+  <!-- C belts -->
+
+  <BeltsOnSkinBondage.label>Over skin</BeltsOnSkinBondage.label>
+
+
+  <!-- <ApparelLayerDef>
+		<defName>OnSkinBondage1</defName>
+		<label>Over skin</label>
+		<drawOrder>3</drawOrder>
+	</ApparelLayerDef> -->
+
+  <GagOuterBondage.label>headgear</GagOuterBondage.label>
+
+
+  <!-- chains, armbinders, etc -->
+
+  <ArmsOuterBondage.label>outer</ArmsOuterBondage.label>
+  <LegsOuterBondage.label>outer</LegsOuterBondage.label>
+
+
+</LanguageData>

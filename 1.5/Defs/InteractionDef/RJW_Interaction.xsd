@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Defs">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="InteractionDef" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<!-- < Rimworld Def > -->
+							<xs:element name="defName" minOccurs="1" type="xs:string" />
+							<xs:element name="label" minOccurs="1" type="xs:string" />
+							<xs:element name="logRulesInitiator" minOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="rulesStrings" minOccurs="1">
+			 							<xs:complexType>
+												<xs:sequence>
+													<xs:element name="li" minOccurs="1" maxOccurs="unbounded" type="xs:string" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="logRulesRecipient" minOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="rulesStrings" minOccurs="1">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="li" minOccurs="1" maxOccurs="unbounded" type="xs:string" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+
+							<!-- < RJW DefModExtensions > -->
+							<xs:element name="modExtensions" minOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="li" minOccurs="1" type="InteractionExtension" />
+										<xs:element name="li" minOccurs="1" type="InteractionSelectorExtension" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="ParentName" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name ="InteractionExtension">
+		<xs:sequence>
+			<xs:sequence minOccurs="1">
+				<xs:element name="RMBLabel" minOccurs="1" type="xs:string" />
+				<xs:element name="rjwSextype" minOccurs="1" type="rjwSextype" />
+				<xs:element name="rulepack_defs" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="li" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:sequence>
+		<xs:attribute name="Class" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="rjw.InteractionExtension" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+
+	<xs:simpleType name="rjwSextype">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="None" /><!-- < Don't show in RMB > -->
+			<xs:enumeration value="Vaginal" />
+			<xs:enumeration value="Anal" />
+			<xs:enumeration value="Oral" />
+			<xs:enumeration value="Masturbation" />
+			<xs:enumeration value="DoublePenetration" />
+			<xs:enumeration value="Boobjob" />
+			<xs:enumeration value="Handjob" />
+			<xs:enumeration value="Footjob" />
+			<xs:enumeration value="Fingering" />
+			<xs:enumeration value="Scissoring" />
+			<xs:enumeration value="MutualMasturbation" />
+			<xs:enumeration value="Fisting" />
+			<xs:enumeration value="MechImplant" />
+			<xs:enumeration value="Rimming" />
+			<xs:enumeration value="Fellatio" />
+			<xs:enumeration value="Cunnilingus" />
+			<xs:enumeration value="Sixtynine" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name ="InteractionSelectorExtension">
+		<xs:sequence>
+			<xs:sequence minOccurs="1">
+				<xs:element name="tags" minOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="li" maxOccurs="unbounded" type="InteractionTag" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="dominantRequirement" minOccurs="1" type="InteractionSelectorExtensionRequirement" />
+				<xs:element name="submissiveRequirement" minOccurs="1" type="InteractionSelectorExtensionRequirement" />
+			</xs:sequence>
+		</xs:sequence>
+		<xs:attribute name="Class" use="required">
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:complexType>
+
+	<xs:simpleType name="InteractionTag">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Reverse" />
+			<xs:enumeration value="Fertilization" />
+			<xs:enumeration value="EggFertilization" />
+			<xs:enumeration value="EggLaying" />
+			<xs:enumeration value="Rape" />
+			<xs:enumeration value="Whoring" />
+			<xs:enumeration value="Masturbation" />
+			<xs:enumeration value="Consensual" />
+			<xs:enumeration value="Bestiality" />
+			<xs:enumeration value="Necrophilia" />
+			<xs:enumeration value="Animal" />
+			<xs:enumeration value="MechImplant" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name ="InteractionSelectorExtensionRequirement">
+		<xs:sequence>
+			<xs:element name="tongue" minOccurs="0" type="xs:string" />
+			<xs:element name="hand" minOccurs="0" type="xs:string" />
+			<xs:element name="tail" minOccurs="0" type="xs:string" />
+			<xs:element name="foot" minOccurs="0" type="xs:string" />
+			<xs:element name="mouth" minOccurs="0" type="xs:string" />
+			<xs:element name="beak" minOccurs="0" type="xs:string" />
+			<xs:element name="mouthORbeak" minOccurs="0" type="xs:string" />
+			
+			<xs:element name="minimumCount" minOccurs="0" type="xs:int" />	<!-- < for GenitalFamily > -->
+			<xs:element name="minimumSeverity" minOccurs="0" type="xs:float" />	<!-- < for GenitalFamily > -->
+			<xs:element name="tags" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="li" maxOccurs="unbounded" type="GenitalTag" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="partProps" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="li" maxOccurs="unbounded" type="xs:string" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="families" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="li" maxOccurs="unbounded" type="GenitalFamily" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="pawnStates" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="li" maxOccurs="unbounded" type="PawnState" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="rulepacks" minOccurs="0">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="li" maxOccurs="unbounded" type="xs:string" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:simpleType name="GenitalTag">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="CanPenetrate" />
+			<xs:enumeration value="CanBePenetrated" />
+			<xs:enumeration value="CanFertilize" />
+			<xs:enumeration value="CanBeFertilized" />
+			<xs:enumeration value="CanEgg" />
+			<xs:enumeration value="CanFertilizeEgg" />
+			<xs:enumeration value="CanLactate" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="GenitalFamily">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Vagina" />
+			<xs:enumeration value="Penis" />
+			<xs:enumeration value="Breasts" />
+			<xs:enumeration value="Udders" />
+			<xs:enumeration value="Anus" />
+			<xs:enumeration value="FemaleOvipositor" />
+			<xs:enumeration value="MaleOvipositor" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="PawnState">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Healthy" />
+			<xs:enumeration value="Downed" />
+			<xs:enumeration value="Unconscious" />
+			<xs:enumeration value="Dead" />
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

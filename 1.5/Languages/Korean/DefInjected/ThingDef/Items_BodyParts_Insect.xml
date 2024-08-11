@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<OvipositorM.label>벌레 정낭</OvipositorM.label>
+	<OvipositorM.description>곤충들이 알을 수정시킬때 쓰는 산란관입니다.</OvipositorM.description>
+	<OvipositorF.label>벌레 산란관</OvipositorF.label>
+	<OvipositorF.description>곤충들이 알을 낳을때 쓰는 산란관입니다.</OvipositorF.description>
+	<InsectAnus.label>벌레 배설강</InsectAnus.label>
+	<InsectAnus.description>곤충의 항문입니다.</InsectAnus.description>
+
+</LanguageData>

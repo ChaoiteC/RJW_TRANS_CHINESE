@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- vanilla mechanoids. Mechs implant things. -->
+
+  <RJW_MechanoidImplant.description>A small computer that enters a host through one of their orifices. Can analyze vital signs and location data, and relay that information back to mechanoid ai.</RJW_MechanoidImplant.description>
+
+
+  <!-- maybe re-add someday? -->
+
+  <RJW_MicroComputer.label>MicroComputer</RJW_MicroComputer.label>
+  <RJW_MicroComputer.description>A small computer that enters a host through one of their orifices. Can analyze vital signs and location data, and relay that information back to its implanter.</RJW_MicroComputer.description>
+
+
+</LanguageData>

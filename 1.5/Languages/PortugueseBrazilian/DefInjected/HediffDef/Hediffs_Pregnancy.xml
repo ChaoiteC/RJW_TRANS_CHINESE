@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_pregnancy.label>gravidez</RJW_pregnancy.label>
+  <RJW_pregnancy.description>Bebê no útero.</RJW_pregnancy.description>
+  <RJW_pregnancy.stages.0.label>estágio inicial</RJW_pregnancy.stages.0.label>
+  <RJW_pregnancy.stages.1.label>estágio intermediário</RJW_pregnancy.stages.1.label>
+  <RJW_pregnancy.stages.2.label>estágio final</RJW_pregnancy.stages.2.label>
+  <RJW_pregnancy.stages.3.label>contrações</RJW_pregnancy.stages.3.label>
+
+  <RJW_pregnancy_beast.label>gravidez</RJW_pregnancy_beast.label>
+  <RJW_pregnancy_beast.description>Filhote no útero.</RJW_pregnancy_beast.description>
+  <RJW_pregnancy_beast.stages.0.label>estágio inicial</RJW_pregnancy_beast.stages.0.label>
+  <RJW_pregnancy_beast.stages.1.label>estágio intermediário</RJW_pregnancy_beast.stages.1.label>
+  <RJW_pregnancy_beast.stages.2.label>estágio final</RJW_pregnancy_beast.stages.2.label>
+  <RJW_pregnancy_beast.stages.3.label>contrações</RJW_pregnancy_beast.stages.3.label>
+
+  <RJW_pregnancy_mech.label>gravidez</RJW_pregnancy_mech.label>
+  <RJW_pregnancy_mech.description>Meca no útero.</RJW_pregnancy_mech.description>
+  <RJW_pregnancy_mech.stages.0.label>estágio inicial</RJW_pregnancy_mech.stages.0.label>
+  <RJW_pregnancy_mech.stages.1.label>estágio intermediário</RJW_pregnancy_mech.stages.1.label>
+  <RJW_pregnancy_mech.stages.2.label>estágio final</RJW_pregnancy_mech.stages.2.label>
+  <RJW_pregnancy_mech.stages.3.label>contrações</RJW_pregnancy_mech.stages.3.label>
+
+
+</LanguageData>

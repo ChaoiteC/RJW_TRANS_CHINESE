@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TipSetDef>
+		<defName>RjwTips</defName>
+		<tips>
+			<!-- Fluff -->
+			<li>RimJobWorld runs on porn logic.</li>
+			<li>RimJobWorld is a community project with over 20 contributors.</li>
+			<li>RimJobWorld is open source and accepts submissions from anyone.</li>
+			<li>The average bra size in RimJobWorld is 85DD. If you think that can't possibly be right because your wife has D cups and she is pretty big then she should probably be wearing a G cup.</li>
+			<li>Most women wear a bra with a too small cup size and a too large band size.</li>
+			
+			<!-- Settings -->
+			<li>Relative frequency of male and female pawns can be controlled in RimJobWorld mod settings.</li>
+			<li>Frequency of male pawns with breasts and females with penises can be controlled in RimJobWorld mod settings.</li>
+			<li>Necrophilia is disabled by default. It can be enabled in RimJobWorld mod settings.</li>
+			<li>Bestiality is disabled by default. It can be enabled in RimJobWorld mod settings.</li>
+			<li>Rape is disabled by default. It can be enabled in RimJobWorld mod settings.</li>
+			<li>Cannibalism is enabled by default. It can't be disabled in RimJobWorld mod settings because it is a feature of the base game.</li>
+			<li>Sex need has a great many configuration options in RimJobWorld mod settings.</li>
+
+			<!-- UI -->
+			<li>Quirks are visible in the "show sexuality" menu on the bio tab (the icon looks like a heart).</li>
+			<li>Sexual preference is visible in the "show sexuality" menu on the bio tab (the icon looks like a heart).</li>
+
+			<!-- Mechanics -->
+			<li>Condoms can be automatically used if placed in a stockpile next to a bed - it might be a good idea to have some around if you want to avoid unwanted pregnancies.</li>
+			<li>Being sexually pent up lowers colonists' moods - be sure to let them blow off some steam!</li>
+			<li>Humpshrooms and Aphrodisiacs can improve a pawn's mood, but also cause extreme arousal and can lead to more permanent alterations if abused.</li>
+			<li>Rape will cause an extreme mood debuff, though after a while they might start to like the abuse.</li>
+			<li>Sometimes a threat might be able to be subdued through sex and submission if you lack the firepower to deal with it.</li>
+			<li>Some types of sex (such as sex with animals) have a chance of leaving a permanent mark on a pawn's psyche.</li>
+			<li>Are your colonists bored? Let them have a tussle under the sheets, that'll cheer them up.</li>
+			<li>The "Submit" button is one of the most powerful features added by any mod.</li>
+			
+			<!-- Other mods -->
+			<li>RimJobWorld does not add any lewd graphics, you will need another mod for that. For example rimnude or rjw_animations.</li>
+			<li>If you like twenty-breasted tittysnakes then try the Nephila submod.</li>
+			<li>RimJobWorld is not compatible with the "Prepare Carefully" mod. Issues range from sex parts disappearing to babies being born with the wrong race.</li>
+			<li>RimJobWorld is not compatible with the "Lost Forest" mod. This is a deliberate choice on the part of the author of Lost Forest and makes us very sad.</li>
+			<li>RimJobWorld has birth and pregnancy features, but no babies. Children will be born fully grown unless you have another mod that changes that.</li>
+			<li>If you use RJW with any alien race mods make sure you also install "RJW Race Support". Otherwise your Ewok won't have a raccoon penis.</li>
+		</tips>
+	</TipSetDef>
+</Defs>

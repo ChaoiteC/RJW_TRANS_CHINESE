@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Parent.label>父親</Parent.label>
+    <Parent.labelFemale>母親</Parent.labelFemale>
+    <Child.label>兒子</Child.label>
+    <Child.labelFemale>女兒</Child.labelFemale>
+    <Sibling.label>兄弟</Sibling.label>
+    <Sibling.labelFemale>姊妹</Sibling.labelFemale>
+    <HalfSibling.label>半血緣兄弟</HalfSibling.label>
+    <HalfSibling.labelFemale>半血緣姊妹</HalfSibling.labelFemale>
+    <Grandparent.label>祖父</Grandparent.label>
+    <Grandparent.labelFemale>祖母</Grandparent.labelFemale>
+    <Grandchild.label>孫子</Grandchild.label>
+    <Grandchild.labelFemale>孫女</Grandchild.labelFemale>
+    <NephewOrNiece.label>侄甥</NephewOrNiece.label>
+    <NephewOrNiece.labelFemale>姪甥女</NephewOrNiece.labelFemale>
+    <UncleOrAunt.label>叔舅</UncleOrAunt.label>
+    <UncleOrAunt.labelFemale>姑姨</UncleOrAunt.labelFemale>
+    <Cousin.label>從兄弟姊妹</Cousin.label>
+    <GreatGrandparent.label>曾祖父</GreatGrandparent.label>
+    <GreatGrandparent.labelFemale>曾祖母</GreatGrandparent.labelFemale>
+    <GreatGrandchild.label>曾孫</GreatGrandchild.label>
+    <GreatGrandchild.labelFemale>曾孫女</GreatGrandchild.labelFemale>
+    <GranduncleOrGrandaunt.label>叔舅公</GranduncleOrGrandaunt.label>
+    <GranduncleOrGrandaunt.labelFemale>姑姨婆</GranduncleOrGrandaunt.labelFemale>
+    <GrandnephewOrGrandniece.label>侄甥孫</GrandnephewOrGrandniece.label>
+    <GrandnephewOrGrandniece.labelFemale>姪甥孫女</GrandnephewOrGrandniece.labelFemale>
+    <CousinOnceRemoved.label>族親</CousinOnceRemoved.label>
+    <SecondCousin.label>再從兄弟姊妹</SecondCousin.label>
+    <Kin.label>kin</Kin.label>
+</LanguageData>

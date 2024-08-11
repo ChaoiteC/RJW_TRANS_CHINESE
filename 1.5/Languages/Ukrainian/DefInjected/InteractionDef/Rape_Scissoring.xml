@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Scissoring.label>ножиці</Rape_Scissoring.label>
+  <Rape_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->Ґвалтує [RECIPIENT_nameDef] у позі ножиць.</Rape_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->Було зґвалтовано у позі ножиць [INITIATOR_nameDef].</Rape_Scissoring.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

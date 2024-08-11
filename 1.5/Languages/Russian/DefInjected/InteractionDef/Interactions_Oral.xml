@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rimming.label>Анилингус</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Отлизывает у [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Получает анилингус</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>Куни</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Делает куни.</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Наслаждается куни.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>Минет</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Отсасывает у [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Получил минет.</Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

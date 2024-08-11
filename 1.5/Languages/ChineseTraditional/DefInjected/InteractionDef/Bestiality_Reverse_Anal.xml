@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation for breeding -->
+
+  <Bestiality_Reverse_Anal.label>動物肛門交配</Bestiality_Reverse_Anal.label>
+  <Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->請求[RECIPIENT_nameDef]肛自己的肛門。</Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->騎著肛了[INITIATOR_nameDef]的肛門。</Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

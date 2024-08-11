@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Vaginal.label>вагінальний</Rape_Vaginal.label>
+  <Rape_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->Зґвалтовано вагінально [RECIPIENT_nameDef].</Rape_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->Було вагінально зґвалтовано [INITIATOR_nameDef].</Rape_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

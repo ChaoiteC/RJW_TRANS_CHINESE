@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Bestiality_Reverse_Oral_Service</defName>
+		<label>MouthFuck</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Orally serviced [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was orally serviced by [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Service orally</RMBLabel>
+				<rjwSextype>Oral</rjwSextype>
+				<rulepack_defs>
+					<li>OtherSexRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Bestiality</li>
+					<li>Animal</li>
+				</tags>
+				<dominantRequirement>
+					<mouthORbeak>true</mouthORbeak>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<tags>
+						<li>CanBePenetrated</li>
+					</tags>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

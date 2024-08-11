@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TestInc.label>test inc</TestInc.label>
+  <TestInc.letterText>Algo pasó</TestInc.letterText>
+  <TestInc.letterLabel>Algo pasó</TestInc.letterLabel>
+
+  <TestInc2.label>test inc2</TestInc2.label>
+  <TestInc2.letterText>Algo pasó2</TestInc2.letterText>
+  <TestInc2.letterLabel>Algo pasó2</TestInc2.letterLabel>
+
+
+</LanguageData>

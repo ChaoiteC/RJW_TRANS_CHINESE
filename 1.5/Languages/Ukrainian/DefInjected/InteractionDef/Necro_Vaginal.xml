@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Necro_Vaginal.label>вагінальний</Necro_Vaginal.label>
+  <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->Вагінальне зґвалтування [RECIPIENT_nameDef].</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->Вагінально зґвалтовано [INITIATOR_nameDef].</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

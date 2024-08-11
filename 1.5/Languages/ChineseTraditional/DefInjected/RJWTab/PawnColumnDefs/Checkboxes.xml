@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <RJW_Hero.headerTip>指定此人為「英雄」，可以直接受玩家命令與其他角色性交。</RJW_Hero.headerTip>
+    <RJW_Comfort.headerTip>指定此人為洩慾對象。其他角色可將其作為洩憤及滿足性慾的工具。</RJW_Comfort.headerTip>
+    <RJW_BreedHumanlike.headerTip>指定此人用於育種。城邑內的雄性動物會試圖與之配種。</RJW_BreedHumanlike.headerTip>
+    <RJW_BreederAnimal.headerTip>指定此人用於配種。城邑內的雌性動物會試圖與之交配。</RJW_BreederAnimal.headerTip>
+    <RJW_BreedAnimal.headerTip>指定此人用於育種。城邑內的雄性動物會試圖與之配種。</RJW_BreedAnimal.headerTip>
+    <RJW_Whore.headerTip>指定此人為娼妓。娼妓會為過往賓客提供服務換取銀幣。</RJW_Whore.headerTip>
+</LanguageData>

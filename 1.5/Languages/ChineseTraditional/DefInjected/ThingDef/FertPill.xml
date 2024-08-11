@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_FertPill.label>排卵藥物</RJW_FertPill.label>
+  <RJW_FertPill.description>兩天內提高生育率。也可以作為溫和的催情劑。</RJW_FertPill.description>
+  <RJW_FertPill.ingestible.ingestCommandString>吃{0}。</RJW_FertPill.ingestible.ingestCommandString>
+  <RJW_FertPill.ingestible.ingestReportString>吃{0}。</RJW_FertPill.ingestible.ingestReportString>
+
+
+</LanguageData>

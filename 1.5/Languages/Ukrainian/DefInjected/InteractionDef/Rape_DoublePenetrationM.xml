@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_DoublePenetrationM.label>подвійне проникнення</Rape_DoublePenetrationM.label>
+  <Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->Зґвалтовано у дві дирки [RECIPIENT_nameDef].</Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->Було зґвалтовано у дві дирки [INITIATOR_nameDef].</Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

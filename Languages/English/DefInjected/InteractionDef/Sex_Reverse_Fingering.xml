@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Reverse_Fingering.label>fingering</Sex_Reverse_Fingering.label>
+  <Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->Fingered [RECIPIENT_nameDef].</Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->Was fingered by [INITIATOR_nameDef].</Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_Hero.headerTip>Позначивши пішака як Героя, герою можна безпосередньо наказувати займатися любов'ю з іншими пішаками</RJW_Hero.headerTip>
+  <RJW_Comfort.headerTip>Позначте пішака як пішака «Комфорт», він буде використовуватися для полегшення відкладеної сексуальної потреби</RJW_Comfort.headerTip>
+  <RJW_BreedHumanlike.headerTip>Призначте пішака для розмноження, тварини колонії намагатимуться розмножити цього пішака</RJW_BreedHumanlike.headerTip>
+  <RJW_BreederAnimal.headerTip>Призначте пішака плідником, і ці тварини намагатимуться запліднити пішаків, призначених для розмноження</RJW_BreederAnimal.headerTip>
+  <RJW_BreedAnimal.headerTip>Призначте пішака для розмноження, тварини колонії намагатимуться розмножити цього пішака</RJW_BreedAnimal.headerTip>
+  <RJW_Whore.headerTip>Позначте пішака як Шльондра, повії обслуговують гостей за срібло</RJW_Whore.headerTip>
+
+
+</LanguageData>

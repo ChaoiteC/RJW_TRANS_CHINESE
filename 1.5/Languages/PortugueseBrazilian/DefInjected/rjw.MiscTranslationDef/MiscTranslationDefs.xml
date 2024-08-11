@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_vatgrown_sex_slave.label>escravo(a) sexual cultivado em lab.</rjw_vatgrown_sex_slave.label>
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef] foi criado(a) para ser um brinquedo sexual em vez de um ser humano. Durante seu periodo de crescimento, [PAWN_pronoun] aprendeu muitas habilidades sociais e sexuais para satisfazer quaisquer demandas de seus donos.</rjw_vatgrown_sex_slave.description>
+
+  <rjw_feisty.label>ninfa agressiva</rjw_feisty.label>
+  <rjw_feisty.description>[PAWN_nameDef] é uma conquistadora por natureza, não se importando em utilizar a violência caso seus pedidos forem recusados.</rjw_feisty.description>
+
+  <rjw_curious.label>ninfa curiosa</rjw_curious.label>
+  <rjw_curious.description>[PAWN_nameDef] ama fabricar coisas novas, especialmente coisas que possam proporcionar novas experiências.</rjw_curious.description>
+
+  <rjw_tender.label>ninfa cuidadora</rjw_tender.label>
+  <rjw_tender.description>[PAWN_nameDef] tem um par de cativantes olhos e sua voz é leve e doce. Devido ao seu antigo trabalho como enfermeira, [PAWN_pronoun] cuida muito bem das pessoas.</rjw_tender.description>
+
+  <rjw_chatty.label>ninfa tagarela</rjw_chatty.label>
+  <rjw_chatty.description>Ninguém consegue ser mais faladora do que [PAWN_nameDef]. [PAWN_pronoun] tem uma lingua flexível, uma mente afiada, e lábios quentes.</rjw_chatty.description>
+
+  <rjw_broken.label>ninfa destruída</rjw_broken.label>
+  <rjw_broken.description>[PAWN_nameDef] sofreu coisas terríveis, [PAWN_pronoun] parece devastado(a).</rjw_broken.description>
+
+
+</LanguageData>

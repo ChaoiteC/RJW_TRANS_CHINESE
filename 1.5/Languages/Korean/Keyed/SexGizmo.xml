@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Labels -->
+	<RJW_SexGizmo_Orgasm>오르가즘</RJW_SexGizmo_Orgasm>
+	<RJW_SexGizmo_RestNeed>스태미나</RJW_SexGizmo_RestNeed>
+	<RJW_SexGizmo_SexNeed>만족도</RJW_SexGizmo_SexNeed><!-- ? -->
+	
+	<!-- Buttons -->
+	<RJW_SexGizmo_SexOverdriveTooltip>무한 섹스 - 림이 쓰러지거나 다른 요인으로 방해받기 전까지 계속 섹스합니다.</RJW_SexGizmo_SexOverdriveTooltip>
+	<RJW_SexGizmo_HitPawn>때리기.</RJW_SexGizmo_HitPawn>
+	<RJW_SexGizmo_Cocoon>고치에 싸기.</RJW_SexGizmo_Cocoon><!-- ? -->
+	<RJW_SexGizmo_Egg>알로 만들기.</RJW_SexGizmo_Egg><!-- ? -->
+</LanguageData>

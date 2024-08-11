@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Anal.label>anal</Rape_Anal.label>
+  <Rape_Anal.logRulesInitiator.rulesStrings.0>r_logentry->Raped anally [RECIPIENT_nameDef].</Rape_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_Anal.logRulesRecipient.rulesStrings.0>r_logentry->Was anally raped by [INITIATOR_nameDef].</Rape_Anal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

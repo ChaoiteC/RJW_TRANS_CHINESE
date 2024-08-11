@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ItchyCrotch.stages.0.label>가랑이가 가려움</ItchyCrotch.stages.0.label>
+	<ItchyCrotch.stages.0.description>누가 쳐다보고 있지는 않겠지? 그냥...</ItchyCrotch.stages.0.description>
+	<ItchyCrotch.stages.1.label>가랑이가 쓰라림</ItchyCrotch.stages.1.label>
+	<ItchyCrotch.stages.1.description>가려움증보다 더 견디기 힘든 건... 긁을 때마다 점점 더 쓰라려진다는 거지.</ItchyCrotch.stages.1.description>
+
+	<SyphiliticThoughts.stages.0.label>매독 착란</SyphiliticThoughts.stages.0.label>
+	<SyphiliticThoughts.stages.0.description>쟤들은 다 멍청하고, 모든게 다 짜증나. 내가 저 멍청이들이랑 똑같다면.... 아, 생각이 정리가 않되네.</SyphiliticThoughts.stages.0.description>
+	<SyphiliticThoughts.stages.1.label>매독 광란</SyphiliticThoughts.stages.1.label>
+	<SyphiliticThoughts.stages.1.description>알았어, 내가 지금 원하는 건... 어... 내가 뭐라고 했지? 오, 이거 맞아. 빌어먹을 똥쓰레기같으니.</SyphiliticThoughts.stages.1.description>
+
+	<WastingAway.stages.0.label>죽어감</WastingAway.stages.0.label>
+	<WastingAway.stages.0.description>영혼이 몸에서 천천히 빠져 나가는 것이 느껴져. 하루하루 계속 약해지고 있어.</WastingAway.stages.0.description>
+
+	<SawDiseasedPrivates1.stages.0.label>{0}의 가랑이에 돋은 발진을 목격함.</SawDiseasedPrivates1.stages.0.label>
+	<SawDiseasedPrivates2.stages.0.label>{0}의 가랑이에 돋은 사마귀를 목격함.</SawDiseasedPrivates2.stages.0.label>
+	<SawDiseasedPrivates3.stages.0.label>{0}의 썩은 가랑이가 떠올라 구역질이 남.</SawDiseasedPrivates3.stages.0.label>
+
+</LanguageData>

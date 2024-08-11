@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_childC.baseDescription>[PAWN_nameDef] родился в цивилизованном мире.</rjw_childC.baseDescription>
+  <rjw_childC.title>Ребёнок</rjw_childC.title>
+  <rjw_childC.titleShort>Ребёнок</rjw_childC.titleShort>
+
+  <rjw_childT.baseDescription>[PAWN_nameDef] родился в племени.</rjw_childT.baseDescription>
+  <rjw_childT.title>Ребёнок</rjw_childT.title>
+  <rjw_childT.titleShort>Ребёнок</rjw_childT.titleShort>
+
+
+</LanguageData>

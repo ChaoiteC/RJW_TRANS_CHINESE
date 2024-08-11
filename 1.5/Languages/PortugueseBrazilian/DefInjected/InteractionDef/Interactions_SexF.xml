@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalSexF.label>sexo anal</AnalSexF.label>
+  <AnalSexF.logRulesInitiator.rulesStrings.0>r_logentry->Fez sexo anal com [RECIPIENT_nameDef].</AnalSexF.logRulesInitiator.rulesStrings.0>
+  <AnalSexF.logRulesRecipient.rulesStrings.0>r_logentry->Fez sexo anal com [INITIATOR_nameDef].</AnalSexF.logRulesRecipient.rulesStrings.0>
+
+  <VaginalSexF.label>sexo vaginal</VaginalSexF.label>
+  <VaginalSexF.logRulesInitiator.rulesStrings.0>r_logentry->Fez sexo vaginal com [RECIPIENT_nameDef].</VaginalSexF.logRulesInitiator.rulesStrings.0>
+  <VaginalSexF.logRulesRecipient.rulesStrings.0>r_logentry->Fez sexo vaginal com [INITIATOR_nameDef].</VaginalSexF.logRulesRecipient.rulesStrings.0>
+
+  <HandjobF.label>punheta</HandjobF.label>
+  <HandjobF.logRulesInitiator.rulesStrings.0>r_logentry->Masturbou [RECIPIENT_nameDef].</HandjobF.logRulesInitiator.rulesStrings.0>
+  <HandjobF.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu uma punheta de [INITIATOR_nameDef].</HandjobF.logRulesRecipient.rulesStrings.0>
+
+  <FootjobF.label>masturbação com os pés</FootjobF.label>
+  <FootjobF.logRulesInitiator.rulesStrings.0>r_logentry->Masturbou [RECIPIENT_nameDef].</FootjobF.logRulesInitiator.rulesStrings.0>
+  <FootjobF.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu uma masturbação com os pés de [INITIATOR_nameDef].</FootjobF.logRulesRecipient.rulesStrings.0>
+
+  <FingeringF.label>dedada</FingeringF.label>
+  <FingeringF.logRulesInitiator.rulesStrings.0>r_logentry->Dedada em [RECIPIENT_nameDef].</FingeringF.logRulesInitiator.rulesStrings.0>
+  <FingeringF.logRulesRecipient.rulesStrings.0>r_logentry-Dedada de [INITIATOR_nameDef].</FingeringF.logRulesRecipient.rulesStrings.0>
+
+  <FistingF.label>punho anal</FistingF.label>
+  <FistingF.logRulesInitiator.rulesStrings.0>r_logentry->Penetrou seu punho em [RECIPIENT_nameDef].</FistingF.logRulesInitiator.rulesStrings.0>
+  <FistingF.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu penetração com punho de [INITIATOR_nameDef].</FistingF.logRulesRecipient.rulesStrings.0>
+
+  <BreastjobF.label>espanhola</BreastjobF.label>
+  <BreastjobF.logRulesInitiator.rulesStrings.0>r_logentry->Fez uma espanhola em [RECIPIENT nameDef].</BreastjobF.logRulesInitiator.rulesStrings.0>
+  <BreastjobF.logRulesRecipient.rulesStrings.0>r_logentry->Recebeu espanhola de [INITIATOR_nameDef].</BreastjobF.logRulesRecipient.rulesStrings.0>
+
+  <DoublePenetrationF.label>dupla penetração</DoublePenetrationF.label>
+  <DoublePenetrationF.logRulesInitiator.rulesStrings.0>r_logentry->Dupla penetração em [RECIPIENT_nameDef].</DoublePenetrationF.logRulesInitiator.rulesStrings.0>
+  <DoublePenetrationF.logRulesRecipient.rulesStrings.0>r_logentry->Foi duplamente penetrado por [INITIATOR_nameDef].</DoublePenetrationF.logRulesRecipient.rulesStrings.0>
+
+  <ScissoringF.label>tribadismo</ScissoringF.label>
+  <ScissoringF.logRulesInitiator.rulesStrings.0>r_logentry->Fez tribadismo com [RECIPIENT_nameDef].</ScissoringF.logRulesInitiator.rulesStrings.0>
+  <ScissoringF.logRulesRecipient.rulesStrings.0>r_logentry->Fez tribadismo com [INITIATOR_nameDef].</ScissoringF.logRulesRecipient.rulesStrings.0>
+
+  <MutualMasturbationF.label>masturbação mútua</MutualMasturbationF.label>
+  <MutualMasturbationF.logRulesInitiator.rulesStrings.0>r_logentry->Fez masturbação mútua com [RECIPIENT_nameDef].</MutualMasturbationF.logRulesInitiator.rulesStrings.0>
+  <MutualMasturbationF.logRulesRecipient.rulesStrings.0>r_logentry->Fez masturbação mútua com [INITIATOR_nameDef].</MutualMasturbationF.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

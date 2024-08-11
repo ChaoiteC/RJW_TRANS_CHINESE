@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- vanilla mechanoids. Mechs implant things. -->
+
+  <RJW_MechanoidImplant.description>Невеликий комп'ютер, який потрапляє в тіло через один з отворів. Може аналізувати життєві показники та дані про місцезнаходження і передавати цю інформацію назад до ШІ механоїда.</RJW_MechanoidImplant.description>
+  <!-- maybe re-add someday? -->
+	<RJW_MicroComputer.label>мікрокомп'ютер</RJW_MicroComputer.label>
+	<RJW_MicroComputer.description>Маленький комп'ютер, встановлений у тіло через один з отворів. Може аналізувати життєві показники та місце розташування, після чого передати їх своєму установнику.</RJW_MicroComputer.description>
+
+</LanguageData>

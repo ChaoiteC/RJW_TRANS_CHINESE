@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<InteractionDef ParentName="RJW_InteractionDefBaseRape">
+		<defName>Rape_Reverse_Cunnilingus</defName>
+		<label>cunnilingus</label>
+		<logRulesInitiator>
+			<rulesStrings>
+				<li>r_logentry->Forcefully gave cunnilingus to [RECIPIENT_nameDef].</li>
+			</rulesStrings>
+		</logRulesInitiator>
+		<logRulesRecipient>
+			<rulesStrings>
+				<li>r_logentry->Was forced to receive cunnilingus from [INITIATOR_nameDef].</li>
+			</rulesStrings>
+		</logRulesRecipient>
+		<modExtensions>
+			<li Class="rjw.InteractionExtension">
+				<RMBLabel>Do cunnilingus</RMBLabel>
+				<rjwSextype>Cunnilingus</rjwSextype>
+				<rulepack_defs>
+					<li>CunnilingusReverseRapeRP</li>
+				</rulepack_defs>
+			</li>
+			<li Class="rjw.Modules.Interactions.DefModExtensions.InteractionSelectorExtension">
+				<tags>
+					<li>Reverse</li>
+					<li>Rape</li>
+				</tags>
+				<dominantRequirement>
+					<tongue>true</tongue>
+				</dominantRequirement>
+				<submissiveRequirement>
+					<families>
+						<li>Vagina</li>
+					</families>
+					<pawnStates>
+						<li>Healthy</li>
+						<li>Downed</li>
+					</pawnStates>
+				</submissiveRequirement>
+			</li>
+		</modExtensions>
+	</InteractionDef>
+</Defs>

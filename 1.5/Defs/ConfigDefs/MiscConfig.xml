@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<rjw.config>
+		<defName>the_one</defName>
+		<max_nymph_fraction>0.99</max_nymph_fraction>
+		<!-- Cooldown for animal breeding, CP.-->
+		<comfort_prisoner_rape_mtbh_mul>4.0</comfort_prisoner_rape_mtbh_mul>
+		
+		<!-- Rape beating -->
+		<minor_pain_threshold>0.3</minor_pain_threshold>
+		<significant_pain_threshold>0.6</significant_pain_threshold>
+		<extreme_pain_threshold>0.9</extreme_pain_threshold>
+		<base_chance_to_hit_prisoner>0.50</base_chance_to_hit_prisoner>
+		<min_ticks_between_hits>500</min_ticks_between_hits>
+		<max_ticks_between_hits>700</max_ticks_between_hits>
+	</rjw.config>
+</Defs>

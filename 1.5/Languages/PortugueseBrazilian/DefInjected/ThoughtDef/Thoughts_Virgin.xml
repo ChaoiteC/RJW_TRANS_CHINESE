@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added by Hoge. -->
+
+  <FortunateGaveVirginity.stages.0.label>perdeu virgindade</FortunateGaveVirginity.stages.0.label>
+  <FortunateGaveVirginity.stages.0.description>Eu dei minha virgindade.</FortunateGaveVirginity.stages.0.description>
+
+  <UnfortunateLostVirginity.stages.0.label>virgindade perdida</UnfortunateLostVirginity.stages.0.label>
+  <UnfortunateLostVirginity.stages.0.description>Perdi minha virgindade e nunca a terei de volta.</UnfortunateLostVirginity.stages.0.description>
+
+  <TookVirginity.stages.0.label>tirou a virgindade</TookVirginity.stages.0.label>
+  <TookVirginity.stages.0.description>Eu tirei a virgindade de alguém.</TookVirginity.stages.0.description>
+
+
+</LanguageData>

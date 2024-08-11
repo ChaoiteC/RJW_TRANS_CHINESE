@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Vaginal.label>vaginal</Sex_Vaginal.label>
+  <Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->Had vaginal sex with [RECIPIENT_nameDef].</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->Had vaginal sex with [INITIATOR_nameDef].</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

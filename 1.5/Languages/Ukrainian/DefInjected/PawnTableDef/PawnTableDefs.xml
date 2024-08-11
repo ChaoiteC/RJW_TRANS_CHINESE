@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- default table cuz why not? -->
+
+  <RJW_PawnTable_Humanlikes.modExtensions.0.label>Людиноподібні</RJW_PawnTable_Humanlikes.modExtensions.0.label>
+  <RJW_PawnTable_Animals.modExtensions.0.label>Тварини</RJW_PawnTable_Animals.modExtensions.0.label>
+  <RJW_PawnTable_Colonists.modExtensions.0.label>Колоністи</RJW_PawnTable_Colonists.modExtensions.0.label>
+  <RJW_PawnTable_Property.modExtensions.0.label>Власність</RJW_PawnTable_Property.modExtensions.0.label>
+
+
+</LanguageData>

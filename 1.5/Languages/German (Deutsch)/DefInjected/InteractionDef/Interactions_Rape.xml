@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalRape.label>Anale Vergewaltigung</AnalRape.label>
+  <AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->Vergewaltigte Anus von [RECIPIENT_nameDef].</AnalRape.logRulesInitiator.rulesStrings.0>
+  <AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->Wurde von [INITIATOR_nameDef] Anal vergewaltigt.</AnalRape.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRape.label>Vaginale Vergewaltigung</VaginalRape.label>
+  <VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->Vergewaltigte [RECIPIENT_nameDef].</VaginalRape.logRulesInitiator.rulesStrings.0>
+  <VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->Wurde von [INITIATOR_nameDef] vergewaltigt.</VaginalRape.logRulesRecipient.rulesStrings.0>
+
+  <HandjobRape.label>Erzwungener Handjob</HandjobRape.label>
+  <HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Hat [RECIPIENT_nameDef] mit Gewalt einen runtergeholt.</HandjobRape.logRulesInitiator.rulesStrings.0>
+  <HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Wurde unfreiwillig von [INITIATOR_nameDef] einen Herunter geholt.</HandjobRape.logRulesRecipient.rulesStrings.0>
+
+  <FingeringRape.label>Erzwwungenes Fingern</FingeringRape.label>
+  <FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->Fingerte [RECIPIENT_nameDef] mit Gewalt.</FingeringRape.logRulesInitiator.rulesStrings.0>
+  <FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->Wurde von [INITIATOR_nameDef] mit Gewalt gefingert.</FingeringRape.logRulesRecipient.rulesStrings.0>
+
+  <ViolateCorpse.label>Nekrophilie</ViolateCorpse.label>
+  <ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->Schändete [RECIPIENT_nameDef]s Leiche.</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+  <ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->Wurde geschänded von [INITIATOR_nameDef].</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+
+  <MechImplant.label>Mechanoid Implantierung</MechImplant.label>
+  <MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->Überfiel [RECIPIENT_nameDef].</MechImplant.logRulesInitiator.rulesStrings.0>
+  <MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->Wurde benutzt von [INITIATOR_nameDef].</MechImplant.logRulesRecipient.rulesStrings.0>
+
+  <OtherRape.label>Vergewaltigung</OtherRape.label>
+  <OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->Schändete [RECIPIENT_nameDef].</OtherRape.logRulesInitiator.rulesStrings.0>
+  <OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->Wurde vergewaltigt von [INITIATOR_nameDef].</OtherRape.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

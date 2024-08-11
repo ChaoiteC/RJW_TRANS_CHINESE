@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnalInsertableBondage.label>삽입기구</AnalInsertableBondage.label>
+	<VaginalInsertableBondage.label>삽입기구</VaginalInsertableBondage.label>
+
+	<BeltsOnSkinBondage.label>내의</BeltsOnSkinBondage.label>
+
+	<GagOuterBondage.label>머리 장비</GagOuterBondage.label>
+
+	<ArmsOuterBondage.label>부착물</ArmsOuterBondage.label>
+	<LegsOuterBondage.label>부착물</LegsOuterBondage.label>
+
+</LanguageData>

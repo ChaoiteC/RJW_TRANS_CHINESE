@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- A plugs -->
+
+  <AnalInsertableBondage.label>вставляється</AnalInsertableBondage.label>
+
+
+  <!-- V plugs -->
+
+  <VaginalInsertableBondage.label>вставляється</VaginalInsertableBondage.label>
+
+
+  <!-- C belts -->
+
+  <BeltsOnSkinBondage.label>По шкірі</BeltsOnSkinBondage.label>
+
+
+  <!-- <ApparelLayerDef>
+		<defName>OnSkinBondage1</defName>
+		<label>Over skin</label>
+		<drawOrder>3</drawOrder>
+	</ApparelLayerDef> -->
+
+  <GagOuterBondage.label>головний убір</GagOuterBondage.label>
+
+
+  <!-- chains, armbinders, etc -->
+
+  <ArmsOuterBondage.label>зовнішні</ArmsOuterBondage.label>
+  <LegsOuterBondage.label>зовнішні</LegsOuterBondage.label>
+
+
+</LanguageData>

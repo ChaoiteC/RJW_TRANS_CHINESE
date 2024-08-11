@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FeelingBroken.label>em choque</FeelingBroken.label>
+  <FeelingBroken.description>Em choque.</FeelingBroken.description>
+  <FeelingBroken.stages.0.label>estágio inicial</FeelingBroken.stages.0.label>
+  <FeelingBroken.stages.1.label>em transe</FeelingBroken.stages.1.label>
+  <FeelingBroken.stages.2.label>em choque</FeelingBroken.stages.2.label>
+  <FeelingBroken.stages.3.label>extremamente em choque</FeelingBroken.stages.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rimming.label>Beso griego</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Lamió el ano de [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Fue lamido(a).</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>cunilíngus</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Hizo cunnilingus.</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Recibido cunnilingus.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>Felación</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Chupo [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Fui chupado.</Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

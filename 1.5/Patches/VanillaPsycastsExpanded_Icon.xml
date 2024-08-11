@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<!-- Add RJW Sex meditation focus icon to VanillaPsycastsExpanded -->
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Psycasts Expanded</li>
+		</mods>
+		<match Class="PatchOperationAddModExtension">
+			<xpath>/Defs/MeditationFocusDef[defName="Sex"]</xpath>
+			<value>
+				<li Class="VanillaPsycastsExpanded.MeditationFocusExtension">
+					<icon>UI/PsyfocusIcons/PsyfocusSex</icon>
+				</li>
+			</value>
+		</match>
+	</Operation>
+</Patch>

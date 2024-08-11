@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Beakjob.label>beakjob</Rape_Beakjob.label>
+  <Rape_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->Forced [RECIPIENT_nameDef] to give a beakjob.</Rape_Beakjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->Was forced to give a beakjob to [INITIATOR_nameDef].</Rape_Beakjob.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod strings -->
+  <!-- std -->
+  <RJW_Opportunistic_Infection_Message>{0} hat eine Infektion entwickelt, wegen dem geschwächtem Immunsystem.</RJW_Opportunistic_Infection_Message>
+  <!--RJW_Poisoned_by_Rimming_Message>{0} bekam eine Nahrungsmittelvergiftung wegen durch Rimming {1}</RJW_Poisoned_by_Rimming_Message-->
+  <RJW_Syphilis_Damage_Message>{0} hat dauerhaften Schaden erlitten an {1} {2} wegen einer fortgeschritten {3} Infektion.</RJW_Syphilis_Damage_Message>
+
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0} akzeptierte das Angebot, welches {1} machte.</RJW_VisitorAcceptWhore>
+  <RJW_VisitorRejectWhore>{0} lehnte das Angebot von {1} ab.</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0} lehnte das Angebot ab, weil {1} nicht gesund aussieht</RJW_VisitorSickWhore>
+
+  <!-- Notifications on right-clicking CP -->
+  <PawnCantRapeCP>Das Ziel ist nicht gesund genug oder unnerreichbar.</PawnCantRapeCP>
+  <PawnCantRapeCP0>Die Person braucht keinen Sex, ist nicht gesund, oder kann nicht vergewaltigen.</PawnCantRapeCP0>
+  <PawnCantRapeCP1>Die Person ist in einer Beziehung und sein Partner kann ihn sehen.</PawnCantRapeCP1>
+  <PawnCantRapeCP2>Die Person ist kein Zoophiler und wird keine Tiere ficken.</PawnCantRapeCP2>
+
+  <!--Submit button-->
+  <CommandSubmit>Aufgeben</CommandSubmit>
+  <CommandSubmitDesc>Gib auf und füge dich dem, was auch immer (in dich) kommen mag.</CommandSubmitDesc>
+
+  <!--Preganancy messages-->
+  <RJW_PregnantTitle>{0} ist Schwanger.</RJW_PregnantTitle>
+  <RJW_PregnantText>{0} ist Schwanger und bald eine Mutter. Sei vorsichtig, Hunger, Verletzungen oder Trauma könnten das Kind gefährden.</RJW_PregnantText>
+  <RJW_Contractions>{0} hat Wehen! Baby(ies) ist(sind) unterwegs!</RJW_Contractions>
+  <RJW_GaveBirthTitle>Geburt vollended.</RJW_GaveBirthTitle>
+  <RJW_GaveBirthText>{0} hat zur Welt gebracht:</RJW_GaveBirthText>
+  <RJW_ABaby>Ihr Baby</RJW_ABaby>
+  <RJW_NBabies>ihre {0} Babies.</RJW_NBabies>
+  <RJW_PregnantNormal>Bekommt ein gesundes Kind...</RJW_PregnantNormal>
+  <RJW_PregnantStrange>Irgendwas an dem Kind ist ungewöhnlich...</RJW_PregnantStrange>
+  <RJW_PregnantMechStrange>Irgendwas ist sehr merkwürdig an dem Kind...</RJW_PregnantMechStrange>
+  <RJW_GaveBirthEggTitle>Legte Ei(er).</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0} hat Eier gelegt!</RJW_GaveBirthEggText>
+  <RJW_EggContractions>{0} hat Wehen! Die Eier sind unterwegs!</RJW_EggContractions>
+
+  <!--Breast size changes-->
+  <!--Should be "{PAWN_possessive} breasts..." but I couldn't get that to work correctly.-->
+  <RJW_BreastsHaveGrownFromBoobitis>Brüste wuchsen durch Tittitis.</RJW_BreastsHaveGrownFromBoobitis>
+
+  <!--Comfort designation-->
+  <ForComfort>Nutze zur Befriedigung</ForComfort>
+  <ForComfortDesc>Verbietet es der Person Sex zu verweigern.</ForComfortDesc>
+  <ForComfortRefuseDesc>Ist dagegen benutzt zu werden</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>Prostitution</ForService>  <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[Aktiviere Prostitution
+- wird versuchen Besucher zu befriedigen
+- sorgt für die Unterhaltung der anderen Kolonisten, wenn unbeschäftigt
+- wird nicht mehr masturbieren, was zu sexueller frustration führen kann
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>Will keine Hure werden.</ForServiceRefuseDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>Erlaube Tiere</ForBreeding>
+  <ForBreedingDesc>Markiere zur Paarung mit Tieren</ForBreedingDesc>
+  <ForBreedingRefuseDesc>Ist dagegen von Tieren begattet zu werden</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>Erlaube diesem Tier ausgewähle Personen zu besteigen</ForBreedingAnimalDesc>
+
+  <BreedMessage> versucht die Begattung von </BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>Zum Melken vorsehen</ForMilking>
+  <ForMilkingDesc>Melke diese Kreatur für Milch.</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>Wähle als Held</ForHero>
+  <ForHeroDesc>Wähle eine Person als dein Charakter
+- kann nur einmal gewählt werden
+- kann nicht widerrufen werden
+</ForHeroDesc>
+  <ForHeroRefuse1Desc>Das ist der Held eines anderen Spielers</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>Du kannst das nicht ändern</ForHeroRefuse2Desc>
+
+  <RJW_hediff_braSize>:Körbchengröße: {0}:{1} ({2} cup)</RJW_hediff_braSize>
+  <RJW_hediff_braSizeNone>BH Größe: -</RJW_hediff_braSizeNone>
+  <RJW_hediff_eggs>Eier: {0}</RJW_hediff_eggs>
+  <RJW_hediff_fluidTypeFluidAmount>{0}: {1}</RJW_hediff_fluidTypeFluidAmount>
+  <RJW_hediff_girth>Umfang: {0}</RJW_hediff_girth>
+  <RJW_hediff_length>Länge: {0}</RJW_hediff_length>
+  <RJW_hediff_maxGirth>Max Umfang: {0}</RJW_hediff_maxGirth>
+  <RJW_hediff_maxLength>Max Länge: {0}</RJW_hediff_maxLength>
+  <RJW_hediff_overbust>Brustumfang: {0}</RJW_hediff_overbust>
+  <RJW_hediff_underbust>Unterbrustumfang: {0}</RJW_hediff_underbust>
+  <RJW_hediff_unknownSpecies>Ubekannte species</RJW_hediff_unknownSpecies>
+  <RJW_hediff_weight>Gewicht: {0}</RJW_hediff_weight>
+
+</LanguageData>

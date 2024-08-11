@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Breeding/rape -->
+
+  <AnalBreeding.label>Anale Paarung</AnalBreeding.label>
+  <AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Bestieg [RECIPIENT_nameDef].</AnalBreeding.logRulesInitiator.rulesStrings.0>
+  <AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->(а) wurde von [INITIATOR_nameDef] Anal bestiegen.</AnalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <VaginalBreeding.label>Vaginale Paarung</VaginalBreeding.label>
+  <VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Bestieg [RECIPIENT_nameDef].</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->(а) wurde von [INITIATOR_nameDef] vaginal gefickt.</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <OralBreeding.label>Lecken</OralBreeding.label>
+  <OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Leckte [RECIPIENT_nameDef].</OralBreeding.logRulesInitiator.rulesStrings.0>
+  <OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Wurde von [INITIATOR_nameDef] geleckt.</OralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Another rare one, but needed to get the icons working right. -->
+
+  <FingeringBreeding.label>Fingern</FingeringBreeding.label>
+  <FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Fingerte [RECIPIENT_nameDef].</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+  <FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Wurde von [INITIATOR_nameDef] gefingert.</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+  <ForcedOralBreeding.label>Lecken</ForcedOralBreeding.label>
+  <ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Erzwang Oralverkehr von [RECIPIENT_nameDef].</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Wurde zu Oralverkehr gezwungen.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- invitation "Female" breeding -->
+
+  <RequestVaginalBreeding.label>Vaginal Paarung</RequestVaginalBreeding.label>
+  <RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presentierte sich [INITIATOR_nameDef].</RequestVaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] bot sich [RECIPIENT_nameDef] dar.</RequestVaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestAnalBreeding.label>Anale Paarung</RequestAnalBreeding.label>
+  <RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presentierte sich [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] bot sich [RECIPIENT_nameDef] dar.</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

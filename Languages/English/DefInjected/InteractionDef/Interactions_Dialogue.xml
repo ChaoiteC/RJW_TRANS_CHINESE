@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Experimenting with sex dialogue. This was easiest to add, but the same method could be used to add pillow talk, etc. -->
+
+  <AnimalSexChat.label>animal chat</AnimalSexChat.label>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.0>r_logentry(p=20)->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].</AnimalSexChat.logRulesInitiator.rulesStrings.0>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.1>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.2>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.3>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.4>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.5>r_logentry(p=2)->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicSex].</AnimalSexChat.logRulesInitiator.rulesStrings.5>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</AnimalSexChat.logRulesInitiator.rulesStrings.6>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.7>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</AnimalSexChat.logRulesInitiator.rulesStrings.7>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</AnimalSexChat.logRulesInitiator.rulesStrings.8>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</AnimalSexChat.logRulesInitiator.rulesStrings.9>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.10>r_logentry->[INITIATOR_nameDef] gently stroked [RECIPIENT_nameDef]'s genitals.</AnimalSexChat.logRulesInitiator.rulesStrings.10>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.11>r_logentry->[INITIATOR_nameDef] grasped a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</AnimalSexChat.logRulesInitiator.rulesStrings.11>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.12>zooact->demanded obedience from</AnimalSexChat.logRulesInitiator.rulesStrings.12>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.13>zooact->made calming noises towards</AnimalSexChat.logRulesInitiator.rulesStrings.13>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.14>zooact->offered slow, friendly gestures to</AnimalSexChat.logRulesInitiator.rulesStrings.14>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.15>zooact->made shushing noises at</AnimalSexChat.logRulesInitiator.rulesStrings.15>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.16>zooact->made happy clicking noises at</AnimalSexChat.logRulesInitiator.rulesStrings.16>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.17>zooact->gestured gently and approached</AnimalSexChat.logRulesInitiator.rulesStrings.17>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.18>zooact->slowly approached</AnimalSexChat.logRulesInitiator.rulesStrings.18>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.19>zooact->gently touched</AnimalSexChat.logRulesInitiator.rulesStrings.19>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.20>zooact->gently caressed</AnimalSexChat.logRulesInitiator.rulesStrings.20>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.21>zooact->firmly stroked</AnimalSexChat.logRulesInitiator.rulesStrings.21>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.22>zooact->calmed and encouraged</AnimalSexChat.logRulesInitiator.rulesStrings.22>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.23>zooact->matched breathing with</AnimalSexChat.logRulesInitiator.rulesStrings.23>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.24>zooact->took a low stance while approaching</AnimalSexChat.logRulesInitiator.rulesStrings.24>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.25>zooact->showed no fear or anger to</AnimalSexChat.logRulesInitiator.rulesStrings.25>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.26>zooact->firmly yet softly touched</AnimalSexChat.logRulesInitiator.rulesStrings.26>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.27>zooact->showed a relaxed attitude towards</AnimalSexChat.logRulesInitiator.rulesStrings.27>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.28>zooact->showed [INITIATOR_possessive] genitals to</AnimalSexChat.logRulesInitiator.rulesStrings.28>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.29>zooact->presented [INITIATOR_possessive] genitals to</AnimalSexChat.logRulesInitiator.rulesStrings.29>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.30>zooact->whispered a story about [TalkTopicAny] to</AnimalSexChat.logRulesInitiator.rulesStrings.30>
+  <AnimalSexChat.logRulesInitiator.rulesStrings.31>zooact->whispered a story about [TalkTopicSex] to</AnimalSexChat.logRulesInitiator.rulesStrings.31>
+
+
+</LanguageData>

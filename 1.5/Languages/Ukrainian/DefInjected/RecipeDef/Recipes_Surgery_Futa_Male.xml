@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- natural vaginaes -->
+<AddVagina.label>Імплантувати вагіну</AddVagina.label>
+<AddVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</AddVagina.description>
+<AddVagina.jobString>Імплантує.</AddVagina.jobString>
+<addHorseVagina.label>Імплантувати кінську вагіну</addHorseVagina.label>
+<addHorseVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addHorseVagina.description>
+<addHorseVagina.jobString>Імплантує.</addHorseVagina.jobString>
+<addCatVagina.label>Імплантувати котячу вагіну</addCatVagina.label>
+<addCatVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addCatVagina.description>
+<addCatVagina.jobString>Імплантує.</addCatVagina.jobString>
+<addDogVagina.label>Імплантувати собачу вагіну</addDogVagina.label>
+<addDogVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addDogVagina.description>
+<addDogVagina.jobString>Імплантує.</addDogVagina.jobString>
+<addDragonVagina.label>Імплантувати драконячу вагіну</addDragonVagina.label>
+<addDragonVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addDragonVagina.description>
+<addDragonVagina.jobString>Імплантує.</addDragonVagina.jobString>
+<AddNarrowVagina.label>Імплантувати вузьку вагіну</AddNarrowVagina.label>
+<AddNarrowVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</AddNarrowVagina.description>
+<AddNarrowVagina.jobString>Імплантує.</AddNarrowVagina.jobString>
+<AddCloacalVagina.label>Імплантувати клоаку</AddCloacalVagina.label>
+<AddCloacalVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</AddCloacalVagina.description>
+<AddCloacalVagina.jobString>Імплантує.</AddCloacalVagina.jobString>
+<AddRodentVagina.label>Імплантувати вагіну гризуна</AddRodentVagina.label>
+<AddRodentVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</AddRodentVagina.description>
+<AddRodentVagina.jobString>Імплантує.</AddRodentVagina.jobString>
+<addOvipositorF.label>Імплантувати жіночий яйцеклад</addOvipositorF.label>
+<addOvipositorF.jobString>Імплантує.</addOvipositorF.jobString>
+<addOvipositorF.description>Вживити яйцеклад чоловікові і зробити його гермафродитом..</addOvipositorF.description>
+<!-- hydraulic vagina -->
+<addHydraulicVagina.label>Імплантувати гідравлічну вагіну</addHydraulicVagina.label>
+<addHydraulicVagina.jobString>Імплантує.</addHydraulicVagina.jobString>
+<addHydraulicVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addHydraulicVagina.description>
+<!-- bionic vagina -->
+<addBionicVagina.label>Імплантувати біонічну вагіну bionic vagina</addBionicVagina.label>
+<addBionicVagina.jobString>Імплантує.</addBionicVagina.jobString>
+<addBionicVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addBionicVagina.description>
+<!-- archotech vagina -->
+<addArchotechVagina.label>Імплантувати Архотек-вагіну</addArchotechVagina.label>
+<addArchotechVagina.jobString>Імплантує.</addArchotechVagina.jobString>
+<addArchotechVagina.description>Вживити вагіну чоловікові та зробити його гермафродитом.</addArchotechVagina.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MyPupDied.stages.0.label>아들{0}의 사망</MyPupDied.stages.0.label>
+	<MyPupDied.stages.0.description>내 아들이 죽었어. 내 친아들이...</MyPupDied.stages.0.description>
+	<MyPupDiedFemale.stages.0.label>딸{0}의 사망</MyPupDiedFemale.stages.0.label>
+	<MyPupDiedFemale.stages.0.description>내 딸이 죽었어. 내 친딸이...</MyPupDiedFemale.stages.0.description>
+	<KilledMyPup.stages.0.label>아들을 죽임</KilledMyPup.stages.0.label>
+	<KilledMyPupFemale.stages.0.label>딸을 죽임</KilledMyPupFemale.stages.0.label>
+
+	<SoldMyPup.stages.0.label>가족이 팔려감</SoldMyPup.stages.0.label>
+	<SoldMyPup.stages.0.description>내 자식이 물건처럼 팔려나갔어!</SoldMyPup.stages.0.description>
+
+</LanguageData>

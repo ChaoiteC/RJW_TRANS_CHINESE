@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Beakjob.label>мінет дзьобом</Sex_Beakjob.label>
+  <Sex_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->Отримує мінет дзьобом від [RECIPIENT_nameDef].</Sex_Beakjob.logRulesInitiator.rulesStrings.0>
+  <Sex_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->Робить мінет дзьобом [INITIATOR_nameDef].</Sex_Beakjob.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

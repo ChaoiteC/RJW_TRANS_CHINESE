@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- this needs custom class for x10, fuck it -->
+
+  <RemoveUnknownEgg.label>remove egg</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>Removes egg.</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>Removing egg.</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>remove egg</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>Removes egg.</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>Removing egg.</RemoveInsectHiveEgg.jobString>
+
+  <RemoveMicroComputer.label>remove MicroComputer</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Removes MicroComputer.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Removing MicroComputer.</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>remove restraints</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Removes restraints.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Removing restraints.</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>remove cocoon</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Removes cocoon.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Removing cocoon.</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

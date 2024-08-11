@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <rjw_interaction_template.label>rjw_interaction_template</rjw_interaction_template.label>
-  <rjw_interaction_template.logRulesInitiator.rulesStrings.0>r_logentry->had sex with [RECIPIENT_nameDef].</rjw_interaction_template.logRulesInitiator.rulesStrings.0>
-  <rjw_interaction_template.logRulesRecipient.rulesStrings.0>r_logentry->had sex with [INITIATOR_nameDef].</rjw_interaction_template.logRulesRecipient.rulesStrings.0>
-
-
-</LanguageData>

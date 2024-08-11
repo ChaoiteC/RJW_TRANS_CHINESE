@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Sex_Anal.label>anal</Sex_Anal.label>
-  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->Had anal sex with [RECIPIENT_nameDef].</Sex_Anal.logRulesInitiator.rulesStrings.0>
-  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->Had anal sex with [INITIATOR_nameDef].</Sex_Anal.logRulesRecipient.rulesStrings.0>
-
-
-</LanguageData>

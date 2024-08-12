@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Necro_Reverse_Vaginal.label>强迫逆位性交</Necro_Reverse_Vaginal.label>
-  <Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->强迫[RECIPIENT_nameDef]内射了自己阴道。</Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被迫在[INITIATOR_nameDef]阴道里内射。</Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
-
-
-</LanguageData>

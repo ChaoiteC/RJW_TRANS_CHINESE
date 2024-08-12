@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Sex_Sixtynine.label>69</Sex_Sixtynine.label>
-  <Sex_Sixtynine.modExtensions.0.RMBLabel>69</Sex_Sixtynine.modExtensions.0.RMBLabel>
+  <Sex_Sixtynine.modExtensions.0.RMBLabel>让其69</Sex_Sixtynine.modExtensions.0.RMBLabel>
 
   <Sex_Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesInitiator.rulesStrings.0>
   <Sex_Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesRecipient.rulesStrings.0>

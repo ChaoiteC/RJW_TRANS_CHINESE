@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Necro_Reverse_DoublePenetration.label>强迫逆位双洞齐插</Necro_Reverse_DoublePenetration.label>
-  <Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>强迫逆位双洞齐插</Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
+  <Necro_Reverse_DoublePenetration.label>强迫受位双洞齐插</Necro_Reverse_DoublePenetration.label>
+  <Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>强迫受位双洞齐插</Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
 
   <Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->强迫[RECIPIENT_nameDef]双洞齐插了自己。</Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
   <Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被迫双洞齐插了[INITIATOR_nameDef]。</Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>

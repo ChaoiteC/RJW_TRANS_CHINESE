@@ -1,9 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Masturbation_AutoFellatio.label>自我发电</Masturbation_AutoFellatio.label>
+  <Masturbation_AutoFellatio.modExtensions.0.RMBLabel>自我发电</Masturbation_AutoFellatio.modExtensions.0.RMBLabel>
+
   <Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>r_logentry->自我发电。</Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>
   <Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>r_logentry->自我发电。</Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>
-
-
 </LanguageData>

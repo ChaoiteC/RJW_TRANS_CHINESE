@@ -16,8 +16,8 @@
 		<NymphPermanentManhunter_desc>流莺将永久猎杀人类。（即便被击倒也无法解除猎杀人类状态，这也导致无法俘虏）</NymphPermanentManhunter_desc>
 		<NymphSappers>流莺工兵</NymphSappers>
 		<NymphSappers_desc>咚咚咚！开门！流莺能在门后闻到你身上散发的信息素！你可以跑，但你无处可躲。</NymphSappers_desc>
-		<NymphFrustratedRape>流莺在感到挫败时强奸</NymphFrustratedRape>
-		<NymphFrustratedRape_desc>当流莺感到挫败而且没有伴侣时，他们会随机强奸某人或某物。</NymphFrustratedRape_desc>
+		<NymphFrustratedRape>流莺在感到饥渴时强奸</NymphFrustratedRape>
+		<NymphFrustratedRape_desc>当流莺感到饥渴而且没有伴侣时，他们会随机强奸某人或某物。</NymphFrustratedRape_desc>
 
 		<FemaleFuta>启用扶她</FemaleFuta>
 		<FemaleFuta_desc>雌性作为扶她出现（+阴茎）</FemaleFuta_desc>
@@ -68,7 +68,7 @@
   <sounds_animal_on_animal_volume_desc>关于兽交音量的调整。</sounds_animal_on_animal_volume_desc>
 
   <cum_filth>启用精液飞溅</cum_filth>
-  <cum_filth_desc>啪啪啪后会产生污秽。请注意，禁用这将使游戏更容易，因为没有污垢需要清洗。</cum_filth_desc>
+  <cum_filth_desc>啪啪啪后会在地上产生体液。注意：禁用这将使游戏更容易，因为没有污垢需要打扫。</cum_filth_desc>
 
   <RPG_hero_control_name>主角模式</RPG_hero_control_name>
   <RPG_hero_control_desc>玩家允许设置一名小人当做自己的分身并无条件直接控制。</RPG_hero_control_desc>
@@ -84,7 +84,7 @@
 		<designated_freewill>已指定小人的自由意志</designated_freewill>
 		<designated_freewill_desc>被指定为泄欲或配种的小人可以自愿开始性行为。</designated_freewill_desc>
 		<rape_enabled>启用强奸</rape_enabled>
-		<rape_enabled_desc>禁止该项使得人类强奸无法实现，有可能造成部分小人心情低落。\n看到喜欢的东西了？那就去拿，之后你可以用它做顶帽子。</rape_enabled_desc>
+		<rape_enabled_desc>看到喜欢的东西了？那就去拿，之后你可以用它做顶帽子。\n\n禁止该项使得人类强奸无法实现，有可能造成部分小人心情低落。</rape_enabled_desc>
 		<PrisonersBeating>强奸伴随殴打</PrisonersBeating>
 		<PrisonersBeating_desc>小人会在强奸受害者的同时把他们打得死去活来。</PrisonersBeating_desc>
 		<GentlePrisonersBeating>先辈！请温柔点！</GentlePrisonersBeating>
@@ -146,8 +146,8 @@
 
 	<RJWDebugSettings>RimJobWorld - 调试设置</RJWDebugSettings>
 		<!-- debug stuff-->
-		<submit_button_enabled>启用“自我屈服”按钮</submit_button_enabled>
-		<submit_button_enabled_desc>按下“自我屈服”按钮以允许你逃过更致命的伤害，放任自己被强奸，如果你认为荣耀大于生命，那就关闭吧。记住，如果你改变了主意，你随时可以修改这一项。</submit_button_enabled_desc>
+		<submit_button_enabled>启用“屈服”按钮</submit_button_enabled>
+		<submit_button_enabled_desc>按下“屈服”按钮以允许你逃过更致命的伤害，放任自己被强奸，如果你认为荣耀大于生命，那就关闭吧。记住，如果你改变了主意，你随时可以修改这一项。</submit_button_enabled_desc>
 		<RJW_designation_box>显示RJWmod的按钮</RJW_designation_box>
 		<RJW_designation_box_desc>是否在小人控制GUI上显示RJW的按钮。</RJW_designation_box_desc>
 		<StackRjwParts_name>RJW部件堆叠显示</StackRjwParts_name>

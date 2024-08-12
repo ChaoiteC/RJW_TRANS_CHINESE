@@ -2,7 +2,7 @@
 	<!--Sexuality card-->
 	<SexcardTooltip>显示性偏好</SexcardTooltip>
 	<Quirks>怪癖：</Quirks>
-	<!-- 这些单词貌似是编码在其他文件当中的，我不知道应该如何处理。 -->
+	<!-- 单词本身无法翻译，原因应该在SexStatusViewModel.cs Line 274。 -->
 	<NoQuirks>没有怪癖，原版设定。</NoQuirks>
 	<Messy><![CDATA[
 肮脏癖

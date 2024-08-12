@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Necro_DoublePenetration.label>强迫双洞齐插</Necro_DoublePenetration.label>
+  <Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->强迫双洞齐插了[RECIPIENT_nameDef]。</Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被迫被[INITIATOR_nameDef]双洞齐插了。</Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -9,8 +9,8 @@
 	<PawnCantRapeCP2>这个人不是恋兽癖，所以不能强奸动物。</PawnCantRapeCP2>
 
 	<!--Submit button-->
-	<CommandSubmit>自我屈服</CommandSubmit>
-	<CommandSubmitDesc>躺在地上等着什么东西来上一发。</CommandSubmitDesc>
+	<CommandSubmit>屈服</CommandSubmit>
+	<CommandSubmitDesc>躺在地上任人蹂躏。</CommandSubmitDesc>
 
 	<!--Preganancy messages-->
 	<RJW_PregnantTitle>{0}怀孕了。</RJW_PregnantTitle>
@@ -104,7 +104,7 @@
 	<LetterLabelGainedTraitFromSex>获得特性：{PAWN}</LetterLabelGainedTraitFromSex>
 	<GainedTraitFromSex>一次性体验使得{PAWN}获得了{TRAIT}特性。</GainedTraitFromSex>
 	<GainedTraitFromSexNymphomaniac>助淫剂辅助的过度刺激永久性地重塑了{PAWN}的大脑。{PAWN_pronoun}获得了{TRAIT}特性。</GainedTraitFromSexNymphomaniac>
-	<GainedTraitFromSexFootSlut>T沉迷于脚部快感的体验在{PAWN}体内滋生了一种邪恶的新癖好。{PAWN}现在是{TRAIT}。</GainedTraitFromSexFootSlut>
+	<GainedTraitFromSexFootSlut>沉迷于脚部快感的体验在{PAWN}体内滋生了一种邪恶的新癖好。{PAWN}现在是{TRAIT}。</GainedTraitFromSexFootSlut>
 	<LetterLabelGainedMultipleTraitsFromSex>获得特性：{PAWN}</LetterLabelGainedMultipleTraitsFromSex>
 	<GainedMultipleTraitsFromSex>一次强烈的性体验使得{PAWN}获得了以下特性：</GainedMultipleTraitsFromSex>
 	<GainedMultipleTraitsFromSexListItem>  - {0}</GainedMultipleTraitsFromSexListItem>

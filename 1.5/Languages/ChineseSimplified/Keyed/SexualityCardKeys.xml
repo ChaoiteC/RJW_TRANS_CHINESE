@@ -4,6 +4,9 @@
 	<Quirks>怪癖：</Quirks>
 	<!-- 这些单词貌似是编码在其他文件当中的，我不知道应该如何处理。 -->
 	<NoQuirks>没有怪癖，原版设定。</NoQuirks>
+	<Messy><![CDATA[
+肮脏癖
+]]></Messy>
 	<MessyQuirk><![CDATA[
 {pawn}在性爱过程中不仅会产生大量体液，而且很少会清理{pawn_possessive}自己。
 ]]></MessyQuirk>

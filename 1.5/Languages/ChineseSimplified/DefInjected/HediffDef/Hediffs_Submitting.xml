@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Hediff_Submitting.label>摆烂</Hediff_Submitting.label>
-  <Hediff_Submitting.description>无所谓了，所以开始摆烂了。</Hediff_Submitting.description>
+  <Hediff_Submitting.label>屈服</Hediff_Submitting.label>
+  <Hediff_Submitting.description>你是谁？你、你要干什么……不要杀我，求求你……</Hediff_Submitting.description>
 
 
   <!-- prevents 10 job stacks error, also improves performance since we don't do all the rape checks -->

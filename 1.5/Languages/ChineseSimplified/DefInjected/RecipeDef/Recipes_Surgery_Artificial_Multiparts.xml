@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AddMultiArchotechVagina.label>添加超凡阴道</AddMultiArchotechVagina.label>
+  <AddMultiArchotechVagina.description>添加一个额外的阴道。</AddMultiArchotechVagina.description>
+  <AddMultiArchotechVagina.jobString>正在添加阴道。</AddMultiArchotechVagina.jobString>
+
+  <AddMultiArchotechPenis.label>添加超凡阴茎</AddMultiArchotechPenis.label>
+  <AddMultiArchotechPenis.description>添加一个额外的阴茎。</AddMultiArchotechPenis.description>
+  <AddMultiArchotechPenis.jobString>正在添加阴茎。</AddMultiArchotechPenis.jobString>
+
+  <AddMultiArchotechAnus.label>添加超凡肛门</AddMultiArchotechAnus.label>
+  <AddMultiArchotechAnus.description>添加一个额外的肛门。</AddMultiArchotechAnus.description>
+  <AddMultiArchotechAnus.jobString>正在添加肛门。</AddMultiArchotechAnus.jobString>
+
+  <AddMultiArchotechBreasts.label>添加超凡乳房</AddMultiArchotechBreasts.label>
+  <AddMultiArchotechBreasts.description>添加一排额外的乳房。</AddMultiArchotechBreasts.description>
+  <AddMultiArchotechBreasts.jobString>正在添加乳房。</AddMultiArchotechBreasts.jobString>
+
+  <AddMultiHydraulicVagina.label>添加液压阴道</AddMultiHydraulicVagina.label>
+  <AddMultiHydraulicVagina.description>添加一个额外的阴道。</AddMultiHydraulicVagina.description>
+  <AddMultiHydraulicVagina.jobString>正在添加阴道。</AddMultiHydraulicVagina.jobString>
+
+  <AddMultiHydraulicAnus.label>添加液压肛门</AddMultiHydraulicAnus.label>
+  <AddMultiHydraulicAnus.description>添加一个额外的肛门。</AddMultiHydraulicAnus.description>
+  <AddMultiHydraulicAnus.jobString>正在添加肛门。</AddMultiHydraulicAnus.jobString>
+
+  <AddMultiHydraulicBreasts.label>添加液压乳房</AddMultiHydraulicBreasts.label>
+  <AddMultiHydraulicBreasts.description>添加一排额外的乳房。</AddMultiHydraulicBreasts.description>
+  <AddMultiHydraulicBreasts.jobString>正在添加乳房。</AddMultiHydraulicBreasts.jobString>
+
+  <AddMultiBionicVagina.label>添加仿生阴道</AddMultiBionicVagina.label>
+  <AddMultiBionicVagina.description>添加一个额外的阴道。</AddMultiBionicVagina.description>
+  <AddMultiBionicVagina.jobString>正在添加阴道。</AddMultiBionicVagina.jobString>
+
+  <AddMultiBionicPenis.label>添加仿生阴茎</AddMultiBionicPenis.label>
+  <AddMultiBionicPenis.description>添加一个额外的阴茎。</AddMultiBionicPenis.description>
+  <AddMultiBionicPenis.jobString>正在添加阴茎。</AddMultiBionicPenis.jobString>
+
+  <AddMultiBionicAnus.label>添加仿生肛门</AddMultiBionicAnus.label>
+  <AddMultiBionicAnus.description>添加一个额外的肛门。</AddMultiBionicAnus.description>
+  <AddMultiBionicAnus.jobString>正在添加肛门。</AddMultiBionicAnus.jobString>
+
+  <AddMultiBionicBreasts.label>添加仿生乳房</AddMultiBionicBreasts.label>
+  <AddMultiBionicBreasts.description>添加一排额外的乳房。</AddMultiBionicBreasts.description>
+  <AddMultiBionicBreasts.jobString>正在添加乳房。</AddMultiBionicBreasts.jobString>
+
+
+</LanguageData>

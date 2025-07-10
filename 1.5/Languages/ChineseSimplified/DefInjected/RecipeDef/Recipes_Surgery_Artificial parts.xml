@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Attach simple prosthetic privates -->
+
+  <InstallHydraulicPenis.label>安装液压阴茎</InstallHydraulicPenis.label>
+  <InstallHydraulicPenis.description>安装一个液压阴茎，如果已有其他部位会被替换。</InstallHydraulicPenis.description>
+  <InstallHydraulicPenis.jobString>正在安装液压阴茎。</InstallHydraulicPenis.jobString>
+
+  <InstallHydraulicVagina.label>安装液压阴道</InstallHydraulicVagina.label>
+  <InstallHydraulicVagina.description>安装一个液压阴道，如果已有其他部位会被替换。</InstallHydraulicVagina.description>
+  <InstallHydraulicVagina.jobString>正在安装液压阴道。</InstallHydraulicVagina.jobString>
+
+  <InstallHydraulicBreasts.label>安装液压乳房</InstallHydraulicBreasts.label>
+  <InstallHydraulicBreasts.description>安装一对液压乳房，如果已有其他部位会被替换。</InstallHydraulicBreasts.description>
+  <InstallHydraulicBreasts.jobString>正在安装液压乳房。</InstallHydraulicBreasts.jobString>
+
+  <InstallHydraulicAnus.label>安装液压肛门</InstallHydraulicAnus.label>
+  <InstallHydraulicAnus.description>安装一个液压肛门，如果已有其他部位会被替换。</InstallHydraulicAnus.description>
+  <InstallHydraulicAnus.jobString>正在安装液压肛门。</InstallHydraulicAnus.jobString>
+
+
+  <!-- Attach bionic privates -->
+
+  <InstallBionicVagina.label>安装仿生阴道</InstallBionicVagina.label>
+  <InstallBionicVagina.description>安装一个仿生阴道，如果已有其他部位会被替换。</InstallBionicVagina.description>
+  <InstallBionicVagina.jobString>正在安装仿生阴道。</InstallBionicVagina.jobString>
+
+  <InstallBionicPenis.label>安装仿生阴茎</InstallBionicPenis.label>
+  <InstallBionicPenis.description>安装一个仿生阴茎，如果已有其他部位会被替换。</InstallBionicPenis.description>
+  <InstallBionicPenis.jobString>正在安装仿生阴茎。</InstallBionicPenis.jobString>
+
+  <InstallBionicBreasts.label>安装仿生乳房</InstallBionicBreasts.label>
+  <InstallBionicBreasts.description>安装一对仿生乳房，如果已有其他部位会被替换。</InstallBionicBreasts.description>
+  <InstallBionicBreasts.jobString>正在安装仿生乳房。</InstallBionicBreasts.jobString>
+
+  <InstallBionicAnus.label>安装仿生肛门</InstallBionicAnus.label>
+  <InstallBionicAnus.description>安装一个仿生肛门，如果已有其他部位会被替换。</InstallBionicAnus.description>
+  <InstallBionicAnus.jobString>正在安装仿生肛门。</InstallBionicAnus.jobString>
+
+
+  <!-- Attach archotech privates -->
+
+  <InstallArchotechPenis.label>安装超凡阴茎</InstallArchotechPenis.label>
+  <InstallArchotechPenis.description>安装一个超凡阴茎，如果已有其他部位会被替换。</InstallArchotechPenis.description>
+  <InstallArchotechPenis.jobString>正在安装超凡阴茎。</InstallArchotechPenis.jobString>
+
+  <InstallArchotechVagina.label>安装超凡阴道</InstallArchotechVagina.label>
+  <InstallArchotechVagina.description>安装一个超凡阴道，如果已有其他部位会被替换。</InstallArchotechVagina.description>
+  <InstallArchotechVagina.jobString>正在安装超凡阴道。</InstallArchotechVagina.jobString>
+
+  <InstallArchotechAnus.label>安装超凡肛门</InstallArchotechAnus.label>
+  <InstallArchotechAnus.description>安装一个超凡肛门，如果已有其他部位会被替换。</InstallArchotechAnus.description>
+  <InstallArchotechAnus.jobString>正在安装超凡肛门。</InstallArchotechAnus.jobString>
+
+  <InstallArchotechBreasts.label>安装超凡乳房</InstallArchotechBreasts.label>
+  <InstallArchotechBreasts.description>安装一对超凡乳房，如果已有其他部位会被替换。</InstallArchotechBreasts.description>
+  <InstallArchotechBreasts.jobString>正在安装超凡乳房。</InstallArchotechBreasts.jobString>
+
+
+</LanguageData>

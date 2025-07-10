@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MechGenitals.label>机械生殖器</MechGenitals.label>
+  <MechGenitals.label>生殖器</MechGenitals.label>
+  <MechChest.label>胸部</MechChest.label>
+  <MechAnus.label>肛门</MechAnus.label>
 
 
 </LanguageData>

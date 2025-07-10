@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Bestiality_Reverse_Anal.label>动物肛门交配</Bestiality_Reverse_Anal.label>
-  <Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>让其肛门交配</Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>
 
-  <Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->请求[RECIPIENT_nameDef]肛自己的肛门。</Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->骑着肛了[INITIATOR_nameDef]的肛门。</Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <!-- invitation for breeding -->
+
+  <Bestiality_Reverse_Anal.label>肛门交配</Bestiality_Reverse_Anal.label>
+  <Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->将肛门呈现给[RECIPIENT_nameDef]。</Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->从后方骑上了[INITIATOR_nameDef]。</Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+
+
 </LanguageData>

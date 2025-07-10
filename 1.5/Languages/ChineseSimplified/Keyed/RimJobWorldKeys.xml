@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- Mod strings -->
 
@@ -15,19 +15,30 @@
 	<!--Preganancy messages-->
 	<RJW_PregnantTitle>{0}怀孕了。</RJW_PregnantTitle>
 	<RJW_PregnantText>{0}怀孕了，很快她就要做母亲了。请注意，饥饿和创伤可能会导致她失去孩子。</RJW_PregnantText>
-	<RJW_Contractions>{0}出现了宫缩，她的孩子（们）就要出生了！</RJW_Contractions>
+	<RJW_Contractions>{0}出现了宫缩，她的孩子就要出生了！</RJW_Contractions>
 	<RJW_GaveBirthTitle>孩子出生了。</RJW_GaveBirthTitle>
 	<RJW_GaveBirthText>{0}已成功产出</RJW_GaveBirthText>
-	<RJW_ABaby>她的宝宝。</RJW_ABaby>
-	<RJW_NBabies>她的{0}宝宝们。</RJW_NBabies>
+	<RJW_ABaby>{0}的宝宝。</RJW_ABaby>
+	<RJW_NBabies>{1}的{0}宝宝们。</RJW_NBabies>
 	<RJW_PregnantNormal>怀上了健康的孩子……</RJW_PregnantNormal>
 	<RJW_PregnantStrange>这孩子有点不寻常……</RJW_PregnantStrange>
 	<RJW_PregnantMechStrange>孩子有点奇怪……</RJW_PregnantMechStrange>
 	<RJW_GaveBirthEggTitle>产卵</RJW_GaveBirthEggTitle>
 	<RJW_GaveBirthEggText>{0}产出了卵</RJW_GaveBirthEggText>
 	<RJW_EggContractions>{0}发生了宫缩！即将产卵！</RJW_EggContractions>
+	<RJW_Message_NotPregnant>{0}判断{1}没有怀孕。</RJW_Message_NotPregnant>
+	<RJW_Message_Pregnant>{0}判断{1}已怀孕，父亲是{2}</RJW_Message_Pregnant>
 
-	<GoToModSettings>启用选项中的功能->MOD设置</GoToModSettings>
+	<!--Rape alerts-->
+	<RJW_AlertRape>{RAPIST}正在试图强奸{TARGET}。</RJW_AlertRape>
+	<RJW_AlertAssault>{RAPIST}正在试图侵入{TARGET}。</RJW_AlertAssault>
+	<RJW_AlertBreed>{RAPIST}正在试图与{TARGET}交配。</RJW_AlertBreed>
+	<RJW_AlertRapeRelated>{RAPIST}正在试图强奸{TARGET}，{RAPIST_possessive}{RELATION}。</RJW_AlertRapeRelated>
+	<RJW_AlertAssaultRelated>{RAPIST}正在试图侵入{TARGET}，{RAPIST_possessive}{RELATION}。</RJW_AlertAssaultRelated>
+	<RJW_AlertBreedRelated>{RAPIST}正在试图与{TARGET}交配，{RAPIST_possessive}{RELATION}。</RJW_AlertBreedRelated>
+	<RJW_AlertBeeingRaped>{TARGET}正在被强奸。</RJW_AlertBeeingRaped>
+
+	<GoToModSettings>这里是RJW的一些可选功能，但当前角色/动物不可用或已禁用。\n去看看狗屁MOD设置，别再问“这是不是有问题”了！\n（译注：原文风格如此。）</GoToModSettings>
 
 	<!--Comfort designation-->
 	<ForComfort>用于泄欲</ForComfort>
@@ -65,21 +76,49 @@
 	<ForHeroRefuse1Desc>这是其他玩家的主角。</ForHeroRefuse1Desc>
 	<ForHeroRefuse2Desc>您无权更改设定。</ForHeroRefuse2Desc>
 	<ForHeroRefuseHCDesc>硬核模式下的非主角殖民者</ForHeroRefuseHCDesc>
-
+	
 	<!-- Hediff tooltips -->
-	<RJW_hediff_braCup>Bra cup: {0}</RJW_hediff_braCup>
-	<RJW_hediff_braSizeNone>胸罩尺寸：-</RJW_hediff_braSizeNone>
-	<RJW_hediff_eggs>虫卵：{0}</RJW_hediff_eggs>
-	<RJW_hediff_fluidTypeFluidAmount>{0}:{1}</RJW_hediff_fluidTypeFluidAmount>
-	<RJW_hediff_girth>周长：{0}</RJW_hediff_girth>
-	<RJW_hediff_length>长度：{0}</RJW_hediff_length>
-	<RJW_hediff_maxGirth>最大周长：{0}</RJW_hediff_maxGirth>
-	<RJW_hediff_maxLength>最大长度：{0}</RJW_hediff_maxLength>
-	<RJW_hediff_braSize>胸罩尺寸：{0}:{1}（{2}罩杯）</RJW_hediff_braSize>
-	<RJW_hediff_overbust>上胸围：{0}</RJW_hediff_overbust>
-	<RJW_hediff_underbust>下胸围：{0}</RJW_hediff_underbust>
-	<RJW_hediff_unknownSpecies>未知物种</RJW_hediff_unknownSpecies>
-	<RJW_hediff_weight>重量：{0}</RJW_hediff_weight>
+	<RJW_PartInfo_braCup>罩杯：{0}</RJW_PartInfo_braCup>
+	<RJW_PartInfo_braSizeNone>胸围尺寸：-</RJW_PartInfo_braSizeNone>
+	<RJW_PartInfo_eggs>卵子数量：{0}</RJW_PartInfo_eggs>
+	<RJW_PartInfo_fluidTypeFluidAmount>{0}：{1}</RJW_PartInfo_fluidTypeFluidAmount>
+	<RJW_PartInfo_braSize>胸围尺寸：{0}:{1}</RJW_PartInfo_braSize>
+	<RJW_PartInfo_overbust>上胸围：{0}</RJW_PartInfo_overbust>
+	<RJW_PartInfo_underbust>下胸围：{0}</RJW_PartInfo_underbust>
+	<RJW_PartInfo_weight>重量：{0}</RJW_PartInfo_weight>
+	<RJW_PartInfo_properties>属性：{0}</RJW_PartInfo_properties>
+
+	<RJW_PartInfo_severity>严重程度：{0}</RJW_PartInfo_severity>
+	<RJW_PartInfo_fluidMultiplier>液体倍率：{0}</RJW_PartInfo_fluidMultiplier>
+
+	<!-- Shared between hediff tooltip and inspect pane for installable parts-->
+	<RJW_PartInfo_girth>粗度：{0}</RJW_PartInfo_girth>
+	<RJW_PartInfo_length>长度：{0}</RJW_PartInfo_length>
+	<RJW_PartInfo_depth>深度：{0}</RJW_PartInfo_depth>
+	<RJW_PartInfo_maxGirth>最大粗度：{0}</RJW_PartInfo_maxGirth>
+	<RJW_PartInfo_maxLength>最大长度：{0}</RJW_PartInfo_maxLength>
+
+	<!-- Part inspect pane-->
+	<RJW_PartInfo_fluidTypeFluidAmountHeading>体液：{0}（{1} 毫升）</RJW_PartInfo_fluidTypeFluidAmountHeading>
+
+	<!-- Part stats & descriptions -->
+	<RJW_PartInfo_unknownSpecies>未知种族</RJW_PartInfo_unknownSpecies>
+	<RJW_PartInfo_unknownOwner>未知</RJW_PartInfo_unknownOwner>
+	<RJW_StatEntry_PreviousOwner>前任拥有者</RJW_StatEntry_PreviousOwner>
+	<RJW_StatEntry_OriginalOwnerRace>原始种族</RJW_StatEntry_OriginalOwnerRace>
+	<RJW_StatEntry_OriginalOwnerSize>原始尺寸</RJW_StatEntry_OriginalOwnerSize>
+	<RJW_StatEntry_PartSize>部位尺寸</RJW_StatEntry_PartSize>
+	<RJW_StatEntry_PartCupSize>罩杯大小</RJW_StatEntry_PartCupSize>
+	<RJW_StatEntry_PartLength>部位长度</RJW_StatEntry_PartLength>
+	<RJW_StatEntry_PartGirth>部位粗度</RJW_StatEntry_PartGirth>
+	<RJW_StatEntry_PartMaxGirth>最大粗度</RJW_StatEntry_PartMaxGirth>
+	<RJW_StatEntry_PartDepth>部位深度</RJW_StatEntry_PartDepth>
+	<RJW_StatEntry_PartWeight>部位重量</RJW_StatEntry_PartWeight>
+	<RJW_StatEntry_PartTags>部位属性</RJW_StatEntry_PartTags>
+	<RJW_StatEntry_Fluid>体液</RJW_StatEntry_Fluid>
+	<RJW_StatEntry_FluidAmount>体液量</RJW_StatEntry_FluidAmount>
+	<RJW_StatEntry_FluidAmount_ejaculation>射出量</RJW_StatEntry_FluidAmount_ejaculation>
+	<RJW_StatEntry_FluidAmount_wetness>湿润度</RJW_StatEntry_FluidAmount_wetness>
 
 	<!-- RJW fertility tooltip -->
 	<AgeImpactor>年龄：</AgeImpactor>
@@ -108,4 +147,14 @@
 	<LetterLabelGainedMultipleTraitsFromSex>获得特性：{PAWN}</LetterLabelGainedMultipleTraitsFromSex>
 	<GainedMultipleTraitsFromSex>一次强烈的性体验使得{PAWN}获得了以下特性：</GainedMultipleTraitsFromSex>
 	<GainedMultipleTraitsFromSexListItem>  - {0}</GainedMultipleTraitsFromSexListItem>
+
+	<!-- Bondage gear -->
+	<RJW_BG_Message_FailedRemove>{0}试图脱下{0_possessive}的{1}，但徒劳无功！</RJW_BG_Message_FailedRemove>
+	<RJW_BG_Message_NoWear_BlockedBy>{0}无法穿上{1}（被{2}阻挡）</RJW_BG_Message_NoWear_BlockedBy>
+	<RJW_BG_Message_Unlock>已解锁{0}</RJW_BG_Message_Unlock>
+	<RJW_BG_Message_CouldntDrop>无法丢弃{0}</RJW_BG_Message_CouldntDrop>
+	<RJW_BG_Message_WrongKey>钥匙不合适！</RJW_BG_Message_WrongKey>
+
+	<RJW_BG_Comp_Inspect_Engraving>刻有名字：“{0}”</RJW_BG_Comp_Inspect_Engraving>
+	<RJW_BG_Comp_Inspect_Key>加密印记：{0}</RJW_BG_Comp_Inspect_Key>
 </LanguageData>
